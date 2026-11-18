@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593622,
+  "telegram_offset": 889593623,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795006144.891356,
@@ -168,48 +168,8 @@
     "c243fecab8edb6cf": 1795006155.9546916,
     "fb288516e40168a0": 1795006155.9546916
   },
-  "drafts": {
-    "71cda73e0c": {
-      "id": "71cda73e0c",
-      "created": 1795006181.3187304,
-      "headline": "GTA V and NBA 2K27 reportedly coming free with GTA+",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR2RSRUtvU3F2OUMyS3ZPSmpOX0VkVlU2blV6eTdqdzVhbFJ4YUN4Z0lHVl9uVTcyQy1ydFZTdzltTnVEUXIyeHljd3RUU181aTAwajJhdGJlejd4WjRiSE1aRmJfajlBTHZDVE5xUG05eEdHNDhMczJIN3NPQ0FyZ1ZXMlRpc2EzbDBGUkViblpnOEN3cWVZdWVUUjYxRlJNR0FhYXMydENnbVlkUHVSc29jSmVSNGp0d2lsbF9MYkw0ck1FbjlCNmpVQ1pHT2gzTjAzUg?oc=5",
-      "source": "TweakTown",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006181/gta-bot/71cda73e0c-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006181/gta-bot/71cda73e0c-0.jpg"
-      ],
-      "full_caption": "GTA+ may be getting a big value boost. 🎮\n\nAccording to TweakTown, GTA V and NBA 2K27 will be included free with GTA+ subscriptions as Rockstar works to add value to the service. The headline is all we have so far, so details like platforms, timing and any price changes are still unknown. We'll update when more is confirmed.\n\nWould this make GTA+ worth it for you?\n\nSource: TweakTown\n\n#GTAOnline #GTAPlus #GTAV #RockstarGames #GTA6 #GTAVI #GamingNews #NBA2K27 #Leonida #GrandTheftAuto",
-      "alt_text": "News graphic reading that GTA V and NBA 2K27 are reportedly being included free with GTA+ subscriptions.",
-      "score": 8,
-      "reel_url": null,
-      "text_message_id": 18
-    }
-  },
+  "drafts": {},
   "queue": [
-    {
-      "id": "0a2cfe5c77",
-      "created": 1795006196.8533618,
-      "headline": "How to fast travel in GTA 6 with the RydeMe app",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-fast-travel-explained-how-to-fast-travel-in-gta-6/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006192/gta-bot/0a2cfe5c77-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006192/gta-bot/0a2cfe5c77-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006193/gta-bot/0a2cfe5c77-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006194/gta-bot/0a2cfe5c77-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006195/gta-bot/0a2cfe5c77-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006196/gta-bot/0a2cfe5c77-4.jpg"
-      ],
-      "full_caption": "Leonida is huge, so here's how to skip the long drives. 🚕\n\nRydeMe, the in-game Uber-style app, is the only traditional way to fast travel in GTA 6. Open your phone, pick a destination and a car comes to you. You can even pay extra to skip the whole ride.\n\nWhat's the first place you'll RydeMe to?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #KeyLento #RydeMe #GTA6Tips #GTA6Guide #Gaming",
-      "alt_text": "Graphic with the headline 'How to fast travel in GTA 6 with the RydeMe app' for a GTA 6 guide.",
-      "score": 7,
-      "reel_url": null,
-      "text_message_id": 24,
-      "kind": "carousel",
-      "post_now": true,
-      "approved_at": 1795006295.8944228
-    },
     {
       "id": "e27da40ce7",
       "created": 1795002490.7186286,
@@ -273,6 +233,14 @@
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
       "at": 1795006310.1807432,
       "media_id": "18105688487158983"
+    },
+    {
+      "id": "0a2cfe5c77",
+      "headline": "How to fast travel in GTA 6 with the RydeMe app",
+      "kind": "carousel",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-fast-travel-explained-how-to-fast-travel-in-gta-6/",
+      "at": 1795006516.1091142,
+      "media_id": "18119635387803313"
     }
   ],
   "drafts_sent": [
