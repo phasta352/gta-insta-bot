@@ -28,7 +28,7 @@ page:
 
 schedule:
   timezone: "Europe/Luxembourg"
-  posting_hours: [8, 21]          # only publish between 08:00 and 21:59 local time
+  posting_hours: [7, 22]          # only publish between 08:00 and 21:59 local time
   scout_every_hours: 1            # how often to look for new stories
   drafts_per_scout: 3             # max drafts sent to you per scout
   max_drafts_per_day: 8
