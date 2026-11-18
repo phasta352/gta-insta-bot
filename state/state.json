@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 0,
+  "telegram_offset": 889593619,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795002434.2496347,
@@ -122,24 +122,9 @@
     "892c4cf8b3e2b9dd": 1795002445.1736488,
     "ae9cedc1f53a27f9": 1795002445.1736488
   },
-  "drafts": {
-    "cbc32ce4fc": {
-      "id": "cbc32ce4fc",
-      "created": 1795002454.9784129,
-      "headline": "GTA 6 Metacritic Score Reportedly Ties the All-Time Record",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0ZQdnpTNUI2ZGNCNDd6U0ViLXB4TGxNdU5fTnIyTTJlenQwZF9JdVZiS0NlSXF2TEdENTVwUFlJNTVIWjlDMDhmaGMxd3lELVljT1RrcnVZWEVFS185TXJpM2JuazlMUVpXZXBVa2t6d0FXeGlxN19ZVGZ4OTNSYkZtRTFxNGJNRzlLSmRnTEwxZzBzVi1EY1VxQnZWTWJXM3hXX1VvTVluMGNndEZzUEQyT3dua2I0NHc?oc=5",
-      "source": "Forbes",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002454/gta-bot/cbc32ce4fc-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002454/gta-bot/cbc32ce4fc-0.jpg"
-      ],
-      "full_caption": "The critics have spoken, and it's record-breaking territory. 🏆\n\nAccording to Forbes, the Metacritic score for Grand Theft Auto VI is now in, and it ties the all-time record on the site. We're still waiting on more detail, so we're not putting a number on it until we've checked Metacritic ourselves.\n\nIf it holds, it puts Leonida in the company of the highest-rated games ever listed.\n\nDo you think GTA VI deserves a place at the top? Tell us below.\n\nSource: Forbes\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Metacritic #RockstarGames #Leonida #GTAOnline #GamingNews #VideoGames #GameReviews",
-      "alt_text": "News graphic with the headline that the GTA 6 Metacritic score ties the all-time record.",
-      "score": 10,
-      "reel_url": null,
-      "text_message_id": 3
-    },
-    "e27da40ce7": {
+  "drafts": {},
+  "queue": [
+    {
       "id": "e27da40ce7",
       "created": 1795002490.7186286,
       "headline": "PS5 Needs a Mandatory Update Before You Can Play GTA 6",
@@ -157,11 +142,45 @@
       "alt_text": "News graphic announcing that a mandatory PS5 system update is required before playing Grand Theft Auto VI.",
       "score": 9,
       "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795002489/gta-bot/e27da40ce7-reel.mp4",
-      "text_message_id": 10
+      "text_message_id": 10,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795002648.83598
+    },
+    {
+      "id": "e27da40ce7",
+      "created": 1795002490.7186286,
+      "headline": "PS5 Needs a Mandatory Update Before You Can Play GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-issues-mandatory-ps5-update-to-play-gta-6-potentially-slowing-down-hackers-attempts-to-dump-rockstars-game/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002467/gta-bot/e27da40ce7-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002467/gta-bot/e27da40ce7-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002468/gta-bot/e27da40ce7-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002469/gta-bot/e27da40ce7-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002470/gta-bot/e27da40ce7-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002470/gta-bot/e27da40ce7-4.jpg"
+      ],
+      "full_caption": "PS5 players, update your console before launch day. 🎮\n\nSony has released system update 26.07-14.23.00, and PlayStation Support says it's required before you can play Grand Theft Auto VI. The official patch notes only mention security fixes. Until you install it, PSN features won't work either.\n\nSwipe for the key details. Have you updated your PS5 yet?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #PS5 #PlayStation5 #PlayStation #RockstarGames #Leonida #GamingNews #PS5Update",
+      "alt_text": "News graphic announcing that a mandatory PS5 system update is required before playing Grand Theft Auto VI.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795002489/gta-bot/e27da40ce7-reel.mp4",
+      "text_message_id": 10,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795002648.8359833
     }
-  },
-  "queue": [],
-  "published": [],
+  ],
+  "published": [
+    {
+      "id": "cbc32ce4fc",
+      "headline": "GTA 6 Metacritic Score Reportedly Ties the All-Time Record",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0ZQdnpTNUI2ZGNCNDd6U0ViLXB4TGxNdU5fTnIyTTJlenQwZF9JdVZiS0NlSXF2TEdENTVwUFlJNTVIWjlDMDhmaGMxd3lELVljT1RrcnVZWEVFS185TXJpM2JuazlMUVpXZXBVa2t6d0FXeGlxN19ZVGZ4OTNSYkZtRTFxNGJNRzlLSmRnTEwxZzBzVi1EY1VxQnZWTWJXM3hXX1VvTVluMGNndEZzUEQyT3dua2I0NHc?oc=5",
+      "at": 1795002665.0984538,
+      "media_id": "18124781342056838"
+    }
+  ],
   "drafts_sent": [
     1795002456.4691179,
     1795002494.3610528
