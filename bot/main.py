@@ -34,6 +34,10 @@ HELP = (
 )
 
 
+def _n(count: int, word: str) -> str:
+    return f"{count} {word}" + ("" if count == 1 else "s")
+
+
 def log(msg: str) -> None:
     print(f"[bot] {msg}", flush=True)
 
@@ -195,12 +199,23 @@ class Bot:
 
     def send_status(self):
         s = self.state
+        sch = self.settings["schedule"]
+        queued_reels = sum(1 for q in s["queue"] if q.get("kind") == "reel")
+        queued_posts = len(s["queue"]) - queued_reels
+        today = self.now_local().date()
+        today_items = [p for p in s["published"] if dt.datetime.fromtimestamp(p["at"], self.tz).date() == today]
+        reels_today = sum(1 for p in today_items if p.get("kind") == "reel")
+        drafts_with_reel = sum(1 for d in s["drafts"].values() if d.get("reel_url"))
         lines = [
             f"<b>Status</b> ({'paused' if s['paused'] else 'running'})",
-            f"Posts today: {self.posts_today()} / {self.settings['schedule']['max_posts_per_day']}",
-            f"Approved & queued: {len(s['queue'])}",
-            f"Drafts waiting for you: {len(s['drafts'])}",
+            f"Posted today: {len(today_items)} / {sch['max_posts_per_day']} "
+            f"({_n(len(today_items) - reels_today, 'post')}, {_n(reels_today, 'Reel')})",
+            f"Waiting to be posted: {_n(queued_posts, 'post')}, {_n(queued_reels, 'Reel')}",
         ]
+        if s["queue"]:
+            lines.append(f"Next free slot: {self.next_slot()}")
+        lines.append(f"Drafts waiting for you: {len(s['drafts'])}"
+                     + (f" ({drafts_with_reel} with a Reel)" if drafts_with_reel else ""))
         if s["last_scout"]:
             last = dt.datetime.fromtimestamp(s["last_scout"], self.tz).strftime("%H:%M")
             lines.append(f"Last news check: {last}")
@@ -208,6 +223,21 @@ class Bot:
             lines.append("\n⚠️ Sources that failed last time:")
             lines += [f"• {esc(k)}: {esc(v[:80])}" for k, v in s["feed_errors"].items()]
         self.tg.send("\n".join(lines))
+
+    def next_slot(self) -> str:
+        """When the next queued item can go out, given the posting hours, spacing and daily limit."""
+        if self.state["queue"] and self.state["queue"][0].get("post_now"):
+            return "on the next run (Post now)"
+        sch = self.settings["schedule"]
+        start, end = sch["posting_hours"]
+        last = max((p["at"] for p in self.state["published"]), default=0)
+        t = max(self.now_local(), dt.datetime.fromtimestamp(last + sch["min_hours_between_posts"] * 3600, self.tz))
+        if self.posts_today() >= sch["max_posts_per_day"] or t.hour > end:
+            t = (t + dt.timedelta(days=1)).replace(hour=start, minute=0)
+        elif t.hour < start:
+            t = t.replace(hour=start, minute=0)
+        day = "today" if t.date() == self.now_local().date() else "tomorrow"
+        return f"{day} from {t.strftime('%H:%M')}"
 
     # ---------- 2. Publishing ----------
     def expire_drafts(self):
@@ -217,6 +247,21 @@ class Bot:
                 self.state["drafts"].pop(did)
                 if d.get("text_message_id"):
                     self.tg.edit_text(d["text_message_id"], f"⌛ <b>Expired</b>: {esc(d['headline'])}")
+
+    def already_on_instagram(self, draft, kind) -> bool:
+        try:
+            recent = self.ig.recent_media(10)
+        except Exception as ex:
+            log(f"Couldn't check recent posts ({ex}); continuing")
+            return False
+        want = " ".join(draft["full_caption"].split())[:120]
+        for m in recent:
+            is_reel = m.get("media_product_type") == "REELS"
+            if is_reel != (kind == "reel"):
+                continue
+            if " ".join((m.get("caption") or "").split())[:120] == want:
+                return True
+        return False
 
     def publish_next(self):
         q = self.state["queue"]
@@ -235,6 +280,19 @@ class Bot:
                 log("Not posting: too soon after the last post")
                 return
         kind = draft.get("kind", "carousel")
+        # Guard 1: the bot's own memory says this exact post already went out.
+        if any(p["id"] == draft["id"] and p.get("kind", "carousel") == kind for p in self.state["published"]):
+            log(f"Skipping duplicate {kind} (already in memory): {draft['headline']}")
+            q.pop(0)
+            return
+        # Guard 2: the same caption is already among the account's latest posts (e.g. memory was lost).
+        # A Reel shares its caption with its carousel, so only posts of the same kind count.
+        if self.already_on_instagram(draft, kind):
+            log(f"Skipping duplicate {kind} (already on Instagram): {draft['headline']}")
+            q.pop(0)
+            self.state["published"].append({"id": draft["id"], "headline": draft["headline"], "kind": kind,
+                                            "url": draft["url"], "at": time.time(), "media_id": "found-on-instagram"})
+            return
         log(f"Publishing {kind}: {draft['headline']}")
         try:
             if kind == "reel":

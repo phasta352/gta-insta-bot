@@ -115,6 +115,11 @@ class Instagram:
             return self.publish_carousel(image_urls, caption, alt_text)
         return self.publish_image(image_urls[0], caption, alt_text)
 
+    def recent_media(self, limit: int = 10) -> list[dict]:
+        """The account's latest posts with caption and type (used to avoid posting something twice)."""
+        data = self._req("GET", f"{self.ig}/media", fields="caption,media_type,media_product_type", limit=str(limit))
+        return data.get("data", [])
+
     def permalink(self, media_id: str) -> str:
         try:
             return self._req("GET", media_id, fields="permalink").get("permalink", "")
