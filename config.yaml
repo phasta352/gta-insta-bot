@@ -1,12 +1,12 @@
 # ---------------------------------------------------------------
-# Leonida Today - settings
+# The Leonida Daily - settings
 # Edit this file on GitHub to change how the bot behaves.
 # No code changes needed.
 # ---------------------------------------------------------------
 
 page:
-  name: "Leonida Today"           # shown on every graphic (until there's a logo)
-  handle: ""                      # e.g. "@leonida.today". Leave empty to read it from Instagram automatically
+  name: "The Leonida Daily"           # shown on every graphic (until there's a logo)
+  handle: ""                      # e.g. "@yourhandle". Leave empty to read it from Instagram automatically
   tagline: "for daily GTA6 news & tips"   # used in "Follow @handle ..." on the last slide and Reel outro
   language: "English"
   audience: "GTA 6 players and fans"

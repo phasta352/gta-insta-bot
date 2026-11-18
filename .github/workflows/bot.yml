@@ -1,4 +1,4 @@
-name: Leonida Today bot
+name: The Leonida Daily bot
 
 on:
   # Runs are started by the Cloudflare Worker (every :07 and :37, and right after you

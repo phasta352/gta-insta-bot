@@ -1,1 +1,1 @@
-"""Instagram news bot (Leonida Today)."""
+"""Instagram news bot (The Leonida Daily)."""

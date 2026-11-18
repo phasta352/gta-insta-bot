@@ -1,4 +1,4 @@
-# Leonida Today: Instagram bot
+# The Leonida Daily: Instagram bot
 
 Finds fresh **GTA6** news, updates, guides and tips, has Claude pick the best stories and write
 the posts, designs branded carousels (and Reels for the strongest stories) on top of **your own
@@ -18,7 +18,7 @@ It's the same engine as the Cycling News Today bot. Only `config.yaml` differs.
 (your chat ID with this page's Telegram bot), `TELEGRAM_BOT_TOKEN`.
 
 ## First run
-1. **Actions > Leonida Today bot > Run workflow > check**: tests every connection and reports to Telegram.
+1. **Actions > The Leonida Daily bot > Run workflow > check**: tests every connection and reports to Telegram.
 2. **Run workflow > scout**: sends your first drafts.
 
 ## Screenshot backgrounds
