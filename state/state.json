@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593620,
+  "telegram_offset": 889593622,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795006144.891356,
@@ -169,22 +169,6 @@
     "fb288516e40168a0": 1795006155.9546916
   },
   "drafts": {
-    "cee0cfdb35": {
-      "id": "cee0cfdb35",
-      "created": 1795006165.6755698,
-      "headline": "GTA VI Rollout Begins: Players Are Entering Vice City",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
-      "source": "Reuters",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006165/gta-bot/cee0cfdb35-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795006165/gta-bot/cee0cfdb35-0.jpg"
-      ],
-      "full_caption": "Vice City is open for business. 🌴\n\nReuters reports that Grand Theft Auto VI has begun its global rollout, with gamers starting to step into Vice City. The report headline is all we have for now, so we're not guessing at times, regions or platforms. We'll share details once they're confirmed.\n\nThe wait has been huge, so this is a big moment for the whole community.\n\nAre you already in Vice City, or still waiting for your turn? Tell us below.\n\nSource: Reuters\n\n#GTAVI #GTA6 #GrandTheftAutoVI #ViceCity #RockstarGames #Leonida #GTAOnline #GamingNews #VideoGames #OpenWorld",
-      "alt_text": "News graphic announcing that Grand Theft Auto VI has begun its global rollout and gamers are entering Vice City.",
-      "score": 10,
-      "reel_url": null,
-      "text_message_id": 16
-    },
     "71cda73e0c": {
       "id": "71cda73e0c",
       "created": 1795006181.3187304,
@@ -200,8 +184,10 @@
       "score": 8,
       "reel_url": null,
       "text_message_id": 18
-    },
-    "0a2cfe5c77": {
+    }
+  },
+  "queue": [
+    {
       "id": "0a2cfe5c77",
       "created": 1795006196.8533618,
       "headline": "How to fast travel in GTA 6 with the RydeMe app",
@@ -219,10 +205,11 @@
       "alt_text": "Graphic with the headline 'How to fast travel in GTA 6 with the RydeMe app' for a GTA 6 guide.",
       "score": 7,
       "reel_url": null,
-      "text_message_id": 24
-    }
-  },
-  "queue": [
+      "text_message_id": 24,
+      "kind": "carousel",
+      "post_now": true,
+      "approved_at": 1795006295.8944228
+    },
     {
       "id": "e27da40ce7",
       "created": 1795002490.7186286,
@@ -278,6 +265,14 @@
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0ZQdnpTNUI2ZGNCNDd6U0ViLXB4TGxNdU5fTnIyTTJlenQwZF9JdVZiS0NlSXF2TEdENTVwUFlJNTVIWjlDMDhmaGMxd3lELVljT1RrcnVZWEVFS185TXJpM2JuazlMUVpXZXBVa2t6d0FXeGlxN19ZVGZ4OTNSYkZtRTFxNGJNRzlLSmRnTEwxZzBzVi1EY1VxQnZWTWJXM3hXX1VvTVluMGNndEZzUEQyT3dua2I0NHc?oc=5",
       "at": 1795002665.0984538,
       "media_id": "18124781342056838"
+    },
+    {
+      "id": "cee0cfdb35",
+      "headline": "GTA VI Rollout Begins: Players Are Entering Vice City",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
+      "at": 1795006310.1807432,
+      "media_id": "18105688487158983"
     }
   ],
   "drafts_sent": [
