@@ -1,0 +1,93 @@
+# ---------------------------------------------------------------
+# The Leonida Daily - settings
+# Edit this file on GitHub to change how the bot behaves.
+# No code changes needed.
+# ---------------------------------------------------------------
+
+page:
+  name: "The Leonida Daily"           # shown on every graphic (until there's a logo)
+  handle: ""                      # e.g. "@yourhandle". Leave empty to read it from Instagram automatically
+  tagline: "for daily GTA6 news & tips"   # used in "Follow @handle ..." on the last slide and Reel outro
+  language: "English"
+  audience: "GTA 6 players and fans"
+  priorities: >
+    Prefer official Rockstar announcements, game updates and patch notes, GTA Online news,
+    big community discoveries, sales records, and practical guides, tips and tricks that
+    help players right now.
+  tone: >
+    Energetic gaming-news voice: clear, punchy and accurate, like a good gaming news site.
+    Fun but never clickbait. At most two emojis per caption.
+  focus: >
+    Grand Theft Auto VI: official news, updates and patches, GTA Online, events and
+    discounts, tips & tricks and how-to guides (money, vehicles, weapons, hidden locations,
+    activities), and notable community finds.
+  avoid: >
+    Story spoilers (missions, twists, the ending), leaked or datamined unreleased content,
+    unconfirmed rumours presented as fact, piracy, cheats, mod menus and exploits that can
+    get players banned, and stories that are mainly about other games.
+
+schedule:
+  timezone: "Europe/Luxembourg"
+  posting_hours: [8, 21]          # only publish between 08:00 and 21:59 local time
+  scout_every_hours: 1            # how often to look for new stories
+  drafts_per_scout: 2             # max drafts sent to you per scout
+  max_drafts_per_day: 8
+  max_posts_per_day: 5
+  min_hours_between_posts: 2      # spacing between approved posts (unless you tap "Post now")
+  draft_expiry_hours: 24          # unanswered drafts are dropped after this
+
+approval:
+  required: true                  # true = you approve every post in Telegram. false = fully automatic
+
+ai:
+  model: "claude-sonnet-5-5"
+  min_score: 5                    # 1-10. Stories the AI scores below this are ignored
+  categories: ["BREAKING", "NEWS", "UPDATE", "PATCH NOTES", "TIPS & TRICKS", "GUIDE", "GTA ONLINE", "RECORDS"]
+
+carousel:
+  enabled: true                   # multi-image posts: a cover + story slides
+  max_slides: 4                   # story slides after the cover (2-9). Thin stories stay single images
+
+reels:
+  enabled: true                   # also make a vertical Reel for the strongest stories
+  min_score: 8                    # stories scoring at least this (1-10) get a Reel as well as the carousel
+  # Music: put your own licensed MP3s in assets/music/ and the bot picks one per Reel.
+  # With no files there, it generates an original royalty-free track for each Reel.
+
+cloudinary:
+  upload_folder: "gta-bot"        # where the bot saves the graphics and Reels it makes
+
+design:
+  background: "#140B26"           # deep night purple
+  accent: "#FF3D8B"               # neon Vice City pink
+  text: "#FFFFFF"
+  muted: "#C3B4E3"
+  logo: "assets/logo.png"         # optional square PNG; skipped if the file doesn't exist
+  decoration: "none"              # "wheel" draws the cycling wheel; "none" for this page
+  background_images:
+    cloudinary_folder: "gta6"     # your own screenshots, used behind covers, slides and Reels
+
+instagram:
+  api_version: "v25.0"
+
+# News sources. Feeds that fail are skipped and reported by /status.
+sources:
+  rss:                            # general gaming sites: filtered by the keywords below
+    - name: "PC Gamer"
+      url: "https://www.pcgamer.com/feeds.xml"
+    - name: "GamesRadar+"
+      url: "https://www.gamesradar.com/feeds.xml"
+    - name: "Eurogamer"
+      url: "https://www.eurogamer.net/feed"
+    - name: "VGC"
+      url: "https://www.videogameschronicle.com/feed/"
+    - name: "Polygon"
+      url: "https://www.polygon.com/rss/index.xml"
+  google_news:                    # Google News searches (last 24h are kept)
+    - "GTA 6"
+    - "Grand Theft Auto VI"
+    - "GTA 6 update OR patch"
+    - "GTA 6 tips OR guide OR how to"
+    - "GTA Online Rockstar"
+  keywords: ["gta", "grand theft auto", "rockstar", "leonida", "vice city"]
+  max_age_hours: 24
