@@ -49,6 +49,7 @@ class Bot:
                             self.settings["instagram"].get("api_version", "v25.0"))
         storage.configure(self.secrets, self.settings)
         self._bg_urls = None
+        self._last_bg_url = None
 
     # ---------- helpers ----------
     def now_local(self):
@@ -97,14 +98,17 @@ class Bot:
         if str(cb.get("message", {}).get("chat", {}).get("id")) != self.tg.chat_id:
             return
         action, _, draft_id = (cb.get("data") or "").partition(":")
-        draft = self.state["drafts"].pop(draft_id, None)
+        draft = (self.state["drafts"].get(draft_id) if action == "r"
+                 else self.state["drafts"].pop(draft_id, None))
         log(f"Button '{action}' for draft {draft_id}: {'found' if draft else 'NOT FOUND in memory'}"
             f" (drafts in memory: {list(self.state['drafts'])})")
         if not draft:
             self.tg.answer_callback(cb["id"], "This draft is no longer available.")
             return
         mid = draft.get("text_message_id")
-        if action == "s":
+        if action == "r":
+            self.make_reel_on_request(draft, cb["id"])
+        elif action == "s":
             self.tg.answer_callback(cb["id"], "Skipped")
             if mid:
                 self.tg.edit_text(mid, f"❌ <b>Skipped</b>: {esc(draft['headline'])}")
@@ -117,6 +121,50 @@ class Bot:
             self.tg.answer_callback(cb["id"], label)
             if mid:
                 self.tg.edit_text(mid, f"✅ <b>{label}</b>: {esc(draft['headline'])}")
+
+    @staticmethod
+    def draft_buttons(draft):
+        did = draft["id"]
+        if draft.get("reel_url"):
+            return [[{"text": "✅ Approve both", "callback_data": f"a:{did}"},
+                     {"text": "⚡ Post now", "callback_data": f"n:{did}"}],
+                    [{"text": "🖼 Carousel only", "callback_data": f"c:{did}"},
+                     {"text": "❌ Skip", "callback_data": f"s:{did}"}]]
+        rows = [[{"text": "✅ Approve", "callback_data": f"a:{did}"},
+                 {"text": "⚡ Post now", "callback_data": f"n:{did}"}]]
+        if "slides" in draft:   # drafts made before this feature can't be turned into a Reel
+            rows.append([{"text": "🎬 Make Reel", "callback_data": f"r:{did}"},
+                         {"text": "❌ Skip", "callback_data": f"s:{did}"}])
+        else:
+            rows.append([{"text": "❌ Skip", "callback_data": f"s:{did}"}])
+        return rows
+
+    def make_reel_on_request(self, draft, cb_id):
+        """'Make Reel' button: build the Reel for an existing draft and update its buttons."""
+        mid = draft.get("text_message_id")
+        if draft.get("reel_url"):
+            self.tg.answer_callback(cb_id, "This draft already has a Reel.")
+            return
+        self.tg.answer_callback(cb_id, "Making the Reel, about a minute…")
+        try:
+            background = self.download_background(draft["background_url"]) if draft.get("background_url") else None
+        except Exception as ex:
+            log(f"  -> background unavailable, using plain design: {ex}")
+            background = None
+        try:
+            log(f"Making Reel on request: {draft['headline']}")
+            path, url = self.build_reel(draft["id"], draft["headline"], draft.get("category", "NEWS"),
+                                        draft["source"], draft.get("slides") or [], background)
+        except Exception as ex:
+            log(f"  -> Reel failed: {ex}")
+            self.tg.send(f"🎬 Couldn't make the Reel for <b>{esc(draft['headline'])}</b>:\n"
+                         f"<code>{esc(str(ex)[:300])}</code>")
+            return
+        draft["reel_url"] = url
+        self.tg.send_video_file(path, f"🎬 <b>Reel ready</b>: {esc(draft['headline'])}\n"
+                                      "Use the buttons on the draft to approve it.")
+        if mid:
+            self.tg.edit_buttons(mid, self.draft_buttons(draft))
 
     def queue_post(self, draft, post_now: bool, with_reel: bool):
         """Queue the carousel, and optionally the Reel as a separate post at a later slot."""
@@ -328,6 +376,10 @@ class Bot:
         url = random.choice([u for u in self._bg_urls if u not in recent] or self._bg_urls)
         recent.append(url)
         del recent[:-max(1, min(30, len(self._bg_urls) // 2))]
+        self._last_bg_url = url
+        return self.download_background(url)
+
+    def download_background(self, url):
         path = OUT / f"bg-{hashlib.sha1(url.encode()).hexdigest()[:10]}.jpg"
         if not path.exists():
             OUT.mkdir(parents=True, exist_ok=True)
@@ -336,10 +388,17 @@ class Bot:
             path.write_bytes(r.content)
         return path
 
+    def build_reel(self, did, headline, category, source, slides, background):
+        """Render the Reel and upload it. Returns (path, url)."""
+        path = reel.make_reel(headline, category, source, slides, self.settings, self.handle(),
+                              OUT / f"{did}-reel.mp4", seed=int(did[:6], 16), background=background)
+        return path, storage.upload_video(path, f"{did}-reel")
+
     def make_draft(self, story, post, score):
         did = uuid.uuid4().hex[:10]
         handle = self.handle()
         slides = post.get("slides") or []
+        self._last_bg_url = None
         try:
             background = self.pick_background()
         except Exception as ex:
@@ -364,10 +423,8 @@ class Bot:
             if len(slides) >= 2:
                 try:
                     log("  -> making a Reel")
-                    reel_path = reel.make_reel(post["headline"], post["category"], story.source, slides,
-                                               self.settings, handle, OUT / f"{did}-reel.mp4",
-                                               seed=int(did[:6], 16), background=background)
-                    reel_url = storage.upload_video(reel_path, f"{did}-reel")
+                    reel_path, reel_url = self.build_reel(did, post["headline"], post["category"],
+                                                          story.source, slides, background)
                 except Exception as ex:
                     log(f"  -> Reel failed: {ex}")
                     reel_problem = f"\n🎬 Couldn't make the Reel: <code>{esc(str(ex)[:200])}</code>"
@@ -380,6 +437,8 @@ class Bot:
             "id": did, "created": time.time(), "headline": post["headline"], "url": story.url,
             "source": story.source, "image_url": image_url, "image_urls": image_urls, "full_caption": full_caption,
             "alt_text": post.get("alt_text", ""), "score": score, "reel_url": reel_url,
+            # kept so a Reel can be made later with the "Make Reel" button
+            "category": post["category"], "slides": slides, "background_url": self._last_bg_url,
         }
 
         rumour = "" if post.get("confirmed", True) else "\n⚠️ <b>Not officially confirmed</b>"
@@ -401,16 +460,7 @@ class Bot:
             self.tg.send(f"🤖 Queued automatically:\n\n{esc(full_caption)}{rumour}{note}{extra}")
             return
 
-        if reel_url:
-            buttons = [[{"text": "✅ Approve both", "callback_data": f"a:{did}"},
-                        {"text": "⚡ Post now", "callback_data": f"n:{did}"}],
-                       [{"text": "🖼 Carousel only", "callback_data": f"c:{did}"},
-                        {"text": "❌ Skip", "callback_data": f"s:{did}"}]]
-        else:
-            buttons = [[{"text": "✅ Approve", "callback_data": f"a:{did}"},
-                        {"text": "⚡ Post now", "callback_data": f"n:{did}"}],
-                       [{"text": "❌ Skip", "callback_data": f"s:{did}"}]]
-        msg = self.tg.send(f"{esc(full_caption)}{rumour}{note}{extra}", buttons=buttons)
+        msg = self.tg.send(f"{esc(full_caption)}{rumour}{note}{extra}", buttons=self.draft_buttons(draft))
         draft["text_message_id"] = msg["message_id"]
         self.state["drafts"][did] = draft
         self.state["drafts_sent"].append(time.time())

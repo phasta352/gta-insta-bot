@@ -85,6 +85,13 @@ class Telegram:
         except RuntimeError:
             pass  # message too old / unchanged: not important
 
+    def edit_buttons(self, message_id: int, buttons):
+        try:
+            self._call("editMessageReplyMarkup", chat_id=self.chat_id, message_id=message_id,
+                       reply_markup={"inline_keyboard": buttons})
+        except RuntimeError:
+            pass
+
     def answer_callback(self, callback_id: str, text: str = ""):
         try:
             self._call("answerCallbackQuery", callback_query_id=callback_id, text=text[:200])
