@@ -285,29 +285,6 @@
   },
   "queue": [
     {
-      "id": "e27da40ce7",
-      "created": 1795002490.7186286,
-      "headline": "PS5 Needs a Mandatory Update Before You Can Play GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-issues-mandatory-ps5-update-to-play-gta-6-potentially-slowing-down-hackers-attempts-to-dump-rockstars-game/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002467/gta-bot/e27da40ce7-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002467/gta-bot/e27da40ce7-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002468/gta-bot/e27da40ce7-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002469/gta-bot/e27da40ce7-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002470/gta-bot/e27da40ce7-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002470/gta-bot/e27da40ce7-4.jpg"
-      ],
-      "full_caption": "PS5 players, update your console before launch day. 🎮\n\nSony has released system update 26.07-14.23.00, and PlayStation Support says it's required before you can play Grand Theft Auto VI. The official patch notes only mention security fixes. Until you install it, PSN features won't work either.\n\nSwipe for the key details. Have you updated your PS5 yet?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #PS5 #PlayStation5 #PlayStation #RockstarGames #Leonida #GamingNews #PS5Update",
-      "alt_text": "News graphic announcing that a mandatory PS5 system update is required before playing Grand Theft Auto VI.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795002489/gta-bot/e27da40ce7-reel.mp4",
-      "text_message_id": 10,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795002648.8359833
-    },
-    {
       "id": "b5d49dda0f",
       "created": 1795010982.1657538,
       "headline": "6 beginner tips for your first hours in Leonida",
@@ -512,6 +489,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-issues-mandatory-ps5-update-to-play-gta-6-potentially-slowing-down-hackers-attempts-to-dump-rockstars-game/",
       "at": 1795014558.3723536,
       "media_id": "17937646149410247"
+    },
+    {
+      "id": "e27da40ce7",
+      "headline": "PS5 Needs a Mandatory Update Before You Can Play GTA 6",
+      "kind": "reel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-issues-mandatory-ps5-update-to-play-gta-6-potentially-slowing-down-hackers-attempts-to-dump-rockstars-game/",
+      "at": 1795023550.6161742,
+      "media_id": "18125798831094443"
     }
   ],
   "drafts_sent": [
