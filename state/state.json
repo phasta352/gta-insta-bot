@@ -2,7 +2,7 @@
   "telegram_offset": 889593625,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795010913.8600442,
+  "last_scout": 1795014561.7452414,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -209,7 +209,37 @@
     "8014acfe1e6be6dd": 1795010923.5886714,
     "05c7f3277020a64d": 1795010923.5886714,
     "5b6220f1a645676f": 1795010923.5886714,
-    "4454c608f343d4f0": 1795010923.5886714
+    "4454c608f343d4f0": 1795010923.5886714,
+    "ff954ce5a18c8c2d": 1795014571.4242618,
+    "4fd199fbc8085ee5": 1795014571.4242618,
+    "4c7c3461f4a321cc": 1795014571.4242618,
+    "06e12ebd5ddea935": 1795014571.4242618,
+    "854496b207226b99": 1795014571.4242618,
+    "afa8d5f1e7fc8b8a": 1795014571.4242618,
+    "7a844d042a00cb3b": 1795014571.4242618,
+    "8d6ff8e1ae489e51": 1795014571.4242618,
+    "3b903677e87d6226": 1795014571.4242618,
+    "e30c32d8c73e57ce": 1795014571.4242618,
+    "e01dff9da6c3cf83": 1795014571.4242618,
+    "9c146d836e5b33b2": 1795014571.4242618,
+    "f2973a76ac4680af": 1795014571.4242618,
+    "d03857e373dbd1cd": 1795014571.4242618,
+    "1c31dacf1259296c": 1795014571.4242618,
+    "8ad55f7d20761df9": 1795014571.4242618,
+    "1fffb78b270efe24": 1795014571.4242618,
+    "7ffc3b4baff764dc": 1795014571.4242618,
+    "6ddad1160674a1f8": 1795014571.4242618,
+    "bbb2a7dbe45f9b64": 1795014571.4242618,
+    "b58e93bb008228e5": 1795014571.4242618,
+    "5b1c90f840a75819": 1795014571.4242618,
+    "5c19849abb2d3ad7": 1795014571.4242618,
+    "004e7c31f0e8f183": 1795014571.4242618,
+    "5189de8175c91181": 1795014571.4242618,
+    "05c4050ae9b77583": 1795014571.4242618,
+    "1dcbcf0ea8241fab": 1795014571.4242618,
+    "231c0e5bcc612bdf": 1795014571.4242618,
+    "4ad5eb670b481923": 1795014571.4242618,
+    "63bcb531ec1bfcab": 1795014571.4242618
   },
   "drafts": {
     "97f512db92": {
@@ -251,32 +281,49 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg",
       "text_message_id": 39
+    },
+    "c2dd93809f": {
+      "id": "c2dd93809f",
+      "created": 1795014625.1741796,
+      "headline": "No Mission Replays in GTA 6, So Use Your Save Slots",
+      "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014589/gta-bot/c2dd93809f-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014589/gta-bot/c2dd93809f-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014590/gta-bot/c2dd93809f-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014590/gta-bot/c2dd93809f-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014591/gta-bot/c2dd93809f-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014592/gta-bot/c2dd93809f-4.jpg"
+      ],
+      "full_caption": "Plan your saves, Leonida. 💾 GTA 6 has no mission replay option, so once you finish a story mission you can't jump back into it. The game gives you 15 save slots plus an auto-save as a safety net. Rockstar also says it designed missions to be harder to fail, so you can experiment and play your own way. Swipe for the details.\n\nWill you keep a save before every big story moment, or trust the auto-save?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Rockstar #RockstarGames #Leonida #GTA #GTA6Tips #PS5 #XboxSeriesX",
+      "alt_text": "News graphic explaining that GTA 6 has no mission replay feature and offers 15 save slots instead.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795014624/gta-bot/c2dd93809f-reel.mp4",
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "No mission replays",
+          "text": "Once you finish a story mission in GTA 6, you can't replay it. Eurogamer's reviewer confirmed this over a 100+ hour playthrough. GTA 5 did offer a Replay Mission option."
+        },
+        {
+          "title": "15 save slots instead",
+          "text": "You get 15 save slots plus an auto-save for when you get Busted or Wasted. Missions far outnumber slots, so save wisely. Eurogamer says big story missions are easy to spot."
+        },
+        {
+          "title": "Harder to fail",
+          "text": "Rockstar's David Hynd says the team wanted fewer mission fails for players trying something different. Missions were built with many ways to approach them."
+        },
+        {
+          "title": "Freedom over simplicity",
+          "text": "Hynd admits that keeping missions open is harder in such a big game, but says the freedom was worth it. Players are expected to learn the world's rules and reapply them."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg",
+      "text_message_id": 47
     }
   },
   "queue": [
-    {
-      "id": "e27da40ce7",
-      "created": 1795002490.7186286,
-      "headline": "PS5 Needs a Mandatory Update Before You Can Play GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-issues-mandatory-ps5-update-to-play-gta-6-potentially-slowing-down-hackers-attempts-to-dump-rockstars-game/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002467/gta-bot/e27da40ce7-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002467/gta-bot/e27da40ce7-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002468/gta-bot/e27da40ce7-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002469/gta-bot/e27da40ce7-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002470/gta-bot/e27da40ce7-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795002470/gta-bot/e27da40ce7-4.jpg"
-      ],
-      "full_caption": "PS5 players, update your console before launch day. 🎮\n\nSony has released system update 26.07-14.23.00, and PlayStation Support says it's required before you can play Grand Theft Auto VI. The official patch notes only mention security fixes. Until you install it, PSN features won't work either.\n\nSwipe for the key details. Have you updated your PS5 yet?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #PS5 #PlayStation5 #PlayStation #RockstarGames #Leonida #GamingNews #PS5Update",
-      "alt_text": "News graphic announcing that a mandatory PS5 system update is required before playing Grand Theft Auto VI.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795002489/gta-bot/e27da40ce7-reel.mp4",
-      "text_message_id": 10,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795002648.83598
-    },
     {
       "id": "e27da40ce7",
       "created": 1795002490.7186286,
@@ -411,6 +458,14 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-fast-travel-explained-how-to-fast-travel-in-gta-6/",
       "at": 1795006516.1091142,
       "media_id": "18119635387803313"
+    },
+    {
+      "id": "e27da40ce7",
+      "headline": "PS5 Needs a Mandatory Update Before You Can Play GTA 6",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-issues-mandatory-ps5-update-to-play-gta-6-potentially-slowing-down-hackers-attempts-to-dump-rockstars-game/",
+      "at": 1795014558.3723536,
+      "media_id": "17937646149410247"
     }
   ],
   "drafts_sent": [
@@ -420,7 +475,8 @@
     1795006182.6526344,
     1795006198.414667,
     1795010985.8559465,
-    1795011011.8548281
+    1795011011.8548281,
+    1795014628.2649298
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -434,6 +490,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg"
   ]
 }
