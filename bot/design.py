@@ -131,7 +131,8 @@ def _base(settings: dict, deco_wheel: bool = True, handle: str = "", background=
     # Top right: the @handle.
     if handle:
         hf = regular_font(30)
-        draw.text((W - MARGIN - draw.textlength(handle, font=hf), TOP_PAD + MARGIN + 6), handle, font=hf, fill=colors["muted"])
+        draw.text((W - MARGIN - draw.textlength(handle, font=hf), TOP_PAD + MARGIN + 6), handle, font=hf,
+                  fill=fg if background else colors["muted"])   # white over photos for contrast
     return img, draw, colors, logo
 
 
