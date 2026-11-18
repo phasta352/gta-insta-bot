@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593623,
+  "telegram_offset": 889593625,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795010913.8600442,
@@ -212,46 +212,6 @@
     "4454c608f343d4f0": 1795010923.5886714
   },
   "drafts": {
-    "b5d49dda0f": {
-      "id": "b5d49dda0f",
-      "created": 1795010982.1657538,
-      "headline": "6 beginner tips for your first hours in Leonida",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010941/gta-bot/b5d49dda0f-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010943/gta-bot/b5d49dda0f-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010944/gta-bot/b5d49dda0f-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010945/gta-bot/b5d49dda0f-4.jpg"
-      ],
-      "full_caption": "New to Leonida? Start with these tips. 🌴\n\nVGC's beginner guide covers stashing your cash, using the day and night cycle, and spotting enterable buildings on both maps. There's also a quick Focus Mode boost and a roadside repair option. Swipe for the essentials.\n\nWhat's the first thing you did in Leonida?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #ViceCity #RockstarGames #GTA6Tips #GTA6Guide #GamingTips #BeginnersGuide",
-      "alt_text": "Graphic with the title '6 beginner tips for your first hours in Leonida' for a GTA 6 beginner's guide.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795010980/gta-bot/b5d49dda0f-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Stash your cash early",
-          "text": "You start with no bank account, so everything is cash. Check the loose floorboards in Jason's bedroom to store money. If you die or get arrested, you lose the cash you're carrying."
-        },
-        {
-          "title": "Mind the clock",
-          "text": "Day and night cycles are longer than in earlier games. Press up on the D-pad to see the time on your phone. Some shops close at night and police respond differently. Sleeping at Jason's house lets you change the time."
-        },
-        {
-          "title": "Let the maps guide you",
-          "text": "On the world map, darker blue buildings can be entered and lighter blue ones can't. The minimap shows enterable doors and hidden rooms as you get close. In Focus Mode, a white door is open and a red one is alarmed."
-        },
-        {
-          "title": "Quick wins",
-          "text": "Feed Jason's pet snake Dolores for an early Focus Mode buff. Once it's unlocked, you can call your mechanic to repair your car almost anywhere. It costs money, but it's worth it."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
-      "text_message_id": 33
-    },
     "97f512db92": {
       "id": "97f512db92",
       "created": 1795011010.187308,
@@ -339,6 +299,92 @@
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795002648.8359833
+    },
+    {
+      "id": "b5d49dda0f",
+      "created": 1795010982.1657538,
+      "headline": "6 beginner tips for your first hours in Leonida",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010941/gta-bot/b5d49dda0f-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010943/gta-bot/b5d49dda0f-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010944/gta-bot/b5d49dda0f-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010945/gta-bot/b5d49dda0f-4.jpg"
+      ],
+      "full_caption": "New to Leonida? Start with these tips. 🌴\n\nVGC's beginner guide covers stashing your cash, using the day and night cycle, and spotting enterable buildings on both maps. There's also a quick Focus Mode boost and a roadside repair option. Swipe for the essentials.\n\nWhat's the first thing you did in Leonida?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #ViceCity #RockstarGames #GTA6Tips #GTA6Guide #GamingTips #BeginnersGuide",
+      "alt_text": "Graphic with the title '6 beginner tips for your first hours in Leonida' for a GTA 6 beginner's guide.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795010980/gta-bot/b5d49dda0f-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Stash your cash early",
+          "text": "You start with no bank account, so everything is cash. Check the loose floorboards in Jason's bedroom to store money. If you die or get arrested, you lose the cash you're carrying."
+        },
+        {
+          "title": "Mind the clock",
+          "text": "Day and night cycles are longer than in earlier games. Press up on the D-pad to see the time on your phone. Some shops close at night and police respond differently. Sleeping at Jason's house lets you change the time."
+        },
+        {
+          "title": "Let the maps guide you",
+          "text": "On the world map, darker blue buildings can be entered and lighter blue ones can't. The minimap shows enterable doors and hidden rooms as you get close. In Focus Mode, a white door is open and a red one is alarmed."
+        },
+        {
+          "title": "Quick wins",
+          "text": "Feed Jason's pet snake Dolores for an early Focus Mode buff. Once it's unlocked, you can call your mechanic to repair your car almost anywhere. It costs money, but it's worth it."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
+      "text_message_id": 33,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795011213.7434652
+    },
+    {
+      "id": "b5d49dda0f",
+      "created": 1795010982.1657538,
+      "headline": "6 beginner tips for your first hours in Leonida",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010941/gta-bot/b5d49dda0f-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010943/gta-bot/b5d49dda0f-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010944/gta-bot/b5d49dda0f-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010945/gta-bot/b5d49dda0f-4.jpg"
+      ],
+      "full_caption": "New to Leonida? Start with these tips. 🌴\n\nVGC's beginner guide covers stashing your cash, using the day and night cycle, and spotting enterable buildings on both maps. There's also a quick Focus Mode boost and a roadside repair option. Swipe for the essentials.\n\nWhat's the first thing you did in Leonida?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #ViceCity #RockstarGames #GTA6Tips #GTA6Guide #GamingTips #BeginnersGuide",
+      "alt_text": "Graphic with the title '6 beginner tips for your first hours in Leonida' for a GTA 6 beginner's guide.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795010980/gta-bot/b5d49dda0f-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Stash your cash early",
+          "text": "You start with no bank account, so everything is cash. Check the loose floorboards in Jason's bedroom to store money. If you die or get arrested, you lose the cash you're carrying."
+        },
+        {
+          "title": "Mind the clock",
+          "text": "Day and night cycles are longer than in earlier games. Press up on the D-pad to see the time on your phone. Some shops close at night and police respond differently. Sleeping at Jason's house lets you change the time."
+        },
+        {
+          "title": "Let the maps guide you",
+          "text": "On the world map, darker blue buildings can be entered and lighter blue ones can't. The minimap shows enterable doors and hidden rooms as you get close. In Focus Mode, a white door is open and a red one is alarmed."
+        },
+        {
+          "title": "Quick wins",
+          "text": "Feed Jason's pet snake Dolores for an early Focus Mode buff. Once it's unlocked, you can call your mechanic to repair your car almost anywhere. It costs money, but it's worth it."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
+      "text_message_id": 33,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795011213.7434673
     }
   ],
   "published": [
