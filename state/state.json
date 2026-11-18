@@ -2,7 +2,7 @@
   "telegram_offset": 889593623,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795006144.891356,
+  "last_scout": 1795010913.8600442,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -166,9 +166,133 @@
     "42fd32b3bae03c5e": 1795006155.9546916,
     "dc0317e1da7c017b": 1795006155.9546916,
     "c243fecab8edb6cf": 1795006155.9546916,
-    "fb288516e40168a0": 1795006155.9546916
+    "fb288516e40168a0": 1795006155.9546916,
+    "64d6d3ae17f075ba": 1795010923.5886714,
+    "bda9013c44629bbd": 1795010923.5886714,
+    "c9865f4b66da2694": 1795010923.5886714,
+    "b9b239ccc7c0ca15": 1795010923.5886714,
+    "960c6143bf6fc5d0": 1795010923.5886714,
+    "ded4f594664105ac": 1795010923.5886714,
+    "04dc2de869d1427b": 1795010923.5886714,
+    "6ceedddea8a98c54": 1795010923.5886714,
+    "2bd4ebe8c0d44b77": 1795010923.5886714,
+    "db887797c2d8551f": 1795010923.5886714,
+    "0cbcc8e802e52c07": 1795010923.5886714,
+    "538264fdfa8ee122": 1795010923.5886714,
+    "69e88b09f790cd00": 1795010923.5886714,
+    "1d1d00c12f3fbf0c": 1795010923.5886714,
+    "46d6f6d412140990": 1795010923.5886714,
+    "4c6c826eae064e19": 1795010923.5886714,
+    "932927aced95bcf8": 1795010923.5886714,
+    "8f0967e9b35dc337": 1795010923.5886714,
+    "2ef38c9b5fa10c2f": 1795010923.5886714,
+    "0196a75a9e99e9e4": 1795010923.5886714,
+    "2d2af1628fe3fe41": 1795010923.5886714,
+    "beb41bef862c011e": 1795010923.5886714,
+    "14ee80b91a8ebf54": 1795010923.5886714,
+    "473957f8932f578b": 1795010923.5886714,
+    "07cd7799f93ab2ac": 1795010923.5886714,
+    "8cf5f21b1ad867ca": 1795010923.5886714,
+    "30431b6da4ed8c88": 1795010923.5886714,
+    "d646acf4d18c20dd": 1795010923.5886714,
+    "19472a7ebf18390e": 1795010923.5886714,
+    "ae2947a0d55c8836": 1795010923.5886714,
+    "fbe9a2f13b9c0097": 1795010923.5886714,
+    "f8a3dd44212b7695": 1795010923.5886714,
+    "99efefb7b2a34528": 1795010923.5886714,
+    "0d8f317a44400d3c": 1795010923.5886714,
+    "6e3fa22ff6a94324": 1795010923.5886714,
+    "dc07951d890ec6c6": 1795010923.5886714,
+    "bf9b5592441b5dae": 1795010923.5886714,
+    "df1b3b10ab7d231e": 1795010923.5886714,
+    "cf47069a50ba6f8e": 1795010923.5886714,
+    "8014acfe1e6be6dd": 1795010923.5886714,
+    "05c7f3277020a64d": 1795010923.5886714,
+    "5b6220f1a645676f": 1795010923.5886714,
+    "4454c608f343d4f0": 1795010923.5886714
   },
-  "drafts": {},
+  "drafts": {
+    "b5d49dda0f": {
+      "id": "b5d49dda0f",
+      "created": 1795010982.1657538,
+      "headline": "6 beginner tips for your first hours in Leonida",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010941/gta-bot/b5d49dda0f-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010943/gta-bot/b5d49dda0f-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010944/gta-bot/b5d49dda0f-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010945/gta-bot/b5d49dda0f-4.jpg"
+      ],
+      "full_caption": "New to Leonida? Start with these tips. 🌴\n\nVGC's beginner guide covers stashing your cash, using the day and night cycle, and spotting enterable buildings on both maps. There's also a quick Focus Mode boost and a roadside repair option. Swipe for the essentials.\n\nWhat's the first thing you did in Leonida?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #ViceCity #RockstarGames #GTA6Tips #GTA6Guide #GamingTips #BeginnersGuide",
+      "alt_text": "Graphic with the title '6 beginner tips for your first hours in Leonida' for a GTA 6 beginner's guide.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795010980/gta-bot/b5d49dda0f-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Stash your cash early",
+          "text": "You start with no bank account, so everything is cash. Check the loose floorboards in Jason's bedroom to store money. If you die or get arrested, you lose the cash you're carrying."
+        },
+        {
+          "title": "Mind the clock",
+          "text": "Day and night cycles are longer than in earlier games. Press up on the D-pad to see the time on your phone. Some shops close at night and police respond differently. Sleeping at Jason's house lets you change the time."
+        },
+        {
+          "title": "Let the maps guide you",
+          "text": "On the world map, darker blue buildings can be entered and lighter blue ones can't. The minimap shows enterable doors and hidden rooms as you get close. In Focus Mode, a white door is open and a red one is alarmed."
+        },
+        {
+          "title": "Quick wins",
+          "text": "Feed Jason's pet snake Dolores for an early Focus Mode buff. Once it's unlocked, you can call your mechanic to repair your car almost anywhere. It costs money, but it's worth it."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
+      "text_message_id": 33
+    },
+    "97f512db92": {
+      "id": "97f512db92",
+      "created": 1795011010.187308,
+      "headline": "GTA 6 Car Alarms: How to Steal Cars Without Alerting Cops",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-car-alarms-explained-how-to-steal-cars-with-alarms-in-gta-6/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795011005/gta-bot/97f512db92-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795011005/gta-bot/97f512db92-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795011006/gta-bot/97f512db92-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795011007/gta-bot/97f512db92-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795011008/gta-bot/97f512db92-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795011009/gta-bot/97f512db92-4.jpg"
+      ],
+      "full_caption": "Car theft in Leonida isn't as simple as it used to be. 🚗\n\nMany cars are alarmed, and breaking into one early on can alert the police and nearby pedestrians. The answer is the Slim Jim, a tool that gets you into standard cars quietly. Swipe for how it works and what to do before you have it.\n\nHow are you handling alarmed cars so far?\n\nSource: VideoGamesChronicle\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Tips #GTA6Guide #GamingTips #VideoGames #GTA",
+      "alt_text": "Graphic with the headline about how to steal alarmed cars in GTA 6 without alerting the police, labelled Tips & Tricks.",
+      "score": 7,
+      "reel_url": null,
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "Alarms are everywhere",
+          "text": "Many of the cars you can steal in Leonida are alarmed. Breaking into one early in the game alerts the police and the pedestrians around you."
+        },
+        {
+          "title": "The Slim Jim fix",
+          "text": "A Slim Jim lets you get into standard cars without smashing the window or carjacking anyone. That means you can steal them without alerting the police."
+        },
+        {
+          "title": "Not for supercars",
+          "text": "The Slim Jim only works on standard cars. Supercars and Hypercars need a later-game tool, and key cloning comes much further into the story."
+        },
+        {
+          "title": "Before you get it",
+          "text": "You get the Slim Jim in chapter two, around 10 hours in. Until then, try late at night when traffic is light and grab a car heading for the highway. Cops are less likely to chase you there."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg",
+      "text_message_id": 39
+    }
+  },
   "queue": [
     {
       "id": "e27da40ce7",
@@ -248,7 +372,9 @@
     1795002494.3610528,
     1795006166.910156,
     1795006182.6526344,
-    1795006198.414667
+    1795006198.414667,
+    1795010985.8559465,
+    1795011011.8548281
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -260,6 +386,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Vice_City_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Lucia_Caminos_11.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg"
   ]
 }
