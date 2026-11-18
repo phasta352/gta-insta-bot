@@ -26,6 +26,9 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}   # newest commit when the run starts (not when it was requested),
+                                        # so the bot always sees the latest memory
 
       - uses: actions/setup-python@v5
         with:
@@ -66,4 +69,4 @@ jobs:
           git add state/state.json 2>/dev/null || exit 0
           git diff --cached --quiet && exit 0
           git commit -q -m "bot: update state [skip ci]"
-          git pull -q --rebase && git push -q
+          git pull -q --rebase -X theirs && git push -q   # on a clash, keep this run's (newer) memory
