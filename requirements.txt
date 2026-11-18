@@ -1,0 +1,8 @@
+anthropic>=0.40
+cloudinary>=1.40
+feedparser>=6.0
+Pillow>=10.1
+PyYAML>=6.0
+requests>=2.31
+trafilatura>=1.12
+numpy>=1.26
