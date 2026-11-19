@@ -666,49 +666,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
       "text_message_id": 72,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795073194.5675795
-    },
-    {
-      "id": "4e62150627",
-      "created": 1795072624.8259034,
-      "headline": "Fastest Ways to Make Cash in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-make-money-fast/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072588/gta-bot/4e62150627-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072588/gta-bot/4e62150627-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072589/gta-bot/4e62150627-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072590/gta-bot/4e62150627-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072590/gta-bot/4e62150627-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072591/gta-bot/4e62150627-4.jpg"
-      ],
-      "full_caption": "Need cash in Leonida? Crime pays, but it comes with heat. 💰\n\nGamesRadar+ says risky crime is the quickest way to fill your Personal Cash and BuckMe Checking Account. Muggings, store holdups, car theft and big robberies are all on the table. Swipe for the breakdown.\n\nWhat's your go-to money maker so far?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #MoneyGuide #GamingTips #LuciaAndJason",
-      "alt_text": "Graphic with the headline 'Fastest Ways to Make Cash in GTA 6' promoting a money-making guide for Grand Theft Auto VI.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795072623/gta-bot/4e62150627-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Risk = Reward",
-          "text": "GamesRadar+ says crime is the best way to make fast cash in GTA 6. Just keep in mind that an aggressive crime spree can have serious consequences for your criminal profile."
-        },
-        {
-          "title": "Quick Street Cash",
-          "text": "Aim your weapon at a civilian and press Triangle / Y to demand valuables. In shops, restaurants and gas stations, aim at staff and press Square / X for the register. A winch from a Mod Shop lets you steal ATMs."
-        },
-        {
-          "title": "Steal, Then Sell",
-          "text": "Cars in good condition can be sold at certain businesses and contacts, including Pay 'n' Spray locations. Fences who take hot cars unlock as you progress."
-        },
-        {
-          "title": "Hit the Big Scores",
-          "text": "The Robberies section of the map index shows each target's potential score and key valuables. Bigger scores are riskier, so bring your partner along for support."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
-      "text_message_id": 72,
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795073194.5675821
@@ -895,6 +852,14 @@
       "at": 1795086820.800563,
       "media_id": "18143605207616687",
       "story_id": "18352760335267179"
+    },
+    {
+      "id": "4e62150627",
+      "headline": "Fastest Ways to Make Cash in GTA 6",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-make-money-fast/",
+      "at": 1795091977.1691024,
+      "media_id": "18104007620384344"
     }
   ],
   "drafts_sent": [
