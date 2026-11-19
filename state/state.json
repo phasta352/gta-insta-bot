@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593634,
+  "telegram_offset": 889593635,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795077554.3250127,
@@ -626,49 +626,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
       "text_message_id": 79,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795073195.443724
-    },
-    {
-      "id": "1b1008344a",
-      "created": 1795072674.0938346,
-      "headline": "Rockstar: PS5 Pro Can't Hit 60 fps in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072638/gta-bot/1b1008344a-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072638/gta-bot/1b1008344a-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072639/gta-bot/1b1008344a-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072640/gta-bot/1b1008344a-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072640/gta-bot/1b1008344a-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795072641/gta-bot/1b1008344a-4.jpg"
-      ],
-      "full_caption": "No 60 fps for GTA 6 on PS5 Pro, and Rockstar says that was unavoidable. 🎮\n\nRockstar's tech and development leads say the console's CPU isn't strong enough to run the game's complex simulation at higher frame rates. The Pro still gets visual upgrades, including ray-traced shadows and PSSR upscaling. Swipe for the details.\n\nWould you have traded some visual detail for smoother frames, or is 30 fps fine for Leonida?\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #RockstarGames #PS5Pro #PlayStation5 #Leonida #ViceCity #GamingNews #60fps #TheLeonidaDaily",
-      "alt_text": "News graphic with the headline 'Rockstar: PS5 Pro Can't Hit 60 fps in GTA 6' in The Leonida Daily style.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795072673/gta-bot/1b1008344a-reel.mp4",
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "30 fps, even on PS5 Pro",
-          "text": "GTA 6 runs at 30 fps on consoles, and that includes the PS5 Pro. There's no 60 fps or 40 fps performance option, which is unusual for a major modern release."
-        },
-        {
-          "title": "What the Pro gets instead",
-          "text": "Rockstar's Marc Chambers told Kotaku the base version uses ray-traced reflections and global illumination. The Pro adds ray-traced shadows and extra clarity through PSSR upscaling."
-        },
-        {
-          "title": "The CPU is the bottleneck",
-          "text": "Chambers said the PS5 Pro's CPU is only slightly better than the base PS5's. In his words, it isn't powerful enough to run the game's complex simulation at higher frame rates."
-        },
-        {
-          "title": "Rockstar: no easy way around it",
-          "text": "Rob Nelson told IGN a performance mode would have needed too many compromises and wouldn't have been acceptable to anyone. The technical team's reaction, he said, was basically 'have you seen it?'"
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
-      "text_message_id": 79,
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795073195.4437292
@@ -786,6 +743,14 @@
       "at": 1795097350.113979,
       "media_id": "18051943475628550",
       "story_id": "18115942421153315"
+    },
+    {
+      "id": "1b1008344a",
+      "headline": "Rockstar: PS5 Pro Can't Hit 60 fps in GTA 6",
+      "kind": "carousel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
+      "at": 1795102157.2420356,
+      "media_id": "18020524790956203"
     }
   ],
   "drafts_sent": [
