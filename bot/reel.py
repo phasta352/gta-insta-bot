@@ -68,17 +68,24 @@ def _durations(n_slides, texts):
     return out[:n_slides] + [2.8]   # + outro
 
 
-def pick_music(duration, seed, out_dir: Path) -> str:
+def pick_music(duration, seed, out_dir: Path, prefer: str = "") -> str:
+    """A track from assets/music (or a specific one whose file name contains `prefer`),
+    else an original generated track."""
     folder = ROOT / "assets" / "music"
     tracks = sorted(p for p in folder.glob("*") if p.suffix.lower() in (".mp3", ".m4a", ".wav", ".aac")) \
         if folder.is_dir() else []
+    if prefer:
+        match = [t for t in tracks if prefer.lower() in t.name.lower()]
+        if not match:
+            raise FileNotFoundError(f"No music file in assets/music matching '{prefer}'")
+        return str(match[0])
     if tracks:
         return str(random.Random(seed).choice(tracks))
     return music.make_track(duration + 0.5, out_dir / f"music-{seed}.wav", seed=seed)
 
 
 def make_reel(headline, category, source, slides, settings, handle, out_path: Path, seed: int = 0,
-              background=None) -> Path:
+              background=None, music_name: str = "") -> Path:
     """Build a vertical Reel: cover, story slides ([{title, text}]) and an outro card, with music."""
     work = out_path.parent
     work.mkdir(parents=True, exist_ok=True)
@@ -94,12 +101,14 @@ def make_reel(headline, category, source, slides, settings, handle, out_path: Pa
     total_s = sum(durations)
     outro = _outro(settings, handle)
     accent = design._hex(settings["design"]["accent"])[:3]
-    track = pick_music(total_s, seed, work)
+    track = pick_music(total_s, seed, work, prefer=music_name)
+    print(f"[bot] Reel music: {Path(track).name}", flush=True)
 
     cmd = ["ffmpeg", "-y", "-loglevel", "error",
            "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{RW}x{RH}", "-r", str(FPS), "-i", "-",
            "-i", track,
            "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p",
+           "-af", f"afade=t=in:d=0.3,afade=t=out:st={max(0.0, total_s - 1.5):.2f}:d=1.5",
            "-c:a", "aac", "-b:a", "160k", "-ar", "48000",
            "-shortest", "-movflags", "+faststart", str(out_path)]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
