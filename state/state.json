@@ -2,7 +2,7 @@
   "telegram_offset": 889593632,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795072565.2484093,
+  "last_scout": 1795077554.3250127,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -359,7 +359,51 @@
     "743a130d13b6a4c9": 1795072576.5510435,
     "d19f3645bed44bc3": 1795072576.5510435,
     "95e1a299ad9624a9": 1795072576.5510435,
-    "b54bdf084c646620": 1795072576.5510435
+    "b54bdf084c646620": 1795072576.5510435,
+    "85e335e47e262ceb": 1795077563.9150758,
+    "3f63cede31b906dd": 1795077563.9150758,
+    "b760a945867709e3": 1795077563.9150758,
+    "4291b74f0725cdef": 1795077563.9150758,
+    "c7b4b84955c00e72": 1795077563.9150758,
+    "7fec0505bf1e6ca5": 1795077563.9150758,
+    "df789453c9bd4187": 1795077563.9150758,
+    "2f6ad03b20f7858e": 1795077563.9150758,
+    "4257b5d574d5b73e": 1795077563.9150758,
+    "521b66fc9803353a": 1795077563.9150758,
+    "2e2ab482a9c6e6c2": 1795077563.9150758,
+    "a002721b75cf4ad5": 1795077563.9150758,
+    "635fcfc63958ecde": 1795077563.9150758,
+    "23de7c4914f03bf5": 1795077563.9150758,
+    "88ed49288834e2d4": 1795077563.9150758,
+    "433b0adc11416212": 1795077563.9150758,
+    "d4acf616136d0a35": 1795077563.9150758,
+    "5cec4032a33e5647": 1795077563.9150758,
+    "10cbb637124b44a4": 1795077563.9150758,
+    "448664a7508a6ca3": 1795077563.9150758,
+    "6dbaf87004a65c7f": 1795077563.9150758,
+    "d14d51be42b2670d": 1795077563.9150758,
+    "b3c830fc0963babd": 1795077563.9150758,
+    "3d2256032b8abdc9": 1795077563.9150758,
+    "4e44daa8ebbb4631": 1795077563.9150758,
+    "a6a5e88d6ee76531": 1795077563.9150758,
+    "fd8ebdbdafac090f": 1795077563.9150758,
+    "5133a9e171fed59e": 1795077563.9150758,
+    "80321e9fce53a980": 1795077563.9150758,
+    "fe2b165006b2d986": 1795077563.9150758,
+    "dbabf476a42f8eea": 1795077563.9150758,
+    "7ed2377c21a64dce": 1795077563.9150758,
+    "15ffcb346ca5b32e": 1795077563.9150758,
+    "99c26ddda0db143a": 1795077563.9150758,
+    "c4d7a380d109ac88": 1795077563.9150758,
+    "a7de36ec4521cb1c": 1795077563.9150758,
+    "f31ac84aede26e8b": 1795077563.9150758,
+    "f19ebf241fcf3d46": 1795077563.9150758,
+    "1f8a4a0f0b8568b0": 1795077563.9150758,
+    "67094f6a00ea81c8": 1795077563.9150758,
+    "9962f9248334dd7e": 1795077563.9150758,
+    "9850a988c866062e": 1795077563.9150758,
+    "b9b8de6673cf84b2": 1795077563.9150758,
+    "021dcd5701a589aa": 1795077563.9150758
   },
   "drafts": {
     "97f512db92": {
@@ -500,52 +544,89 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
       "text_message_id": 63
-    }
-  },
-  "queue": [
-    {
-      "id": "b5d49dda0f",
-      "created": 1795010982.1657538,
-      "headline": "6 beginner tips for your first hours in Leonida",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
+    },
+    "20e8c83ed0": {
+      "id": "20e8c83ed0",
+      "created": 1795077600.27943,
+      "headline": "How to Break Into the Mile Zero Air Station Military Base",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010941/gta-bot/b5d49dda0f-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010943/gta-bot/b5d49dda0f-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010944/gta-bot/b5d49dda0f-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010945/gta-bot/b5d49dda0f-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077577/gta-bot/20e8c83ed0-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077577/gta-bot/20e8c83ed0-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077578/gta-bot/20e8c83ed0-4.jpg"
       ],
-      "full_caption": "New to Leonida? Start with these tips. 🌴\n\nVGC's beginner guide covers stashing your cash, using the day and night cycle, and spotting enterable buildings on both maps. There's also a quick Focus Mode boost and a roadside repair option. Swipe for the essentials.\n\nWhat's the first thing you did in Leonida?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #ViceCity #RockstarGames #GTA6Tips #GTA6Guide #GamingTips #BeginnersGuide",
-      "alt_text": "Graphic with the title '6 beginner tips for your first hours in Leonida' for a GTA 6 beginner's guide.",
+      "full_caption": "Want a tank or a combat jet? Mile Zero Air Station is where to go. 🪖\n\nPC Gamer's guide places the military base on the big bridges to the southern keys, not far from your first house in Key Lento. The Mile Zero Air Station Southeast stunt jump is the easiest way in without a full gunfight. Get spotted inside and you'll earn a wanted level.\n\nWhich vehicle are you grabbing first?\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #KeyLento #GTA6Guide #GTA6Tips #RockstarGames #Gaming",
+      "alt_text": "Graphic with the headline about how to get into the Mile Zero Air Station military base in GTA 6.",
       "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795010980/gta-bot/b5d49dda0f-reel.mp4",
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795077598/gta-bot/20e8c83ed0-reel.mp4",
       "category": "GUIDE",
       "slides": [
         {
-          "title": "Stash your cash early",
-          "text": "You start with no bank account, so everything is cash. Check the loose floorboards in Jason's bedroom to store money. If you die or get arrested, you lose the cash you're carrying."
+          "title": "Where is the base?",
+          "text": "Mile Zero Air Station sits on the big bridges to the southern keys. It's a drive, boat ride or flight away, but not far from your first house in Key Lento."
         },
         {
-          "title": "Mind the clock",
-          "text": "Day and night cycles are longer than in earlier games. Press up on the D-pad to see the time on your phone. Some shops close at night and police respond differently. Sleeping at Jason's house lets you change the time."
+          "title": "What's inside",
+          "text": "PC Gamer lists jets (Hauners Lazer), airplanes (Botticher 015A), tanks/APCs and helicopters (Buzzard). There's also a stunt jump entrance."
         },
         {
-          "title": "Let the maps guide you",
-          "text": "On the world map, darker blue buildings can be entered and lighter blue ones can't. The minimap shows enterable doors and hidden rooms as you get close. In Focus Mode, a white door is open and a red one is alarmed."
+          "title": "The easy way in",
+          "text": "Use the Mile Zero Air Station Southeast stunt jump on the base's southeast corner, along the southern access road. Expect a few lightly manned barricade checkpoints and some gunfire."
         },
         {
-          "title": "Quick wins",
-          "text": "Feed Jason's pet snake Dolores for an early Focus Mode buff. Once it's unlocked, you can call your mechanic to repair your car almost anywhere. It costs money, but it's worth it."
+          "title": "Hit the dirt mound at speed",
+          "text": "A dirt mound leads up to the barbed wire fence. Take your vehicle over it at speed to get stunt jump credit and land inside the base. Once you're spotted there, you'll get a wanted level."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
-      "text_message_id": 33,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795011213.7434673
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
+      "text_message_id": 92
     },
+    "5535f1e6f1": {
+      "id": "5535f1e6f1",
+      "created": 1795077639.7017546,
+      "headline": "GTA 6 Classic Controls: How to Switch Back to GTA 5 Feel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077614/gta-bot/5535f1e6f1-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077614/gta-bot/5535f1e6f1-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077615/gta-bot/5535f1e6f1-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077616/gta-bot/5535f1e6f1-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077616/gta-bot/5535f1e6f1-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077617/gta-bot/5535f1e6f1-4.jpg"
+      ],
+      "full_caption": "Muscle memory fighting you in Leonida? 🎮 There's a fix.\n\nGTA 6 launches with a new default control scheme, but you can switch to a Classic scheme that feels closer to GTA 5. Open the Options/Menu button, head to Settings and change the scheme. The default HUD is also more dynamic, and you can adjust that in Settings too.\n\nAre you sticking with the new controls or going Classic?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTA #Leonida #RockstarGames #GTA6Tips #GTA6Guide #GTA5 #GamingNews #VideoGames",
+      "alt_text": "Graphic with the headline 'GTA 6 Classic Controls: How to Switch Back to GTA 5 Feel' in The Leonida Daily style.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795077638/gta-bot/5535f1e6f1-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "How to turn on Classic controls",
+          "text": "Press the Options/Menu button on your controller and go to Settings. There you can switch from the default scheme to the Classic control scheme, which gets you closer to the GTA 5 experience."
+        },
+        {
+          "title": "What's different by default",
+          "text": "In the new default scheme, running sits on L3/LS, while X/A is now jump. Melee has moved to Square/X. That's why GTA 5 veterans may feel thrown at first."
+        },
+        {
+          "title": "Check the Dynamic HUD too",
+          "text": "The default HUD hides non-essential info. Press down on the D-pad to bring up the minimap, bank balances, and health, stamina and focus bars. You can toggle all of these in Settings."
+        },
+        {
+          "title": "More options to tweak",
+          "text": "By default, you hold down on the D-pad and use L1/LB and R1/RB to cycle nearby tasks and locations and set destinations. You can also change how you interact with citizens from your car."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996648/Vice_City_24.jpg",
+      "text_message_id": 99
+    }
+  },
+  "queue": [
     {
       "id": "c2dd93809f",
       "created": 1795014625.1741796,
@@ -875,6 +956,14 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
       "at": 1795068556.5609672,
       "media_id": "18119121659113814"
+    },
+    {
+      "id": "b5d49dda0f",
+      "headline": "6 beginner tips for your first hours in Leonida",
+      "kind": "reel",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "at": 1795077552.9787433,
+      "media_id": "18112357367224301"
     }
   ],
   "drafts_sent": [
@@ -891,7 +980,9 @@
     1795068631.1235402,
     1795072628.2010174,
     1795072677.3780284,
-    1795072687.743964
+    1795072687.743964,
+    1795077604.697691,
+    1795077643.6544852
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -912,6 +1003,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996648/Vice_City_24.jpg"
   ]
 }
