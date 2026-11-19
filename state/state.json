@@ -625,51 +625,7 @@
       "text_message_id": 115
     }
   },
-  "queue": [
-    {
-      "id": "20e8c83ed0",
-      "created": 1795077600.27943,
-      "headline": "How to Break Into the Mile Zero Air Station Military Base",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077577/gta-bot/20e8c83ed0-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077577/gta-bot/20e8c83ed0-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077578/gta-bot/20e8c83ed0-4.jpg"
-      ],
-      "full_caption": "Want a tank or a combat jet? Mile Zero Air Station is where to go. 🪖\n\nPC Gamer's guide places the military base on the big bridges to the southern keys, not far from your first house in Key Lento. The Mile Zero Air Station Southeast stunt jump is the easiest way in without a full gunfight. Get spotted inside and you'll earn a wanted level.\n\nWhich vehicle are you grabbing first?\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #KeyLento #GTA6Guide #GTA6Tips #RockstarGames #Gaming",
-      "alt_text": "Graphic with the headline about how to get into the Mile Zero Air Station military base in GTA 6.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795107459/gta-bot/20e8c83ed0-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where is the base?",
-          "text": "Mile Zero Air Station sits on the big bridges to the southern keys. It's a drive, boat ride or flight away, but not far from your first house in Key Lento."
-        },
-        {
-          "title": "What's inside",
-          "text": "PC Gamer lists jets (Hauners Lazer), airplanes (Botticher 015A), tanks/APCs and helicopters (Buzzard). There's also a stunt jump entrance."
-        },
-        {
-          "title": "The easy way in",
-          "text": "Use the Mile Zero Air Station Southeast stunt jump on the base's southeast corner, along the southern access road. Expect a few lightly manned barricade checkpoints and some gunfire."
-        },
-        {
-          "title": "Hit the dirt mound at speed",
-          "text": "A dirt mound leads up to the barbed wire fence. Take your vehicle over it at speed to get stunt jump credit and land inside the base. Once you're spotted there, you'll get a wanted level."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
-      "text_message_id": 92,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795105294.7303076
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -776,6 +732,15 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
       "at": 1795106341.7946324,
       "media_id": "17981651154129327"
+    },
+    {
+      "id": "20e8c83ed0",
+      "headline": "How to Break Into the Mile Zero Air Station Military Base",
+      "kind": "reel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
+      "at": 1795111803.1676548,
+      "media_id": "17911068294330850",
+      "story_id": "18108387911345817"
     }
   ],
   "drafts_sent": [
