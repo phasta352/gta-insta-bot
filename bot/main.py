@@ -457,11 +457,38 @@ class Bot:
             path.write_bytes(r.content)
         return path
 
-    def build_reel(self, did, headline, category, source, slides, background):
+    def build_reel(self, did, headline, category, source, slides, background, music_name=""):
         """Render the Reel and upload it. Returns (path, url)."""
         path = reel.make_reel(headline, category, source, slides, self.settings, self.handle(),
-                              OUT / f"{did}-reel.mp4", seed=int(did[:6], 16), background=background)
+                              OUT / f"{did}-reel.mp4", seed=int(did[:6], 16), background=background,
+                              music_name=music_name)
         return path, storage.upload_video(path, f"{did}-reel")
+
+    def remake_reel(self, did, music_name=""):
+        """Rebuild the Reel of a waiting draft or queued Reel (e.g. with new music) and update its link."""
+        items = [d for d in self.state["drafts"].values() if d["id"] == did] + \
+                [q for q in self.state["queue"] if q["id"] == did]
+        if not items:
+            self.tg.send(f"🎬 Remake Reel: no waiting draft or queued post with id <code>{esc(did)}</code>.")
+            log(f"Remake Reel: {did} not found in drafts or queue")
+            return
+        src = items[0]
+        if "slides" not in src:
+            self.tg.send(f"🎬 Remake Reel: <b>{esc(src['headline'])}</b> is from before Reels could be remade.")
+            return
+        try:
+            background = self.download_background(src["background_url"]) if src.get("background_url") else None
+        except Exception as ex:
+            log(f"Background unavailable, using plain design: {ex}")
+            background = None
+        log(f"Remaking Reel for {did}: {src['headline']}" + (f" (music: {music_name})" if music_name else ""))
+        path, url = self.build_reel(did, src["headline"], src.get("category", "NEWS"), src["source"],
+                                    src.get("slides") or [], background, music_name=music_name)
+        for d in items:
+            d["reel_url"] = url
+        log(f"New Reel uploaded: {url}")
+        self.tg.send_video_file(path, f"🎬 <b>Reel remade</b>: {esc(src['headline'])}\n"
+                                      "The waiting post now uses this version.")
 
     def make_draft(self, story, post, score):
         did = uuid.uuid4().hex[:10]
@@ -627,5 +654,12 @@ if __name__ == "__main__":
         b = Bot()
         b.state["force_scout"] = True
         b.run()
+    elif mode == "remake-reel":
+        b = Bot()
+        try:
+            b.remake_reel(sys.argv[2].strip() if len(sys.argv) > 2 else "",
+                          sys.argv[3].strip() if len(sys.argv) > 3 else "")
+        finally:
+            state_mod.save(b.state)
     else:
         Bot().run()

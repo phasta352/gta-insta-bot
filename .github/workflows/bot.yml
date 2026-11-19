@@ -10,8 +10,16 @@ on:
       mode:
         description: "What to do"
         type: choice
-        options: [run, check, scout]
+        options: [run, check, scout, remake-reel]
         default: run
+      draft_id:
+        description: "remake-reel only: the post's id (from state.json)"
+        required: false
+        default: ""
+      music:
+        description: "remake-reel only: part of a music file name in assets/music (empty = automatic)"
+        required: false
+        default: ""
 
 permissions:
   contents: write    # needed to save the bot's memory (state/state.json)
@@ -59,7 +67,7 @@ jobs:
           INSTAGRAM_APP_TOKEN: ${{ secrets.INSTAGRAM_APP_TOKEN }}
           TELEGRAM_BOT_ID: ${{ secrets.TELEGRAM_BOT_ID }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        run: python -m bot.main ${{ github.event.inputs.mode || 'run' }}
+        run: python -m bot.main "${{ github.event.inputs.mode || 'run' }}" "${{ github.event.inputs.draft_id }}" "${{ github.event.inputs.music }}"
 
       - name: Save memory
         if: always()
