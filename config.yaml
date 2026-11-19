@@ -30,9 +30,9 @@ schedule:
   timezone: "Europe/Luxembourg"
   posting_hours: [7, 22]          # only publish between 08:00 and 21:59 local time
   scout_every_hours: 1            # how often to look for new stories
-  drafts_per_scout: 3             # max drafts sent to you per scout
-  max_drafts_per_day: 8
-  max_posts_per_day: 8
+  drafts_per_scout: 2             # max drafts sent to you per scout
+  max_drafts_per_day: 10
+  max_posts_per_day: 10
   min_hours_between_posts: 1      # spacing between approved posts (unless you tap "Post now")
   draft_expiry_hours: 24          # unanswered drafts are dropped after this
 
