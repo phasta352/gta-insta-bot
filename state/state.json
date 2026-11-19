@@ -2,7 +2,7 @@
   "telegram_offset": 889593637,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795077554.3250127,
+  "last_scout": 1795106343.470468,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -403,7 +403,67 @@
     "9962f9248334dd7e": 1795077563.9150758,
     "9850a988c866062e": 1795077563.9150758,
     "b9b8de6673cf84b2": 1795077563.9150758,
-    "021dcd5701a589aa": 1795077563.9150758
+    "021dcd5701a589aa": 1795077563.9150758,
+    "aa630c615f9be8bd": 1795106353.876457,
+    "b43827655381490f": 1795106353.876457,
+    "04495e9061cbd758": 1795106353.876457,
+    "835d89e60d0c4a89": 1795106353.876457,
+    "8145f12e89cebcb2": 1795106353.876457,
+    "c87c93c80d74a5ff": 1795106353.876457,
+    "53e03c7bb9db4e27": 1795106353.876457,
+    "c7470fe23b025b00": 1795106353.876457,
+    "4fdb3c65e357166e": 1795106353.876457,
+    "511973a148fddf3b": 1795106353.876457,
+    "a948a69c8c227947": 1795106353.876457,
+    "48156643ddfe97bd": 1795106353.876457,
+    "1e9260b1390beb8a": 1795106353.876457,
+    "8a2ce8a71d451269": 1795106353.876457,
+    "f980c99c43566d78": 1795106353.876457,
+    "68dc7fb8be6a4135": 1795106353.876457,
+    "8f37d08d3d75dafb": 1795106353.876457,
+    "39731521f266e533": 1795106353.876457,
+    "9442e6150c595673": 1795106353.876457,
+    "a9a4608c7b2f9c6d": 1795106353.876457,
+    "0eda1d9f15d30374": 1795106353.876457,
+    "c9bbde2285ddb0a3": 1795106353.876457,
+    "2e55313d6b062159": 1795106353.876457,
+    "54ebc3981a93a7d6": 1795106353.876457,
+    "18ce75b54757784f": 1795106353.876457,
+    "54a2592da4ef7b4e": 1795106353.876457,
+    "9fd512811ec2aadf": 1795106353.876457,
+    "8e48505a3c588611": 1795106353.876457,
+    "ce46c0b0ec7c42f6": 1795106353.876457,
+    "98cf3d468712ffe3": 1795106353.876457,
+    "c00e5c61de975cfb": 1795106353.876457,
+    "5db58289efa05b43": 1795106353.876457,
+    "3e62c343dcf10271": 1795106353.876457,
+    "1e43d259a6ee49ba": 1795106353.876457,
+    "4fffc6b0ab499990": 1795106353.876457,
+    "9a355af4e25d5dfd": 1795106353.876457,
+    "220d754324c9e6e9": 1795106353.876457,
+    "38686f138bd2bf6b": 1795106353.876457,
+    "a89a3c2de7be6c62": 1795106353.876457,
+    "3674307348901f05": 1795106353.876457,
+    "9c8ba165af285acd": 1795106353.876457,
+    "f32da8bc866f7ad9": 1795106353.876457,
+    "1ed3266f2c3a0cb6": 1795106353.876457,
+    "7ee5124afc254122": 1795106353.876457,
+    "c2ac6cbefe6575d3": 1795106353.876457,
+    "af61670435a7ab2c": 1795106353.876457,
+    "656fa9911acca712": 1795106353.876457,
+    "5777918fcfb55aac": 1795106353.876457,
+    "fefe71af4598d79d": 1795106353.876457,
+    "34fadc93b901367a": 1795106353.876457,
+    "5c2d5a6b1e610fcc": 1795106353.876457,
+    "28ecfa8d643642cc": 1795106353.876457,
+    "33f1656276b1b581": 1795106353.876457,
+    "a6e87fb78e48cc30": 1795106353.876457,
+    "a51f0ecba288ec46": 1795106353.876457,
+    "0f16a491202640e4": 1795106353.876457,
+    "b8132a294ec009c0": 1795106353.876457,
+    "3723bb43e02a890f": 1795106353.876457,
+    "4a86d2c1cd1ef9f5": 1795106353.876457,
+    "4f8c87363d8ba3ef": 1795106353.876457
   },
   "drafts": {
     "b773ad7163": {
@@ -544,52 +604,68 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996648/Vice_City_24.jpg",
       "text_message_id": 99
-    }
-  },
-  "queue": [
-    {
-      "id": "20e8c83ed0",
-      "created": 1795077600.27943,
-      "headline": "How to Break Into the Mile Zero Air Station Military Base",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-0.jpg",
+    },
+    "265580e6df": {
+      "id": "265580e6df",
+      "created": 1795106364.6571198,
+      "headline": "Official GTA 6 Map Now Free to Download",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaUVsU3hqekwtRGZBOXRoY29GNUNaSDVRc24wcG84WjNhRUFCNWV0SWsxdmFrVFNnaERGcjMxM19DOVBaVUVWUGYzYnloT3lnWWxma28tRGQyZHBPRUlRVzA4RWZTXzkzcmY1TDFpWS04eXJ5Z0ZfT3NsbkpkT2g0SDB6UU9ZN0RQa1dOTU91SURtMHRVZDN3WmhhOFdMZWs?oc=5",
+      "source": "Pure Xbox",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795106364/gta-bot/265580e6df-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077576/gta-bot/20e8c83ed0-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077577/gta-bot/20e8c83ed0-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077577/gta-bot/20e8c83ed0-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077578/gta-bot/20e8c83ed0-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795106364/gta-bot/265580e6df-0.jpg"
       ],
-      "full_caption": "Want a tank or a combat jet? Mile Zero Air Station is where to go. 🪖\n\nPC Gamer's guide places the military base on the big bridges to the southern keys, not far from your first house in Key Lento. The Mile Zero Air Station Southeast stunt jump is the easiest way in without a full gunfight. Get spotted inside and you'll earn a wanted level.\n\nWhich vehicle are you grabbing first?\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #KeyLento #GTA6Guide #GTA6Tips #RockstarGames #Gaming",
-      "alt_text": "Graphic with the headline about how to get into the Mile Zero Air Station military base in GTA 6.",
+      "full_caption": "The official GTA 6 map is now free to download. 🗺️\n\nAccording to Pure Xbox, the official map can be downloaded at no cost. If you've been waiting to study the world of Leonida, this is one to grab. Check the official source for the download details before you save anything.\n\nWill you be planning your first routes ahead of launch, or saving the exploring for when you can play?\n\nSource: Pure Xbox\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTA #GTA6Map #GTANews #Gaming #GamingNews",
+      "alt_text": "News graphic with the headline 'Official GTA 6 Map Now Free to Download' for The Leonida Daily.",
+      "score": 9,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
+      "text_message_id": 115
+    },
+    "715f1698bf": {
+      "id": "715f1698bf",
+      "created": 1795106410.1398163,
+      "headline": "No GTA 6 Difficulty Setting, But You Can Still Go Easy",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-easy-mode-does-gta-6-have-difficulty-options/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795106375/gta-bot/715f1698bf-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795106375/gta-bot/715f1698bf-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795106376/gta-bot/715f1698bf-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795106377/gta-bot/715f1698bf-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795106378/gta-bot/715f1698bf-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795106379/gta-bot/715f1698bf-4.jpg"
+      ],
+      "full_caption": "Struggling in Leonida? There's no Easy Mode, but there is a workaround. 🎮\n\nGTA 6 has no single difficulty slider. The Gameplay tab in Settings does have toggles that make things much more forgiving, including Accessible Combat and Reduced Vehicle Damage. You can switch them on or off whenever you like.\n\nWill you use these options, or are you playing it straight?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #GTA #RockstarGames #GamingTips #GTA6Guide #Accessibility #GamingNews",
+      "alt_text": "Graphic with the headline about GTA 6 having no difficulty setting but offering gameplay toggles that make the game easier.",
       "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795077598/gta-bot/20e8c83ed0-reel.mp4",
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795106408/gta-bot/715f1698bf-reel.mp4",
       "category": "GUIDE",
       "slides": [
         {
-          "title": "Where is the base?",
-          "text": "Mile Zero Air Station sits on the big bridges to the southern keys. It's a drive, boat ride or flight away, but not far from your first house in Key Lento."
+          "title": "No Easy Mode, But Options Exist",
+          "text": "GTA 6 has no overall difficulty setting. It does have several gameplay toggles that let you tweak the experience quite a bit."
         },
         {
-          "title": "What's inside",
-          "text": "PC Gamer lists jets (Hauners Lazer), airplanes (Botticher 015A), tanks/APCs and helicopters (Buzzard). There's also a stunt jump entrance."
+          "title": "Where to Find Them",
+          "text": "Open the menu with your start button and go to Settings. Use the bumpers to switch to the Gameplay tab."
         },
         {
-          "title": "The easy way in",
-          "text": "Use the Mile Zero Air Station Southeast stunt jump on the base's southeast corner, along the southern access road. Expect a few lightly manned barricade checkpoints and some gunfire."
+          "title": "The Two Big Ones",
+          "text": "Accessible Combat means enemies deal less damage to Jason and Lucia and go down much faster. Reduced Vehicle Damage makes vehicles far harder to disable in a crash, though several high-speed hits can still do it."
         },
         {
-          "title": "Hit the dirt mound at speed",
-          "text": "A dirt mound leads up to the barbed wire fence. Take your vehicle over it at speed to get stunt jump credit and land inside the base. Once you're spotted there, you'll get a wanted level."
+          "title": "Extras and Good to Know",
+          "text": "You can also toggle lock-on and other accessibility options. The game warns you before you save changes, and you can switch the settings back whenever you like."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
-      "text_message_id": 92,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795105294.730305
-    },
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
+      "text_message_id": 122
+    }
+  },
+  "queue": [
     {
       "id": "20e8c83ed0",
       "created": 1795077600.27943,
@@ -732,6 +808,14 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-says-a-ps5-pro-is-simply-not-powerful-enough-for-60-fps-gta-6-as-i-crack-a-smile-at-my-5090/",
       "at": 1795102157.2420356,
       "media_id": "18020524790956203"
+    },
+    {
+      "id": "20e8c83ed0",
+      "headline": "How to Break Into the Mile Zero Air Station Military Base",
+      "kind": "carousel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-military-base-location/",
+      "at": 1795106341.7946324,
+      "media_id": "17981651154129327"
     }
   ],
   "drafts_sent": [
@@ -750,7 +834,9 @@
     1795072677.3780284,
     1795072687.743964,
     1795077604.697691,
-    1795077643.6544852
+    1795077643.6544852,
+    1795106365.9540594,
+    1795106413.5271778
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -773,6 +859,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996648/Vice_City_24.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996648/Vice_City_24.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg"
   ]
 }
