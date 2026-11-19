@@ -315,7 +315,18 @@ class Bot:
                                         "url": draft["url"], "at": time.time(), "media_id": media_id})
         link = self.ig.permalink(media_id)
         what = "Reel" if kind == "reel" else "Posted"
-        self.tg.send(f"📣 <b>{what}</b>: {esc(draft['headline'])}" + (f"\n{link}" if link else ""))
+        story_note = ""
+        if kind == "reel" and self.settings.get("reels", {}).get("share_to_story", True):
+            # Also share the Reel's video to the Story. A failure here never undoes the Reel.
+            try:
+                story_id = self.ig.publish_story(draft["reel_url"])
+                self.state["published"][-1]["story_id"] = story_id
+                story_note = "\n📲 Also shared to your Story"
+                log(f"Shared to Story, media id {story_id}")
+            except Exception as ex:
+                log(f"Story failed: {ex}")
+                story_note = f"\n⚠️ Couldn't share it to your Story: <code>{esc(str(ex)[:200])}</code>"
+        self.tg.send(f"📣 <b>{what}</b>: {esc(draft['headline'])}" + (f"\n{link}" if link else "") + story_note)
 
     # ---------- 3. Scouting ----------
     def should_scout(self) -> bool:

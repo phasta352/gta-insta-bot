@@ -110,6 +110,20 @@ class Instagram:
             raise InstagramError("Reel still processing after 5 minutes")
         return self._req("POST", f"{self.ig}/media_publish", creation_id=cid)["id"]
 
+    def publish_story(self, video_url: str) -> str:
+        """Share a vertical video to the account's Story (Business accounts only; no stickers via the API)."""
+        cid = self._req("POST", f"{self.ig}/media", media_type="STORIES", video_url=video_url)["id"]
+        for _ in range(60):
+            status = self._req("GET", cid, fields="status_code").get("status_code")
+            if status == "FINISHED":
+                break
+            if status in ("ERROR", "EXPIRED"):
+                raise InstagramError(f"Story processing {status}")
+            time.sleep(5)
+        else:
+            raise InstagramError("Story still processing after 5 minutes")
+        return self._req("POST", f"{self.ig}/media_publish", creation_id=cid)["id"]
+
     def publish(self, image_urls: list[str], caption: str, alt_text: str = "") -> str:
         if len(image_urls) >= 2:
             return self.publish_carousel(image_urls, caption, alt_text)
