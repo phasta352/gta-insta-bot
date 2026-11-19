@@ -2,7 +2,7 @@
   "telegram_offset": 889593627,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795014561.7452414,
+  "last_scout": 1795068558.549199,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -239,7 +239,67 @@
     "1dcbcf0ea8241fab": 1795014571.4242618,
     "231c0e5bcc612bdf": 1795014571.4242618,
     "4ad5eb670b481923": 1795014571.4242618,
-    "63bcb531ec1bfcab": 1795014571.4242618
+    "63bcb531ec1bfcab": 1795014571.4242618,
+    "2a4a91ef43e5197e": 1795068569.1218996,
+    "f6e757bb001bc42e": 1795068569.1218996,
+    "0fb11acbf72f0c45": 1795068569.1218996,
+    "a42f9b2a14a1743d": 1795068569.1218996,
+    "f7210f57d6164cbc": 1795068569.1218996,
+    "a638642640292f1b": 1795068569.1218996,
+    "04b7bd44bf0f95e2": 1795068569.1218996,
+    "d793dde740226154": 1795068569.1218996,
+    "c753a672c3e15a30": 1795068569.1218996,
+    "2f1ae0133c2354c9": 1795068569.1218996,
+    "9a973bc2248e626d": 1795068569.1218996,
+    "0ac98827aa069e3f": 1795068569.1218996,
+    "cd38294bbc462b1b": 1795068569.1218996,
+    "acff49b617cf471b": 1795068569.1218996,
+    "eb7b7cb0664ac9c8": 1795068569.1218996,
+    "84ae4a6e24c9f652": 1795068569.1218996,
+    "89bff722f67fb275": 1795068569.1218996,
+    "3fb1c2f0ab6bfe4b": 1795068569.1218996,
+    "bd92c38ed745f377": 1795068569.1218996,
+    "87077a7925f13bbb": 1795068569.1218996,
+    "4dc29c6f76960e9d": 1795068569.1218996,
+    "b7a9cdac0a2931c4": 1795068569.1218996,
+    "22ff15b1a62f0cc3": 1795068569.1218996,
+    "70ba6a2d80bba7e1": 1795068569.1218996,
+    "20d0bc56490584c0": 1795068569.1218996,
+    "58083448f8d82b4a": 1795068569.1218996,
+    "9e4200ead5bd24a2": 1795068569.1218996,
+    "1bbef7d01bb8dc27": 1795068569.1218996,
+    "1da867a980178251": 1795068569.1218996,
+    "99fce82bd2aceace": 1795068569.1218996,
+    "846ae23b8f33e642": 1795068569.1218996,
+    "2024eee57ee0c49f": 1795068569.1218996,
+    "08cdccc9c6ceb987": 1795068569.1218996,
+    "d2185953c68a28e9": 1795068569.1218996,
+    "9fc3e3c0253a44e4": 1795068569.1218996,
+    "eabec4c036102c0d": 1795068569.1218996,
+    "2c8b7aa48f1cbdfd": 1795068569.1218996,
+    "0297216c18ad6ef0": 1795068569.1218996,
+    "d5382b719edd1486": 1795068569.1218996,
+    "5d489336722094de": 1795068569.1218996,
+    "e52adc315c9889b0": 1795068569.1218996,
+    "75f53f081c3ad4ee": 1795068569.1218996,
+    "86f4b7aa2d7ec4d9": 1795068569.1218996,
+    "6a675612fa8bad59": 1795068569.1218996,
+    "052d9104a6d1d54d": 1795068569.1218996,
+    "701e58b2b5f1f2d2": 1795068569.1218996,
+    "00fa6779ee3b7bc0": 1795068569.1218996,
+    "5f247b9edd6bfa7d": 1795068569.1218996,
+    "372fed1bdcfd8ba4": 1795068569.1218996,
+    "5f519ae94e20f0af": 1795068569.1218996,
+    "b1fc3878b2ac66ec": 1795068569.1218996,
+    "ade0219a1df7854b": 1795068569.1218996,
+    "15caa3f7804941d8": 1795068569.1218996,
+    "2cc9df50cd7b40d4": 1795068569.1218996,
+    "69f99ba722a46aa7": 1795068569.1218996,
+    "85f5d680c25d3eb7": 1795068569.1218996,
+    "434f8701e0cbd61d": 1795068569.1218996,
+    "177b1951a57d0285": 1795068569.1218996,
+    "be26e62c38a5cae3": 1795068569.1218996,
+    "9b4eac4ea522eef5": 1795068569.1218996
   },
   "drafts": {
     "97f512db92": {
@@ -281,52 +341,108 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg",
       "text_message_id": 39
-    }
-  },
-  "queue": [
-    {
-      "id": "b5d49dda0f",
-      "created": 1795010982.1657538,
-      "headline": "6 beginner tips for your first hours in Leonida",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
+    },
+    "b773ad7163": {
+      "id": "b773ad7163",
+      "created": 1795068590.029174,
+      "headline": "Rockstar Hints GTA 6's Huge Map Has Room to Grow",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2VRMGhHMzg1OTZBN2hRYkstdmR0c2ZFN21KZkVzVExVZ1M4bzRSTFZ1bmxfOG5xaW9OUXhVa244dkJrbVctM19UYXh3ZW1INmJySHN0OXdGRFRBR2pERXpjYWpOdzlqc2NNQUZoamlFSkJqcHROVlJ6N3ZSQXVJZ0Zn?oc=5",
+      "source": "Mashable",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068588/gta-bot/b773ad7163-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010940/gta-bot/b5d49dda0f-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010941/gta-bot/b5d49dda0f-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010943/gta-bot/b5d49dda0f-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010944/gta-bot/b5d49dda0f-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795010945/gta-bot/b5d49dda0f-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068588/gta-bot/b773ad7163-0.jpg"
       ],
-      "full_caption": "New to Leonida? Start with these tips. 🌴\n\nVGC's beginner guide covers stashing your cash, using the day and night cycle, and spotting enterable buildings on both maps. There's also a quick Focus Mode boost and a roadside repair option. Swipe for the essentials.\n\nWhat's the first thing you did in Leonida?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #ViceCity #RockstarGames #GTA6Tips #GTA6Guide #GamingTips #BeginnersGuide",
-      "alt_text": "Graphic with the title '6 beginner tips for your first hours in Leonida' for a GTA 6 beginner's guide.",
+      "full_caption": "Rockstar may have left space on the GTA 6 map for more to come. 🗺️\n\nAccording to Mashable, Rockstar has hinted that the game's massive map was built with room for future content. It's a hint, not an official announcement, so there are no details on what could be added or when.\n\nIf it pans out, Leonida could keep evolving well after launch.\n\nWhat would you most like to see added to the map down the line?\n\nSource: Mashable\n\n#GTA6 #GTAVI #Leonida #RockstarGames #GrandTheftAutoVI #GTA #GTAOnline #GamingNews #OpenWorld #VideoGames",
+      "alt_text": "Graphic with the headline 'Rockstar Hints GTA 6's Huge Map Has Room to Grow' for The Leonida Daily news page.",
       "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795010980/gta-bot/b5d49dda0f-reel.mp4",
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996653/Vice_City_26.jpg",
+      "text_message_id": 51
+    },
+    "b887488c6c": {
+      "id": "b887488c6c",
+      "created": 1795068609.5957644,
+      "headline": "GTA 6 Personal Vehicles: How to Register, Store and Recover Your Ride",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-personal-vehicles-how-to-register-switch-recover-car/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068604/gta-bot/b887488c6c-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068604/gta-bot/b887488c6c-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068605/gta-bot/b887488c6c-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068606/gta-bot/b887488c6c-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068607/gta-bot/b887488c6c-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068609/gta-bot/b887488c6c-4.jpg"
+      ],
+      "full_caption": "Your ride just got a safety net. 🚗 In GTA 6, a Personal Vehicle is one you've paid to register, and if it's wrecked, the ScooterBros app can bring it back for a fee. Unowned cars get no such deal, and anything in their trunk is lost if they're destroyed. Swipe for how to register, store and recover your wheels.\n\nWhich car are you registering first?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTA6Guide #GTA6Tips #PersonalVehicle #ScooterBros #GamingNews",
+      "alt_text": "Graphic with the headline 'GTA 6 Personal Vehicles: How to Register, Store and Recover Your Ride' and a GUIDE label.",
+      "score": 7,
+      "reel_url": null,
       "category": "GUIDE",
       "slides": [
         {
-          "title": "Stash your cash early",
-          "text": "You start with no bank account, so everything is cash. Check the loose floorboards in Jason's bedroom to store money. If you die or get arrested, you lose the cash you're carrying."
+          "title": "What is a Personal Vehicle?",
+          "text": "It's a car or bike you're legally registered to ride. Its location is always marked on the map, under the Personal tab of the Index. Its trunk lets you manage your loadout, change outfits and store stash bags."
         },
         {
-          "title": "Mind the clock",
-          "text": "Day and night cycles are longer than in earlier games. Press up on the D-pad to see the time on your phone. Some shops close at night and police respond differently. Sleeping at Jason's house lets you change the time."
+          "title": "How to register one",
+          "text": "Drive an unowned vehicle to a Pay 'n' Spray and pay the fee, which depends on the make and model. Extra registered vehicles need extra garage space. ScooterBros can summon any of them for a fee."
         },
         {
-          "title": "Let the maps guide you",
-          "text": "On the world map, darker blue buildings can be entered and lighter blue ones can't. The minimap shows enterable doors and hidden rooms as you get close. In Focus Mode, a white door is open and a red one is alarmed."
+          "title": "Unowned vehicles and wrecks",
+          "text": "You can steal almost any car, but unowned ones can't be recovered once destroyed, and their trunk contents are lost. Park them outside your safehouse or in a garage to keep them safe."
         },
         {
-          "title": "Quick wins",
-          "text": "Feed Jason's pet snake Dolores for an early Focus Mode buff. Once it's unlocked, you can call your mechanic to repair your car almost anywhere. It costs money, but it's worth it."
+          "title": "Impounded? Here's the fix",
+          "text": "Dumping your car can clear Vehicle Heat, but cops will likely impound it. ScooterBros can fetch it for a hefty fee, though stash bags in the trunk may be lost. Or find it via the Personal section and steal it back."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
-      "text_message_id": 33,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795011213.7434652
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_07.jpg",
+      "text_message_id": 57
     },
+    "b0dd9d0bd0": {
+      "id": "b0dd9d0bd0",
+      "created": 1795068629.193738,
+      "headline": "GTA 6 Weapon Ownership: How to Keep Your Favorite Guns",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-weapon-ownership-explained/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068622/gta-bot/b0dd9d0bd0-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068622/gta-bot/b0dd9d0bd0-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068623/gta-bot/b0dd9d0bd0-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068624/gta-bot/b0dd9d0bd0-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068626/gta-bot/b0dd9d0bd0-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795068628/gta-bot/b0dd9d0bd0-4.jpg"
+      ],
+      "full_caption": "Lost your favorite rifle in GTA 6? Weapon ownership is probably why. 🔫\n\nGuns you buy or get from a mission are yours to keep. Guns grabbed off enemies or from the world are only temporary, and you lose them if you're Wasted or Busted. Swipe for the full breakdown.\n\nWhich gun would you never leave behind?\n\nSource: GamesRadar\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #JasonAndLucia #GTA6Tips #GTA6Guide #AmmuNation #Gaming",
+      "alt_text": "Graphic with the headline 'GTA 6 Weapon Ownership: How to Keep Your Favorite Guns' in The Leonida Daily style.",
+      "score": 7,
+      "reel_url": null,
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Owned vs unowned weapons",
+          "text": "GTA 6 splits guns into two groups. Owned weapons are bought at Ammu-Nation or given to you by a character in a mission. Everything else you pick up is unowned."
+        },
+        {
+          "title": "Keeping your owned guns",
+          "text": "Buy a weapon with Pocket Cash or BuckMe and both Jason and Lucia get a copy. Each of them has to modify and equip it separately. Dropped owned guns can be recovered from your car's trunk or an Ammu-Nation locker."
+        },
+        {
+          "title": "Unowned guns don't last",
+          "text": "Weapons dropped by enemies or found lying around can't be recovered or modified. If you get Wasted or Busted, they're gone for good."
+        },
+        {
+          "title": "Unique variants and new stock",
+          "text": "Look for a golden gun icon on the minimap to find Unique Weapon Variants. They can't be modified, but they unlock permanently for both characters. Buying more guns also expands Ammu-Nation's stock."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
+      "text_message_id": 63
+    }
+  },
+  "queue": [
     {
       "id": "b5d49dda0f",
       "created": 1795010982.1657538,
@@ -497,6 +613,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/sony-issues-mandatory-ps5-update-to-play-gta-6-potentially-slowing-down-hackers-attempts-to-dump-rockstars-game/",
       "at": 1795023550.6161742,
       "media_id": "18125798831094443"
+    },
+    {
+      "id": "b5d49dda0f",
+      "headline": "6 beginner tips for your first hours in Leonida",
+      "kind": "carousel",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+      "at": 1795068556.5609672,
+      "media_id": "18119121659113814"
     }
   ],
   "drafts_sent": [
@@ -507,7 +631,10 @@
     1795006198.414667,
     1795010985.8559465,
     1795011011.8548281,
-    1795014628.2649298
+    1795014628.2649298,
+    1795068591.634777,
+    1795068611.6700003,
+    1795068631.1235402
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -522,6 +649,9 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996653/Vice_City_26.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_07.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg"
   ]
 }
