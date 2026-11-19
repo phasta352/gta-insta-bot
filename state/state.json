@@ -666,49 +666,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg",
       "text_message_id": 47,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795016791.294813
-    },
-    {
-      "id": "c2dd93809f",
-      "created": 1795014625.1741796,
-      "headline": "No Mission Replays in GTA 6, So Use Your Save Slots",
-      "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014589/gta-bot/c2dd93809f-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014589/gta-bot/c2dd93809f-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014590/gta-bot/c2dd93809f-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014590/gta-bot/c2dd93809f-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014591/gta-bot/c2dd93809f-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795014592/gta-bot/c2dd93809f-4.jpg"
-      ],
-      "full_caption": "Plan your saves, Leonida. 💾 GTA 6 has no mission replay option, so once you finish a story mission you can't jump back into it. The game gives you 15 save slots plus an auto-save as a safety net. Rockstar also says it designed missions to be harder to fail, so you can experiment and play your own way. Swipe for the details.\n\nWill you keep a save before every big story moment, or trust the auto-save?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Rockstar #RockstarGames #Leonida #GTA #GTA6Tips #PS5 #XboxSeriesX",
-      "alt_text": "News graphic explaining that GTA 6 has no mission replay feature and offers 15 save slots instead.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795014624/gta-bot/c2dd93809f-reel.mp4",
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "No mission replays",
-          "text": "Once you finish a story mission in GTA 6, you can't replay it. Eurogamer's reviewer confirmed this over a 100+ hour playthrough. GTA 5 did offer a Replay Mission option."
-        },
-        {
-          "title": "15 save slots instead",
-          "text": "You get 15 save slots plus an auto-save for when you get Busted or Wasted. Missions far outnumber slots, so save wisely. Eurogamer says big story missions are easy to spot."
-        },
-        {
-          "title": "Harder to fail",
-          "text": "Rockstar's David Hynd says the team wanted fewer mission fails for players trying something different. Missions were built with many ways to approach them."
-        },
-        {
-          "title": "Freedom over simplicity",
-          "text": "Hynd admits that keeping missions open is harder in such a big game, but says the freedom was worth it. Players are expected to learn the world's rules and reapply them."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg",
-      "text_message_id": 47,
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795016791.294817
@@ -964,6 +921,14 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
       "at": 1795077552.9787433,
       "media_id": "18112357367224301"
+    },
+    {
+      "id": "c2dd93809f",
+      "headline": "No Mission Replays in GTA 6, So Use Your Save Slots",
+      "kind": "carousel",
+      "url": "https://www.eurogamer.net/gta-6-multiple-save-files-replay-missions",
+      "at": 1795082970.7963479,
+      "media_id": "18135368527780579"
     }
   ],
   "drafts_sent": [
