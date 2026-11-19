@@ -10,6 +10,13 @@ class InstagramError(RuntimeError):
     pass
 
 
+SPAM_BLOCK_SUBCODES = ("2207051", "2207001")   # Instagram's anti-spam "we restrict certain activity"
+
+
+def is_spam_block(error) -> bool:
+    return any(code in str(error) for code in SPAM_BLOCK_SUBCODES)
+
+
 class Instagram:
     def __init__(self, ig_user_id: str, token: str, api_version: str = "v25.0"):
         self.ig = ig_user_id
@@ -61,13 +68,14 @@ class Instagram:
         return result["id"]
 
     def _wait(self, container_id: str):
-        for _ in range(30):
+        # Check every 5 s (fewer, calmer requests than hammering the API).
+        for _ in range(24):
             status = self._req("GET", container_id, fields="status_code").get("status_code")
             if status == "FINISHED":
                 return
             if status in ("ERROR", "EXPIRED"):
                 raise InstagramError(f"Media container {status}")
-            time.sleep(3)
+            time.sleep(5)
 
     def publish_carousel(self, image_urls: list[str], caption: str, alt_text: str = "") -> str:
         """2-10 images in one post. Each image becomes a carousel item, then one parent post."""
@@ -85,6 +93,8 @@ class Instagram:
                 else:
                     raise
             children.append(item["id"])
+            time.sleep(3)   # pace the uploads: a burst of requests looks like spam to Instagram
+        time.sleep(4)
         for cid in children:
             self._wait(cid)
         parent = self._req("POST", f"{self.ig}/media", media_type="CAROUSEL",
