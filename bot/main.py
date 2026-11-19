@@ -19,7 +19,7 @@ import requests
 
 from . import design, reel, sources, state as state_mod, storage
 from .config import ROOT, load_secrets, load_settings
-from .instagram import Instagram
+from .instagram import Instagram, is_spam_block
 from .telegram import Telegram, esc
 
 OUT = ROOT / "out"
@@ -271,6 +271,10 @@ class Bot:
             return
         sch = self.settings["schedule"]
         draft = q[0]
+        if draft.get("retry_after", 0) > time.time():
+            when = dt.datetime.fromtimestamp(draft["retry_after"], self.tz).strftime("%H:%M")
+            log(f"Not posting: waiting until {when} after Instagram's anti-spam pause")
+            return
         if not draft.get("post_now"):
             if not self.in_posting_hours() or self.posts_today() >= sch["max_posts_per_day"]:
                 log("Not posting: outside posting hours or daily limit reached")
@@ -302,8 +306,17 @@ class Bot:
                 media_id = self.ig.publish(urls, draft["full_caption"], draft.get("alt_text", ""))
         except Exception as ex:
             log(f"Publishing failed: {ex}")
+            if is_spam_block(ex):
+                # Instagram's anti-spam system paused publishing. It lifts by itself; retry in an hour.
+                draft["spam_pauses"] = draft.get("spam_pauses", 0) + 1
+                if draft["spam_pauses"] <= 4:
+                    draft["retry_after"] = time.time() + 3600
+                    when = dt.datetime.fromtimestamp(draft["retry_after"], self.tz).strftime("%H:%M")
+                    self.tg.send(f"⏸ Instagram's anti-spam system paused posting for a moment (this happens "
+                                 f"now and then). I'll retry the {kind} <b>{esc(draft['headline'])}</b> from {when}.")
+                    return
             draft["attempts"] = draft.get("attempts", 0) + 1
-            if draft["attempts"] >= 3:
+            if draft["attempts"] >= 3 or draft.get("spam_pauses", 0) > 4:
                 q.pop(0)
                 self.tg.send(f"🚫 Gave up posting the {kind} after 3 tries: {esc(draft['headline'])}\n<code>{esc(str(ex))}</code>")
             else:
