@@ -51,6 +51,7 @@ carousel:
 reels:
   enabled: true                   # also make a vertical Reel for the strongest stories
   min_score: 8                    # stories scoring at least this (1-10) get a Reel as well as the carousel
+  share_to_story: true            # when a Reel is posted, also share its video to your Story
   # Music: put your own licensed MP3s in assets/music/ and the bot picks one per Reel.
   # With no files there, it generates an original royalty-free track for each Reel.
 
