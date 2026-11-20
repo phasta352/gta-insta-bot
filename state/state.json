@@ -2,7 +2,7 @@
   "telegram_offset": 889593654,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795178337.562268,
+  "last_scout": 1795181919.5602174,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -687,7 +687,30 @@
     "30219f6b145e0b4b": 1795178345.5136974,
     "88b4164eadaad5e4": 1795178345.5136974,
     "af7aa7358dc70e99": 1795178345.5136974,
-    "6e7f358b78160b11": 1795178345.5136974
+    "6e7f358b78160b11": 1795178345.5136974,
+    "93442eabaf986b51": 1795181928.9589853,
+    "7f9d8807807deb01": 1795181928.9589853,
+    "37683fb67622ab2f": 1795181928.9589853,
+    "06f8e2dc309f72d2": 1795181928.9589853,
+    "5dc1a55b1f67a76c": 1795181928.9589853,
+    "795bfa1c999605a5": 1795181928.9589853,
+    "bb80d8bfe7201e92": 1795181928.9589853,
+    "d8b43dcb36e822cf": 1795181928.9589853,
+    "3eb861318f588923": 1795181928.9589853,
+    "02d69dfab9a34ebd": 1795181928.9589853,
+    "27c8a9a91fe520e0": 1795181928.9589853,
+    "285a36720808d210": 1795181928.9589853,
+    "08cd704298d1e6a6": 1795181928.9589853,
+    "b3bca5b231c3d6fa": 1795181928.9589853,
+    "7ae58b6bd0dc55b7": 1795181928.9589853,
+    "df08eef13f869159": 1795181928.9589853,
+    "ece0f319ae825476": 1795181928.9589853,
+    "6a9e42d5e60d64cb": 1795181928.9589853,
+    "874fe87c8393642e": 1795181928.9589853,
+    "2aa34626393ecbfc": 1795181928.9589853,
+    "e907175c0292d6ec": 1795181928.9589853,
+    "d8b97e7c8119f414": 1795181928.9589853,
+    "5a47dd1ca85649f4": 1795181928.9589853
   },
   "drafts": {
     "265580e6df": {
@@ -708,52 +731,49 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
       "text_message_id": 115
+    },
+    "514ff4be90": {
+      "id": "514ff4be90",
+      "created": 1795181951.940268,
+      "headline": "Reports: 2 Million Xbox Players Jumped the GTA 6 Launch",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-new-zealand-trick-stats/",
+      "source": "Polygon",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795181947/gta-bot/514ff4be90-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795181947/gta-bot/514ff4be90-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795181948/gta-bot/514ff4be90-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795181949/gta-bot/514ff4be90-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795181950/gta-bot/514ff4be90-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795181951/gta-bot/514ff4be90-4.jpg"
+      ],
+      "full_caption": "Over 2 million players reportedly got into Leonida before launch day. 🌴\n\nAccording to reports, that many Xbox players in the US and UK used a region workaround to start GTA 6 early, and that figure doesn't include PlayStation or the rest of the world. It shows how huge the hype is, with about 20 million copies pre-ordered. But the workaround sits in a grey area of platform rules, so we're not recommending it.\n\nDid you play at launch or wait for your local release time?\n\nSource: Polygon\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #Xbox #PlayStation #GamingNews #GTA #ViceCity",
+      "alt_text": "News graphic with the headline about over 2 million Xbox players reportedly starting GTA 6 before its official launch time.",
+      "score": 7,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [
+        {
+          "title": "Early access, unofficially",
+          "text": "GTA 6 officially launched on Thursday, Nov. 19. But many players reportedly got in on Nov. 18 by switching their account region to New Zealand, where the staggered launch came first."
+        },
+        {
+          "title": "The reported numbers",
+          "text": "Reports say 2 million Xbox players in the UK and US started early. That excludes the rest of the world and PlayStation, so the true total is likely higher."
+        },
+        {
+          "title": "Hype at record scale",
+          "text": "With about 20 million copies pre-ordered, the early crowd was probably much bigger than 2 million. US players could reportedly start 21 hours before their local launch time."
+        },
+        {
+          "title": "Is it safe? Grey area",
+          "text": "Xbox and Sony don't want players bypassing access restrictions or giving false account info. Neither seems to be punishing early play, but that's \"at least for now.\" Play it safe and wait."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg",
+      "text_message_id": 192
     }
   },
   "queue": [
-    {
-      "id": "5f5b7f22a5",
-      "created": 1795174768.043351,
-      "headline": "GTA 6 Easter Eggs: Fast & Furious Car, Dexter's Apartment",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174745/gta-bot/5f5b7f22a5-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174745/gta-bot/5f5b7f22a5-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174746/gta-bot/5f5b7f22a5-4.jpg"
-      ],
-      "full_caption": "Leonida is packed with pop culture nods 🎬\n\nPlayers have already spotted a Fast and Furious car, Dexter's apartment and an X-Men parody comic. They're early finds, and the world looks full of film and TV references.\n\nWhich Easter egg are you hunting for first?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAuto6 #GTAVI #Leonida #RockstarGames #EasterEggs #ViceCity #GTACommunity #Gaming #GamingNews",
-      "alt_text": "Graphic with the headline about GTA 6 movie and TV Easter eggs, including a Fast and Furious car and Dexter's apartment.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795174766/gta-bot/5f5b7f22a5-reel.mp4",
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "Brian's Eclipse is in the game",
-          "text": "Players can get Brian O'Conner's 1995 Mitsubishi Eclipse from Fast and Furious. Head to Vespucci Island and break into a garage for a chance to claim it, with no upgrade needed."
-        },
-        {
-          "title": "Dexter's apartment",
-          "text": "A complex on Washington Island holds Dexter's apartment. Look on the roof of the building and you can find the weapons he's known for."
-        },
-        {
-          "title": "An X-Men parody comic",
-          "text": "Pick up an issue of 'RX Men' and you'll meet Dr. Placebo, a character who looks a lot like Magneto. It's one of several Marvel-style nods in Leonida."
-        },
-        {
-          "title": "Early days for the hunt",
-          "text": "These are only the first discoveries, and the world is full of pop culture surprises. Expect the community to keep finding more."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
-      "text_message_id": 170,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795174840.0343826
-    },
     {
       "id": "5f5b7f22a5",
       "created": 1795174768.043351,
@@ -1082,6 +1102,14 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlZ4ejE5YlYzYVc1YVFSbnNndHpVaFoyeUZuVVNYWHY4VklQZDBwbmFTaHk4cWh5dXlHSzExa2lpZlhDRFV3RjR0eGlPOTcyRDduUEZFVHJxY0VwSmlmZkhMN2RQa3BVbjhzZ21hVjc5TVBMVXdZdFRkRjdpNWd3NklhVVhMU1hIMjBrRTI4Nm1MYW9SaWZOT2Q2RjZmUk0?oc=5",
       "at": 1795178336.0927474,
       "media_id": "17897305386683122"
+    },
+    {
+      "id": "5f5b7f22a5",
+      "headline": "GTA 6 Easter Eggs: Fast & Furious Car, Dexter's Apartment",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/",
+      "at": 1795182013.0329115,
+      "media_id": "17960680590257190"
     }
   ],
   "drafts_sent": [
@@ -1106,12 +1134,12 @@
     1795171145.7271616,
     1795174771.8660202,
     1795174793.983664,
-    1795178371.5500436
+    1795178371.5500436,
+    1795181953.846805
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_14.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996710/DreQuan_Priest_04.jpg",
@@ -1140,6 +1168,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg"
   ]
 }
