@@ -756,49 +756,6 @@
   },
   "queue": [
     {
-      "id": "74cbd905dc",
-      "created": 1795174792.3155549,
-      "headline": "GTA 6's PS5 Trigger Trick Makes Cruising Effortless",
-      "url": "https://www.polygon.com/gta-6-ps5-dualsense-driving-cruising/",
-      "source": "Polygon",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174788/gta-bot/74cbd905dc-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174788/gta-bot/74cbd905dc-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174788/gta-bot/74cbd905dc-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174790/gta-bot/74cbd905dc-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174791/gta-bot/74cbd905dc-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174791/gta-bot/74cbd905dc-4.jpg"
-      ],
-      "full_caption": "Cruising in GTA 6 just got a lot more relaxed on PS5. 🎮\n\nRockstar uses the DualSense adaptive triggers to give the throttle a gentle soft stop when you hit the speed limit. Rest your finger on it and cruise, or push through when you want to go faster. Polygon's writer loves it.\n\nDo you cruise or floor it everywhere?\n\nSource: Polygon\n\n#GTA6 #GrandTheftAuto6 #GTAVI #RockstarGames #PS5 #DualSense #AdaptiveTriggers #Leonida #OpenWorld #GTANews",
-      "alt_text": "Graphic with the headline about GTA 6's PS5 adaptive trigger feature that makes cruising at the speed limit easier.",
-      "score": 6,
-      "reel_url": null,
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "The Soft Stop",
-          "text": "On the PS5 version of GTA 6, the right trigger (your throttle) pushes back gently when you reach the speed limit while driving."
-        },
-        {
-          "title": "Cruising Made Easy",
-          "text": "You can rest your finger on that resistance the way you'd rest a foot on a real pedal. No more hovering and tweaking to match the speed of traffic."
-        },
-        {
-          "title": "Push Past It",
-          "text": "When you want speed, pressing through the soft stop feels satisfying. Polygon compares it to a kickdown in an automatic car, with the vehicle surging forward."
-        },
-        {
-          "title": "A DualSense Perk",
-          "text": "Because the effect relies on adaptive triggers, it's a PS5 feature. Xbox controllers don't have adaptive triggers."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
-      "text_message_id": 176,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795174903.7217698
-    },
-    {
       "id": "d24a451cc7",
       "created": 1795178370.2155032,
       "headline": "GTA 6 Exotic Animals Front: Find the Parrot's Cash Stash",
@@ -1056,6 +1013,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/",
       "at": 1795189262.8471677,
       "media_id": "18222587221354871"
+    },
+    {
+      "id": "74cbd905dc",
+      "headline": "GTA 6's PS5 Trigger Trick Makes Cruising Effortless",
+      "kind": "carousel",
+      "url": "https://www.polygon.com/gta-6-ps5-dualsense-driving-cruising/",
+      "at": 1795194764.3195374,
+      "media_id": "18130602301867292"
     }
   ],
   "drafts_sent": [
