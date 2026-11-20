@@ -649,49 +649,6 @@
   },
   "queue": [
     {
-      "id": "22b9fa8d90",
-      "created": 1795158579.5706668,
-      "headline": "Skunk ape sighting found in GTA 6: here's where to look",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158545/gta-bot/22b9fa8d90-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158545/gta-bot/22b9fa8d90-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158546/gta-bot/22b9fa8d90-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158547/gta-bot/22b9fa8d90-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158547/gta-bot/22b9fa8d90-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158548/gta-bot/22b9fa8d90-4.jpg"
-      ],
-      "full_caption": "Bigfoot is back in Leonida, sort of. 🦶\n\nPC Gamer tracked down a skunk ape sighting across Gambit Bay from Jason's starting house. Take the boat, head for the peninsula, and use Focus Mode to follow the noises. Keep an eye out for skunk ape flyers around the state afterwards.\n\nHave you found any other cryptid spots in Leonida?\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #Leonida #LeonidaKeys #GTA #RockstarGames #Bigfoot #SkunkApe #EasterEgg #GamingNews",
-      "alt_text": "Graphic with the headline about a skunk ape sighting location in GTA 6, themed around the Leonida Keys.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795158578/gta-bot/22b9fa8d90-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "A GTA classic returns",
-          "text": "The bigfoot sighting gag is back in GTA 6. PC Gamer says it's technically a skunk ape, Florida's cryptid cousin of Bigfoot, and it comes with a cloud of green stink."
-        },
-        {
-          "title": "Where to go",
-          "text": "Look across Gambit Bay from Jason's initial house. Take his boat from the dock and head for the dead end road on the inside of the peninsula."
-        },
-        {
-          "title": "Follow the noise",
-          "text": "Before you reach land, a prompt tells you to use Focus Mode to follow the noises. The creature runs into the mangrove woods, so keep using Focus Mode to chase it."
-        },
-        {
-          "title": "After the sighting",
-          "text": "You'll lose sight of it and find a creepy effigy by a tree. Check it out for a close-up of the big feet. Flyers around Leonida then point you toward learning more about the beast."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
-      "text_message_id": 146,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795159476.9877925
-    },
-    {
       "id": "ba19973829",
       "created": 1795162209.4149337,
       "headline": "Rockstar Hints at Future Options for GTA 6 Locked Areas",
@@ -845,6 +802,14 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
       "at": 1795162185.181139,
       "media_id": "17915849646481018"
+    },
+    {
+      "id": "22b9fa8d90",
+      "headline": "Skunk ape sighting found in GTA 6: here's where to look",
+      "kind": "reel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
+      "at": 1795167560.8918366,
+      "media_id": "17974307031178953"
     }
   ],
   "drafts_sent": [
