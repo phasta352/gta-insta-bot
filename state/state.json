@@ -2,7 +2,7 @@
   "telegram_offset": 889593641,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795106343.470468,
+  "last_scout": 1795154915.1159458,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -463,7 +463,67 @@
     "b8132a294ec009c0": 1795106353.876457,
     "3723bb43e02a890f": 1795106353.876457,
     "4a86d2c1cd1ef9f5": 1795106353.876457,
-    "4f8c87363d8ba3ef": 1795106353.876457
+    "4f8c87363d8ba3ef": 1795106353.876457,
+    "4f6905b2f2edc699": 1795154925.4444137,
+    "4598cb02f7e072cd": 1795154925.4444137,
+    "6c30c86749702b45": 1795154925.4444137,
+    "2a5b6785d96d9f3f": 1795154925.4444137,
+    "f961dab92bb573e4": 1795154925.4444137,
+    "5c9247e2c037a42b": 1795154925.4444137,
+    "0a9c0c2aa8ef4bf0": 1795154925.4444137,
+    "57bb3ad830219135": 1795154925.4444137,
+    "0735d6088fd322fd": 1795154925.4444137,
+    "a245bba2fb6559b1": 1795154925.4444137,
+    "218dbe9ab7624bd3": 1795154925.4444137,
+    "bbb1549cfc671062": 1795154925.4444137,
+    "08ef113ffb84848b": 1795154925.4444137,
+    "935c3884a84725c5": 1795154925.4444137,
+    "7e7786fa85f1e1cb": 1795154925.4444137,
+    "a31d761f584276e8": 1795154925.4444137,
+    "d56d8b9fc310dd93": 1795154925.4444137,
+    "8b2bc83743ba2053": 1795154925.4444137,
+    "779503114b2ee6e8": 1795154925.4444137,
+    "b8e950a11e0f21e4": 1795154925.4444137,
+    "8a0debe85809940f": 1795154925.4444137,
+    "9b690ecb83f7c679": 1795154925.4444137,
+    "3bd479a34d76a9cb": 1795154925.4444137,
+    "dcb7bb09c90b565e": 1795154925.4444137,
+    "ab4be924c1f5f7ce": 1795154925.4444137,
+    "c2f422ef69d58640": 1795154925.4444137,
+    "85ab7cd0922980cf": 1795154925.4444137,
+    "482be5338e87502d": 1795154925.4444137,
+    "3d75a6d200a7d5a9": 1795154925.4444137,
+    "69921ee117949d9f": 1795154925.4444137,
+    "f3864c51f3c9f06d": 1795154925.4444137,
+    "2c0f5bcd510fcd73": 1795154925.4444137,
+    "ff16bf0a74d3520d": 1795154925.4444137,
+    "a939cda258e13a63": 1795154925.4444137,
+    "ff423102cfc27bf3": 1795154925.4444137,
+    "c1ae15dec3ca01ab": 1795154925.4444137,
+    "244cdf47b7982c9b": 1795154925.4444137,
+    "1250d20ad8dd1810": 1795154925.4444137,
+    "05bf05a61bf769e1": 1795154925.4444137,
+    "0db2b8be96e7e324": 1795154925.4444137,
+    "7d68728bff94c727": 1795154925.4444137,
+    "54309be3b65084a8": 1795154925.4444137,
+    "aff00ff13f888ca3": 1795154925.4444137,
+    "a55f9902a6d1e383": 1795154925.4444137,
+    "0ff19d4370885acc": 1795154925.4444137,
+    "79f56390b4393efb": 1795154925.4444137,
+    "e31391b1ac21742f": 1795154925.4444137,
+    "3216699b7178cf20": 1795154925.4444137,
+    "95a6719931832c6f": 1795154925.4444137,
+    "dd9dc33db70bd94f": 1795154925.4444137,
+    "2e9a210d9f3a74a9": 1795154925.4444137,
+    "5b3cebd9fd6ba1b8": 1795154925.4444137,
+    "bc34f9f89401b0a8": 1795154925.4444137,
+    "68283cddbbb94344": 1795154925.4444137,
+    "956747432aa9ca32": 1795154925.4444137,
+    "041422ff8943c52a": 1795154925.4444137,
+    "bb87e4360b83f9d6": 1795154925.4444137,
+    "fe5af0a56a23ae42": 1795154925.4444137,
+    "85246b6eaf2e587d": 1795154925.4444137,
+    "b2096f8d425b06af": 1795154925.4444137
   },
   "drafts": {
     "b773ad7163": {
@@ -623,6 +683,65 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
       "text_message_id": 115
+    },
+    "d006852970": {
+      "id": "d006852970",
+      "created": 1795154934.5214782,
+      "headline": "GTA 6 Day-One Sales Estimated at 24.6 Million Copies",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbUdZdTREbjJpdDBLNkswcjVyWkYwNURzeE9aNmEyZmNNNnhDT3ZVTjlNUTl0TlNJbG4xMDNLTENDNWROaTJwM3RKaEliZTlVS0NJUFpFdkI5Q2pEa2xwQ0tTeG0ySDl5dnc?oc=5",
+      "source": "Make Tech Easier",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154934/gta-bot/d006852970-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154934/gta-bot/d006852970-0.jpg"
+      ],
+      "full_caption": "Big numbers are being floated for GTA 6's launch day. 💰\n\nAnalytics firm Sensor Tower estimates the game sold about 24.6 million copies on day one, worth roughly $2.36 billion. That is nearly triple the roughly $800 million GTA 5 made on its first day in 2013. The firm also estimates about three in four copies were bought on PS5.\n\nThese are third-party estimates, not official figures from Rockstar or Take-Two, so treat them as approximate.\n\nDoes a launch this big surprise you, or did you expect it? 🎮\n\nSource: Make Tech Easier\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #SensorTower #GTA5 #PS5 #GamingNews #VideoGameSales #LeonidaDaily",
+      "alt_text": "Graphic showing the headline that GTA 6 is estimated to have sold 24.6 million copies on its first day.",
+      "score": 9,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
+      "text_message_id": 131
+    },
+    "92e84c2241": {
+      "id": "92e84c2241",
+      "created": 1795154974.5659246,
+      "headline": "GTA 6 First-Person Mode Is Playable: Here's the Workaround",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154946/gta-bot/92e84c2241-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154946/gta-bot/92e84c2241-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154947/gta-bot/92e84c2241-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154947/gta-bot/92e84c2241-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154948/gta-bot/92e84c2241-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154949/gta-bot/92e84c2241-4.jpg"
+      ],
+      "full_caption": "First-person GTA 6 is playable right now, if you know the trick. 👀\n\nPlayers on Reddit found a settings workaround, and PC Gamer's Morgan Park tested it. It works, but it looks unfinished, with shoulders clipping through the camera when you hold a longarm. It's not an official feature, so treat it as a curiosity.\n\nWould you play GTA 6 in first-person full-time?\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTA #GTA6Tips #GamingNews #FirstPerson",
+      "alt_text": "Graphic with the headline about a workaround that unlocks a playable first-person mode in GTA 6.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795154973/gta-bot/92e84c2241-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "First-person is playable",
+          "text": "GTA 6 only lets you go first-person briefly, such as when checking your phone. Reddit players found a way to stay in it, and PC Gamer's Morgan Park tested it and says it's fully playable."
+        },
+        {
+          "title": "How to activate it",
+          "text": "In controller settings, under Controller Features, set your touch pad/select button to Camera 2 / 2. Get in a car, open your phone with the D-pad, press Circle or B, then quickly hit Select."
+        },
+        {
+          "title": "Rough around the edges",
+          "text": "It doesn't look finished. Shoulders clip through the camera with a longarm raised, and breaking into a car looks a bit rough in first-person."
+        },
+        {
+          "title": "How to switch back",
+          "text": "You can't toggle back out. Save while in first-person, then load that same save to return to third-person."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
+      "text_message_id": 138
     }
   },
   "queue": [],
@@ -761,7 +880,9 @@
     1795077604.697691,
     1795077643.6544852,
     1795106365.9540594,
-    1795106413.5271778
+    1795106413.5271778,
+    1795154935.8863618,
+    1795154978.269141
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -786,6 +907,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996648/Vice_City_24.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg"
   ]
 }
