@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593645,
+  "telegram_offset": 889593647,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795162187.368845,
@@ -635,86 +635,6 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
       "text_message_id": 115
-    },
-    "92e84c2241": {
-      "id": "92e84c2241",
-      "created": 1795154974.5659246,
-      "headline": "GTA 6 First-Person Mode Is Playable: Here's the Workaround",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154946/gta-bot/92e84c2241-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154946/gta-bot/92e84c2241-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154947/gta-bot/92e84c2241-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154947/gta-bot/92e84c2241-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154948/gta-bot/92e84c2241-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154949/gta-bot/92e84c2241-4.jpg"
-      ],
-      "full_caption": "First-person GTA 6 is playable right now, if you know the trick. 👀\n\nPlayers on Reddit found a settings workaround, and PC Gamer's Morgan Park tested it. It works, but it looks unfinished, with shoulders clipping through the camera when you hold a longarm. It's not an official feature, so treat it as a curiosity.\n\nWould you play GTA 6 in first-person full-time?\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTA #GTA6Tips #GamingNews #FirstPerson",
-      "alt_text": "Graphic with the headline about a workaround that unlocks a playable first-person mode in GTA 6.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795154973/gta-bot/92e84c2241-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "First-person is playable",
-          "text": "GTA 6 only lets you go first-person briefly, such as when checking your phone. Reddit players found a way to stay in it, and PC Gamer's Morgan Park tested it and says it's fully playable."
-        },
-        {
-          "title": "How to activate it",
-          "text": "In controller settings, under Controller Features, set your touch pad/select button to Camera 2 / 2. Get in a car, open your phone with the D-pad, press Circle or B, then quickly hit Select."
-        },
-        {
-          "title": "Rough around the edges",
-          "text": "It doesn't look finished. Shoulders clip through the camera with a longarm raised, and breaking into a car looks a bit rough in first-person."
-        },
-        {
-          "title": "How to switch back",
-          "text": "You can't toggle back out. Save while in first-person, then load that same save to return to third-person."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
-      "text_message_id": 138
-    },
-    "dc28585a27": {
-      "id": "dc28585a27",
-      "created": 1795162240.0542076,
-      "headline": "GTA 6 players love the chaos, wildlife and in-game social media",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162235/gta-bot/dc28585a27-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162235/gta-bot/dc28585a27-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162236/gta-bot/dc28585a27-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162237/gta-bot/dc28585a27-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162238/gta-bot/dc28585a27-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162239/gta-bot/dc28585a27-4.jpg"
-      ],
-      "full_caption": "Day one in Vice City is already producing legends. 🌴\n\nPlayers are sharing slapstick brawls, wipeouts caused by their own reckless driving, and run-ins with the wildlife. Giant boars, mutant crabs and a dog on a jet ski are among the oddities people have found off the beaten path. The in-game social media is also a hit, with one player saying they spent half an hour reading the fake Instagram comments.\n\nWhat's your favourite moment so far?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #PS5 #XboxSeriesX #GamingNews #GTACommunity",
-      "alt_text": "Graphic with the headline about GTA 6 players enjoying slapstick chaos, dangerous wildlife and in-game social media in Vice City.",
-      "score": 6,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "Day one reactions pour in",
-          "text": "After GTA 6 launched, players flooded social media with their favourite moments. Slapstick violence, animal deaths and the in-game social media have been the early favourites."
-        },
-        {
-          "title": "Chaos is mostly self-inflicted",
-          "text": "Brawls with Vice City locals can get brutal but also very funny. Many of the nastiest wipeouts in the clips come from players' own dangerous driving."
-        },
-        {
-          "title": "The wildlife fights back",
-          "text": "Players have as much to fear from animals as from the locals. Off the beaten path, people have found giant boars, mutant crabs and a heroic dog riding a jet ski."
-        },
-        {
-          "title": "Fake Instagram steals the show",
-          "text": "The in-game social media has players glued to their screens. One player joked they'd never leave the tutorial after reading the fake Instagram comments for half an hour."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996659/Grassrivers_01.jpg",
-      "text_message_id": 155
     }
   },
   "queue": [
