@@ -775,49 +775,6 @@
   },
   "queue": [
     {
-      "id": "5f5b7f22a5",
-      "created": 1795174768.043351,
-      "headline": "GTA 6 Easter Eggs: Fast & Furious Car, Dexter's Apartment",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174745/gta-bot/5f5b7f22a5-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174745/gta-bot/5f5b7f22a5-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174746/gta-bot/5f5b7f22a5-4.jpg"
-      ],
-      "full_caption": "Leonida is packed with pop culture nods 🎬\n\nPlayers have already spotted a Fast and Furious car, Dexter's apartment and an X-Men parody comic. They're early finds, and the world looks full of film and TV references.\n\nWhich Easter egg are you hunting for first?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAuto6 #GTAVI #Leonida #RockstarGames #EasterEggs #ViceCity #GTACommunity #Gaming #GamingNews",
-      "alt_text": "Graphic with the headline about GTA 6 movie and TV Easter eggs, including a Fast and Furious car and Dexter's apartment.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795174766/gta-bot/5f5b7f22a5-reel.mp4",
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "Brian's Eclipse is in the game",
-          "text": "Players can get Brian O'Conner's 1995 Mitsubishi Eclipse from Fast and Furious. Head to Vespucci Island and break into a garage for a chance to claim it, with no upgrade needed."
-        },
-        {
-          "title": "Dexter's apartment",
-          "text": "A complex on Washington Island holds Dexter's apartment. Look on the roof of the building and you can find the weapons he's known for."
-        },
-        {
-          "title": "An X-Men parody comic",
-          "text": "Pick up an issue of 'RX Men' and you'll meet Dr. Placebo, a character who looks a lot like Magneto. It's one of several Marvel-style nods in Leonida."
-        },
-        {
-          "title": "Early days for the hunt",
-          "text": "These are only the first discoveries, and the world is full of pop culture surprises. Expect the community to keep finding more."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
-      "text_message_id": 170,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795174840.0343862
-    },
-    {
       "id": "74cbd905dc",
       "created": 1795174792.3155549,
       "headline": "GTA 6's PS5 Trigger Trick Makes Cruising Effortless",
@@ -1110,10 +1067,17 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/",
       "at": 1795182013.0329115,
       "media_id": "17960680590257190"
+    },
+    {
+      "id": "5f5b7f22a5",
+      "headline": "GTA 6 Easter Eggs: Fast & Furious Car, Dexter's Apartment",
+      "kind": "reel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/",
+      "at": 1795189262.8471677,
+      "media_id": "18222587221354871"
     }
   ],
   "drafts_sent": [
-    1795014628.2649298,
     1795068591.634777,
     1795068611.6700003,
     1795068631.1235402,
