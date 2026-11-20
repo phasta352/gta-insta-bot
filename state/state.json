@@ -2,7 +2,7 @@
   "telegram_offset": 889593647,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795165711.2377925,
+  "last_scout": 1795171110.8140666,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -624,7 +624,27 @@
     "ba5c5ab2bb3c0361": 1795165720.0892744,
     "a1106d61ac9f88ca": 1795165720.0892744,
     "80aee12d98d0882e": 1795165720.0892744,
-    "d14c6dfc5bd79f83": 1795165720.0892744
+    "d14c6dfc5bd79f83": 1795165720.0892744,
+    "d6d7c8603b55a502": 1795171120.9246185,
+    "41b46c20191a75ea": 1795171120.9246185,
+    "72bf58e9bd3e2816": 1795171120.9246185,
+    "363e3215356bbe7b": 1795171120.9246185,
+    "0efa5f713b8ec897": 1795171120.9246185,
+    "69e7017c39976910": 1795171120.9246185,
+    "b5ea7a24e0e60b6a": 1795171120.9246185,
+    "f02ba92bd8e84bee": 1795171120.9246185,
+    "0b0bfe6b31c1383c": 1795171120.9246185,
+    "5ee8ac014813e273": 1795171120.9246185,
+    "699b273bdf4ef5de": 1795171120.9246185,
+    "a1de6f14f02ea5db": 1795171120.9246185,
+    "b7faa2d113acb9c0": 1795171120.9246185,
+    "aae9ecee64dff77c": 1795171120.9246185,
+    "c4aa88cc9df45d50": 1795171120.9246185,
+    "3f23f6c7cc042b6b": 1795171120.9246185,
+    "64acf33200f8fbde": 1795171120.9246185,
+    "20e3354597748ee5": 1795171120.9246185,
+    "c8b54e005eef9ea6": 1795171120.9246185,
+    "1b106f59bef8ff16": 1795171120.9246185
   },
   "drafts": {
     "265580e6df": {
@@ -645,6 +665,25 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
       "text_message_id": 115
+    },
+    "a131c0cdb0": {
+      "id": "a131c0cdb0",
+      "created": 1795171144.5131662,
+      "headline": "IGN teams up with Rockstar for the official GTA 6 guide",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONlZ4ejE5YlYzYVc1YVFSbnNndHpVaFoyeUZuVVNYWHY4VklQZDBwbmFTaHk4cWh5dXlHSzExa2lpZlhDRFV3RjR0eGlPOTcyRDduUEZFVHJxY0VwSmlmZkhMN2RQa3BVbjhzZ21hVjc5TVBMVXdZdFRkRjdpNWd3NklhVVhMU1hIMjBrRTI4Nm1MYW9SaWZOT2Q2RjZmUk0?oc=5",
+      "source": "GamesIndustry.biz",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795171144/gta-bot/a131c0cdb0-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795171144/gta-bot/a131c0cdb0-0.jpg"
+      ],
+      "full_caption": "An official GTA 6 strategy guide is on the way, and IGN is hosting it. 📖\n\nAccording to GamesIndustry.biz, IGN has partnered with Rockstar to host the Official Strategy Guide for Grand Theft Auto VI. That means the guide comes with Rockstar's involvement rather than from a fan-made source. We'll share more as soon as details on what's inside and when it arrives are confirmed.\n\nWill you rely on an official guide, or would you rather find everything yourself in Leonida?\n\nSource: GamesIndustry.biz\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #IGN #StrategyGuide #Leonida #GTANews #GamingNews #OpenWorld",
+      "alt_text": "News graphic announcing that IGN has partnered with Rockstar Games to host the Official Strategy Guide for Grand Theft Auto VI.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg",
+      "text_message_id": 160
     }
   },
   "queue": [
@@ -835,7 +874,8 @@
     1795154978.269141,
     1795158583.208985,
     1795162210.8676853,
-    1795162242.4109094
+    1795162242.4109094,
+    1795171145.7271616
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -865,6 +905,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996659/Grassrivers_01.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996659/Grassrivers_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg"
   ]
 }
