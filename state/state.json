@@ -754,51 +754,7 @@
       "text_message_id": 192
     }
   },
-  "queue": [
-    {
-      "id": "d24a451cc7",
-      "created": 1795178370.2155032,
-      "headline": "GTA 6 Exotic Animals Front: Find the Parrot's Cash Stash",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/exotic-animals-front-illegal-operation-gta-6/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795178367/gta-bot/d24a451cc7-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795178367/gta-bot/d24a451cc7-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795178368/gta-bot/d24a451cc7-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795178368/gta-bot/d24a451cc7-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795178369/gta-bot/d24a451cc7-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795178369/gta-bot/d24a451cc7-4.jpg"
-      ],
-      "full_caption": "A chatty parrot just handed you an easy payday in Leonida. 🦜\n\nBehind the Three Sheets Liquor Store in Key Lento, there's a guarded exotic bird smuggling operation. Clear out the guards, ask the parrot about the cash, and you'll walk away with $1,263 from a hidden stash. Swipe for the full walkthrough.\n\nWill you sneak in with bottle distractions or go in loud?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #KeyLento #GTA6Guide #GTA6Tips #GamingNews #VideoGames",
-      "alt_text": "Graphic for a GTA 6 guide about the Exotic Animals Front illegal operation, showing a parrot hinting at a hidden cash stash in Key Lento.",
-      "score": 7,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795178625/gta-bot/d24a451cc7-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where to find it",
-          "text": "The operation sits behind the Three Sheets Liquor Store in Key Lento, just north of the Pay N'Spray. Climb the fence to the left of the store (facing it) to reach the walled-off area."
-        },
-        {
-          "title": "Deal with the guards",
-          "text": "Five or six armed criminals patrol the area. Lure them out one by one with the scattered bottles and take them down quietly. Going in guns blazing adds to a violent criminal profile and brings the cops."
-        },
-        {
-          "title": "Ask the parrot",
-          "text": "Talk to the parrot in the cage and pick 'Cash?', then 'Where's the cash?'. It points you to the generator in the corner, straight ahead and to the left as you face the parrot."
-        },
-        {
-          "title": "Grab the $1,263",
-          "text": "Open the white vent next to the generator to find $1,263. A nearby door leads to more cash in a safe and counting machine, plus one more guy. You can also study the birds to add them to your collection."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
-      "text_message_id": 183,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795179129.248831
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -986,6 +942,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/exotic-animals-front-illegal-operation-gta-6/",
       "at": 1795199978.2246287,
       "media_id": "18609476827068254"
+    },
+    {
+      "id": "d24a451cc7",
+      "headline": "GTA 6 Exotic Animals Front: Find the Parrot's Cash Stash",
+      "kind": "reel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/exotic-animals-front-illegal-operation-gta-6/",
+      "at": 1795207179.888024,
+      "media_id": "18085920347558452"
     }
   ],
   "drafts_sent": [
