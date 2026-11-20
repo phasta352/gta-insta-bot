@@ -2,7 +2,7 @@
   "telegram_offset": 889593642,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795154915.1159458,
+  "last_scout": 1795158523.8539205,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -523,7 +523,67 @@
     "bb87e4360b83f9d6": 1795154925.4444137,
     "fe5af0a56a23ae42": 1795154925.4444137,
     "85246b6eaf2e587d": 1795154925.4444137,
-    "b2096f8d425b06af": 1795154925.4444137
+    "b2096f8d425b06af": 1795154925.4444137,
+    "2aac839c1c7bf3c6": 1795158533.926207,
+    "cf2ade73c7a0cafd": 1795158533.926207,
+    "4f2affb1c10717aa": 1795158533.926207,
+    "d68f63183a389917": 1795158533.926207,
+    "f62b301a93a7b3d2": 1795158533.926207,
+    "e328cab64cbe39ca": 1795158533.926207,
+    "1a3ce1da06c599c7": 1795158533.926207,
+    "8730805780ca9f49": 1795158533.926207,
+    "2be0547c8c677025": 1795158533.926207,
+    "08d0fc63ce49d1c7": 1795158533.926207,
+    "bfc2fb4d6b87939d": 1795158533.926207,
+    "bac5d47a9fb537aa": 1795158533.926207,
+    "9d484053f90c50c3": 1795158533.926207,
+    "3653be5d49cadc6a": 1795158533.926207,
+    "2eca6182787477e1": 1795158533.926207,
+    "7d51501b095aca9f": 1795158533.926207,
+    "204aca24b6ffc7a2": 1795158533.926207,
+    "00f85d9b32d072aa": 1795158533.926207,
+    "f44fa7fbfd74bea2": 1795158533.926207,
+    "a434522693ac016f": 1795158533.926207,
+    "265239b1f68e8ae3": 1795158533.926207,
+    "00c55ecd31a1daec": 1795158533.926207,
+    "722709c13e478d66": 1795158533.926207,
+    "633b1709db1257c6": 1795158533.926207,
+    "d7827f9d7e165649": 1795158533.926207,
+    "a0e0affb01e5548d": 1795158533.926207,
+    "79e7f26763234d77": 1795158533.926207,
+    "5d82330e94d5f5d4": 1795158533.926207,
+    "9db2a21a7fbc9be0": 1795158533.926207,
+    "f892d2cc170f1fc3": 1795158533.926207,
+    "75ea196701cd7bf4": 1795158533.926207,
+    "139a91dfac1ac719": 1795158533.926207,
+    "e73b5333e5f68320": 1795158533.926207,
+    "6db0e51d65f6144b": 1795158533.926207,
+    "da6b56977f456263": 1795158533.926207,
+    "a775b19849c2dd71": 1795158533.926207,
+    "22ae56b7dbb32c2b": 1795158533.926207,
+    "1f2765376abdadc4": 1795158533.926207,
+    "b1acc2449adfc996": 1795158533.926207,
+    "396d1ec97181a574": 1795158533.926207,
+    "1156e665a7e0faa2": 1795158533.926207,
+    "ddbe3f83757825b5": 1795158533.926207,
+    "4e0e5614bd067187": 1795158533.926207,
+    "c67379601535dd53": 1795158533.926207,
+    "e59835c296912c8e": 1795158533.926207,
+    "98102ae71fc7bf1c": 1795158533.926207,
+    "5b6c75579e1093ac": 1795158533.926207,
+    "05bb3294fa95b81d": 1795158533.926207,
+    "ae263afbd06e15fe": 1795158533.926207,
+    "bb783594c11fcf18": 1795158533.926207,
+    "72bf8a3a88da2097": 1795158533.926207,
+    "3f26801cc9e10275": 1795158533.926207,
+    "8be1fb955810761c": 1795158533.926207,
+    "d5baf9a4b14c9f73": 1795158533.926207,
+    "7a568ae0c227a26d": 1795158533.926207,
+    "d9593fe9658debec": 1795158533.926207,
+    "a71dca26aa3fca5d": 1795158533.926207,
+    "9a3b72c3a14bc3c9": 1795158533.926207,
+    "52ba1ebd409367bb": 1795158533.926207,
+    "a377ed0f23a6fb1a": 1795158533.926207
   },
   "drafts": {
     "5535f1e6f1": {
@@ -624,6 +684,46 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
       "text_message_id": 138
+    },
+    "22b9fa8d90": {
+      "id": "22b9fa8d90",
+      "created": 1795158579.5706668,
+      "headline": "Skunk ape sighting found in GTA 6: here's where to look",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158545/gta-bot/22b9fa8d90-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158545/gta-bot/22b9fa8d90-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158546/gta-bot/22b9fa8d90-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158547/gta-bot/22b9fa8d90-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158547/gta-bot/22b9fa8d90-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158548/gta-bot/22b9fa8d90-4.jpg"
+      ],
+      "full_caption": "Bigfoot is back in Leonida, sort of. 🦶\n\nPC Gamer tracked down a skunk ape sighting across Gambit Bay from Jason's starting house. Take the boat, head for the peninsula, and use Focus Mode to follow the noises. Keep an eye out for skunk ape flyers around the state afterwards.\n\nHave you found any other cryptid spots in Leonida?\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #Leonida #LeonidaKeys #GTA #RockstarGames #Bigfoot #SkunkApe #EasterEgg #GamingNews",
+      "alt_text": "Graphic with the headline about a skunk ape sighting location in GTA 6, themed around the Leonida Keys.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795158578/gta-bot/22b9fa8d90-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "A GTA classic returns",
+          "text": "The bigfoot sighting gag is back in GTA 6. PC Gamer says it's technically a skunk ape, Florida's cryptid cousin of Bigfoot, and it comes with a cloud of green stink."
+        },
+        {
+          "title": "Where to go",
+          "text": "Look across Gambit Bay from Jason's initial house. Take his boat from the dock and head for the dead end road on the inside of the peninsula."
+        },
+        {
+          "title": "Follow the noise",
+          "text": "Before you reach land, a prompt tells you to use Focus Mode to follow the noises. The creature runs into the mangrove woods, so keep using Focus Mode to chase it."
+        },
+        {
+          "title": "After the sighting",
+          "text": "You'll lose sight of it and find a creepy effigy by a tree. Check it out for a close-up of the big feet. Flyers around Leonida then point you toward learning more about the beast."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
+      "text_message_id": 146
     }
   },
   "queue": [],
@@ -772,7 +872,8 @@
     1795106365.9540594,
     1795106413.5271778,
     1795154935.8863618,
-    1795154978.269141
+    1795154978.269141,
+    1795158583.208985
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -799,6 +900,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg"
   ]
 }
