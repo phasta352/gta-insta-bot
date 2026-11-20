@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593641,
+  "telegram_offset": 889593642,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795154915.1159458,
@@ -585,25 +585,6 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
       "text_message_id": 115
     },
-    "d006852970": {
-      "id": "d006852970",
-      "created": 1795154934.5214782,
-      "headline": "GTA 6 Day-One Sales Estimated at 24.6 Million Copies",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbUdZdTREbjJpdDBLNkswcjVyWkYwNURzeE9aNmEyZmNNNnhDT3ZVTjlNUTl0TlNJbG4xMDNLTENDNWROaTJwM3RKaEliZTlVS0NJUFpFdkI5Q2pEa2xwQ0tTeG0ySDl5dnc?oc=5",
-      "source": "Make Tech Easier",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154934/gta-bot/d006852970-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795154934/gta-bot/d006852970-0.jpg"
-      ],
-      "full_caption": "Big numbers are being floated for GTA 6's launch day. 💰\n\nAnalytics firm Sensor Tower estimates the game sold about 24.6 million copies on day one, worth roughly $2.36 billion. That is nearly triple the roughly $800 million GTA 5 made on its first day in 2013. The firm also estimates about three in four copies were bought on PS5.\n\nThese are third-party estimates, not official figures from Rockstar or Take-Two, so treat them as approximate.\n\nDoes a launch this big surprise you, or did you expect it? 🎮\n\nSource: Make Tech Easier\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #SensorTower #GTA5 #PS5 #GamingNews #VideoGameSales #LeonidaDaily",
-      "alt_text": "Graphic showing the headline that GTA 6 is estimated to have sold 24.6 million copies on its first day.",
-      "score": 9,
-      "reel_url": null,
-      "category": "RECORDS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
-      "text_message_id": 131
-    },
     "92e84c2241": {
       "id": "92e84c2241",
       "created": 1795154974.5659246,
@@ -761,6 +742,14 @@
       "at": 1795111803.1676548,
       "media_id": "17911068294330850",
       "story_id": "18108387911345817"
+    },
+    {
+      "id": "d006852970",
+      "headline": "GTA 6 Day-One Sales Estimated at 24.6 Million Copies",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbUdZdTREbjJpdDBLNkswcjVyWkYwNURzeE9aNmEyZmNNNnhDT3ZVTjlNUTl0TlNJbG4xMDNLTENDNWROaTJwM3RKaEliZTlVS0NJUFpFdkI5Q2pEa2xwQ0tTeG0ySDl5dnc?oc=5",
+      "at": 1795157808.6893685,
+      "media_id": "18652403896031109"
     }
   ],
   "drafts_sent": [
