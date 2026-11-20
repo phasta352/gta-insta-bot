@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593644,
+  "telegram_offset": 889593645,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795162187.368845,
@@ -617,46 +617,6 @@
     "d4737f3d2c47a36c": 1795162197.756942
   },
   "drafts": {
-    "5535f1e6f1": {
-      "id": "5535f1e6f1",
-      "created": 1795077639.7017546,
-      "headline": "GTA 6 Classic Controls: How to Switch Back to GTA 5 Feel",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-classic-controls/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077614/gta-bot/5535f1e6f1-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077614/gta-bot/5535f1e6f1-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077615/gta-bot/5535f1e6f1-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077616/gta-bot/5535f1e6f1-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077616/gta-bot/5535f1e6f1-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795077617/gta-bot/5535f1e6f1-4.jpg"
-      ],
-      "full_caption": "Muscle memory fighting you in Leonida? 🎮 There's a fix.\n\nGTA 6 launches with a new default control scheme, but you can switch to a Classic scheme that feels closer to GTA 5. Open the Options/Menu button, head to Settings and change the scheme. The default HUD is also more dynamic, and you can adjust that in Settings too.\n\nAre you sticking with the new controls or going Classic?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTA #Leonida #RockstarGames #GTA6Tips #GTA6Guide #GTA5 #GamingNews #VideoGames",
-      "alt_text": "Graphic with the headline 'GTA 6 Classic Controls: How to Switch Back to GTA 5 Feel' in The Leonida Daily style.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795077638/gta-bot/5535f1e6f1-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "How to turn on Classic controls",
-          "text": "Press the Options/Menu button on your controller and go to Settings. There you can switch from the default scheme to the Classic control scheme, which gets you closer to the GTA 5 experience."
-        },
-        {
-          "title": "What's different by default",
-          "text": "In the new default scheme, running sits on L3/LS, while X/A is now jump. Melee has moved to Square/X. That's why GTA 5 veterans may feel thrown at first."
-        },
-        {
-          "title": "Check the Dynamic HUD too",
-          "text": "The default HUD hides non-essential info. Press down on the D-pad to bring up the minimap, bank balances, and health, stamina and focus bars. You can toggle all of these in Settings."
-        },
-        {
-          "title": "More options to tweak",
-          "text": "By default, you hold down on the D-pad and use L1/LB and R1/RB to cycle nearby tasks and locations and set destinations. You can also change how you interact with citizens from your car."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996648/Vice_City_24.jpg",
-      "text_message_id": 99
-    },
     "265580e6df": {
       "id": "265580e6df",
       "created": 1795106364.6571198,
