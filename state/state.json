@@ -686,30 +686,7 @@
       "text_message_id": 160
     }
   },
-  "queue": [
-    {
-      "id": "ba19973829",
-      "created": 1795162209.4149337,
-      "headline": "Rockstar Hints at Future Options for GTA 6 Locked Areas",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSUlWMVpvLVVyVkZmYUpRTDVoZDU3RGZDOHI4MjJueTdBcnNqanRMa3p0NTcwMW04dklFZTNwRHRwNV8taW9jcUNFMnJCQnVLMVN3bjdMcXB6bjlsLTBVandWQmhfR3ZXR0Z0TG9hbDY5bzJCMXgtanJmdTlXS1ZZTEV5Sm15UUpEVDNUYWJ0SzBkNWI5UzgtRmpVakZCbFRFWE55dDFHbElZWUhaQktQYjFsd3psT3NUVFUtNk5ydkF6cG5zcVFiMjJR?oc=5",
-      "source": "Notebookcheck",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162209/gta-bot/ba19973829-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162209/gta-bot/ba19973829-0.jpg"
-      ],
-      "full_caption": "Locked doors in Leonida might not stay shut forever. 🔒\n\nAccording to Notebookcheck, Rockstar says the locked casinos and unused map areas in GTA 6 leave \"options in the future.\" That is a hint at what could come later, not a promise, and no specific plans have been confirmed. We'll share more once Rockstar gives details.\n\nWhat would you most like to see opened up in Leonida?\n\nSource: Notebookcheck\n\n#GTA6 #GTAVI #RockstarGames #Leonida #ViceCity #GTA #GTANews #GamingNews #OpenWorld #TheLeonidaDaily",
-      "alt_text": "News graphic with the headline 'Rockstar Hints at Future Options for GTA 6 Locked Areas' in the style of The Leonida Daily.",
-      "score": 8,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
-      "text_message_id": 149,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795162775.4807281
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -849,6 +826,14 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
       "at": 1795167560.8918366,
       "media_id": "17974307031178953"
+    },
+    {
+      "id": "ba19973829",
+      "headline": "Rockstar Hints at Future Options for GTA 6 Locked Areas",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSUlWMVpvLVVyVkZmYUpRTDVoZDU3RGZDOHI4MjJueTdBcnNqanRMa3p0NTcwMW04dklFZTNwRHRwNV8taW9jcUNFMnJCQnVLMVN3bjdMcXB6bjlsLTBVandWQmhfR3ZXR0Z0TG9hbDY5bzJCMXgtanJmdTlXS1ZZTEV5Sm15UUpEVDNUYWJ0SzBkNWI5UzgtRmpVakZCbFRFWE55dDFHbElZWUhaQktQYjFsd3psT3NUVFUtNk5ydkF6cG5zcVFiMjJR?oc=5",
+      "at": 1795172929.7512877,
+      "media_id": "18108595637197951"
     }
   ],
   "drafts_sent": [
