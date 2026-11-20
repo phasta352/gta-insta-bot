@@ -2,7 +2,7 @@
   "telegram_offset": 889593643,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795158523.8539205,
+  "last_scout": 1795162187.368845,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -583,7 +583,38 @@
     "a71dca26aa3fca5d": 1795158533.926207,
     "9a3b72c3a14bc3c9": 1795158533.926207,
     "52ba1ebd409367bb": 1795158533.926207,
-    "a377ed0f23a6fb1a": 1795158533.926207
+    "a377ed0f23a6fb1a": 1795158533.926207,
+    "262f618a7dda76ac": 1795162197.756942,
+    "e8000d59cac131cf": 1795162197.756942,
+    "a475e07afa4d62c6": 1795162197.756942,
+    "2971818f4f5ebc36": 1795162197.756942,
+    "52fb2c8008f270fd": 1795162197.756942,
+    "da037fcedaf1f636": 1795162197.756942,
+    "1d4fd0d923455ee5": 1795162197.756942,
+    "ec8a6adf95aeaa05": 1795162197.756942,
+    "aec7e070a6e44924": 1795162197.756942,
+    "878a0b670ede1d22": 1795162197.756942,
+    "10f03720aa7feab9": 1795162197.756942,
+    "9354e015f27fea42": 1795162197.756942,
+    "fe772888cd3528d8": 1795162197.756942,
+    "99de300eb1afaea3": 1795162197.756942,
+    "38bd331aa0cc32e1": 1795162197.756942,
+    "46cdd308c9477cd2": 1795162197.756942,
+    "965f06e6223347b2": 1795162197.756942,
+    "0fc576a5f36ea2b9": 1795162197.756942,
+    "4ac2de6c6757da5d": 1795162197.756942,
+    "56f9f450591ef355": 1795162197.756942,
+    "eee1a955f730bbc4": 1795162197.756942,
+    "902531dae07222c4": 1795162197.756942,
+    "a11489630c390702": 1795162197.756942,
+    "5800a9ec299bd6bc": 1795162197.756942,
+    "61031c8a49dc4eb5": 1795162197.756942,
+    "0dfb0b1103d584f0": 1795162197.756942,
+    "c67987c2f80c307a": 1795162197.756942,
+    "63353722379fa183": 1795162197.756942,
+    "950eaebef67438e7": 1795162197.756942,
+    "6d7411b077753cf1": 1795162197.756942,
+    "d4737f3d2c47a36c": 1795162197.756942
   },
   "drafts": {
     "5535f1e6f1": {
@@ -684,52 +715,68 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
       "text_message_id": 138
+    },
+    "ba19973829": {
+      "id": "ba19973829",
+      "created": 1795162209.4149337,
+      "headline": "Rockstar Hints at Future Options for GTA 6 Locked Areas",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSUlWMVpvLVVyVkZmYUpRTDVoZDU3RGZDOHI4MjJueTdBcnNqanRMa3p0NTcwMW04dklFZTNwRHRwNV8taW9jcUNFMnJCQnVLMVN3bjdMcXB6bjlsLTBVandWQmhfR3ZXR0Z0TG9hbDY5bzJCMXgtanJmdTlXS1ZZTEV5Sm15UUpEVDNUYWJ0SzBkNWI5UzgtRmpVakZCbFRFWE55dDFHbElZWUhaQktQYjFsd3psT3NUVFUtNk5ydkF6cG5zcVFiMjJR?oc=5",
+      "source": "Notebookcheck",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162209/gta-bot/ba19973829-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162209/gta-bot/ba19973829-0.jpg"
+      ],
+      "full_caption": "Locked doors in Leonida might not stay shut forever. 🔒\n\nAccording to Notebookcheck, Rockstar says the locked casinos and unused map areas in GTA 6 leave \"options in the future.\" That is a hint at what could come later, not a promise, and no specific plans have been confirmed. We'll share more once Rockstar gives details.\n\nWhat would you most like to see opened up in Leonida?\n\nSource: Notebookcheck\n\n#GTA6 #GTAVI #RockstarGames #Leonida #ViceCity #GTA #GTANews #GamingNews #OpenWorld #TheLeonidaDaily",
+      "alt_text": "News graphic with the headline 'Rockstar Hints at Future Options for GTA 6 Locked Areas' in the style of The Leonida Daily.",
+      "score": 8,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
+      "text_message_id": 149
+    },
+    "dc28585a27": {
+      "id": "dc28585a27",
+      "created": 1795162240.0542076,
+      "headline": "GTA 6 players love the chaos, wildlife and in-game social media",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162235/gta-bot/dc28585a27-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162235/gta-bot/dc28585a27-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162236/gta-bot/dc28585a27-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162237/gta-bot/dc28585a27-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162238/gta-bot/dc28585a27-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795162239/gta-bot/dc28585a27-4.jpg"
+      ],
+      "full_caption": "Day one in Vice City is already producing legends. 🌴\n\nPlayers are sharing slapstick brawls, wipeouts caused by their own reckless driving, and run-ins with the wildlife. Giant boars, mutant crabs and a dog on a jet ski are among the oddities people have found off the beaten path. The in-game social media is also a hit, with one player saying they spent half an hour reading the fake Instagram comments.\n\nWhat's your favourite moment so far?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #PS5 #XboxSeriesX #GamingNews #GTACommunity",
+      "alt_text": "Graphic with the headline about GTA 6 players enjoying slapstick chaos, dangerous wildlife and in-game social media in Vice City.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "Day one reactions pour in",
+          "text": "After GTA 6 launched, players flooded social media with their favourite moments. Slapstick violence, animal deaths and the in-game social media have been the early favourites."
+        },
+        {
+          "title": "Chaos is mostly self-inflicted",
+          "text": "Brawls with Vice City locals can get brutal but also very funny. Many of the nastiest wipeouts in the clips come from players' own dangerous driving."
+        },
+        {
+          "title": "The wildlife fights back",
+          "text": "Players have as much to fear from animals as from the locals. Off the beaten path, people have found giant boars, mutant crabs and a heroic dog riding a jet ski."
+        },
+        {
+          "title": "Fake Instagram steals the show",
+          "text": "The in-game social media has players glued to their screens. One player joked they'd never leave the tutorial after reading the fake Instagram comments for half an hour."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996659/Grassrivers_01.jpg",
+      "text_message_id": 155
     }
   },
   "queue": [
-    {
-      "id": "22b9fa8d90",
-      "created": 1795158579.5706668,
-      "headline": "Skunk ape sighting found in GTA 6: here's where to look",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158545/gta-bot/22b9fa8d90-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158545/gta-bot/22b9fa8d90-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158546/gta-bot/22b9fa8d90-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158547/gta-bot/22b9fa8d90-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158547/gta-bot/22b9fa8d90-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795158548/gta-bot/22b9fa8d90-4.jpg"
-      ],
-      "full_caption": "Bigfoot is back in Leonida, sort of. 🦶\n\nPC Gamer tracked down a skunk ape sighting across Gambit Bay from Jason's starting house. Take the boat, head for the peninsula, and use Focus Mode to follow the noises. Keep an eye out for skunk ape flyers around the state afterwards.\n\nHave you found any other cryptid spots in Leonida?\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #Leonida #LeonidaKeys #GTA #RockstarGames #Bigfoot #SkunkApe #EasterEgg #GamingNews",
-      "alt_text": "Graphic with the headline about a skunk ape sighting location in GTA 6, themed around the Leonida Keys.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795158578/gta-bot/22b9fa8d90-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "A GTA classic returns",
-          "text": "The bigfoot sighting gag is back in GTA 6. PC Gamer says it's technically a skunk ape, Florida's cryptid cousin of Bigfoot, and it comes with a cloud of green stink."
-        },
-        {
-          "title": "Where to go",
-          "text": "Look across Gambit Bay from Jason's initial house. Take his boat from the dock and head for the dead end road on the inside of the peninsula."
-        },
-        {
-          "title": "Follow the noise",
-          "text": "Before you reach land, a prompt tells you to use Focus Mode to follow the noises. The creature runs into the mangrove woods, so keep using Focus Mode to chase it."
-        },
-        {
-          "title": "After the sighting",
-          "text": "You'll lose sight of it and find a creepy effigy by a tree. Check it out for a close-up of the big feet. Flyers around Leonida then point you toward learning more about the beast."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
-      "text_message_id": 146,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795159476.9877899
-    },
     {
       "id": "22b9fa8d90",
       "created": 1795158579.5706668,
@@ -897,6 +944,14 @@
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfbUdZdTREbjJpdDBLNkswcjVyWkYwNURzeE9aNmEyZmNNNnhDT3ZVTjlNUTl0TlNJbG4xMDNLTENDNWROaTJwM3RKaEliZTlVS0NJUFpFdkI5Q2pEa2xwQ0tTeG0ySDl5dnc?oc=5",
       "at": 1795157808.6893685,
       "media_id": "18652403896031109"
+    },
+    {
+      "id": "22b9fa8d90",
+      "headline": "Skunk ape sighting found in GTA 6: here's where to look",
+      "kind": "carousel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-bigfoot-location-skunk-ape/",
+      "at": 1795162185.181139,
+      "media_id": "17915849646481018"
     }
   ],
   "drafts_sent": [
@@ -920,7 +975,9 @@
     1795106413.5271778,
     1795154935.8863618,
     1795154978.269141,
-    1795158583.208985
+    1795158583.208985,
+    1795162210.8676853,
+    1795162242.4109094
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -948,6 +1005,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996659/Grassrivers_01.jpg"
   ]
 }
