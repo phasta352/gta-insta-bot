@@ -1,8 +1,8 @@
 {
-  "telegram_offset": 889593647,
+  "telegram_offset": 889593648,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795171110.8140666,
+  "last_scout": 1795174718.726618,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -644,7 +644,21 @@
     "64acf33200f8fbde": 1795171120.9246185,
     "20e3354597748ee5": 1795171120.9246185,
     "c8b54e005eef9ea6": 1795171120.9246185,
-    "1b106f59bef8ff16": 1795171120.9246185
+    "1b106f59bef8ff16": 1795171120.9246185,
+    "72f3029c6592f4ac": 1795174728.27243,
+    "83a42720cd1e53af": 1795174728.27243,
+    "bcf21da86aaa6664": 1795174728.27243,
+    "d8c56779bd154c3c": 1795174728.27243,
+    "5425d67516abfd15": 1795174728.27243,
+    "1106ab14b96cdfba": 1795174728.27243,
+    "fae7bd006150092c": 1795174728.27243,
+    "e2cc0b76afe66ba5": 1795174728.27243,
+    "3f37fd892cb9a1b4": 1795174728.27243,
+    "c62a7369ee4bfe3c": 1795174728.27243,
+    "f6423aec7d5da73a": 1795174728.27243,
+    "f87f13781378e217": 1795174728.27243,
+    "7ca0b2408a848490": 1795174728.27243,
+    "ac7c4081386a5bdb": 1795174728.27243
   },
   "drafts": {
     "265580e6df": {
@@ -684,6 +698,86 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg",
       "text_message_id": 160
+    },
+    "5f5b7f22a5": {
+      "id": "5f5b7f22a5",
+      "created": 1795174768.043351,
+      "headline": "GTA 6 Easter Eggs: Fast & Furious Car, Dexter's Apartment",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-movie-and-tv-goldmine-as-players-discover-everything-from-fast-and-furious-cars-to-dexters-apartment/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174744/gta-bot/5f5b7f22a5-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174745/gta-bot/5f5b7f22a5-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174745/gta-bot/5f5b7f22a5-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174746/gta-bot/5f5b7f22a5-4.jpg"
+      ],
+      "full_caption": "Leonida is packed with pop culture nods 🎬\n\nPlayers have already spotted a Fast and Furious car, Dexter's apartment and an X-Men parody comic. They're early finds, and the world looks full of film and TV references.\n\nWhich Easter egg are you hunting for first?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAuto6 #GTAVI #Leonida #RockstarGames #EasterEggs #ViceCity #GTACommunity #Gaming #GamingNews",
+      "alt_text": "Graphic with the headline about GTA 6 movie and TV Easter eggs, including a Fast and Furious car and Dexter's apartment.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795174766/gta-bot/5f5b7f22a5-reel.mp4",
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "Brian's Eclipse is in the game",
+          "text": "Players can get Brian O'Conner's 1995 Mitsubishi Eclipse from Fast and Furious. Head to Vespucci Island and break into a garage for a chance to claim it, with no upgrade needed."
+        },
+        {
+          "title": "Dexter's apartment",
+          "text": "A complex on Washington Island holds Dexter's apartment. Look on the roof of the building and you can find the weapons he's known for."
+        },
+        {
+          "title": "An X-Men parody comic",
+          "text": "Pick up an issue of 'RX Men' and you'll meet Dr. Placebo, a character who looks a lot like Magneto. It's one of several Marvel-style nods in Leonida."
+        },
+        {
+          "title": "Early days for the hunt",
+          "text": "These are only the first discoveries, and the world is full of pop culture surprises. Expect the community to keep finding more."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
+      "text_message_id": 170
+    },
+    "74cbd905dc": {
+      "id": "74cbd905dc",
+      "created": 1795174792.3155549,
+      "headline": "GTA 6's PS5 Trigger Trick Makes Cruising Effortless",
+      "url": "https://www.polygon.com/gta-6-ps5-dualsense-driving-cruising/",
+      "source": "Polygon",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174788/gta-bot/74cbd905dc-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174788/gta-bot/74cbd905dc-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174788/gta-bot/74cbd905dc-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174790/gta-bot/74cbd905dc-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174791/gta-bot/74cbd905dc-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795174791/gta-bot/74cbd905dc-4.jpg"
+      ],
+      "full_caption": "Cruising in GTA 6 just got a lot more relaxed on PS5. 🎮\n\nRockstar uses the DualSense adaptive triggers to give the throttle a gentle soft stop when you hit the speed limit. Rest your finger on it and cruise, or push through when you want to go faster. Polygon's writer loves it.\n\nDo you cruise or floor it everywhere?\n\nSource: Polygon\n\n#GTA6 #GrandTheftAuto6 #GTAVI #RockstarGames #PS5 #DualSense #AdaptiveTriggers #Leonida #OpenWorld #GTANews",
+      "alt_text": "Graphic with the headline about GTA 6's PS5 adaptive trigger feature that makes cruising at the speed limit easier.",
+      "score": 6,
+      "reel_url": null,
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "The Soft Stop",
+          "text": "On the PS5 version of GTA 6, the right trigger (your throttle) pushes back gently when you reach the speed limit while driving."
+        },
+        {
+          "title": "Cruising Made Easy",
+          "text": "You can rest your finger on that resistance the way you'd rest a foot on a real pedal. No more hovering and tweaking to match the speed of traffic."
+        },
+        {
+          "title": "Push Past It",
+          "text": "When you want speed, pressing through the soft stop feels satisfying. Polygon compares it to a kickdown in an automatic car, with the vehicle surging forward."
+        },
+        {
+          "title": "A DualSense Perk",
+          "text": "Because the effect relies on adaptive triggers, it's a PS5 feature. Xbox controllers don't have adaptive triggers."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
+      "text_message_id": 176
     }
   },
   "queue": [],
@@ -860,7 +954,9 @@
     1795158583.208985,
     1795162210.8676853,
     1795162242.4109094,
-    1795171145.7271616
+    1795171145.7271616,
+    1795174771.8660202,
+    1795174793.983664
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
@@ -891,6 +987,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996659/Grassrivers_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg"
   ]
 }
