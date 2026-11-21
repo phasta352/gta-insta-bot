@@ -2,7 +2,7 @@
   "telegram_offset": 889593660,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795244912.1701808,
+  "last_scout": 1795248515.573956,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -830,7 +830,33 @@
     "513f88a6b2133463": 1795244923.4496546,
     "8d2623021e48cb2e": 1795244923.4496546,
     "02e9af8bfd54cf95": 1795244923.4496546,
-    "a78f888b02af7474": 1795244923.4496546
+    "a78f888b02af7474": 1795244923.4496546,
+    "655b6fa394825963": 1795248525.3339398,
+    "bb8e17434a34203a": 1795248525.3339398,
+    "d6d69b4115935a06": 1795248525.3339398,
+    "3cb31ef8223398f3": 1795248525.3339398,
+    "ab1e077aa8f4d108": 1795248525.3339398,
+    "c8d23fb1c86db374": 1795248525.3339398,
+    "a270e4e94375a7af": 1795248525.3339398,
+    "a298cbf7cd4102b5": 1795248525.3339398,
+    "8558551f5f4b759d": 1795248525.3339398,
+    "3081e7b7692d6be7": 1795248525.3339398,
+    "df9f2045f3ac403d": 1795248525.3339398,
+    "a52a64f5feb2bedf": 1795248525.3339398,
+    "7d8c097701b065f5": 1795248525.3339398,
+    "3fc48dcf224ee25a": 1795248525.3339398,
+    "4356f625320aab2d": 1795248525.3339398,
+    "635bb6bac3ddd87f": 1795248525.3339398,
+    "0c018c1530eec08a": 1795248525.3339398,
+    "d67f2018e1b75b4a": 1795248525.3339398,
+    "90cde42ded0e8c60": 1795248525.3339398,
+    "d7ace89bfb4766d2": 1795248525.3339398,
+    "178350c383c67750": 1795248525.3339398,
+    "89094680eda57def": 1795248525.3339398,
+    "13d6b46346160dc6": 1795248525.3339398,
+    "95a1b2acdacfc8dd": 1795248525.3339398,
+    "5ec388bfb171eab4": 1795248525.3339398,
+    "e248639a91e36f95": 1795248525.3339398
   },
   "drafts": {
     "514ff4be90": {
@@ -872,6 +898,60 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg",
       "text_message_id": 192
+    },
+    "30317b3cbd": {
+      "id": "30317b3cbd",
+      "created": 1795248534.8914235,
+      "headline": "GTA 6 Soundtrack: 700+ Songs Across 20 Radio Stations",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNW5PZUJGdzQtYURzY2NURWpEb2xCSGxUbGFWalR4NmxCWjgwQzFFLXpqbDdfZWRpYnhKOUtmdWxhRUd1T2kwOWxObzlUSzczeTg0bS04VGo0UU1XOWVkenhRRlF1OG9jdDl0Y3gwNFVNcFlCYlhBVDhnSEszOTZCV1Z2M1lhNl84b1FLY3E5SHV1b0JVbHZReEhNZHk?oc=5",
+      "source": "Variety",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248534/gta-bot/30317b3cbd-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248534/gta-bot/30317b3cbd-0.jpg"
+      ],
+      "full_caption": "Leonida's airwaves are looking packed. 🎧\n\nVariety's GTA 6 music breakdown points to more than 700 songs spread across 20 radio stations. The tracklist reportedly covers around 90 years of music, so there could be a lot of variety for every drive.\n\nRadio has always been a big part of the GTA experience, so a library this size matters. We'll update you as more details are confirmed.\n\nWhich decade do you most want to hear on the radio in GTA 6?\n\nSource: Variety\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTASoundtrack #GTARadio #VideoGameMusic #GamingNews #TheLeonidaDaily",
+      "alt_text": "News graphic with the headline 'GTA 6 Soundtrack: 700+ Songs Across 20 Radio Stations' in the style of The Leonida Daily.",
+      "score": 9,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996631/Vice_City_21.jpg",
+      "text_message_id": 224
+    },
+    "cde7f2e626": {
+      "id": "cde7f2e626",
+      "created": 1795248575.5228257,
+      "headline": "How to skip time in GTA 6: just go to bed",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-skip-time-pass/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248545/gta-bot/cde7f2e626-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248545/gta-bot/cde7f2e626-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248546/gta-bot/cde7f2e626-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248548/gta-bot/cde7f2e626-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248548/gta-bot/cde7f2e626-3.jpg"
+      ],
+      "full_caption": "Need night to fall in a hurry? Hit the sack. 🌙\n\nAccording to GamesRadar+, sleeping at home is the way to pass time in GTA 6. You choose when your character wakes up: morning, noon, evening or night. Just watch out for anything marked with an hourglass, because you could sleep right through it.\n\nDo you plan the day around missions, or let the clock run? ⏰\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAuto #GrandTheftAutoVI #RockstarGames #GTA6Tips #GTA6Guide #Leonida #GamingTips #VideoGames",
+      "alt_text": "Graphic with the headline 'How to skip time in GTA 6: just go to bed' in a tips and tricks style.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795248574/gta-bot/cde7f2e626-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "Why skipping time matters",
+          "text": "Some quests and activities in GTA 6 are tied to certain times of day or night. If one needs darkness and it's early morning, you can wait or skip ahead."
+        },
+        {
+          "title": "The method: go to bed",
+          "text": "Sleeping is the best way to pass time. When you lie down, you set your alarm and pick whether your character wakes up in the morning, at noon, in the evening or at night."
+        },
+        {
+          "title": "Before you sleep",
+          "text": "You have to get back home first, which is easier for some players than others. Check for time-sensitive missions or activities, marked with an hourglass, so you don't sleep through them."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
+      "text_message_id": 230
     }
   },
   "queue": [
@@ -1185,13 +1265,13 @@
     1795241342.6061072,
     1795241391.4027162,
     1795244936.1447256,
-    1795244977.8254008
+    1795244977.8254008,
+    1795248536.3184495,
+    1795248579.1891286
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Lucia_Caminos_11.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg",
@@ -1219,6 +1299,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_18.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996742/Jason_and_Lucia_16.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996753/Jason_and_Lucia_18.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996753/Jason_and_Lucia_18.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996631/Vice_City_21.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg"
   ]
 }
