@@ -923,30 +923,7 @@
       "text_message_id": 192
     }
   },
-  "queue": [
-    {
-      "id": "30317b3cbd",
-      "created": 1795248534.8914235,
-      "headline": "GTA 6 Soundtrack: 700+ Songs Across 20 Radio Stations",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNW5PZUJGdzQtYURzY2NURWpEb2xCSGxUbGFWalR4NmxCWjgwQzFFLXpqbDdfZWRpYnhKOUtmdWxhRUd1T2kwOWxObzlUSzczeTg0bS04VGo0UU1XOWVkenhRRlF1OG9jdDl0Y3gwNFVNcFlCYlhBVDhnSEszOTZCV1Z2M1lhNl84b1FLY3E5SHV1b0JVbHZReEhNZHk?oc=5",
-      "source": "Variety",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248534/gta-bot/30317b3cbd-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795248534/gta-bot/30317b3cbd-0.jpg"
-      ],
-      "full_caption": "Leonida's airwaves are looking packed. 🎧\n\nVariety's GTA 6 music breakdown points to more than 700 songs spread across 20 radio stations. The tracklist reportedly covers around 90 years of music, so there could be a lot of variety for every drive.\n\nRadio has always been a big part of the GTA experience, so a library this size matters. We'll update you as more details are confirmed.\n\nWhich decade do you most want to hear on the radio in GTA 6?\n\nSource: Variety\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTASoundtrack #GTARadio #VideoGameMusic #GamingNews #TheLeonidaDaily",
-      "alt_text": "News graphic with the headline 'GTA 6 Soundtrack: 700+ Songs Across 20 Radio Stations' in the style of The Leonida Daily.",
-      "score": 9,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996631/Vice_City_21.jpg",
-      "text_message_id": 224,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795248755.5938494
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -1166,6 +1143,14 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
       "at": 1795255762.226887,
       "media_id": "17955664905318920"
+    },
+    {
+      "id": "30317b3cbd",
+      "headline": "GTA 6 Soundtrack: 700+ Songs Across 20 Radio Stations",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNW5PZUJGdzQtYURzY2NURWpEb2xCSGxUbGFWalR4NmxCWjgwQzFFLXpqbDdfZWRpYnhKOUtmdWxhRUd1T2kwOWxObzlUSzczeTg0bS04VGo0UU1XOWVkenhRRlF1OG9jdDl0Y3gwNFVNcFlCYlhBVDhnSEszOTZCV1Z2M1lhNl84b1FLY3E5SHV1b0JVbHZReEhNZHk?oc=5",
+      "at": 1795261132.1343143,
+      "media_id": "17914633725488643"
     }
   ],
   "drafts_sent": [
