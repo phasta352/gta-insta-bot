@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593656,
+  "telegram_offset": 889593657,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795244912.1701808,
@@ -873,25 +873,6 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg",
       "text_message_id": 192
     },
-    "aaacd29654": {
-      "id": "aaacd29654",
-      "created": 1795241341.0261486,
-      "headline": "GTA VI Hits $3.8B Haul in Entertainment History Claim",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iamtSQzhNbkJDOEE2RmNjemNmaGNTbE15RmUxTzh4cDdZVWE3eTVXb3R3Vm9helREOVlRaklrMGN3ZEsxOHUxNFJMVW1QamlFNDFsVUFmY0N0NDRjQ2trdDNTQjJmR1dNdVdyOVk1NFRIQ1JXRVgw?oc=5",
-      "source": "Axios",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241340/gta-bot/aaacd29654-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241340/gta-bot/aaacd29654-0.jpg"
-      ],
-      "full_caption": "$3.8 BILLION. That's the haul Axios is pointing to as it says Grand Theft Auto VI has made entertainment history. 💰\n\nThe headline frames the number as a record-setting moment for the whole entertainment industry, not just for games. Only the headline is available to us so far, so we don't have the breakdown of how the figure was counted or what period it covers. We'll share more once the details are clear.\n\nWhat do you make of a number that big for one game?\n\nSource: Axios\n\n#GTAVI #GTA6 #GrandTheftAuto #GrandTheftAutoVI #RockstarGames #Leonida #ViceCity #GamingNews #VideoGames #EntertainmentNews",
-      "alt_text": "News graphic with the text 'GTA VI Hits $3.8B Haul in Entertainment History Claim' in the style of a Grand Theft Auto VI news post.",
-      "score": 10,
-      "reel_url": null,
-      "category": "RECORDS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_18.jpg",
-      "text_message_id": 205
-    },
     "fa38108d14": {
       "id": "fa38108d14",
       "created": 1795241387.4184031,
@@ -1188,12 +1169,17 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/exotic-animals-front-illegal-operation-gta-6/",
       "at": 1795207179.888024,
       "media_id": "18085920347558452"
+    },
+    {
+      "id": "aaacd29654",
+      "headline": "GTA VI Hits $3.8B Haul in Entertainment History Claim",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1iamtSQzhNbkJDOEE2RmNjemNmaGNTbE15RmUxTzh4cDdZVWE3eTVXb3R3Vm9helREOVlRaklrMGN3ZEsxOHUxNFJMVW1QamlFNDFsVUFmY0N0NDRjQ2trdDNTQjJmR1dNdVdyOVk1NFRIQ1JXRVgw?oc=5",
+      "at": 1795245582.5692852,
+      "media_id": "17891290128688627"
     }
   ],
   "drafts_sent": [
-    1795072628.2010174,
-    1795072677.3780284,
-    1795072687.743964,
     1795077604.697691,
     1795077643.6544852,
     1795106365.9540594,
