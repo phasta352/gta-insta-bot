@@ -2,7 +2,7 @@
   "telegram_offset": 889593663,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795259325.338742,
+  "last_scout": 1795262934.9234946,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -879,7 +879,26 @@
     "e2d03daf46519512": 1795259333.645155,
     "d56283299ad4481b": 1795259333.645155,
     "ccdb4804a5c154a6": 1795259333.645155,
-    "94e7e43fb8b70ed6": 1795259333.645155
+    "94e7e43fb8b70ed6": 1795259333.645155,
+    "ddaf8578b7bac096": 1795262943.799076,
+    "ad6563781970b19e": 1795262943.799076,
+    "332c1c7e1c9122a8": 1795262943.799076,
+    "fdab98fe3a7615cf": 1795262943.799076,
+    "aef6520855061d9e": 1795262943.799076,
+    "61bfefb00d9c3b1c": 1795262943.799076,
+    "5ac816418a1a57b6": 1795262943.799076,
+    "b5bf3f6726546171": 1795262943.799076,
+    "dd0d795003b9f0dc": 1795262943.799076,
+    "ef54bcc28cf74b4c": 1795262943.799076,
+    "3aebf86081ab2a8a": 1795262943.799076,
+    "8e64aa471d77b3a5": 1795262943.799076,
+    "582526751bf69368": 1795262943.799076,
+    "632bc124cab58c0e": 1795262943.799076,
+    "02aab004722949ed": 1795262943.799076,
+    "635db4b53bc09769": 1795262943.799076,
+    "2bbd397dfb2b5c06": 1795262943.799076,
+    "d84b9c8f3ee27acf": 1795262943.799076,
+    "fafea9bf42b8014b": 1795262943.799076
   },
   "drafts": {
     "514ff4be90": {
@@ -921,6 +940,86 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg",
       "text_message_id": 192
+    },
+    "599350dde4": {
+      "id": "599350dde4",
+      "created": 1795262996.0903056,
+      "headline": "Turn Off Xbox Auto Uploads Before Sharing GTA 6 Clips",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-xbox-auto-uploads/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262956/gta-bot/599350dde4-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262956/gta-bot/599350dde4-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262957/gta-bot/599350dde4-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262959/gta-bot/599350dde4-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262960/gta-bot/599350dde4-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262961/gta-bot/599350dde4-4.jpg"
+      ],
+      "full_caption": "Xbox players, check your capture settings before you hit the beach in GTA 6. 🏖️\n\nA Reddit user says a 28-second auto-uploaded clip of characters in beachwear got their account suspended for two days. Auto uploads are on by default, so your clips can go to the Xbox Network without you doing anything. Switching them off is a quick way to stay safe.\n\nHave you changed your capture settings yet?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Xbox #XboxSeriesX #XboxTips #GamingTips #LeonidaDaily #Leonida #RockstarGames",
+      "alt_text": "Graphic with the headline about turning off Xbox auto uploads for GTA 6 clips, tagged as a guide.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795262995/gta-bot/599350dde4-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "The reported ban",
+          "text": "A Reddit user, sangobar, says they got a two-day Xbox suspension after a 28-second GTA 6 clip was auto uploaded. The clip reportedly showed characters at the beach."
+        },
+        {
+          "title": "Why it was flagged",
+          "text": "The Xbox email reportedly didn't say whether the Community Standards or the Microsoft Services Agreement was broken. The user says the clip only showed beachwear and was flagged by mistake."
+        },
+        {
+          "title": "How to switch it off",
+          "text": "Auto uploads are on by default on Xbox. In the Automatic Uploads section, pick Xbox Network and choose 'Don't Upload'. Do the same for OneDrive if you don't want any clips uploaded."
+        },
+        {
+          "title": "Know the rules",
+          "text": "Xbox's standards ask for content suitable for all audiences. Examples of violations include game clips with mature sexual content, so think twice before sharing GTA 6's more mature scenes."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_03.jpg",
+      "text_message_id": 242
+    },
+    "7430037e42": {
+      "id": "7430037e42",
+      "created": 1795263051.2887676,
+      "headline": "How to Get the Slim Jim and Steal Cars Quietly in GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263013/gta-bot/7430037e42-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263013/gta-bot/7430037e42-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263014/gta-bot/7430037e42-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263016/gta-bot/7430037e42-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263017/gta-bot/7430037e42-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263018/gta-bot/7430037e42-4.jpg"
+      ],
+      "full_caption": "Smashing windows is out. Sneaky entry is in. 🔧\n\nBreaking into cars in GTA 6 is loud and slow, and a nosey witness can easily call the cops thanks to the Wanted system. The Slim Jim fixes that by letting you get into any vehicle without breaking the glass. It unlocks from Chapter 2 onwards through the main story.\n\nSwipe for how to use it. Will you be going quiet or just smashing your way in?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #TheLeonidaDaily #GTA6Guide #GTA6Tips #SlimJim #Gaming #OpenWorld",
+      "alt_text": "Graphic with the headline about getting the Slim Jim in GTA 6 to steal cars without setting off an alarm.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795263050/gta-bot/7430037e42-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Why you need it",
+          "text": "Breaking a window is noisy and takes time. That gives onlookers a chance to report you to the police under GTA 6's new Wanted system."
+        },
+        {
+          "title": "How to unlock it",
+          "text": "The Slim Jim is only available from Chapter 2 onwards and is handed over during a main mission. That same mission introduces your first vehicle fence and the WAiNK app (hold Up on the D-pad)."
+        },
+        {
+          "title": "How to use it",
+          "text": "At the driver or passenger door, press Triangle/Y. Rotate the right stick in a curve until the controller rumbles and the indicator turns slightly pink. A little pop means you're in."
+        },
+        {
+          "title": "Security still matters",
+          "text": "The Slim Jim opens any vehicle without smashing the window, but security features still apply. More tools for modern vehicles and trackers come later, from Chapter 3."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
+      "text_message_id": 249
     }
   },
   "queue": [],
@@ -1172,13 +1271,13 @@
     1795244977.8254008,
     1795248536.3184495,
     1795248579.1891286,
-    1795255789.244772
+    1795255789.244772,
+    1795263000.764236,
+    1795263055.9127574
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996653/Vice_City_26.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_07.jpg",
@@ -1206,6 +1305,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996753/Jason_and_Lucia_18.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996631/Vice_City_21.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996634/Vice_City_08.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996634/Vice_City_08.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg"
   ]
 }
