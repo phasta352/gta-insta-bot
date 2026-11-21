@@ -1000,51 +1000,7 @@
       "text_message_id": 257
     }
   },
-  "queue": [
-    {
-      "id": "7430037e42",
-      "created": 1795263051.2887676,
-      "headline": "How to Get the Slim Jim and Steal Cars Quietly in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263013/gta-bot/7430037e42-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263013/gta-bot/7430037e42-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263014/gta-bot/7430037e42-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263016/gta-bot/7430037e42-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263017/gta-bot/7430037e42-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263018/gta-bot/7430037e42-4.jpg"
-      ],
-      "full_caption": "Smashing windows is out. Sneaky entry is in. 🔧\n\nBreaking into cars in GTA 6 is loud and slow, and a nosey witness can easily call the cops thanks to the Wanted system. The Slim Jim fixes that by letting you get into any vehicle without breaking the glass. It unlocks from Chapter 2 onwards through the main story.\n\nSwipe for how to use it. Will you be going quiet or just smashing your way in?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #TheLeonidaDaily #GTA6Guide #GTA6Tips #SlimJim #Gaming #OpenWorld",
-      "alt_text": "Graphic with the headline about getting the Slim Jim in GTA 6 to steal cars without setting off an alarm.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795263050/gta-bot/7430037e42-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Why you need it",
-          "text": "Breaking a window is noisy and takes time. That gives onlookers a chance to report you to the police under GTA 6's new Wanted system."
-        },
-        {
-          "title": "How to unlock it",
-          "text": "The Slim Jim is only available from Chapter 2 onwards and is handed over during a main mission. That same mission introduces your first vehicle fence and the WAiNK app (hold Up on the D-pad)."
-        },
-        {
-          "title": "How to use it",
-          "text": "At the driver or passenger door, press Triangle/Y. Rotate the right stick in a curve until the controller rumbles and the indicator turns slightly pink. A little pop means you're in."
-        },
-        {
-          "title": "Security still matters",
-          "text": "The Slim Jim opens any vehicle without smashing the window, but security features still apply. More tools for modern vehicles and trackers come later, from Chapter 3."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
-      "text_message_id": 249,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795264598.621287
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -1280,6 +1236,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
       "at": 1795266563.780088,
       "media_id": "18124396348924902"
+    },
+    {
+      "id": "7430037e42",
+      "headline": "How to Get the Slim Jim and Steal Cars Quietly in GTA 6",
+      "kind": "reel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
+      "at": 1795271964.202751,
+      "media_id": "17951029998359570"
     }
   ],
   "drafts_sent": [
