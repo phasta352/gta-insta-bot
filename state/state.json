@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593667,
+  "telegram_offset": 889593668,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795266565.3308227,
@@ -918,48 +918,7 @@
     "6bdc198f49f024cf": 1795266573.4813793,
     "62cf835ef67b87c4": 1795266573.4813793
   },
-  "drafts": {
-    "5d17a22eed": {
-      "id": "5d17a22eed",
-      "created": 1795266625.1553519,
-      "headline": "GTA 6 Meditation Spots: Every Location for the Trophy",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-all-meditation-spot-locations-grand-theft-auto/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266589/gta-bot/5d17a22eed-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266589/gta-bot/5d17a22eed-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266590/gta-bot/5d17a22eed-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266591/gta-bot/5d17a22eed-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266592/gta-bot/5d17a22eed-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266593/gta-bot/5d17a22eed-4.jpg"
-      ],
-      "full_caption": "Inner peace, Leonida style. 🧘\n\nMeditation is a new GTA 6 feature that boosts your Focus stat. Nine dedicated Meditation Spots are scattered across the map. Use every one as both Jason and Lucia to earn the Positive Mental Attitude trophy and achievement. Swipe for where to find them.\n\nWhich spot was the hardest to track down?\n\nSource: VGC\n\n#GTA6 #GrandTheftAuto6 #GTAVI #Leonida #RockstarGames #GTA6Guide #GTA6Tips #Trophy #Achievements #GamingNews",
-      "alt_text": "Graphic with the headline about every GTA 6 Meditation Spot location needed for the Positive Mental Attitude trophy.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795266623/gta-bot/5d17a22eed-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "How Meditation works",
-          "text": "Meditation is a short minigame that helps your character reach Focus. There are nine dedicated spots, and each must be used by both Jason and Lucia for the trophy. The map icon shows who has used it."
-        },
-        {
-          "title": "Water and coast spots",
-          "text": "Smooth Sand: small island north of Belpoint, by boat. Swamp: a dock in Buckskin Swamp, with alligators. Worn Stone: the tourist retreat nearby. Seaside: a sand patch off Vinewood Beach."
-        },
-        {
-          "title": "Inland spots",
-          "text": "Red Rocks: high on rocks south of the road near Manifest Canyon. Water Wheel: ruins north of the West Kalaga gas station. Waterfall: Kalaga Reservoir's NE tip. Jutting Cliff: cliff edge in Mount Kalaga."
-        },
-        {
-          "title": "The final spot: Ascent",
-          "text": "Ascent is in Mount Kalaga National Park, near a pair of ponds inside a circling path. It only appears after both Jason and Lucia have used the other eight spots."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
-      "text_message_id": 257
-    }
-  },
+  "drafts": {},
   "queue": [],
   "published": [
     {
