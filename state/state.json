@@ -2,7 +2,7 @@
   "telegram_offset": 889593662,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795252149.2245767,
+  "last_scout": 1795255763.8494344,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -862,7 +862,15 @@
     "b546df30899437b8": 1795252155.0388942,
     "997f0b0b6e1776ae": 1795252155.0388942,
     "c19a19c11ed4a760": 1795252155.0388942,
-    "275db2de8be4ba7d": 1795252155.0388942
+    "275db2de8be4ba7d": 1795252155.0388942,
+    "1520406a9bcab84c": 1795255772.1059928,
+    "9baff7427c695498": 1795255772.1059928,
+    "b5a351d7e59bb96a": 1795255772.1059928,
+    "4e7fe5ea9e201289": 1795255772.1059928,
+    "53fe1f8a616d23b4": 1795255772.1059928,
+    "cd8ce9c75d9a9d55": 1795255772.1059928,
+    "9c48bc2dd649d968": 1795255772.1059928,
+    "7bf1741f59c511ff": 1795255772.1059928
   },
   "drafts": {
     "514ff4be90": {
@@ -904,52 +912,28 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg",
       "text_message_id": 192
+    },
+    "f95a33f278": {
+      "id": "f95a33f278",
+      "created": 1795255787.784593,
+      "headline": "Dad Says Sealed GTA 6 Copy Was Missing Its Download Code",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSmV1Q2xGQVZqek5XWVBoUFppREd2LS0ySkk1VWlJWmZ5THBlMlVYQUducUx0b2ZhYnB6bHNhMm9vR0pQMGxqSEhZaktoRl90b09oQ3ZRMGp3NmRxNnZ4WFQxNGRKN1c0eTZSU2NSSHpXR2g4MFB6TmQweDAtY2pJbzViQ3dxRFA4cjlUNTJDdDRBbXlPWVZhVWJaR1Z6aDI4dkJQeFNYOG5aSkxabGxLSlkxUl82Z0lwVm90UWJwVXd6Q09UTEV4dmlyUTk0b3EtZ2VETw?oc=5",
+      "source": "Click2Houston",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795255787/gta-bot/f95a33f278-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795255787/gta-bot/f95a33f278-0.jpg"
+      ],
+      "full_caption": "Check your copy before you get hyped. 👀\n\nClick2Houston reports that a dad from Missouri City, Texas, opened a sealed copy of GTA 6 and found the download code missing. He is now warning other buyers to check what's inside the box. The headline is the only detail we have so far, so we don't know the store, the platform or how widespread this is. It's still a good reminder to inspect your purchase and keep your receipt.\n\nHave you checked your copy yet? Tell us below.\n\nSource: Click2Houston\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTANews #GamingNews #PhysicalCopy #ViceCity #Gamers",
+      "alt_text": "News graphic with the headline about a Missouri City dad who found the download code missing from a sealed GTA 6 copy.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996634/Vice_City_08.jpg",
+      "text_message_id": 234
     }
   },
   "queue": [
-    {
-      "id": "fa38108d14",
-      "created": 1795241387.4184031,
-      "headline": "GTA 6's Two Secret Playlists: Where to Scan the Posters",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241355/gta-bot/fa38108d14-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241355/gta-bot/fa38108d14-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241356/gta-bot/fa38108d14-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241357/gta-bot/fa38108d14-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241357/gta-bot/fa38108d14-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241358/gta-bot/fa38108d14-4.jpg"
-      ],
-      "full_caption": "Two hidden playlists are waiting in Leonida, and you unlock both by scanning posters. 🎧\n\nThe Sniper of La Perle, Kodak Black's 22-track playlist, needs four posters around La Perle. The Vault Radio needs just one, at The Vault nightclub. Both count toward 100% completion, so don't skip them.\n\nSwipe for the full locations. Which station is your go-to when you're cruising?\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAuto6 #GTAVI #ViceCity #Leonida #RockstarGames #GTA6Radio #GTA6Tips #KodakBlack #Gaming",
-      "alt_text": "Graphic with the headline about GTA 6's two secret radio playlists and the posters players need to scan to unlock them.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795241386/gta-bot/fa38108d14-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "Two playlists, both required",
-          "text": "You don't start GTA 6 with every radio option unlocked. Leonida hides two secret playlists, and you need both for 100% completion. Neither is hard once you know where to look."
-        },
-        {
-          "title": "The Sniper of La Perle",
-          "text": "Kodak Black's 22-track playlist unlocks when you scan four posters in La Perle. They're at TWA Ponya Tattoo, Drip Drops, Aunt Zola's Soul Food and the Jack of Hearts nightclub."
-        },
-        {
-          "title": "Scanning tips",
-          "text": "Near each shop, a notification from the Waink It app on your phone should tell you there's something to scan. The Jack of Hearts poster is in the studio's control room, but only once you've reached chapter 3."
-        },
-        {
-          "title": "The Vault Radio",
-          "text": "This one takes a single scan. Walk through the entrance corridor of The Vault nightclub and check the back wall. The club sits closer to Downtown Vice City, south of Jack of Hearts."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_02.jpg",
-      "text_message_id": 212,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795245636.4567335
-    },
     {
       "id": "30317b3cbd",
       "created": 1795248534.8914235,
@@ -1184,6 +1168,14 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
       "at": 1795250374.4480457,
       "media_id": "18004909446009166"
+    },
+    {
+      "id": "fa38108d14",
+      "headline": "GTA 6's Two Secret Playlists: Where to Scan the Posters",
+      "kind": "reel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+      "at": 1795255762.226887,
+      "media_id": "17955664905318920"
     }
   ],
   "drafts_sent": [
@@ -1204,12 +1196,12 @@
     1795244936.1447256,
     1795244977.8254008,
     1795248536.3184495,
-    1795248579.1891286
+    1795248579.1891286,
+    1795255789.244772
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Boobie_Ike_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg",
@@ -1238,6 +1230,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996742/Jason_and_Lucia_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996753/Jason_and_Lucia_18.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996631/Vice_City_21.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996634/Vice_City_08.jpg"
   ]
 }
