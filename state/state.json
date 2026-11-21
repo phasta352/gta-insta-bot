@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593657,
+  "telegram_offset": 889593659,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795244912.1701808,
@@ -873,7 +873,28 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg",
       "text_message_id": 192
     },
-    "fa38108d14": {
+    "1ca0188bc4": {
+      "id": "1ca0188bc4",
+      "created": 1795244934.9895744,
+      "headline": "Florida Joker Reportedly Confirmed for GTA VI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uMFoyeU8tdWVLVm81MWVqd1QtS1hRNTk0cjh6VTQ5NWZiZWI3ZWdLcC1LenBEMS13TWZ0SS1MdW5zTUJOWURseDY5ZVlmeVRiV1BVY29aUjU2OUlIbG1MZlVRZlNfb1NmeGdKMVl2REVELW5UU2ZVTXBIaw?oc=5",
+      "source": "RockstarINTEL",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244934/gta-bot/1ca0188bc4-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244934/gta-bot/1ca0188bc4-0.jpg"
+      ],
+      "full_caption": "Florida Joker is heading to Leonida, according to a new report. 🃏\n\nRockstarINTEL's headline says Rockstar has confirmed the viral character appears in GTA VI. We only have the headline so far, so there are no details yet on how or where he shows up. We'll update the page when more comes out.\n\nWhat would you like to see from the Florida Joker in Leonida?\n\nSource: RockstarINTEL\n\n#GTAVI #GTA6 #RockstarGames #Leonida #FloridaJoker #GTANews #ViceCity #GamingNews #GrandTheftAutoVI #RockstarINTEL",
+      "alt_text": "News graphic with the headline 'Florida Joker Reportedly Confirmed for GTA VI' in the style of The Leonida Daily.",
+      "score": 8,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996742/Jason_and_Lucia_16.jpg",
+      "text_message_id": 214
+    }
+  },
+  "queue": [
+    {
       "id": "fa38108d14",
       "created": 1795241387.4184031,
       "headline": "GTA 6's Two Secret Playlists: Where to Scan the Posters",
@@ -911,69 +932,55 @@
         }
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_02.jpg",
-      "text_message_id": 212
+      "text_message_id": 212,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795245636.4567316
     },
-    "1ca0188bc4": {
-      "id": "1ca0188bc4",
-      "created": 1795244934.9895744,
-      "headline": "Florida Joker Reportedly Confirmed for GTA VI",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uMFoyeU8tdWVLVm81MWVqd1QtS1hRNTk0cjh6VTQ5NWZiZWI3ZWdLcC1LenBEMS13TWZ0SS1MdW5zTUJOWURseDY5ZVlmeVRiV1BVY29aUjU2OUlIbG1MZlVRZlNfb1NmeGdKMVl2REVELW5UU2ZVTXBIaw?oc=5",
-      "source": "RockstarINTEL",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244934/gta-bot/1ca0188bc4-0.jpg",
+    {
+      "id": "fa38108d14",
+      "created": 1795241387.4184031,
+      "headline": "GTA 6's Two Secret Playlists: Where to Scan the Posters",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241355/gta-bot/fa38108d14-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244934/gta-bot/1ca0188bc4-0.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241355/gta-bot/fa38108d14-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241356/gta-bot/fa38108d14-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241357/gta-bot/fa38108d14-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241357/gta-bot/fa38108d14-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795241358/gta-bot/fa38108d14-4.jpg"
       ],
-      "full_caption": "Florida Joker is heading to Leonida, according to a new report. 🃏\n\nRockstarINTEL's headline says Rockstar has confirmed the viral character appears in GTA VI. We only have the headline so far, so there are no details yet on how or where he shows up. We'll update the page when more comes out.\n\nWhat would you like to see from the Florida Joker in Leonida?\n\nSource: RockstarINTEL\n\n#GTAVI #GTA6 #RockstarGames #Leonida #FloridaJoker #GTANews #ViceCity #GamingNews #GrandTheftAutoVI #RockstarINTEL",
-      "alt_text": "News graphic with the headline 'Florida Joker Reportedly Confirmed for GTA VI' in the style of The Leonida Daily.",
+      "full_caption": "Two hidden playlists are waiting in Leonida, and you unlock both by scanning posters. 🎧\n\nThe Sniper of La Perle, Kodak Black's 22-track playlist, needs four posters around La Perle. The Vault Radio needs just one, at The Vault nightclub. Both count toward 100% completion, so don't skip them.\n\nSwipe for the full locations. Which station is your go-to when you're cruising?\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAuto6 #GTAVI #ViceCity #Leonida #RockstarGames #GTA6Radio #GTA6Tips #KodakBlack #Gaming",
+      "alt_text": "Graphic with the headline about GTA 6's two secret radio playlists and the posters players need to scan to unlock them.",
       "score": 8,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996742/Jason_and_Lucia_16.jpg",
-      "text_message_id": 214
-    },
-    "e445658511": {
-      "id": "e445658511",
-      "created": 1795244974.6317456,
-      "headline": "GTA 6 Kingpin Bowling Alley Safe: Code and Explosive Method",
-      "url": "https://www.videogameschronicle.com/guide/how-to-open-the-gta-6-kingpin-bowling-alley-safe/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244946/gta-bot/e445658511-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244946/gta-bot/e445658511-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244947/gta-bot/e445658511-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244948/gta-bot/e445658511-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244949/gta-bot/e445658511-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795244949/gta-bot/e445658511-4.jpg"
-      ],
-      "full_caption": "Stuck at the Kingpin Bowling Alley safe? We've got you. 🎳\n\nVGC's guide covers two ways in: punch in the code, or blow the door with sticky bombs. You don't need to find the code in the world first, and the explosive route is just as easy to pull off. Swipe for the full breakdown.\n\nWhich method would you go for, the clean code or the big bang?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #RockstarGames #LeonidaDaily #GTA6Guide #GTA6Tips #Gaming #VideoGameTips #OpenWorld",
-      "alt_text": "Graphic with the headline about opening the Kingpin Bowling Alley safe in GTA 6, with the code and explosive methods.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795244973/gta-bot/e445658511-reel.mp4",
-      "category": "GUIDE",
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795241386/gta-bot/fa38108d14-reel.mp4",
+      "category": "TIPS & TRICKS",
       "slides": [
         {
-          "title": "Method 1: Enter the code",
-          "text": "The safe code is 0300. You can type it in right away without finding it in the world first."
+          "title": "Two playlists, both required",
+          "text": "You don't start GTA 6 with every radio option unlocked. Leonida hides two secret playlists, and you need both for 100% completion. Neither is hard once you know where to look."
         },
         {
-          "title": "Want to find the code yourself?",
-          "text": "Head to Brooks Boatworks, the big compound in the north of Port Gellhorn. The code is on an office wall in a building to the right of the main compound, up the outside stairs."
+          "title": "The Sniper of La Perle",
+          "text": "Kodak Black's 22-track playlist unlocks when you scan four posters in La Perle. They're at TWA Ponya Tattoo, Drip Drops, Aunt Zola's Soul Food and the Jack of Hearts nightclub."
         },
         {
-          "title": "Method 2: Sticky bombs",
-          "text": "Blow the safe with sticky bombs. VGC found some on a table in the bowling alley, behind where the pins are dispensed. It's unclear if they always spawn there."
+          "title": "Scanning tips",
+          "text": "Near each shop, a notification from the Waink It app on your phone should tell you there's something to scan. The Jack of Hearts poster is in the studio's control room, but only once you've reached chapter 3."
         },
         {
-          "title": "Need more sticky bombs?",
-          "text": "Once you reach chapter 3, you can buy sticky bombs from Ammunation. The game also tends to leave some near safes."
+          "title": "The Vault Radio",
+          "text": "This one takes a single scan. Walk through the entrance corridor of The Vault nightclub and check the back wall. The club sits closer to Downtown Vice City, south of Jack of Hearts."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996753/Jason_and_Lucia_18.jpg",
-      "text_message_id": 221
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_02.jpg",
+      "text_message_id": 212,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795245636.4567335
     }
-  },
-  "queue": [],
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
