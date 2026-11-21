@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593666,
+  "telegram_offset": 889593667,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795266565.3308227,
@@ -919,46 +919,6 @@
     "62cf835ef67b87c4": 1795266573.4813793
   },
   "drafts": {
-    "599350dde4": {
-      "id": "599350dde4",
-      "created": 1795262996.0903056,
-      "headline": "Turn Off Xbox Auto Uploads Before Sharing GTA 6 Clips",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-xbox-auto-uploads/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262956/gta-bot/599350dde4-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262956/gta-bot/599350dde4-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262957/gta-bot/599350dde4-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262959/gta-bot/599350dde4-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262960/gta-bot/599350dde4-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795262961/gta-bot/599350dde4-4.jpg"
-      ],
-      "full_caption": "Xbox players, check your capture settings before you hit the beach in GTA 6. 🏖️\n\nA Reddit user says a 28-second auto-uploaded clip of characters in beachwear got their account suspended for two days. Auto uploads are on by default, so your clips can go to the Xbox Network without you doing anything. Switching them off is a quick way to stay safe.\n\nHave you changed your capture settings yet?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Xbox #XboxSeriesX #XboxTips #GamingTips #LeonidaDaily #Leonida #RockstarGames",
-      "alt_text": "Graphic with the headline about turning off Xbox auto uploads for GTA 6 clips, tagged as a guide.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795262995/gta-bot/599350dde4-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "The reported ban",
-          "text": "A Reddit user, sangobar, says they got a two-day Xbox suspension after a 28-second GTA 6 clip was auto uploaded. The clip reportedly showed characters at the beach."
-        },
-        {
-          "title": "Why it was flagged",
-          "text": "The Xbox email reportedly didn't say whether the Community Standards or the Microsoft Services Agreement was broken. The user says the clip only showed beachwear and was flagged by mistake."
-        },
-        {
-          "title": "How to switch it off",
-          "text": "Auto uploads are on by default on Xbox. In the Automatic Uploads section, pick Xbox Network and choose 'Don't Upload'. Do the same for OneDrive if you don't want any clips uploaded."
-        },
-        {
-          "title": "Know the rules",
-          "text": "Xbox's standards ask for content suitable for all audiences. Examples of violations include game clips with mature sexual content, so think twice before sharing GTA 6's more mature scenes."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_03.jpg",
-      "text_message_id": 242
-    },
     "5d17a22eed": {
       "id": "5d17a22eed",
       "created": 1795266625.1553519,
