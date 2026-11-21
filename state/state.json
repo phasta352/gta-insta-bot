@@ -2,7 +2,7 @@
   "telegram_offset": 889593665,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795262934.9234946,
+  "last_scout": 1795266565.3308227,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -898,7 +898,25 @@
     "635db4b53bc09769": 1795262943.799076,
     "2bbd397dfb2b5c06": 1795262943.799076,
     "d84b9c8f3ee27acf": 1795262943.799076,
-    "fafea9bf42b8014b": 1795262943.799076
+    "fafea9bf42b8014b": 1795262943.799076,
+    "2cfa0fcd146948bf": 1795266573.4813793,
+    "27f6faa5dd17422d": 1795266573.4813793,
+    "8747c7878e644269": 1795266573.4813793,
+    "534bd5dd7232d95a": 1795266573.4813793,
+    "266a6cf7019eacc2": 1795266573.4813793,
+    "722d0f702106dabb": 1795266573.4813793,
+    "17f775615ac8b9bf": 1795266573.4813793,
+    "3258f4829607691b": 1795266573.4813793,
+    "79fec9275cab82cb": 1795266573.4813793,
+    "ee5814defccb1f9e": 1795266573.4813793,
+    "0c53493616b385c1": 1795266573.4813793,
+    "9235fa09565e3996": 1795266573.4813793,
+    "dbd5ab81a1e7b38c": 1795266573.4813793,
+    "c1711c2a446fb0a5": 1795266573.4813793,
+    "9f13a5823ee98d11": 1795266573.4813793,
+    "092b686ac0215edd": 1795266573.4813793,
+    "6bdc198f49f024cf": 1795266573.4813793,
+    "62cf835ef67b87c4": 1795266573.4813793
   },
   "drafts": {
     "514ff4be90": {
@@ -980,52 +998,49 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_03.jpg",
       "text_message_id": 242
-    }
-  },
-  "queue": [
-    {
-      "id": "7430037e42",
-      "created": 1795263051.2887676,
-      "headline": "How to Get the Slim Jim and Steal Cars Quietly in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263013/gta-bot/7430037e42-0.jpg",
+    },
+    "5d17a22eed": {
+      "id": "5d17a22eed",
+      "created": 1795266625.1553519,
+      "headline": "GTA 6 Meditation Spots: Every Location for the Trophy",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-all-meditation-spot-locations-grand-theft-auto/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266589/gta-bot/5d17a22eed-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263013/gta-bot/7430037e42-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263014/gta-bot/7430037e42-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263016/gta-bot/7430037e42-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263017/gta-bot/7430037e42-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795263018/gta-bot/7430037e42-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266589/gta-bot/5d17a22eed-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266590/gta-bot/5d17a22eed-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266591/gta-bot/5d17a22eed-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266592/gta-bot/5d17a22eed-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795266593/gta-bot/5d17a22eed-4.jpg"
       ],
-      "full_caption": "Smashing windows is out. Sneaky entry is in. 🔧\n\nBreaking into cars in GTA 6 is loud and slow, and a nosey witness can easily call the cops thanks to the Wanted system. The Slim Jim fixes that by letting you get into any vehicle without breaking the glass. It unlocks from Chapter 2 onwards through the main story.\n\nSwipe for how to use it. Will you be going quiet or just smashing your way in?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #TheLeonidaDaily #GTA6Guide #GTA6Tips #SlimJim #Gaming #OpenWorld",
-      "alt_text": "Graphic with the headline about getting the Slim Jim in GTA 6 to steal cars without setting off an alarm.",
+      "full_caption": "Inner peace, Leonida style. 🧘\n\nMeditation is a new GTA 6 feature that boosts your Focus stat. Nine dedicated Meditation Spots are scattered across the map. Use every one as both Jason and Lucia to earn the Positive Mental Attitude trophy and achievement. Swipe for where to find them.\n\nWhich spot was the hardest to track down?\n\nSource: VGC\n\n#GTA6 #GrandTheftAuto6 #GTAVI #Leonida #RockstarGames #GTA6Guide #GTA6Tips #Trophy #Achievements #GamingNews",
+      "alt_text": "Graphic with the headline about every GTA 6 Meditation Spot location needed for the Positive Mental Attitude trophy.",
       "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795263050/gta-bot/7430037e42-reel.mp4",
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795266623/gta-bot/5d17a22eed-reel.mp4",
       "category": "GUIDE",
       "slides": [
         {
-          "title": "Why you need it",
-          "text": "Breaking a window is noisy and takes time. That gives onlookers a chance to report you to the police under GTA 6's new Wanted system."
+          "title": "How Meditation works",
+          "text": "Meditation is a short minigame that helps your character reach Focus. There are nine dedicated spots, and each must be used by both Jason and Lucia for the trophy. The map icon shows who has used it."
         },
         {
-          "title": "How to unlock it",
-          "text": "The Slim Jim is only available from Chapter 2 onwards and is handed over during a main mission. That same mission introduces your first vehicle fence and the WAiNK app (hold Up on the D-pad)."
+          "title": "Water and coast spots",
+          "text": "Smooth Sand: small island north of Belpoint, by boat. Swamp: a dock in Buckskin Swamp, with alligators. Worn Stone: the tourist retreat nearby. Seaside: a sand patch off Vinewood Beach."
         },
         {
-          "title": "How to use it",
-          "text": "At the driver or passenger door, press Triangle/Y. Rotate the right stick in a curve until the controller rumbles and the indicator turns slightly pink. A little pop means you're in."
+          "title": "Inland spots",
+          "text": "Red Rocks: high on rocks south of the road near Manifest Canyon. Water Wheel: ruins north of the West Kalaga gas station. Waterfall: Kalaga Reservoir's NE tip. Jutting Cliff: cliff edge in Mount Kalaga."
         },
         {
-          "title": "Security still matters",
-          "text": "The Slim Jim opens any vehicle without smashing the window, but security features still apply. More tools for modern vehicles and trackers come later, from Chapter 3."
+          "title": "The final spot: Ascent",
+          "text": "Ascent is in Mount Kalaga National Park, near a pair of ponds inside a circling path. It only appears after both Jason and Lucia have used the other eight spots."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
-      "text_message_id": 249,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795264598.6212854
-    },
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
+      "text_message_id": 257
+    }
+  },
+  "queue": [
     {
       "id": "7430037e42",
       "created": 1795263051.2887676,
@@ -1297,6 +1312,14 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNW5PZUJGdzQtYURzY2NURWpEb2xCSGxUbGFWalR4NmxCWjgwQzFFLXpqbDdfZWRpYnhKOUtmdWxhRUd1T2kwOWxObzlUSzczeTg0bS04VGo0UU1XOWVkenhRRlF1OG9jdDl0Y3gwNFVNcFlCYlhBVDhnSEszOTZCV1Z2M1lhNl84b1FLY3E5SHV1b0JVbHZReEhNZHk?oc=5",
       "at": 1795261132.1343143,
       "media_id": "17914633725488643"
+    },
+    {
+      "id": "7430037e42",
+      "headline": "How to Get the Slim Jim and Steal Cars Quietly in GTA 6",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
+      "at": 1795266563.780088,
+      "media_id": "18124396348924902"
     }
   ],
   "drafts_sent": [
@@ -1320,12 +1343,12 @@
     1795248579.1891286,
     1795255789.244772,
     1795263000.764236,
-    1795263055.9127574
+    1795263055.9127574,
+    1795266628.5113723
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996750/Jason_and_Lucia_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996653/Vice_City_26.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_07.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
@@ -1354,6 +1377,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996634/Vice_City_08.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg"
   ]
 }
