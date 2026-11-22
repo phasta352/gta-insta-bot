@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593682,
+  "telegram_offset": 889593683,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795373192.6070414,
@@ -1199,46 +1199,6 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
       "text_message_id": 272
     },
-    "76016c6549": {
-      "id": "76016c6549",
-      "created": 1795373244.7807562,
-      "headline": "How to steal a Rhino tank in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373216/gta-bot/76016c6549-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373216/gta-bot/76016c6549-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373217/gta-bot/76016c6549-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373218/gta-bot/76016c6549-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373218/gta-bot/76016c6549-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373219/gta-bot/76016c6549-4.jpg"
-      ],
-      "full_caption": "Want to roll through Leonida in a Rhino? 🪖 Here's where to find one.\n\nA whole row of tanks sits at the Mile Zero Air Station, a military base west of your starting area. Getting in means fighting through soldiers and jumping the perimeter fence. Climbing into a tank also unlocks the Challenging Tank Trophy/Achievement.\n\nSwipe for the full route and what to expect once you're inside.\n\nWill you go for the tank or the jet? 👀\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #Rhino #Trophy #Gaming",
-      "alt_text": "Graphic with the headline 'How to steal a Rhino tank in GTA 6' and a GUIDE label for The Leonida Daily.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795373243/gta-bot/76016c6549-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where to find the tanks",
-          "text": "A row of Rhinos is parked at the Mile Zero Air Station, west of where you start. Drive through Abismo Key and on to Southwind to reach it."
-        },
-        {
-          "title": "Breaking into the base",
-          "text": "Use a vehicle you can afford to lose, not your personal ride, and grab body armor from Ammu-Nation. Soldiers open fire at the barriers. Use the dirt-pile Stunt Jump to clear the outer fence."
-        },
-        {
-          "title": "Grabbing the Rhino",
-          "text": "On the runway, the tanks are to the left of the large building. Jets are to the right. Crash through the fence, then use the enter-vehicle button to climb in. This unlocks the Challenging Tank award."
-        },
-        {
-          "title": "Don't expect a long ride",
-          "text": "Your wanted level starts at two stars, then climbs to five and six once you fire the cannon. The tank is slow and takes fire from helicopters. It will eventually run out of fuel or get wrecked."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
-      "text_message_id": 322
-    },
     "38af60b249": {
       "id": "38af60b249",
       "created": 1795373289.1253195,
@@ -1280,7 +1240,51 @@
       "text_message_id": 329
     }
   },
-  "queue": [],
+  "queue": [
+    {
+      "id": "76016c6549",
+      "created": 1795373244.7807562,
+      "headline": "How to steal a Rhino tank in GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373216/gta-bot/76016c6549-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373216/gta-bot/76016c6549-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373217/gta-bot/76016c6549-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373218/gta-bot/76016c6549-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373218/gta-bot/76016c6549-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373219/gta-bot/76016c6549-4.jpg"
+      ],
+      "full_caption": "Want to roll through Leonida in a Rhino? 🪖 Here's where to find one.\n\nA whole row of tanks sits at the Mile Zero Air Station, a military base west of your starting area. Getting in means fighting through soldiers and jumping the perimeter fence. Climbing into a tank also unlocks the Challenging Tank Trophy/Achievement.\n\nSwipe for the full route and what to expect once you're inside.\n\nWill you go for the tank or the jet? 👀\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #Rhino #Trophy #Gaming",
+      "alt_text": "Graphic with the headline 'How to steal a Rhino tank in GTA 6' and a GUIDE label for The Leonida Daily.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795373243/gta-bot/76016c6549-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where to find the tanks",
+          "text": "A row of Rhinos is parked at the Mile Zero Air Station, west of where you start. Drive through Abismo Key and on to Southwind to reach it."
+        },
+        {
+          "title": "Breaking into the base",
+          "text": "Use a vehicle you can afford to lose, not your personal ride, and grab body armor from Ammu-Nation. Soldiers open fire at the barriers. Use the dirt-pile Stunt Jump to clear the outer fence."
+        },
+        {
+          "title": "Grabbing the Rhino",
+          "text": "On the runway, the tanks are to the left of the large building. Jets are to the right. Crash through the fence, then use the enter-vehicle button to climb in. This unlocks the Challenging Tank award."
+        },
+        {
+          "title": "Don't expect a long ride",
+          "text": "Your wanted level starts at two stars, then climbs to five and six once you fire the cannon. The tank is slow and takes fire from helicopters. It will eventually run out of fuel or get wrecked."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
+      "text_message_id": 322,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795373390.032292
+    }
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -1556,6 +1560,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
       "at": 1795351143.5290616,
       "media_id": "18135094987747841"
+    },
+    {
+      "id": "76016c6549",
+      "headline": "How to steal a Rhino tank in GTA 6",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+      "at": 1795373445.8403888,
+      "media_id": "18112751477576680"
     }
   ],
   "drafts_sent": [
