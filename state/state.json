@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593683,
+  "telegram_offset": 889593684,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795373192.6070414,
@@ -1198,46 +1198,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
       "text_message_id": 272
-    },
-    "38af60b249": {
-      "id": "38af60b249",
-      "created": 1795373289.1253195,
-      "headline": "GTA 6 Player Hit With 30-Day PSN Ban Over In-Game Photo",
-      "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373261/gta-bot/38af60b249-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373261/gta-bot/38af60b249-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373262/gta-bot/38af60b249-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373262/gta-bot/38af60b249-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373263/gta-bot/38af60b249-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373264/gta-bot/38af60b249-4.jpg"
-      ],
-      "full_caption": "Heads up, Leonida: your in-game photos still have to follow PlayStation's rules. 📸\n\nOne player says they got a 30-day PSN social features ban after messaging a friend an in-game camera shot from the nudist resort. The notice cited \"pornographic or obscene content\". Per the report, Sony's Code of Conduct makes no exception for content from games, even adults-only ones.\n\nShould Sony treat in-game screenshots differently from real photos?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #PlayStation #PS5 #PSN #GamingNews #RockstarGames #PlayStationNetwork",
-      "alt_text": "News graphic with the headline about a GTA 6 player receiving a 30-day PSN social features ban over an in-game photo.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795373288/gta-bot/38af60b249-reel.mp4",
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "What happened",
-          "text": "A player posted on X that they received a 30-day PSN social features ban. They had sent a friend a photo from the in-game camera, taken at GTA 6's nudist resort, via PlayStation's messaging."
-        },
-        {
-          "title": "What the notice says",
-          "text": "PlayStation Safety reportedly flagged \"pornographic or obscene content\" and suspended social features for 30 days. It warned that further offenses could lead to a suspension from the whole of PlayStation."
-        },
-        {
-          "title": "Why the rules apply",
-          "text": "The Code of Conduct bars sharing obscene or pornographic material. As Dexerto points out, it makes no exception for content from games, even ones rated for adults."
-        },
-        {
-          "title": "The takeaway",
-          "text": "If your Leonida photos include nudity, think twice before sending them over PSN messages. This is one player's report, and Sony hasn't commented in the source."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
-      "text_message_id": 329
     }
   },
   "queue": [
@@ -1283,6 +1243,92 @@
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795373390.032292
+    },
+    {
+      "id": "38af60b249",
+      "created": 1795373289.1253195,
+      "headline": "GTA 6 Player Hit With 30-Day PSN Ban Over In-Game Photo",
+      "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373261/gta-bot/38af60b249-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373261/gta-bot/38af60b249-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373262/gta-bot/38af60b249-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373262/gta-bot/38af60b249-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373263/gta-bot/38af60b249-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373264/gta-bot/38af60b249-4.jpg"
+      ],
+      "full_caption": "Heads up, Leonida: your in-game photos still have to follow PlayStation's rules. 📸\n\nOne player says they got a 30-day PSN social features ban after messaging a friend an in-game camera shot from the nudist resort. The notice cited \"pornographic or obscene content\". Per the report, Sony's Code of Conduct makes no exception for content from games, even adults-only ones.\n\nShould Sony treat in-game screenshots differently from real photos?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #PlayStation #PS5 #PSN #GamingNews #RockstarGames #PlayStationNetwork",
+      "alt_text": "News graphic with the headline about a GTA 6 player receiving a 30-day PSN social features ban over an in-game photo.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795373288/gta-bot/38af60b249-reel.mp4",
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "What happened",
+          "text": "A player posted on X that they received a 30-day PSN social features ban. They had sent a friend a photo from the in-game camera, taken at GTA 6's nudist resort, via PlayStation's messaging."
+        },
+        {
+          "title": "What the notice says",
+          "text": "PlayStation Safety reportedly flagged \"pornographic or obscene content\" and suspended social features for 30 days. It warned that further offenses could lead to a suspension from the whole of PlayStation."
+        },
+        {
+          "title": "Why the rules apply",
+          "text": "The Code of Conduct bars sharing obscene or pornographic material. As Dexerto points out, it makes no exception for content from games, even ones rated for adults."
+        },
+        {
+          "title": "The takeaway",
+          "text": "If your Leonida photos include nudity, think twice before sending them over PSN messages. This is one player's report, and Sony hasn't commented in the source."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
+      "text_message_id": 329,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795373553.8371496
+    },
+    {
+      "id": "38af60b249",
+      "created": 1795373289.1253195,
+      "headline": "GTA 6 Player Hit With 30-Day PSN Ban Over In-Game Photo",
+      "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373261/gta-bot/38af60b249-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373261/gta-bot/38af60b249-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373262/gta-bot/38af60b249-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373262/gta-bot/38af60b249-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373263/gta-bot/38af60b249-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373264/gta-bot/38af60b249-4.jpg"
+      ],
+      "full_caption": "Heads up, Leonida: your in-game photos still have to follow PlayStation's rules. 📸\n\nOne player says they got a 30-day PSN social features ban after messaging a friend an in-game camera shot from the nudist resort. The notice cited \"pornographic or obscene content\". Per the report, Sony's Code of Conduct makes no exception for content from games, even adults-only ones.\n\nShould Sony treat in-game screenshots differently from real photos?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #PlayStation #PS5 #PSN #GamingNews #RockstarGames #PlayStationNetwork",
+      "alt_text": "News graphic with the headline about a GTA 6 player receiving a 30-day PSN social features ban over an in-game photo.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795373288/gta-bot/38af60b249-reel.mp4",
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "What happened",
+          "text": "A player posted on X that they received a 30-day PSN social features ban. They had sent a friend a photo from the in-game camera, taken at GTA 6's nudist resort, via PlayStation's messaging."
+        },
+        {
+          "title": "What the notice says",
+          "text": "PlayStation Safety reportedly flagged \"pornographic or obscene content\" and suspended social features for 30 days. It warned that further offenses could lead to a suspension from the whole of PlayStation."
+        },
+        {
+          "title": "Why the rules apply",
+          "text": "The Code of Conduct bars sharing obscene or pornographic material. As Dexerto points out, it makes no exception for content from games, even ones rated for adults."
+        },
+        {
+          "title": "The takeaway",
+          "text": "If your Leonida photos include nudity, think twice before sending them over PSN messages. This is one player's report, and Sony hasn't commented in the source."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
+      "text_message_id": 329,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795373553.837152
     }
   ],
   "published": [
