@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593679,
+  "telegram_offset": 889593680,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795345769.8106062,
@@ -1115,46 +1115,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
       "text_message_id": 272
-    },
-    "52ff0116ee": {
-      "id": "52ff0116ee",
-      "created": 1795331370.5211642,
-      "headline": "GTA 6 on Xbox: Turn Off Auto Clip Uploads to Dodge Bans",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331337/gta-bot/52ff0116ee-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331337/gta-bot/52ff0116ee-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331338/gta-bot/52ff0116ee-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331339/gta-bot/52ff0116ee-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331339/gta-bot/52ff0116ee-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331340/gta-bot/52ff0116ee-4.jpg"
-      ],
-      "full_caption": "Xbox players, check your capture settings before your next GTA 6 session. 🎮\n\nSome players say they got temporary bans after their clips were automatically uploaded. These are social media reports, and how widespread it is remains unknown. Switching off auto-upload keeps your captures on your console, and you can still record and screenshot as normal.\n\nHave you changed this setting yet?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Xbox #XboxSeriesX #XboxTips #GTA6Tips #RockstarGames #Gaming #LeonidaDaily",
-      "alt_text": "Graphic with the headline advising Xbox players to turn off automatic clip uploads in GTA 6 to avoid reported temporary bans.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795331369/gta-bot/52ff0116ee-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "What players are reporting",
-          "text": "Some Xbox players say they received temporary bans after GTA 6 clips were automatically uploaded. It's unclear how widespread the problem is."
-        },
-        {
-          "title": "Why it may be happening",
-          "text": "GTA 6 contains explicit content that could trigger Microsoft's automatic content checks once captures reach the Xbox network."
-        },
-        {
-          "title": "How to switch it off",
-          "text": "Press the Xbox button, then go to Profile & system > Settings > Preferences > Capture & Share. Set Automatically upload to Don't upload."
-        },
-        {
-          "title": "Can you still capture?",
-          "text": "Yes. Clips and screenshots still save locally, they just won't upload. So far the reports only involve Xbox, and PS5 players haven't raised the same complaints."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
-      "text_message_id": 279
     }
   },
   "queue": [],
