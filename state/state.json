@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593669,
+  "telegram_offset": 889593670,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795334911.9402432,
@@ -1119,46 +1119,6 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
       "text_message_id": 279
     },
-    "9e44231e2a": {
-      "id": "9e44231e2a",
-      "created": 1795331426.7666693,
-      "headline": "All 12 GTA 6 Equipment Items, Explained",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331391/gta-bot/9e44231e2a-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331393/gta-bot/9e44231e2a-4.jpg"
-      ],
-      "full_caption": "Your GTA 6 toolkit has 12 pieces of gear 🎒\n\nYou'll find them in the Equipment tab under Progress in the Index. They unlock gradually as you move through the story, and each one opens up a new way to explore, steal or rob. Swipe for the highlights, and we're keeping the story details out of it.\n\nWhich piece of gear do you use the most?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #ViceCity #Gaming #GamingNews",
-      "alt_text": "Graphic with the text 'All 12 GTA 6 Equipment Items, Explained' promoting a guide to the gear in Grand Theft Auto VI.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795331425/gta-bot/9e44231e2a-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "12 Pieces of Gear",
-          "text": "Open the Progress section of the GTA 6 Index and you'll find an Equipment tab. It lists 12 unique items, and they unlock one by one as you work through the main story."
-        },
-        {
-          "title": "Explore: Binoculars & Flashlight",
-          "text": "Binoculars can mark enemies, identify animals and spot Leonida's 60 birds. Flashlight helps in dark buildings and at night. You can also fit a torch to a weapon at Ammu-Nation."
-        },
-        {
-          "title": "Break-Ins Made Easy",
-          "text": "The Slim Jim lets you enter cars quietly instead of smashing the window. The Snap Gun opens locked doors without alarms. The Key Cloner handles keyless cars. The Pry Bar opens wooden crates."
-        },
-        {
-          "title": "Robbery Essentials",
-          "text": "Stash bags carry your haul, and each character can hold two. Masks hide your identity. The Dye Pack Jammer disables the dye packs hidden in Marked Bills, so you skip the clean-up."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
-      "text_message_id": 286
-    },
     "611e394762": {
       "id": "611e394762",
       "created": 1795334931.2317908,
@@ -1241,6 +1201,92 @@
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795335390.5263424
+    },
+    {
+      "id": "9e44231e2a",
+      "created": 1795331426.7666693,
+      "headline": "All 12 GTA 6 Equipment Items, Explained",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331391/gta-bot/9e44231e2a-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331393/gta-bot/9e44231e2a-4.jpg"
+      ],
+      "full_caption": "Your GTA 6 toolkit has 12 pieces of gear 🎒\n\nYou'll find them in the Equipment tab under Progress in the Index. They unlock gradually as you move through the story, and each one opens up a new way to explore, steal or rob. Swipe for the highlights, and we're keeping the story details out of it.\n\nWhich piece of gear do you use the most?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #ViceCity #Gaming #GamingNews",
+      "alt_text": "Graphic with the text 'All 12 GTA 6 Equipment Items, Explained' promoting a guide to the gear in Grand Theft Auto VI.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795331425/gta-bot/9e44231e2a-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "12 Pieces of Gear",
+          "text": "Open the Progress section of the GTA 6 Index and you'll find an Equipment tab. It lists 12 unique items, and they unlock one by one as you work through the main story."
+        },
+        {
+          "title": "Explore: Binoculars & Flashlight",
+          "text": "Binoculars can mark enemies, identify animals and spot Leonida's 60 birds. Flashlight helps in dark buildings and at night. You can also fit a torch to a weapon at Ammu-Nation."
+        },
+        {
+          "title": "Break-Ins Made Easy",
+          "text": "The Slim Jim lets you enter cars quietly instead of smashing the window. The Snap Gun opens locked doors without alarms. The Key Cloner handles keyless cars. The Pry Bar opens wooden crates."
+        },
+        {
+          "title": "Robbery Essentials",
+          "text": "Stash bags carry your haul, and each character can hold two. Masks hide your identity. The Dye Pack Jammer disables the dye packs hidden in Marked Bills, so you skip the clean-up."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
+      "text_message_id": 286,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795335494.6165462
+    },
+    {
+      "id": "9e44231e2a",
+      "created": 1795331426.7666693,
+      "headline": "All 12 GTA 6 Equipment Items, Explained",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331391/gta-bot/9e44231e2a-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331393/gta-bot/9e44231e2a-4.jpg"
+      ],
+      "full_caption": "Your GTA 6 toolkit has 12 pieces of gear 🎒\n\nYou'll find them in the Equipment tab under Progress in the Index. They unlock gradually as you move through the story, and each one opens up a new way to explore, steal or rob. Swipe for the highlights, and we're keeping the story details out of it.\n\nWhich piece of gear do you use the most?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #ViceCity #Gaming #GamingNews",
+      "alt_text": "Graphic with the text 'All 12 GTA 6 Equipment Items, Explained' promoting a guide to the gear in Grand Theft Auto VI.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795331425/gta-bot/9e44231e2a-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "12 Pieces of Gear",
+          "text": "Open the Progress section of the GTA 6 Index and you'll find an Equipment tab. It lists 12 unique items, and they unlock one by one as you work through the main story."
+        },
+        {
+          "title": "Explore: Binoculars & Flashlight",
+          "text": "Binoculars can mark enemies, identify animals and spot Leonida's 60 birds. Flashlight helps in dark buildings and at night. You can also fit a torch to a weapon at Ammu-Nation."
+        },
+        {
+          "title": "Break-Ins Made Easy",
+          "text": "The Slim Jim lets you enter cars quietly instead of smashing the window. The Snap Gun opens locked doors without alarms. The Key Cloner handles keyless cars. The Pry Bar opens wooden crates."
+        },
+        {
+          "title": "Robbery Essentials",
+          "text": "Stash bags carry your haul, and each character can hold two. Masks hide your identity. The Dye Pack Jammer disables the dye packs hidden in Marked Bills, so you skip the clean-up."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
+      "text_message_id": 286,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795335494.6165488
     }
   ],
   "published": [
