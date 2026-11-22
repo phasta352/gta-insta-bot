@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593675,
+  "telegram_offset": 889593677,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795345769.8106062,
@@ -1155,65 +1155,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
       "text_message_id": 279
-    },
-    "35becfb39f": {
-      "id": "35becfb39f",
-      "created": 1795342164.9260447,
-      "headline": "GTA Online Players Say Goodbye With One Last Convoy",
-      "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342161/gta-bot/35becfb39f-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342161/gta-bot/35becfb39f-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342162/gta-bot/35becfb39f-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342162/gta-bot/35becfb39f-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342163/gta-bot/35becfb39f-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342164/gta-bot/35becfb39f-4.jpg"
-      ],
-      "full_caption": "GTA Online just got a rolling farewell. 🚗\n\nCommunity-run Last Ride events had players cruise Los Santos in huge peaceful convoys an hour before GTA 6's launch. Eurogamer joined one and saw customised cars, calm roads and a send-off from the community that kept the game alive for so long.\n\nAre you saying goodbye to GTA Online, or sticking around?\n\nSource: Eurogamer\n\n#GTAVI #GTA6 #GTAOnline #GrandTheftAuto #LosSantos #RockstarGames #GTACommunity #CarMeet #GTARacing #LeonidaDaily",
-      "alt_text": "Graphic with the headline about GTA Online players holding a final convoy drive around Los Santos to say goodbye.",
-      "score": 6,
-      "reel_url": null,
-      "category": "GTA ONLINE",
-      "slides": [
-        {
-          "title": "A community farewell",
-          "text": "GTA Online players organised Last Ride events: a mass in-game road trip to say goodbye before attention turned to GTA 6. It was set to begin an hour before GTA 6's launch."
-        },
-        {
-          "title": "The route",
-          "text": "Groups started at Del Perro Pier and followed the highway around the whole Los Santos perimeter, finishing at the airport. Then players flew off into the sunset and closed the game."
-        },
-        {
-          "title": "Racing crews at the wheel",
-          "text": "Kirsty of Fast Crew has played since 2013 and plans to stay in GTA Online. Brittany, who leads the Ascent racing community, planned a drive using old cars from the game's earlier years."
-        },
-        {
-          "title": "Peaceful, then chaotic",
-          "text": "Eurogamer's writer saw a respectful convoy of custom cars, with one dead-end detour and a stray RPG. At the airport it turned to gunfire, fireworks and stolen aircraft."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996709/DreQuan_Priest_03.jpg",
-      "text_message_id": 302
-    },
-    "305c09b515": {
-      "id": "305c09b515",
-      "created": 1795345800.8059556,
-      "headline": "GTA 6 on Series S: 720p Base and 30 FPS Target Reported",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2lrUnY5RlhhZmNRcE1PS1lLREVNWnBXWEtHNjRjQ1JGLWh3YWUtVWVfTVlCQklLY1pvdWIzX2J2YzhHUWdQTHRDNzJVbDRPdlQ0Y1JlSUwzRmUwdDRpdUlPb01aWWZYbWFjMldGOEp0OW55MDJhMktWdmZhTDByTHJsUFAzTTVVT3BVWTZNV3NYZG9UM1RFMlF3?oc=5",
-      "source": "eGamers.io",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795345800/gta-bot/305c09b515-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795345800/gta-bot/305c09b515-0.jpg"
-      ],
-      "full_caption": "Series S players, here's a performance claim worth watching. 🎮\n\nAn eGamers.io piece says GTA 6 on Xbox Series S would render at a 720p base, use FSR 4.1 upscaling and aim for 30 FPS. We only have the headline to go on, so treat this as unconfirmed until Rockstar shares official specs.\n\nIf accurate, it would show how the game is being tuned for Microsoft's smaller console. We'll update the page when there's official word.\n\nWould you be happy with 30 FPS and upscaling on Series S, or do you want more from the game?\n\nSource: eGamers.io\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #XboxSeriesS #XboxSeriesX #GTA6Performance #FSR #Leonida #GamingNews",
-      "alt_text": "News graphic reading 'GTA 6 on Series S: 720p Base and 30 FPS Target Reported' in GTA VI style.",
-      "score": 7,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
-      "text_message_id": 305
     },
     "bf1ac20925": {
       "id": "bf1ac20925",
