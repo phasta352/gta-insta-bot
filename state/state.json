@@ -2,7 +2,7 @@
   "telegram_offset": 889593673,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795338276.558738,
+  "last_scout": 1795342120.5826151,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1054,7 +1054,15 @@
     "c166e8bb24a82b44": 1795338285.182064,
     "4b3cce127d9716c7": 1795338285.182064,
     "b444fba726074765": 1795338285.182064,
-    "dcb2bbacfa0746c4": 1795338285.182064
+    "dcb2bbacfa0746c4": 1795338285.182064,
+    "b41f1df0e6b17693": 1795342128.1777344,
+    "9730f090335db53e": 1795342128.1777344,
+    "815edbc37a8fb88d": 1795342128.1777344,
+    "68cfcc5ba798e111": 1795342128.1777344,
+    "fb674e45db3aefc4": 1795342128.1777344,
+    "f464f6ffa7f91a8e": 1795342128.1777344,
+    "1fe5ead99151aa32": 1795342128.1777344,
+    "4d217ed71b62d2e2": 1795342128.1777344
   },
   "drafts": {
     "e4fdbd4ad1": {
@@ -1131,6 +1139,65 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
       "text_message_id": 279
+    },
+    "551a38aab6": {
+      "id": "551a38aab6",
+      "created": 1795342138.4261565,
+      "headline": "GTA VI players are hooked on everyday chores",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcWhqQ3dsLVRvXzZKcmllQUc2YXp4TWJLUmtxRGlfeXZZSm85c0x3Qm5JaXV6b1ZNdjk5dDlFVFRWblFpZDhnSDJmNXo4T1F2M2M2dHljdy1hODlaUXFVanRHR2g4YVd0SFNVZVlaWnFEUXUzQmtyanhWUWZDR1lEN0Nuc1Q4ek1fU0Q2bXBoNUwyYUY2MGNYTFVPaTVteFhNRU5Tb1BRTmFYRjY3eWcwdUl5MXJLeDlYRVdfMnRHQVNRQVNLZFF6TWUwczhFa0U3LVB2V042N0FLX1FBSjAyZkNnZV9icVBFMHdMVDcxdFc2SERCbzdhSmNXY25MZkRP?oc=5",
+      "source": "Yahoo Tech",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342137/gta-bot/551a38aab6-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342137/gta-bot/551a38aab6-0.jpg"
+      ],
+      "full_caption": "Forget the heists for a second: players are getting absorbed by the everyday stuff in Grand Theft Auto VI. 🧹\n\nAccording to Yahoo Tech, gamers are getting wrapped up in the mundane tasks you can do in the game, chores included. It suggests that Leonida's quieter side is getting plenty of attention from the community alongside the crime.\n\nWe'll share specifics once we can confirm which activities people are talking about.\n\nWhat's the most relaxing thing you've done in Leonida so far?\n\nSource: Yahoo Tech\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTAcommunity #Gaming #GamingNews #OpenWorld",
+      "alt_text": "News graphic with the headline that GTA VI players are getting hooked on everyday chores in the game.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Cal_Hampton_04.jpg",
+      "text_message_id": 296
+    },
+    "35becfb39f": {
+      "id": "35becfb39f",
+      "created": 1795342164.9260447,
+      "headline": "GTA Online Players Say Goodbye With One Last Convoy",
+      "url": "https://www.eurogamer.net/gta-6-grand-theft-auto-online-last-ride",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342161/gta-bot/35becfb39f-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342161/gta-bot/35becfb39f-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342162/gta-bot/35becfb39f-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342162/gta-bot/35becfb39f-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342163/gta-bot/35becfb39f-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795342164/gta-bot/35becfb39f-4.jpg"
+      ],
+      "full_caption": "GTA Online just got a rolling farewell. 🚗\n\nCommunity-run Last Ride events had players cruise Los Santos in huge peaceful convoys an hour before GTA 6's launch. Eurogamer joined one and saw customised cars, calm roads and a send-off from the community that kept the game alive for so long.\n\nAre you saying goodbye to GTA Online, or sticking around?\n\nSource: Eurogamer\n\n#GTAVI #GTA6 #GTAOnline #GrandTheftAuto #LosSantos #RockstarGames #GTACommunity #CarMeet #GTARacing #LeonidaDaily",
+      "alt_text": "Graphic with the headline about GTA Online players holding a final convoy drive around Los Santos to say goodbye.",
+      "score": 6,
+      "reel_url": null,
+      "category": "GTA ONLINE",
+      "slides": [
+        {
+          "title": "A community farewell",
+          "text": "GTA Online players organised Last Ride events: a mass in-game road trip to say goodbye before attention turned to GTA 6. It was set to begin an hour before GTA 6's launch."
+        },
+        {
+          "title": "The route",
+          "text": "Groups started at Del Perro Pier and followed the highway around the whole Los Santos perimeter, finishing at the airport. Then players flew off into the sunset and closed the game."
+        },
+        {
+          "title": "Racing crews at the wheel",
+          "text": "Kirsty of Fast Crew has played since 2013 and plans to stay in GTA Online. Brittany, who leads the Ascent racing community, planned a drive using old cars from the game's earlier years."
+        },
+        {
+          "title": "Peaceful, then chaotic",
+          "text": "Eurogamer's writer saw a respectful convoy of custom cars, with one dead-end detour and a stray RPG. At the airport it turned to gunfire, fireworks and stolen aircraft."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996709/DreQuan_Priest_03.jpg",
+      "text_message_id": 302
     }
   },
   "queue": [
@@ -1503,13 +1570,13 @@
     1795331374.021918,
     1795331430.5370119,
     1795334932.2452805,
-    1795334943.5511618
+    1795334943.5511618,
+    1795342140.020933,
+    1795342166.949565
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996648/Vice_City_24.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
@@ -1537,6 +1604,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Cal_Hampton_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996709/DreQuan_Priest_03.jpg"
   ]
 }
