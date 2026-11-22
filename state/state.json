@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593670,
+  "telegram_offset": 889593672,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795334911.9402432,
@@ -1118,44 +1118,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
       "text_message_id": 279
-    },
-    "611e394762": {
-      "id": "611e394762",
-      "created": 1795334931.2317908,
-      "headline": "Rockstar Reportedly Says GTA VI: The Album Is Out Now",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wTkhSdmNrQ1UxbWZkaUtqbnpCV1lOUVJVS3VYZGlIZ3c4UHo2QW1sOWIwNTRScFF1bkN1eks1Vld2WWNpYlA0TlFxY3hsQkZiVXlNZTNLVkY3OU9QNE5ia3V4eVc?oc=5",
-      "source": "Kazi Magazine",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795334930/gta-bot/611e394762-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795334930/gta-bot/611e394762-0.jpg"
-      ],
-      "full_caption": "A GTA VI album may have just dropped 🎶\n\nKazi Magazine reports that Rockstar says \"Grand Theft Auto VI: The Album\" is out now. The report we've seen gives no details on the tracklist, the artists or where to listen, so we're waiting for more before saying anything else. We'll update you as soon as Rockstar's official channels confirm the specifics.\n\nWould you want to hear a GTA VI album? Tell us what you'd hope to find on it 👇\n\nSource: Kazi Magazine\n\n#GTAVI #GrandTheftAutoVI #GTA6 #RockstarGames #LeonidaDaily #ViceCity #Leonida #GTANews #GamingNews #GTAAlbum",
-      "alt_text": "News graphic reading 'Rockstar Reportedly Says GTA VI: The Album Is Out Now' with GTA VI-style branding.",
-      "score": 7,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
-      "text_message_id": 288
-    },
-    "978da46b11": {
-      "id": "978da46b11",
-      "created": 1795334942.4028692,
-      "headline": "Electrek says Vice City is packed with electric cars",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlJCTzczUlZsdXU1Z0pzOHB0SElBcW1LMG9sM2g1YWFvbU5neUwzM3lrLVpYd3BJZ3ZYY3Y5LVNnQXJPNEJZbWRPNTRQcmZZR2x2eFhPT1RnUG56S01FbG1CZGMyTlJVRjFfT0IyanQ4OVJBcFdQVzN6Rmd1cGpFcXNR?oc=5",
-      "source": "Electrek",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795334941/gta-bot/978da46b11-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795334941/gta-bot/978da46b11-0.jpg"
-      ],
-      "full_caption": "Vice City is going electric. ⚡\n\nAccording to Electrek, electric cars have gone mainstream in GTA 6, with Vice City full of them. The outlet's take is that EVs are no longer a niche sight in Leonida's streets. The headline is all we have so far, with no details on specific models or how they behave in-game, so treat this as one outlet's observation rather than an official announcement.\n\nWould you rather cruise in a silent EV or a roaring V8 in Vice City?\n\nSource: Electrek\n\n#GTA6 #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #GTANews #ElectricCars #EV #Gaming #TheLeonidaDaily",
-      "alt_text": "News graphic with the headline 'Electrek says Vice City is packed with electric cars' in the style of a GTA 6 post.",
-      "score": 6,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
-      "text_message_id": 290
     }
   },
   "queue": [
