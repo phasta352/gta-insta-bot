@@ -2,7 +2,7 @@
   "telegram_offset": 889593684,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795373192.6070414,
+  "last_scout": 1795378159.5947466,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1161,7 +1161,28 @@
     "90b1a2ac9e6317ee": 1795373201.4952624,
     "b39ff164a9a2017b": 1795373201.4952624,
     "a597be4ecb9e3d98": 1795373201.4952624,
-    "d62ee0e9d4d6fcc3": 1795373201.4952624
+    "d62ee0e9d4d6fcc3": 1795373201.4952624,
+    "fc066263ee8557f9": 1795378169.6326625,
+    "5610f1a8005c6e58": 1795378169.6326625,
+    "af71acb2ca62269c": 1795378169.6326625,
+    "bb8c2b16b949afc3": 1795378169.6326625,
+    "e9979af2b38a946f": 1795378169.6326625,
+    "63a0b3af97eadb7d": 1795378169.6326625,
+    "dc9a16303d07914e": 1795378169.6326625,
+    "c8e4f4c58a8a65b0": 1795378169.6326625,
+    "0342f665ea7a10c4": 1795378169.6326625,
+    "d08d43bacd75c4dd": 1795378169.6326625,
+    "1629340b82ded6e2": 1795378169.6326625,
+    "0f57c54a70e0d37e": 1795378169.6326625,
+    "40c12ad2b05e0984": 1795378169.6326625,
+    "7cb56bee40b63fdf": 1795378169.6326625,
+    "49f02926ace554a4": 1795378169.6326625,
+    "b6b88168810af2c3": 1795378169.6326625,
+    "c0f49688ff1aac78": 1795378169.6326625,
+    "a250c823f2eeae93": 1795378169.6326625,
+    "0772b843d2cdd3f2": 1795378169.6326625,
+    "7bbfe1dd97abb435": 1795378169.6326625,
+    "b3b0919f5f856456": 1795378169.6326625
   },
   "drafts": {
     "e4fdbd4ad1": {
@@ -1198,52 +1219,68 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
       "text_message_id": 272
-    }
-  },
-  "queue": [
-    {
-      "id": "76016c6549",
-      "created": 1795373244.7807562,
-      "headline": "How to steal a Rhino tank in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373216/gta-bot/76016c6549-0.jpg",
+    },
+    "a404638457": {
+      "id": "a404638457",
+      "created": 1795378181.0281453,
+      "headline": "Rockstar puts the GTA 6 map online for Leonida fans",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWXBjVWNNSFFIcXNabldPZ2ZmVDJzU01iSEk0RnhRVFNYTWhMYWtWVDVFRFhZMzk1dWd3LXhJN25QdGtxVDFvWHF4dDRvSUhSQmpFQUN5SzJZUjF5VEllTHR0ZkxNNVdRdzNEbkl4dXNGRmJUR2dyUUZITVFTRXpPS0xENlg?oc=5",
+      "source": "MIXED News",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795378180/gta-bot/a404638457-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373216/gta-bot/76016c6549-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373217/gta-bot/76016c6549-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373218/gta-bot/76016c6549-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373218/gta-bot/76016c6549-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373219/gta-bot/76016c6549-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795378180/gta-bot/a404638457-0.jpg"
       ],
-      "full_caption": "Want to roll through Leonida in a Rhino? 🪖 Here's where to find one.\n\nA whole row of tanks sits at the Mile Zero Air Station, a military base west of your starting area. Getting in means fighting through soldiers and jumping the perimeter fence. Climbing into a tank also unlocks the Challenging Tank Trophy/Achievement.\n\nSwipe for the full route and what to expect once you're inside.\n\nWill you go for the tank or the jet? 👀\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #Rhino #Trophy #Gaming",
-      "alt_text": "Graphic with the headline 'How to steal a Rhino tank in GTA 6' and a GUIDE label for The Leonida Daily.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795373243/gta-bot/76016c6549-reel.mp4",
+      "full_caption": "Leonida is now viewable before you've cleared a single patch of fog. 🗺️\n\nAccording to a report, Rockstar has put the GTA 6 map online. That means you can look over the setting before you start exploring it yourself. We only have the headline so far, so details are thin. We'll share more once the specifics are clear.\n\nWill you study the map before launch, or keep it a surprise and explore blind?\n\nSource: MIXED News\n\n#GTA6 #GTAVI #Leonida #RockstarGames #GTA #GTAOnline #GamingNews #OpenWorld #ViceCity #GTA6Map",
+      "alt_text": "News graphic announcing that Rockstar has put the GTA 6 map online, letting players see Leonida before they explore it in the game.",
+      "score": 8,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996622/Vice_City_03.jpg",
+      "text_message_id": 333
+    },
+    "6cc33cac35": {
+      "id": "6cc33cac35",
+      "created": 1795378231.5788467,
+      "headline": "GTA 6: Where to Buy Arthur Morgan's Hat from RDR2",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-arthur-morgan-hat-location/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795378196/gta-bot/6cc33cac35-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795378196/gta-bot/6cc33cac35-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795378197/gta-bot/6cc33cac35-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795378198/gta-bot/6cc33cac35-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795378199/gta-bot/6cc33cac35-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795378201/gta-bot/6cc33cac35-4.jpg"
+      ],
+      "full_caption": "Yeehaw, Leonida! 🤠 An Arthur Morgan-style hat from Red Dead Redemption 2 can be bought in GTA 6, and it only costs $35.\n\nIt's sold at a daytime yard sale in southern Port Gellhorn, as the Genuine Cowboy Hat. Only one of your two protagonists can buy it, so choose who wears it. Swipe for the full steps.\n\nWho's getting the cowboy hat, Jason or Lucia?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #PortGellhorn #RedDeadRedemption2 #ArthurMorgan #RockstarGames #GTAEasterEgg #GTA6Guide",
+      "alt_text": "Graphic for a GTA 6 guide showing where to buy a cowboy hat like Arthur Morgan's from Red Dead Redemption 2.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795378230/gta-bot/6cc33cac35-reel.mp4",
       "category": "GUIDE",
       "slides": [
         {
-          "title": "Where to find the tanks",
-          "text": "A row of Rhinos is parked at the Mile Zero Air Station, west of where you start. Drive through Abismo Key and on to Southwind to reach it."
+          "title": "Where to find it",
+          "text": "Head to a blue house on the southern edge of Port Gellhorn, a short distance south of Moses' chop shop. It hosts a yard sale, and the hat is among the items."
         },
         {
-          "title": "Breaking into the base",
-          "text": "Use a vehicle you can afford to lose, not your personal ride, and grab body armor from Ammu-Nation. Soldiers open fire at the barriers. Use the dirt-pile Stunt Jump to clear the outer fence."
+          "title": "When and what you need",
+          "text": "The yard sale only runs during the daytime. It becomes available from Chapter 2 onwards, so make enough story progress first."
         },
         {
-          "title": "Grabbing the Rhino",
-          "text": "On the runway, the tanks are to the left of the large building. Jets are to the right. Crash through the fence, then use the enter-vehicle button to climb in. This unlocks the Challenging Tank award."
+          "title": "Price and item name",
+          "text": "Look for the Genuine Cowboy Hat. It costs just $35, and once bought it appears in your wardrobe with your other clothes."
         },
         {
-          "title": "Don't expect a long ride",
-          "text": "Your wanted level starts at two stars, then climbs to five and six once you fire the cannon. The tank is slow and takes fire from helicopters. It will eventually run out of fuel or get wrecked."
+          "title": "Pick your wearer",
+          "text": "Each yard sale item, the hat included, can only be bought by one of your protagonists. Decide whether Jason or Lucia gets it before you buy."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
-      "text_message_id": 322,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795373390.032292
-    },
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
+      "text_message_id": 340
+    }
+  },
+  "queue": [
     {
       "id": "38af60b249",
       "created": 1795373289.1253195,
@@ -1614,6 +1651,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
       "at": 1795373445.8403888,
       "media_id": "18112751477576680"
+    },
+    {
+      "id": "76016c6549",
+      "headline": "How to steal a Rhino tank in GTA 6",
+      "kind": "reel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
+      "at": 1795378157.5922432,
+      "media_id": "18195551041364966"
     }
   ],
   "drafts_sent": [
@@ -1638,13 +1683,13 @@
     1795345801.9198136,
     1795345811.6468923,
     1795373248.7869985,
-    1795373292.8491461
+    1795373292.8491461,
+    1795378182.8789625,
+    1795378236.1544225
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996659/Grassrivers_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
@@ -1672,6 +1717,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996622/Vice_City_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg"
   ]
 }
