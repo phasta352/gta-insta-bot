@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593677,
+  "telegram_offset": 889593678,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795345769.8106062,
@@ -1155,25 +1155,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
       "text_message_id": 279
-    },
-    "bf1ac20925": {
-      "id": "bf1ac20925",
-      "created": 1795345810.5115206,
-      "headline": "Jordan Proposes GTA 6 Ban Over Child Safety Concerns",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZk8wTXpnaUFOM0NPOXR6VkNpa0xSZjk3a3VnOElzOExwOVRvSGppb3htelI5T2VxdXZnbVNUeDcxazAxRkhxX2w3aWxFaklHeDhRaTg0eWUzX19nbXFSeXBFRTNpY2ZOVU8zTXNSNXF2UnkxMk5TNTlHVXREbTItX0hEeTV4dllDdVFEOGZZendITl9XRmNCU05KanhsZ0YxQUFjZFZiS0FqSDFWV1VKSk5QM1I4TGhSMDNEUlZBR0F0NFJycmg3dXBTdEc1LW5QeHFiWHFoNDQ5VGpiUTRNYw?oc=5",
-      "source": "www.thenationalnews.com",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795345810/gta-bot/bf1ac20925-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795345810/gta-bot/bf1ac20925-0.jpg"
-      ],
-      "full_caption": "GTA 6 is making headlines for two very different reasons. 🌍\n\nAccording to The National, Jordan has proposed banning the game over child safety fears. The same report says the game is breaking sales records.\n\nThis is a proposal, not a confirmed ban, and we only have the headline so far. We don't know yet how the proposal would work or whether it will go ahead. We'll update the page when more details are confirmed.\n\nShould governments step in on game releases, or is that up to parents and age ratings? 👇\n\nSource: The National\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTANews #GamingNews #VideoGameNews #Jordan #GamingCommunity",
-      "alt_text": "News graphic with the headline 'Jordan Proposes GTA 6 Ban Over Child Safety Concerns' in the style of The Leonida Daily.",
-      "score": 6,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_01.jpg",
-      "text_message_id": 307
     }
   },
   "queue": [],
