@@ -2,7 +2,7 @@
   "telegram_offset": 889593673,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795342120.5826151,
+  "last_scout": 1795345769.8106062,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1062,7 +1062,23 @@
     "fb674e45db3aefc4": 1795342128.1777344,
     "f464f6ffa7f91a8e": 1795342128.1777344,
     "1fe5ead99151aa32": 1795342128.1777344,
-    "4d217ed71b62d2e2": 1795342128.1777344
+    "4d217ed71b62d2e2": 1795342128.1777344,
+    "49ca3068f0cff88f": 1795345777.7070792,
+    "747e85f7871b2b1a": 1795345777.7070792,
+    "c4e95d771cf509f3": 1795345777.7070792,
+    "cd936c07675dee21": 1795345777.7070792,
+    "cad2ce1fa515eae7": 1795345777.7070792,
+    "f13cdfa6d776be9c": 1795345777.7070792,
+    "f9813d04c833f5ab": 1795345777.7070792,
+    "6ba4520cdc7cf3d1": 1795345777.7070792,
+    "30559dd45375e9d3": 1795345777.7070792,
+    "f48f58cf7d945e8f": 1795345777.7070792,
+    "c979c11d7062db14": 1795345777.7070792,
+    "aa1584dd14d141fd": 1795345777.7070792,
+    "3b00b5af8c7e8785": 1795345777.7070792,
+    "c51e4f3baaec6d6c": 1795345777.7070792,
+    "05b8e4769cfb4873": 1795345777.7070792,
+    "5cdd2d042558b3ef": 1795345777.7070792
   },
   "drafts": {
     "e4fdbd4ad1": {
@@ -1198,52 +1214,47 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996709/DreQuan_Priest_03.jpg",
       "text_message_id": 302
+    },
+    "305c09b515": {
+      "id": "305c09b515",
+      "created": 1795345800.8059556,
+      "headline": "GTA 6 on Series S: 720p Base and 30 FPS Target Reported",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPN2lrUnY5RlhhZmNRcE1PS1lLREVNWnBXWEtHNjRjQ1JGLWh3YWUtVWVfTVlCQklLY1pvdWIzX2J2YzhHUWdQTHRDNzJVbDRPdlQ0Y1JlSUwzRmUwdDRpdUlPb01aWWZYbWFjMldGOEp0OW55MDJhMktWdmZhTDByTHJsUFAzTTVVT3BVWTZNV3NYZG9UM1RFMlF3?oc=5",
+      "source": "eGamers.io",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795345800/gta-bot/305c09b515-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795345800/gta-bot/305c09b515-0.jpg"
+      ],
+      "full_caption": "Series S players, here's a performance claim worth watching. 🎮\n\nAn eGamers.io piece says GTA 6 on Xbox Series S would render at a 720p base, use FSR 4.1 upscaling and aim for 30 FPS. We only have the headline to go on, so treat this as unconfirmed until Rockstar shares official specs.\n\nIf accurate, it would show how the game is being tuned for Microsoft's smaller console. We'll update the page when there's official word.\n\nWould you be happy with 30 FPS and upscaling on Series S, or do you want more from the game?\n\nSource: eGamers.io\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #XboxSeriesS #XboxSeriesX #GTA6Performance #FSR #Leonida #GamingNews",
+      "alt_text": "News graphic reading 'GTA 6 on Series S: 720p Base and 30 FPS Target Reported' in GTA VI style.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
+      "text_message_id": 305
+    },
+    "bf1ac20925": {
+      "id": "bf1ac20925",
+      "created": 1795345810.5115206,
+      "headline": "Jordan Proposes GTA 6 Ban Over Child Safety Concerns",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZk8wTXpnaUFOM0NPOXR6VkNpa0xSZjk3a3VnOElzOExwOVRvSGppb3htelI5T2VxdXZnbVNUeDcxazAxRkhxX2w3aWxFaklHeDhRaTg0eWUzX19nbXFSeXBFRTNpY2ZOVU8zTXNSNXF2UnkxMk5TNTlHVXREbTItX0hEeTV4dllDdVFEOGZZendITl9XRmNCU05KanhsZ0YxQUFjZFZiS0FqSDFWV1VKSk5QM1I4TGhSMDNEUlZBR0F0NFJycmg3dXBTdEc1LW5QeHFiWHFoNDQ5VGpiUTRNYw?oc=5",
+      "source": "www.thenationalnews.com",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795345810/gta-bot/bf1ac20925-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795345810/gta-bot/bf1ac20925-0.jpg"
+      ],
+      "full_caption": "GTA 6 is making headlines for two very different reasons. 🌍\n\nAccording to The National, Jordan has proposed banning the game over child safety fears. The same report says the game is breaking sales records.\n\nThis is a proposal, not a confirmed ban, and we only have the headline so far. We don't know yet how the proposal would work or whether it will go ahead. We'll update the page when more details are confirmed.\n\nShould governments step in on game releases, or is that up to parents and age ratings? 👇\n\nSource: The National\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTANews #GamingNews #VideoGameNews #Jordan #GamingCommunity",
+      "alt_text": "News graphic with the headline 'Jordan Proposes GTA 6 Ban Over Child Safety Concerns' in the style of The Leonida Daily.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_01.jpg",
+      "text_message_id": 307
     }
   },
   "queue": [
-    {
-      "id": "9e44231e2a",
-      "created": 1795331426.7666693,
-      "headline": "All 12 GTA 6 Equipment Items, Explained",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331391/gta-bot/9e44231e2a-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331393/gta-bot/9e44231e2a-4.jpg"
-      ],
-      "full_caption": "Your GTA 6 toolkit has 12 pieces of gear 🎒\n\nYou'll find them in the Equipment tab under Progress in the Index. They unlock gradually as you move through the story, and each one opens up a new way to explore, steal or rob. Swipe for the highlights, and we're keeping the story details out of it.\n\nWhich piece of gear do you use the most?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #ViceCity #Gaming #GamingNews",
-      "alt_text": "Graphic with the text 'All 12 GTA 6 Equipment Items, Explained' promoting a guide to the gear in Grand Theft Auto VI.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795331425/gta-bot/9e44231e2a-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "12 Pieces of Gear",
-          "text": "Open the Progress section of the GTA 6 Index and you'll find an Equipment tab. It lists 12 unique items, and they unlock one by one as you work through the main story."
-        },
-        {
-          "title": "Explore: Binoculars & Flashlight",
-          "text": "Binoculars can mark enemies, identify animals and spot Leonida's 60 birds. Flashlight helps in dark buildings and at night. You can also fit a torch to a weapon at Ammu-Nation."
-        },
-        {
-          "title": "Break-Ins Made Easy",
-          "text": "The Slim Jim lets you enter cars quietly instead of smashing the window. The Snap Gun opens locked doors without alarms. The Key Cloner handles keyless cars. The Pry Bar opens wooden crates."
-        },
-        {
-          "title": "Robbery Essentials",
-          "text": "Stash bags carry your haul, and each character can hold two. Masks hide your identity. The Dye Pack Jammer disables the dye packs hidden in Marked Bills, so you skip the clean-up."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
-      "text_message_id": 286,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795335494.6165462
-    },
     {
       "id": "9e44231e2a",
       "created": 1795331426.7666693,
@@ -1547,10 +1558,17 @@
       "url": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
       "at": 1795340363.707843,
       "media_id": "18098368106694365"
+    },
+    {
+      "id": "9e44231e2a",
+      "headline": "All 12 GTA 6 Equipment Items, Explained",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
+      "at": 1795345767.9926362,
+      "media_id": "18141928252745742"
     }
   ],
   "drafts_sent": [
-    1795171145.7271616,
     1795174771.8660202,
     1795174793.983664,
     1795178371.5500436,
@@ -1572,13 +1590,13 @@
     1795334932.2452805,
     1795334943.5511618,
     1795342140.020933,
-    1795342166.949565
+    1795342166.949565,
+    1795345801.9198136,
+    1795345811.6468923
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
@@ -1606,6 +1624,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Cal_Hampton_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996709/DreQuan_Priest_03.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996709/DreQuan_Priest_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_01.jpg"
   ]
 }
