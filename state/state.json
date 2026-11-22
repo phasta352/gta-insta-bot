@@ -1322,7 +1322,8 @@
       "text_message_id": 329,
       "kind": "carousel",
       "post_now": false,
-      "approved_at": 1795373553.8371496
+      "approved_at": 1795373553.8371496,
+      "attempts": 1
     },
     {
       "id": "38af60b249",
