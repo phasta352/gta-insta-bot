@@ -2,7 +2,7 @@
   "telegram_offset": 889593668,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795327721.188262,
+  "last_scout": 1795331315.4002962,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -976,7 +976,61 @@
     "52b0b27f872c844d": 1795327732.1656775,
     "55424a312489fea9": 1795327732.1656775,
     "fc030282b950b3aa": 1795327732.1656775,
-    "045a37307bf7d970": 1795327732.1656775
+    "045a37307bf7d970": 1795327732.1656775,
+    "1fc02280027e5462": 1795331326.5025542,
+    "7c65e46d8ac6d3de": 1795331326.5025542,
+    "d85880b3d107ae89": 1795331326.5025542,
+    "2769590f5f79e850": 1795331326.5025542,
+    "32f97bf1eaf7b7a6": 1795331326.5025542,
+    "5c9f858c057ebfd6": 1795331326.5025542,
+    "3dfdfe832a52b30d": 1795331326.5025542,
+    "380cd5dc8be71387": 1795331326.5025542,
+    "7a49c808f1bcf9b4": 1795331326.5025542,
+    "46a5905d523fc953": 1795331326.5025542,
+    "d64f531a03e386c5": 1795331326.5025542,
+    "59e3b724a819212b": 1795331326.5025542,
+    "6dae5e6b4c302877": 1795331326.5025542,
+    "3beb61d41a19904b": 1795331326.5025542,
+    "08d40b15c2f08261": 1795331326.5025542,
+    "011febeeb9f2e0d2": 1795331326.5025542,
+    "44fab9dfe3fb940c": 1795331326.5025542,
+    "0637babeb81ee169": 1795331326.5025542,
+    "112e254343640a93": 1795331326.5025542,
+    "5517e386e54c9823": 1795331326.5025542,
+    "42032c79cdd54b1e": 1795331326.5025542,
+    "fdeb31f17a9415c4": 1795331326.5025542,
+    "a2fcf11fa6743e4a": 1795331326.5025542,
+    "c2c417303283f114": 1795331326.5025542,
+    "4d2c581a80d0a1a2": 1795331326.5025542,
+    "75a51bdfcf9f2f9e": 1795331326.5025542,
+    "8af4828e24c8bbfc": 1795331326.5025542,
+    "5f89a5cd1d6b12cf": 1795331326.5025542,
+    "579b02b692c73d07": 1795331326.5025542,
+    "d9bd7009c591be7b": 1795331326.5025542,
+    "51430f5bfcdece71": 1795331326.5025542,
+    "077a9f20bdc07949": 1795331326.5025542,
+    "316913b1ee9465c3": 1795331326.5025542,
+    "7a869bd74f262d06": 1795331326.5025542,
+    "1ac73ae611b009dc": 1795331326.5025542,
+    "6e77854af7be37b5": 1795331326.5025542,
+    "f5a76a9cad37f4c7": 1795331326.5025542,
+    "b21197330aa7e3fe": 1795331326.5025542,
+    "aeaa572e86837c14": 1795331326.5025542,
+    "ed4400ea4d39685f": 1795331326.5025542,
+    "9fc2f223e5430c95": 1795331326.5025542,
+    "d1cf4a76d18d17e1": 1795331326.5025542,
+    "6a793b609e51babd": 1795331326.5025542,
+    "b002d979eb0b89ff": 1795331326.5025542,
+    "aa49f478d3c39d76": 1795331326.5025542,
+    "7b7322ca36d16d40": 1795331326.5025542,
+    "64ff9ed5f0746b96": 1795331326.5025542,
+    "f6ff4abf62735b58": 1795331326.5025542,
+    "7dbb6e86745fa965": 1795331326.5025542,
+    "a0f54aa131e40824": 1795331326.5025542,
+    "7b8de959721c59e0": 1795331326.5025542,
+    "27ec78238cfc1bea": 1795331326.5025542,
+    "42576fa90e9731dc": 1795331326.5025542,
+    "10340e03250bb376": 1795331326.5025542
   },
   "drafts": {
     "0b209d8e0a": {
@@ -1053,6 +1107,86 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
       "text_message_id": 272
+    },
+    "52ff0116ee": {
+      "id": "52ff0116ee",
+      "created": 1795331370.5211642,
+      "headline": "GTA 6 on Xbox: Turn Off Auto Clip Uploads to Dodge Bans",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-xbox-psa-how-to-stop-automatic-clip-uploads-and-avoid-bans/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331337/gta-bot/52ff0116ee-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331337/gta-bot/52ff0116ee-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331338/gta-bot/52ff0116ee-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331339/gta-bot/52ff0116ee-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331339/gta-bot/52ff0116ee-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331340/gta-bot/52ff0116ee-4.jpg"
+      ],
+      "full_caption": "Xbox players, check your capture settings before your next GTA 6 session. 🎮\n\nSome players say they got temporary bans after their clips were automatically uploaded. These are social media reports, and how widespread it is remains unknown. Switching off auto-upload keeps your captures on your console, and you can still record and screenshot as normal.\n\nHave you changed this setting yet?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Xbox #XboxSeriesX #XboxTips #GTA6Tips #RockstarGames #Gaming #LeonidaDaily",
+      "alt_text": "Graphic with the headline advising Xbox players to turn off automatic clip uploads in GTA 6 to avoid reported temporary bans.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795331369/gta-bot/52ff0116ee-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "What players are reporting",
+          "text": "Some Xbox players say they received temporary bans after GTA 6 clips were automatically uploaded. It's unclear how widespread the problem is."
+        },
+        {
+          "title": "Why it may be happening",
+          "text": "GTA 6 contains explicit content that could trigger Microsoft's automatic content checks once captures reach the Xbox network."
+        },
+        {
+          "title": "How to switch it off",
+          "text": "Press the Xbox button, then go to Profile & system > Settings > Preferences > Capture & Share. Set Automatically upload to Don't upload."
+        },
+        {
+          "title": "Can you still capture?",
+          "text": "Yes. Clips and screenshots still save locally, they just won't upload. So far the reports only involve Xbox, and PS5 players haven't raised the same complaints."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
+      "text_message_id": 279
+    },
+    "9e44231e2a": {
+      "id": "9e44231e2a",
+      "created": 1795331426.7666693,
+      "headline": "All 12 GTA 6 Equipment Items, Explained",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/all-gta-6-equipment-explained/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331390/gta-bot/9e44231e2a-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331391/gta-bot/9e44231e2a-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331392/gta-bot/9e44231e2a-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795331393/gta-bot/9e44231e2a-4.jpg"
+      ],
+      "full_caption": "Your GTA 6 toolkit has 12 pieces of gear 🎒\n\nYou'll find them in the Equipment tab under Progress in the Index. They unlock gradually as you move through the story, and each one opens up a new way to explore, steal or rob. Swipe for the highlights, and we're keeping the story details out of it.\n\nWhich piece of gear do you use the most?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTA6Guide #GTA6Tips #ViceCity #Gaming #GamingNews",
+      "alt_text": "Graphic with the text 'All 12 GTA 6 Equipment Items, Explained' promoting a guide to the gear in Grand Theft Auto VI.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795331425/gta-bot/9e44231e2a-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "12 Pieces of Gear",
+          "text": "Open the Progress section of the GTA 6 Index and you'll find an Equipment tab. It lists 12 unique items, and they unlock one by one as you work through the main story."
+        },
+        {
+          "title": "Explore: Binoculars & Flashlight",
+          "text": "Binoculars can mark enemies, identify animals and spot Leonida's 60 birds. Flashlight helps in dark buildings and at night. You can also fit a torch to a weapon at Ammu-Nation."
+        },
+        {
+          "title": "Break-Ins Made Easy",
+          "text": "The Slim Jim lets you enter cars quietly instead of smashing the window. The Snap Gun opens locked doors without alarms. The Key Cloner handles keyless cars. The Pry Bar opens wooden crates."
+        },
+        {
+          "title": "Robbery Essentials",
+          "text": "Stash bags carry your haul, and each character can hold two. Masks hide your identity. The Dye Pack Jammer disables the dye packs hidden in Marked Bills, so you skip the clean-up."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
+      "text_message_id": 286
     }
   },
   "queue": [],
@@ -1302,7 +1436,6 @@
     }
   ],
   "drafts_sent": [
-    1795158583.208985,
     1795162210.8676853,
     1795162242.4109094,
     1795171145.7271616,
@@ -1321,13 +1454,13 @@
     1795263055.9127574,
     1795266628.5113723,
     1795327787.7262533,
-    1795327815.484567
+    1795327815.484567,
+    1795331374.021918,
+    1795331430.5370119
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
@@ -1355,6 +1488,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_07.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg"
   ]
 }
