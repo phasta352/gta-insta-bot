@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593668,
+  "telegram_offset": 889593669,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795334911.9402432,
@@ -1044,46 +1044,6 @@
     "205f68e3f48155b8": 1795334919.2493331
   },
   "drafts": {
-    "0b209d8e0a": {
-      "id": "0b209d8e0a",
-      "created": 1795327782.8236206,
-      "headline": "How to Get the Crabshack VF5 SMG in GTA 6",
-      "url": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
-      "source": "Polygon",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327750/gta-bot/0b209d8e0a-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327750/gta-bot/0b209d8e0a-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327751/gta-bot/0b209d8e0a-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327752/gta-bot/0b209d8e0a-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327753/gta-bot/0b209d8e0a-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327754/gta-bot/0b209d8e0a-4.jpg"
-      ],
-      "full_caption": "Crab-themed SMG, free jet ski and a giant crab lurking in the swamp. 🦀\n\nThe optional Pelican Valley Outpost event is worth the boat trip. Besides the Crabshack VF5 SMG, you get some cash and a jet ski for the ride home. Swipe for the route, and watch out for gators.\n\nHave you cleared the outpost yet, and did you spot the giant crab?\n\nSource: Polygon\n\n#GTA6 #GTAVI #GrandTheftAuto6 #Leonida #RockstarGames #GTA6Guide #GTA6Tips #CrabshackVF5 #PelicanValleyOutpost #Gaming",
-      "alt_text": "Graphic with the headline about finding the Crabshack VF5 SMG and the giant crab outpost in GTA 6.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795327781/gta-bot/0b209d8e0a-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Getting to the island",
-          "text": "Look for a medium-sized island southwest of the \"Pelican Valley\" label on the map. Take Jason's boat from his house and don't swim: there are too many gators."
-        },
-        {
-          "title": "Power and password",
-          "text": "The first shack has no power. Flip the breaker box behind it, near the blue crab cages. The computer password is in the small bedroom, and the computer holds a note pointing to the safe code."
-        },
-        {
-          "title": "Crab, lab and safe",
-          "text": "Karkinos, the giant crab, jumps you in a short cutscene, but there's no fight. The lab behind the shack has the experiment list you need for the code. The safe holds cash and a note with the next code."
-        },
-        {
-          "title": "Your rewards",
-          "text": "That second code opens the boathouse keypad. Inside you can grab the Crabshack VF5 SMG and a bag of marked bills for Brian's lockup. A free jet ski gets you home."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_07.jpg",
-      "text_message_id": 267
-    },
     "e4fdbd4ad1": {
       "id": "e4fdbd4ad1",
       "created": 1795327813.4471014,
@@ -1238,7 +1198,51 @@
       "text_message_id": 290
     }
   },
-  "queue": [],
+  "queue": [
+    {
+      "id": "0b209d8e0a",
+      "created": 1795327782.8236206,
+      "headline": "How to Get the Crabshack VF5 SMG in GTA 6",
+      "url": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
+      "source": "Polygon",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327750/gta-bot/0b209d8e0a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327750/gta-bot/0b209d8e0a-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327751/gta-bot/0b209d8e0a-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327752/gta-bot/0b209d8e0a-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327753/gta-bot/0b209d8e0a-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795327754/gta-bot/0b209d8e0a-4.jpg"
+      ],
+      "full_caption": "Crab-themed SMG, free jet ski and a giant crab lurking in the swamp. 🦀\n\nThe optional Pelican Valley Outpost event is worth the boat trip. Besides the Crabshack VF5 SMG, you get some cash and a jet ski for the ride home. Swipe for the route, and watch out for gators.\n\nHave you cleared the outpost yet, and did you spot the giant crab?\n\nSource: Polygon\n\n#GTA6 #GTAVI #GrandTheftAuto6 #Leonida #RockstarGames #GTA6Guide #GTA6Tips #CrabshackVF5 #PelicanValleyOutpost #Gaming",
+      "alt_text": "Graphic with the headline about finding the Crabshack VF5 SMG and the giant crab outpost in GTA 6.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795327781/gta-bot/0b209d8e0a-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Getting to the island",
+          "text": "Look for a medium-sized island southwest of the \"Pelican Valley\" label on the map. Take Jason's boat from his house and don't swim: there are too many gators."
+        },
+        {
+          "title": "Power and password",
+          "text": "The first shack has no power. Flip the breaker box behind it, near the blue crab cages. The computer password is in the small bedroom, and the computer holds a note pointing to the safe code."
+        },
+        {
+          "title": "Crab, lab and safe",
+          "text": "Karkinos, the giant crab, jumps you in a short cutscene, but there's no fight. The lab behind the shack has the experiment list you need for the code. The safe holds cash and a note with the next code."
+        },
+        {
+          "title": "Your rewards",
+          "text": "That second code opens the boathouse keypad. Inside you can grab the Crabshack VF5 SMG and a bag of marked bills for Brian's lockup. A free jet ski gets you home."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_07.jpg",
+      "text_message_id": 267,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795335390.5263424
+    }
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -1482,11 +1486,17 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-slim-jim-how-to-get/",
       "at": 1795271964.202751,
       "media_id": "17951029998359570"
+    },
+    {
+      "id": "0b209d8e0a",
+      "headline": "How to Get the Crabshack VF5 SMG in GTA 6",
+      "kind": "carousel",
+      "url": "https://www.polygon.com/gta-6-giant-crab-safe-code-crabshack-vf5-smg-how-to-get-pelican-valley-outpost/",
+      "at": 1795335447.1475863,
+      "media_id": "18126793015923736"
     }
   ],
   "drafts_sent": [
-    1795162210.8676853,
-    1795162242.4109094,
     1795171145.7271616,
     1795174771.8660202,
     1795174793.983664,
