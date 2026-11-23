@@ -2,7 +2,7 @@
   "telegram_offset": 889593688,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795428512.7303777,
+  "last_scout": 1795432111.1461308,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1294,7 +1294,36 @@
     "e7880505dcfa0564": 1795428521.6943042,
     "49d62c9b248188e5": 1795428521.6943042,
     "d0b66caacd08b58a": 1795428521.6943042,
-    "2ee506989aa6b9dd": 1795428521.6943042
+    "2ee506989aa6b9dd": 1795428521.6943042,
+    "b47d87de91243da5": 1795432119.0004716,
+    "f040cf86c4c445f9": 1795432119.0004716,
+    "01e8f0892681b190": 1795432119.0004716,
+    "3c4f4569fd7e4d08": 1795432119.0004716,
+    "c22ba7b5eeb6c2e9": 1795432119.0004716,
+    "fbcc724087bc7c77": 1795432119.0004716,
+    "198fa61309b2a8e2": 1795432119.0004716,
+    "87987c38b4e6dd33": 1795432119.0004716,
+    "de8893485cc5eb9a": 1795432119.0004716,
+    "636bb5cfcbadd3c1": 1795432119.0004716,
+    "f5150ae43f4ec5f3": 1795432119.0004716,
+    "4fe93c1b0f6d6c01": 1795432119.0004716,
+    "55901d5636965a38": 1795432119.0004716,
+    "d7dd46810908f532": 1795432119.0004716,
+    "ac649840b1e660ad": 1795432119.0004716,
+    "f7a6e888460976a6": 1795432119.0004716,
+    "e7f884496e11979d": 1795432119.0004716,
+    "94783c588ebd6330": 1795432119.0004716,
+    "a02b44a76f7b8d8e": 1795432119.0004716,
+    "da423c4dfaf17599": 1795432119.0004716,
+    "e348023920abdf79": 1795432119.0004716,
+    "3073b904932723d7": 1795432119.0004716,
+    "39b9a7dd57e79bb9": 1795432119.0004716,
+    "26cec60b2eeea5ae": 1795432119.0004716,
+    "0f93689ccccfb23b": 1795432119.0004716,
+    "36820e367717d40a": 1795432119.0004716,
+    "52048fa6ade8b317": 1795432119.0004716,
+    "a322a5119ee5dc95": 1795432119.0004716,
+    "c9a5c432f127195e": 1795432119.0004716
   },
   "drafts": {
     "a404638457": {
@@ -1355,6 +1384,44 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
+    },
+    "2968a6d5a7": {
+      "id": "2968a6d5a7",
+      "created": 1795432129.0618591,
+      "headline": "First GTA 6 Update Reportedly Rolling Out: Version 01.002.002",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OWGxleTZMQVM1UXJlMVNnXzBaRmlLaldUdlUyX0ttR0VUNkhrNjhaeHJRcG1yR1BDcDBrRjdYX2JLTkhwSE5kdkZoNl9NLWRlblJLWElaWHc3aTJTSW5FYi1KeGsta0MyS3QzLWVZaHjSAXZBVV95cUxOOEVlZE9hX0tRNU8xREZuanE1QlNid2lmQ3d3akNVZlpLTGRMMjI1cVpaNWdFRlpoUXBMOEV5dWxYYVN1dm8xVnBQeDBaY3k3UXdpN2NQR2NNRkNTcGQ5RHBlbl9MYVlzR19RTkNFR1FjWkNpX3pn?oc=5",
+      "source": "Beebom",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795432128/gta-bot/2968a6d5a7-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795432128/gta-bot/2968a6d5a7-0.jpg"
+      ],
+      "full_caption": "The first GTA 6 update is reportedly on its way. 🛠️\n\nBeebom reports that a patch labelled version 01.002.002 is rolling out, with patch notes available. We don't have the full list of changes yet, so check Rockstar's official channels and your console's update screen for the details.\n\nWe'll share the key changes once they're confirmed.\n\nHave you seen the update on your system yet?\n\nSource: Beebom\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #PatchNotes #GTA6Update #Leonida #GTANews #Gaming #GamingNews",
+      "alt_text": "News graphic announcing the first GTA 6 update, version 01.002.002, with a patch notes label.",
+      "score": 9,
+      "reel_url": null,
+      "category": "PATCH NOTES",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Jason_Duval_03.jpg",
+      "text_message_id": 357
+    },
+    "a201410489": {
+      "id": "a201410489",
+      "created": 1795432138.8477805,
+      "headline": "Over Half of US Console Players Played GTA 6 on Day One",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFRIX3kweXRHMVFlelNoUGdsZ2tISGRtaHlEcnc4VXFvdGV3blgxRU1tQVluN1RMRkp0ZlhDanlYZWpkYjlCY0cyZHQxdm82WGlLOXd1MF9fcHVrLS1rdVh3TXhlWUFEZjcxZTRjaFNmWXpLaDVXaGpYLWVwOGR6RUNLRUhWVTBxaW03MXBtUVNOTkI4dmJSc0lkQUZJc3ZfajBMQnRNLW5zdnZjU2xQTGZyZEJIV3M?oc=5",
+      "source": "GamesIndustry.biz",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795432138/gta-bot/a201410489-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795432138/gta-bot/a201410489-0.jpg"
+      ],
+      "full_caption": "Leonida was packed on day one. 🌴\n\nAccording to market research firm Circana, more than half of console players in the US played GTA 6 on launch day. That points to a huge first-day audience and shows how much pull the game has across the console market. Circana's report is where the figure comes from, and the headline gives no further breakdown, so we'll share more once the full details are out.\n\nDid you jump in on launch day, or are you taking your time getting to Leonida?\n\nSource: GamesIndustry.biz\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #Circana #GamingNews #ConsoleGaming #LaunchDay #VideoGames",
+      "alt_text": "News graphic with the headline that over half of US console players played GTA 6 on launch day, according to Circana.",
+      "score": 8,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
+      "text_message_id": 359
     }
   },
   "queue": [],
@@ -1688,13 +1755,13 @@
     1795414201.8121722,
     1795417757.2433596,
     1795421337.9756882,
-    1795428538.6871855
+    1795428538.6871855,
+    1795432130.0931582,
+    1795432140.0563505
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_18.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996742/Jason_and_Lucia_16.jpg",
@@ -1722,6 +1789,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996610/Port_Gellhorn_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Real_Dimez_04.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Real_Dimez_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Jason_Duval_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg"
   ]
 }
