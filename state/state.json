@@ -2,7 +2,7 @@
   "telegram_offset": 889593692,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795439323.1871543,
+  "last_scout": 1795442966.3227904,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1380,7 +1380,32 @@
     "47ce8b436a2029d3": 1795439333.6217406,
     "8d1cee27282c761a": 1795439333.6217406,
     "2f8dee9441da03a4": 1795439333.6217406,
-    "0f8aae05076df0ff": 1795439333.6217406
+    "0f8aae05076df0ff": 1795439333.6217406,
+    "9db71218dc452d55": 1795442975.5348306,
+    "799629de6524a168": 1795442975.5348306,
+    "911d4c6cf8f3d5c3": 1795442975.5348306,
+    "b0ecf20defccf7dc": 1795442975.5348306,
+    "3dd9a18929a6e32a": 1795442975.5348306,
+    "9c1fd19bf66d16ab": 1795442975.5348306,
+    "5eaed2fb3ff497aa": 1795442975.5348306,
+    "e41d22c7b5ff975c": 1795442975.5348306,
+    "28c0710fac677969": 1795442975.5348306,
+    "15fe8f6c8deaa11d": 1795442975.5348306,
+    "9ec371b418263eed": 1795442975.5348306,
+    "7fdcd81015ed1905": 1795442975.5348306,
+    "6e077ac8edb3c374": 1795442975.5348306,
+    "919a291e3281f0e7": 1795442975.5348306,
+    "6a79f688d01cf301": 1795442975.5348306,
+    "ac905a23ae920b61": 1795442975.5348306,
+    "05917c58cbc727e8": 1795442975.5348306,
+    "7dcf5670792cf6a1": 1795442975.5348306,
+    "69d96bbae36590cd": 1795442975.5348306,
+    "0eaba974c2c89f77": 1795442975.5348306,
+    "39b71ed5e45e6ab8": 1795442975.5348306,
+    "203911a9c9d03bd8": 1795442975.5348306,
+    "0246bc9bb9677304": 1795442975.5348306,
+    "9ca11588dc82e677": 1795442975.5348306,
+    "ba0036f8d840d569": 1795442975.5348306
   },
   "drafts": {
     "a404638457": {
@@ -1500,53 +1525,47 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg",
       "text_message_id": 383
+    },
+    "4763625093": {
+      "id": "4763625093",
+      "created": 1795442995.1346183,
+      "headline": "GTA VI: The Album Deluxe Adds 23 Original Songs",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ25BamNKaGthZDB4SGtfS1FoVHYtdlBhdkl1RTZsNnh3ckdaYVB2WUVpT3h2Y2U2czJFS2luSlNwVUQ2VkdSTUFsMTJGMEpVaFBCQjNpQVRmRjNlN1ZFTE12MnFqRkk3U2t1SXFvNjRlMEhWQUZYYmtqVnROaDVrRm8waGJjSV9wZHdBa3Rzd3lUcjNiSGFIaw?oc=5",
+      "source": "Variety",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795442994/gta-bot/4763625093-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795442994/gta-bot/4763625093-0.jpg"
+      ],
+      "full_caption": "The GTA VI soundtrack scene just got bigger. 🎶\n\nPer Variety, the deluxe edition of \"Grand Theft Auto VI: The Album\" adds 23 original songs. Named artists include Travis Scott, Slayyyter, Offset and Sexyy Red, with more on the list.\n\nWe only have the headline so far, so there's no word here on a release date, the full tracklist or how the songs tie into the game. We'll update you when more details land.\n\nWhich artist are you most hyped to hear on a GTA VI project?\n\nSource: Variety\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #Leonida #GTANews #TravisScott #Slayyyter #SexyyRed #GamingMusic",
+      "alt_text": "News graphic announcing that the deluxe edition of Grand Theft Auto VI: The Album adds 23 original songs from artists including Travis Scott, Slayyyter, Offset and Sexyy Red.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996624/Vice_City_12.jpg",
+      "text_message_id": 387
+    },
+    "7b7ec2f1a5": {
+      "id": "7b7ec2f1a5",
+      "created": 1795443005.8539467,
+      "headline": "GTA 6 Mocap Actor Doesn't Know Which Character He Plays",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPaktGWmVwVUpEdVZlanl3THZpRkIwRnR1ckt3SkQ1NkFjWUVZdVZ0NjRzaVZYTFRMNy11cGJVRTl0M191emVEeml0eXFMaGdZSXJTZnJUZTY3cTZnZk5XUzEwTFphOVR0QVdTd2RVV2xrQ29lYnBoMzV0LTBYN1F5a1k2ckE1RlpIOWFYVzZwcXNKbktaSUoybV9SWkttRG9TalVMNmppUl9wVmprb3lNNGV5akV1M01ZR3F3R0J1azZRQmtlbUtWQVU0NEVQcVpZOVhTbnhlRmRROXVnNnhsbk96UWlnVUxXWV9sUERTeTNOdw?oc=5",
+      "source": "IGN Pakistan",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795443005/gta-bot/7b7ec2f1a5-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795443005/gta-bot/7b7ec2f1a5-0.jpg"
+      ],
+      "full_caption": "A GTA 6 mocap actor has no idea who he is in the game 🎭\n\nAccording to IGN Pakistan, the performer doesn't know which character he plays. That has sparked a hunt on social media, with fans trying to work out which character is his. It's a fun glimpse of how much of the game's cast is still under wraps. Until Rockstar says otherwise, treat any fan guesses as speculation, not fact.\n\nWho would you pick as the actor's character? Tell us below 👇\n\nSource: IGN Pakistan\n\n#GTA6 #GTAVI #RockstarGames #Leonida #GrandTheftAutoVI #GTA #MotionCapture #GTA6News #Gaming #GamingNews",
+      "alt_text": "News graphic with the headline that a GTA 6 motion capture actor doesn't know which character he plays, as fans try to find out.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg",
+      "text_message_id": 389
     }
   },
   "queue": [
-    {
-      "id": "7aa82313ff",
-      "created": 1795435821.0807414,
-      "headline": "How to break into Freddie Gibbs' doomsday compound in GTA 6",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435784/gta-bot/7aa82313ff-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435784/gta-bot/7aa82313ff-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435785/gta-bot/7aa82313ff-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435785/gta-bot/7aa82313ff-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435786/gta-bot/7aa82313ff-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435787/gta-bot/7aa82313ff-4.jpg"
-      ],
-      "full_caption": "Freddie Gibbs is ready for the end of the world, and his compound is ready for you. 💥\n\nIt has electric fences, mines and explosive drones, but there's a way in, and a second way in when he upgrades. Swipe for the location, both routes and the rewards.\n\nHeads up: the rewards are covered in the final slide.\n\nHave you cracked Freddie's bunker yet? Tell us your route! 🔧\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Guide #FreddieGibbs #GTA6Tips #LakeLeonida #Gaming",
-      "alt_text": "Graphic for a GTA 6 guide on finding and breaking into Freddie Gibbs' fenced doomsday compound and bunker.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435819/gta-bot/7aa82313ff-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where to find the compound",
-          "text": "Freddie's bunker sits on the north shore of Lake Leonida in North Leonard County. It's on the same road as One-Eyed Willie's Auto Shop (Ultimate Edition exclusive), with end-of-world billboards outside."
-        },
-        {
-          "title": "First break-in: the water tower",
-          "text": "A ladder on the water tower outside the fence leads to a platform. Jump from there onto a shed roof inside. Use Focus mode to spot mines and shoot drones, and stick to the pipes and cables, which have no mines."
-        },
-        {
-          "title": "The rematch: tractor and bulldozer",
-          "text": "After Freddie texts Jason and Lucia, the tower is out and the defenses are tougher. In the northwest corner, park the tractor and trailer against the fence, then lift the trailer with the bulldozer to make a ramp."
-        },
-        {
-          "title": "Your rewards",
-          "text": "Once Freddie lets you in and a storm hits, you choose. Leave and he pays $6,250 cash. Stay and you get a Benefactor Dubsta that you can register and keep."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
-      "text_message_id": 374,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795435967.6672401,
-      "attempts": 1
-    },
     {
       "id": "7aa82313ff",
       "created": 1795435821.0807414,
@@ -2000,6 +2019,14 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFRIX3kweXRHMVFlelNoUGdsZ2tISGRtaHlEcnc4VXFvdGV3blgxRU1tQVluN1RMRkp0ZlhDanlYZWpkYjlCY0cyZHQxdm82WGlLOXd1MF9fcHVrLS1rdVh3TXhlWUFEZjcxZTRjaFNmWXpLaDVXaGpYLWVwOGR6RUNLRUhWVTBxaW03MXBtUVNOTkI4dmJSc0lkQUZJc3ZfajBMQnRNLW5zdnZjU2xQTGZyZEJIV3M?oc=5",
       "at": 1795435980.806772,
       "media_id": "17982708756131566"
+    },
+    {
+      "id": "7aa82313ff",
+      "headline": "How to break into Freddie Gibbs' doomsday compound in GTA 6",
+      "kind": "carousel",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
+      "at": 1795442964.6531909,
+      "media_id": "18644484556022771"
     }
   ],
   "drafts_sent": [
@@ -2026,15 +2053,13 @@
     1795435772.3919244,
     1795435824.3790069,
     1795439368.7446132,
-    1795439380.408582
+    1795439380.408582,
+    1795442996.390176,
+    1795443007.148312
   ],
-  "feed_errors": {
-    "Google News: Grand Theft Auto VI": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Grand+Theft+Auto+VI+when%3A1d&hl=en-US&gl=US&ceid=US:en"
-  },
+  "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996631/Vice_City_21.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996634/Vice_City_08.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
@@ -2062,6 +2087,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996641/Vice_City_22.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996624/Vice_City_12.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg"
   ]
 }
