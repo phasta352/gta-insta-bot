@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593690,
+  "telegram_offset": 889593692,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795435714.9035292,
@@ -1421,48 +1421,10 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
-    },
-    "929119db2c": {
-      "id": "929119db2c",
-      "created": 1795435769.439378,
-      "headline": "GTA 6 Guide: Where to Find the Ocean View Hotel and Its Classic Car",
-      "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435736/gta-bot/929119db2c-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435737/gta-bot/929119db2c-4.jpg"
-      ],
-      "full_caption": "Vice City nostalgia, with a free car attached. 🏨\n\nThe Ocean View Hotel returns from GTA: Vice City and sits on the city's waterfront. A '55 Stainer from the Vintage Vice City pack is parked outside it. Swipe for where to look and what to expect.\n\nHave you made the trip to the Ocean View yet?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #OceanViewHotel #RockstarGames #GTA6Guide #VintageViceCity #Gaming #GTA",
-      "alt_text": "Graphic with the text 'Ocean View Hotel' for a GTA 6 location guide covering the Vice City waterfront landmark and its classic car.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435768/gta-bot/929119db2c-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "A Vice City classic returns",
-          "text": "The Ocean View Hotel is one of the most recognisable landmarks to come back from GTA: Vice City. It also holds one of the items from the Vintage Vice City pack."
-        },
-        {
-          "title": "Where to find it",
-          "text": "Head to Vice City's waterfront. The hotel is modelled on the real-life Clevelander Hotel. Look for the huge glowing signs out front and the supercars regularly parked outside."
-        },
-        {
-          "title": "Early access",
-          "text": "You can reach this part of the map as soon as the open world opens up at the start of Chapter 1, so there's no need to wait."
-        },
-        {
-          "title": "The car outside",
-          "text": "The '55 Stainer, part of the Ultimate Edition's Vintage Vice City content, is parked outside. It nods to a similar car outside the real Miami hotel and the one at the Ocean View in Vice City."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
-      "text_message_id": 367
-    },
-    "7aa82313ff": {
+    }
+  },
+  "queue": [
+    {
       "id": "7aa82313ff",
       "created": 1795435821.0807414,
       "headline": "How to break into Freddie Gibbs' doomsday compound in GTA 6",
@@ -1500,31 +1462,139 @@
         }
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
-      "text_message_id": 374
-    }
-  },
-  "queue": [
-    {
-      "id": "a201410489",
-      "created": 1795432138.8477805,
-      "headline": "Over Half of US Console Players Played GTA 6 on Day One",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFRIX3kweXRHMVFlelNoUGdsZ2tISGRtaHlEcnc4VXFvdGV3blgxRU1tQVluN1RMRkp0ZlhDanlYZWpkYjlCY0cyZHQxdm82WGlLOXd1MF9fcHVrLS1rdVh3TXhlWUFEZjcxZTRjaFNmWXpLaDVXaGpYLWVwOGR6RUNLRUhWVTBxaW03MXBtUVNOTkI4dmJSc0lkQUZJc3ZfajBMQnRNLW5zdnZjU2xQTGZyZEJIV3M?oc=5",
-      "source": "GamesIndustry.biz",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795432138/gta-bot/a201410489-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795432138/gta-bot/a201410489-0.jpg"
-      ],
-      "full_caption": "Leonida was packed on day one. 🌴\n\nAccording to market research firm Circana, more than half of console players in the US played GTA 6 on launch day. That points to a huge first-day audience and shows how much pull the game has across the console market. Circana's report is where the figure comes from, and the headline gives no further breakdown, so we'll share more once the full details are out.\n\nDid you jump in on launch day, or are you taking your time getting to Leonida?\n\nSource: GamesIndustry.biz\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #Circana #GamingNews #ConsoleGaming #LaunchDay #VideoGames",
-      "alt_text": "News graphic with the headline that over half of US console players played GTA 6 on launch day, according to Circana.",
-      "score": 8,
-      "reel_url": null,
-      "category": "RECORDS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
-      "text_message_id": 359,
+      "text_message_id": 374,
       "kind": "carousel",
       "post_now": false,
-      "approved_at": 1795432254.5206163
+      "approved_at": 1795435967.6672401
+    },
+    {
+      "id": "7aa82313ff",
+      "created": 1795435821.0807414,
+      "headline": "How to break into Freddie Gibbs' doomsday compound in GTA 6",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435784/gta-bot/7aa82313ff-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435784/gta-bot/7aa82313ff-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435785/gta-bot/7aa82313ff-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435785/gta-bot/7aa82313ff-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435786/gta-bot/7aa82313ff-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435787/gta-bot/7aa82313ff-4.jpg"
+      ],
+      "full_caption": "Freddie Gibbs is ready for the end of the world, and his compound is ready for you. 💥\n\nIt has electric fences, mines and explosive drones, but there's a way in, and a second way in when he upgrades. Swipe for the location, both routes and the rewards.\n\nHeads up: the rewards are covered in the final slide.\n\nHave you cracked Freddie's bunker yet? Tell us your route! 🔧\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Guide #FreddieGibbs #GTA6Tips #LakeLeonida #Gaming",
+      "alt_text": "Graphic for a GTA 6 guide on finding and breaking into Freddie Gibbs' fenced doomsday compound and bunker.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435819/gta-bot/7aa82313ff-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where to find the compound",
+          "text": "Freddie's bunker sits on the north shore of Lake Leonida in North Leonard County. It's on the same road as One-Eyed Willie's Auto Shop (Ultimate Edition exclusive), with end-of-world billboards outside."
+        },
+        {
+          "title": "First break-in: the water tower",
+          "text": "A ladder on the water tower outside the fence leads to a platform. Jump from there onto a shed roof inside. Use Focus mode to spot mines and shoot drones, and stick to the pipes and cables, which have no mines."
+        },
+        {
+          "title": "The rematch: tractor and bulldozer",
+          "text": "After Freddie texts Jason and Lucia, the tower is out and the defenses are tougher. In the northwest corner, park the tractor and trailer against the fence, then lift the trailer with the bulldozer to make a ramp."
+        },
+        {
+          "title": "Your rewards",
+          "text": "Once Freddie lets you in and a storm hits, you choose. Leave and he pays $6,250 cash. Stay and you get a Benefactor Dubsta that you can register and keep."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
+      "text_message_id": 374,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795435967.667243
+    },
+    {
+      "id": "929119db2c",
+      "created": 1795435769.439378,
+      "headline": "GTA 6 Guide: Where to Find the Ocean View Hotel and Its Classic Car",
+      "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435736/gta-bot/929119db2c-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435737/gta-bot/929119db2c-4.jpg"
+      ],
+      "full_caption": "Vice City nostalgia, with a free car attached. 🏨\n\nThe Ocean View Hotel returns from GTA: Vice City and sits on the city's waterfront. A '55 Stainer from the Vintage Vice City pack is parked outside it. Swipe for where to look and what to expect.\n\nHave you made the trip to the Ocean View yet?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #OceanViewHotel #RockstarGames #GTA6Guide #VintageViceCity #Gaming #GTA",
+      "alt_text": "Graphic with the text 'Ocean View Hotel' for a GTA 6 location guide covering the Vice City waterfront landmark and its classic car.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435768/gta-bot/929119db2c-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "A Vice City classic returns",
+          "text": "The Ocean View Hotel is one of the most recognisable landmarks to come back from GTA: Vice City. It also holds one of the items from the Vintage Vice City pack."
+        },
+        {
+          "title": "Where to find it",
+          "text": "Head to Vice City's waterfront. The hotel is modelled on the real-life Clevelander Hotel. Look for the huge glowing signs out front and the supercars regularly parked outside."
+        },
+        {
+          "title": "Early access",
+          "text": "You can reach this part of the map as soon as the open world opens up at the start of Chapter 1, so there's no need to wait."
+        },
+        {
+          "title": "The car outside",
+          "text": "The '55 Stainer, part of the Ultimate Edition's Vintage Vice City content, is parked outside. It nods to a similar car outside the real Miami hotel and the one at the Ocean View in Vice City."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
+      "text_message_id": 367,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795435968.6713562
+    },
+    {
+      "id": "929119db2c",
+      "created": 1795435769.439378,
+      "headline": "GTA 6 Guide: Where to Find the Ocean View Hotel and Its Classic Car",
+      "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435736/gta-bot/929119db2c-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435737/gta-bot/929119db2c-4.jpg"
+      ],
+      "full_caption": "Vice City nostalgia, with a free car attached. 🏨\n\nThe Ocean View Hotel returns from GTA: Vice City and sits on the city's waterfront. A '55 Stainer from the Vintage Vice City pack is parked outside it. Swipe for where to look and what to expect.\n\nHave you made the trip to the Ocean View yet?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #OceanViewHotel #RockstarGames #GTA6Guide #VintageViceCity #Gaming #GTA",
+      "alt_text": "Graphic with the text 'Ocean View Hotel' for a GTA 6 location guide covering the Vice City waterfront landmark and its classic car.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435768/gta-bot/929119db2c-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "A Vice City classic returns",
+          "text": "The Ocean View Hotel is one of the most recognisable landmarks to come back from GTA: Vice City. It also holds one of the items from the Vintage Vice City pack."
+        },
+        {
+          "title": "Where to find it",
+          "text": "Head to Vice City's waterfront. The hotel is modelled on the real-life Clevelander Hotel. Look for the huge glowing signs out front and the supercars regularly parked outside."
+        },
+        {
+          "title": "Early access",
+          "text": "You can reach this part of the map as soon as the open world opens up at the start of Chapter 1, so there's no need to wait."
+        },
+        {
+          "title": "The car outside",
+          "text": "The '55 Stainer, part of the Ultimate Edition's Vintage Vice City content, is parked outside. It nods to a similar car outside the real Miami hotel and the one at the Ocean View in Vice City."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
+      "text_message_id": 367,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795435968.6713583
     }
   ],
   "published": [
@@ -1842,10 +1912,17 @@
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OWGxleTZMQVM1UXJlMVNnXzBaRmlLaldUdlUyX0ttR0VUNkhrNjhaeHJRcG1yR1BDcDBrRjdYX2JLTkhwSE5kdkZoNl9NLWRlblJLWElaWHc3aTJTSW5FYi1KeGsta0MyS3QzLWVZaHjSAXZBVV95cUxOOEVlZE9hX0tRNU8xREZuanE1QlNid2lmQ3d3akNVZlpLTGRMMjI1cVpaNWdFRlpoUXBMOEV5dWxYYVN1dm8xVnBQeDBaY3k3UXdpN2NQR2NNRkNTcGQ5RHBlbl9MYVlzR19RTkNFR1FjWkNpX3pn?oc=5",
       "at": 1795432266.990952,
       "media_id": "18146260396722478"
+    },
+    {
+      "id": "a201410489",
+      "headline": "Over Half of US Console Players Played GTA 6 on Day One",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcFRIX3kweXRHMVFlelNoUGdsZ2tISGRtaHlEcnc4VXFvdGV3blgxRU1tQVluN1RMRkp0ZlhDanlYZWpkYjlCY0cyZHQxdm82WGlLOXd1MF9fcHVrLS1rdVh3TXhlWUFEZjcxZTRjaFNmWXpLaDVXaGpYLWVwOGR6RUNLRUhWVTBxaW03MXBtUVNOTkI4dmJSc0lkQUZJc3ZfajBMQnRNLW5zdnZjU2xQTGZyZEJIV3M?oc=5",
+      "at": 1795435980.806772,
+      "media_id": "17982708756131566"
     }
   ],
   "drafts_sent": [
-    1795263055.9127574,
     1795266628.5113723,
     1795327787.7262533,
     1795327815.484567,
