@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593687,
+  "telegram_offset": 889593688,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795428512.7303777,
@@ -1355,46 +1355,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
-    },
-    "e64752a001": {
-      "id": "e64752a001",
-      "created": 1795428536.9763336,
-      "headline": "Why Darts Didn't Make It Into GTA 6",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-no-darts-didnt-have-resources",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795428533/gta-bot/e64752a001-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795428533/gta-bot/e64752a001-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795428534/gta-bot/e64752a001-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795428535/gta-bot/e64752a001-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795428535/gta-bot/e64752a001-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795428536/gta-bot/e64752a001-4.jpg"
-      ],
-      "full_caption": "No darts in Vice City? Rockstar has explained why. 🎯\n\nRockstar North co-studio lead Rob Nelson told VGC the team lacked the time and resources to build darts to a standard it was happy with. Darts featured in GTA 4, GTA 5 and GTA Online, but Rockstar now builds activities like basketball and pool as full experiences, and that takes serious tuning.\n\nWould you rather have a polished handful of activities or more of them, even if they're simpler?\n\nSource: Eurogamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTAOnline #GTA #GamingNews #Darts",
-      "alt_text": "News graphic with the headline 'Why Darts Didn't Make It Into GTA 6', about Rockstar explaining the missing darts activity.",
-      "score": 7,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "The missing pastime",
-          "text": "Darts appeared in GTA 4, GTA 5 and GTA Online, but it's absent from GTA 6, even though the game is packed with other activities."
-        },
-        {
-          "title": "Rockstar's explanation",
-          "text": "Rob Nelson told VGC that Rockstar doesn't have unlimited time or money. Darts was one the team never got to, and he said it's better to skip it than ship it half-baked."
-        },
-        {
-          "title": "Mini-games are now full activities",
-          "text": "Since Red Dead Redemption 2, Rockstar has expanded small mini-games into bigger activities. Basketball and pool needed a lot of tuning to feel like a game in their own right."
-        },
-        {
-          "title": "What you can do instead",
-          "text": "Vice City still has plenty of side activities, including diving, treasure hunting and fishing."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Real_Dimez_04.jpg",
-      "text_message_id": 355
     }
   },
   "queue": [],
