@@ -2,7 +2,7 @@
   "telegram_offset": 889593686,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795417720.2214215,
+  "last_scout": 1795421315.9819906,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1255,7 +1255,19 @@
     "44af8c4e79973d8e": 1795417729.1264143,
     "d9309eb3e975cb8c": 1795417729.1264143,
     "f091f1e1de8aa1f3": 1795417729.1264143,
-    "4493e70dbe90d83c": 1795417729.1264143
+    "4493e70dbe90d83c": 1795417729.1264143,
+    "9a1041028d1f0e04": 1795421326.0644727,
+    "a493fd441d71400e": 1795421326.0644727,
+    "153064ebf5c99536": 1795421326.0644727,
+    "166df16b3452cb1f": 1795421326.0644727,
+    "273fb99551c02972": 1795421326.0644727,
+    "ddad4f2b38e0dc17": 1795421326.0644727,
+    "c356bb6b141fbae7": 1795421326.0644727,
+    "1250e45b56735e94": 1795421326.0644727,
+    "2f42d6ba5a8d3f75": 1795421326.0644727,
+    "187846d031a80c1a": 1795421326.0644727,
+    "a1138c8a3a1e42f4": 1795421326.0644727,
+    "f9e415c717c72058": 1795421326.0644727
   },
   "drafts": {
     "a404638457": {
@@ -1316,6 +1328,25 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
+    },
+    "5a81c6a630": {
+      "id": "5a81c6a630",
+      "created": 1795421336.5295043,
+      "headline": "KFC Spain Offers Fried Chicken 'Replacement Disc' for GTA VI",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEg1YjQweDRITWhwZGJqZER0UlJEQ0xCOG4wcjduZHpGOF9jUmJHd3J4RU9Ecllldm5OYjdyMlNuM0l4RC1RVU94SHQzNmNvVjVnTklCWXFycEdsZ3pHemIycEhDSWczZFJIdEp1YXN2N3doZHFJeUprOGJxTi1hQWhxQ203NTduc3V1dXR5LU5KOU1jZ0hjZXI2VGNhNURU?oc=5",
+      "source": "news.lavx.hu",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795421335/gta-bot/5a81c6a630-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795421335/gta-bot/5a81c6a630-0.jpg"
+      ],
+      "full_caption": "Empty GTA VI case? KFC Spain reportedly has a very crispy fix. 🍗\n\nAccording to the report, KFC Spain is offering a fried chicken \"replacement disc\" for empty GTA VI cases. It looks like a tongue-in-cheek brand promo riding the hype around the game. The details we have are limited, so we don't yet know how it works, how long it runs or where you can get it.\n\nWe'll update you if more comes out. Would you swap your empty case for a bucket of chicken?\n\nSource: news.lavx.hu\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #LeonidaDaily #KFC #KFCSpain #GamingNews #Leonida #GamingCommunity",
+      "alt_text": "News graphic with the headline about KFC Spain offering a fried chicken replacement disc for empty GTA VI cases.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996610/Port_Gellhorn_02.jpg",
+      "text_message_id": 349
     }
   },
   "queue": [],
@@ -1629,7 +1660,6 @@
     }
   ],
   "drafts_sent": [
-    1795248536.3184495,
     1795248579.1891286,
     1795255789.244772,
     1795263000.764236,
@@ -1650,12 +1680,12 @@
     1795378182.8789625,
     1795378236.1544225,
     1795414201.8121722,
-    1795417757.2433596
+    1795417757.2433596,
+    1795421337.9756882
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_12.jpg",
@@ -1684,6 +1714,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996622/Vice_City_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_02.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996610/Port_Gellhorn_02.jpg"
   ]
 }
