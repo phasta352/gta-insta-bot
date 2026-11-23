@@ -2,7 +2,7 @@
   "telegram_offset": 889593692,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795435714.9035292,
+  "last_scout": 1795439323.1871543,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1360,7 +1360,27 @@
     "edd2d78710d3b731": 1795435724.7565176,
     "5ddceb8bf121b033": 1795435724.7565176,
     "b48938f14bfa857f": 1795435724.7565176,
-    "f5558461c267f345": 1795435724.7565176
+    "f5558461c267f345": 1795435724.7565176,
+    "806c2767d7e9e91a": 1795439333.6217406,
+    "642622ddc0b64516": 1795439333.6217406,
+    "b3305c901fffc5a6": 1795439333.6217406,
+    "620996d5f0791533": 1795439333.6217406,
+    "9a1b546522408f02": 1795439333.6217406,
+    "92c9b9933b692022": 1795439333.6217406,
+    "c0d6d3d6fd506d68": 1795439333.6217406,
+    "9f081570e3c8b5ec": 1795439333.6217406,
+    "1f92ecd18c8f19c6": 1795439333.6217406,
+    "2d01c19ba7a4f2e2": 1795439333.6217406,
+    "1c819418c01639c4": 1795439333.6217406,
+    "78ed660af3827eb4": 1795439333.6217406,
+    "c51a6eb7eba844e4": 1795439333.6217406,
+    "3377a191d228808b": 1795439333.6217406,
+    "d8d4ba86045c05a8": 1795439333.6217406,
+    "510971a375f1a241": 1795439333.6217406,
+    "47ce8b436a2029d3": 1795439333.6217406,
+    "8d1cee27282c761a": 1795439333.6217406,
+    "2f8dee9441da03a4": 1795439333.6217406,
+    "0f8aae05076df0ff": 1795439333.6217406
   },
   "drafts": {
     "a404638457": {
@@ -1421,6 +1441,65 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
+    },
+    "435972edd9": {
+      "id": "435972edd9",
+      "created": 1795439366.5549228,
+      "headline": "GTA 6: Vanessa's Laptop Password and Hidden Garage Location",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-laptop-password-aunties-place-la-perle/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439362/gta-bot/435972edd9-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439362/gta-bot/435972edd9-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439363/gta-bot/435972edd9-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439364/gta-bot/435972edd9-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439365/gta-bot/435972edd9-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439366/gta-bot/435972edd9-4.jpg"
+      ],
+      "full_caption": "Stuck on Vanessa's laptop in your Vice City apartment? 🔐 There's a quick fix.\n\nTwo items in the apartment give you the password. Solving it leads to a code for the Del Rio Boulevard Garage in La Perle, which comes with Vanessa's Pink Growler and a weapon locker. You can keep the car or sell it to Moses for $14,750. Swipe for the full walkthrough. Mild early-chapter spoilers ahead.\n\nHave you unlocked the garage yet, and are you keeping the Growler? 🚗\n\nSource: PC Gamer\n\n#GTAVI #GTA6 #GrandTheftAutoVI #ViceCity #LaPerle #RockstarGames #GTAGuide #GTATips #Leonida #GamingGuide",
+      "alt_text": "Graphic with the headline about solving the laptop password puzzle in GTA 6 and finding the Auntie's Place garage in La Perle.",
+      "score": 7,
+      "reel_url": null,
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Find the clues first",
+          "text": "The laptop in Vanessa's bedroom only offers a list of guesses. Flip the crowned-dog drawing on the left bedside table and pick up Muffins' certificate on the table near the entrance."
+        },
+        {
+          "title": "Enter the password",
+          "text": "At the laptop, choose Muffins, Queen and 15 in that order. Muffins is her dog, the drawing supplies the queen, and 15 comes from the class reunion note."
+        },
+        {
+          "title": "Grab the garage code",
+          "text": "Read through the messages on the laptop. One mentions Auntie's Place in La Perle and gives you a code to use."
+        },
+        {
+          "title": "Find Auntie's Place",
+          "text": "Go near Aunt Zola's Soul Food, take the main road past Twa Ponya tattoo shop and turn right before Aline's Thrift Store. Enter the code on the safe below the graffiti bow."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996641/Vice_City_22.jpg",
+      "text_message_id": 381
+    },
+    "2965e085c4": {
+      "id": "2965e085c4",
+      "created": 1795439378.6770418,
+      "headline": "Research Firm Claims GTA 6 Has Sold 45 Million Copies",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlVXR0RHlpakFudVlydE1uWG54RU9BQnhha1F4dHVRSDRxaDlfYzZtak0ydUJKMGZhc1h2Z3R3bVNVQ01NbFZ1bnJuUHcwcWt2MnI0SnpxdWdKc3dCQ3QwTQ?oc=5",
+      "source": "Insider Gaming",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439377/gta-bot/2965e085c4-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439377/gta-bot/2965e085c4-0.jpg"
+      ],
+      "full_caption": "45 million copies? That's the number a research firm is putting on GTA 6, according to Insider Gaming. 📈\n\nThis is a third-party estimate, not an official sales figure from Rockstar or Take-Two. The report headline doesn't tell us how the number was calculated, so treat it with caution until there's an official update. If it holds up, it would be a huge sign of how much demand there is for the next trip to Leonida.\n\nDo you think 45 million is realistic, or is that estimate way off?\n\nSource: Insider Gaming\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Rockstar #RockstarGames #TakeTwo #LeonidaDaily #GTAOnline #GamingNews #VideoGameSales",
+      "alt_text": "News graphic with the headline that a research firm claims GTA 6 has sold 45 million copies.",
+      "score": 7,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg",
+      "text_message_id": 383
     }
   },
   "queue": [
@@ -1945,13 +2024,15 @@
     1795432130.0931582,
     1795432140.0563505,
     1795435772.3919244,
-    1795435824.3790069
+    1795435824.3790069,
+    1795439368.7446132,
+    1795439380.408582
   ],
-  "feed_errors": {},
+  "feed_errors": {
+    "Google News: Grand Theft Auto VI": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Grand+Theft+Auto+VI+when%3A1d&hl=en-US&gl=US&ceid=US:en"
+  },
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996742/Jason_and_Lucia_16.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996753/Jason_and_Lucia_18.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996631/Vice_City_21.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996634/Vice_City_08.jpg",
@@ -1979,6 +2060,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Jason_Duval_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996641/Vice_City_22.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg"
   ]
 }
