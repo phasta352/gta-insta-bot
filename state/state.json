@@ -2,7 +2,7 @@
   "telegram_offset": 889593690,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795432111.1461308,
+  "last_scout": 1795435714.9035292,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1323,7 +1323,44 @@
     "36820e367717d40a": 1795432119.0004716,
     "52048fa6ade8b317": 1795432119.0004716,
     "a322a5119ee5dc95": 1795432119.0004716,
-    "c9a5c432f127195e": 1795432119.0004716
+    "c9a5c432f127195e": 1795432119.0004716,
+    "c140ac156110711f": 1795435724.7565176,
+    "68e9f4ca13627d20": 1795435724.7565176,
+    "35f0f079d8ad1795": 1795435724.7565176,
+    "c6c0e36e164b7adc": 1795435724.7565176,
+    "95841fd778749efc": 1795435724.7565176,
+    "1582e336e6ccb989": 1795435724.7565176,
+    "be0b30ac26b22878": 1795435724.7565176,
+    "cd65bc748d6d0a2c": 1795435724.7565176,
+    "b51c3d126534a651": 1795435724.7565176,
+    "7607ef03d50ee6d0": 1795435724.7565176,
+    "cd9f07a3b0eadf0d": 1795435724.7565176,
+    "cf6be5ccadcf8970": 1795435724.7565176,
+    "0d6d8940e9f6715f": 1795435724.7565176,
+    "f83d1619ea02c651": 1795435724.7565176,
+    "f5991becb73a0472": 1795435724.7565176,
+    "93b6f3f33c5b28f1": 1795435724.7565176,
+    "2971fdcfeb3480bc": 1795435724.7565176,
+    "446e06b8c96c2283": 1795435724.7565176,
+    "f0bf333c0d8a5bcc": 1795435724.7565176,
+    "b5ffba79fce06a81": 1795435724.7565176,
+    "451cc9fc579b68ab": 1795435724.7565176,
+    "f7d0456767302562": 1795435724.7565176,
+    "d27de2c1ee6dccf3": 1795435724.7565176,
+    "adf21c7969ef5e68": 1795435724.7565176,
+    "01acd32592628ad6": 1795435724.7565176,
+    "37df9f690b146f8f": 1795435724.7565176,
+    "1036cd247e894b88": 1795435724.7565176,
+    "f055e65faded534e": 1795435724.7565176,
+    "a93279c17ff602e1": 1795435724.7565176,
+    "905ed0abf430c933": 1795435724.7565176,
+    "be2aae7e2279c81a": 1795435724.7565176,
+    "21d893b20287f172": 1795435724.7565176,
+    "9fc8662e1bae9e34": 1795435724.7565176,
+    "edd2d78710d3b731": 1795435724.7565176,
+    "5ddceb8bf121b033": 1795435724.7565176,
+    "b48938f14bfa857f": 1795435724.7565176,
+    "f5558461c267f345": 1795435724.7565176
   },
   "drafts": {
     "a404638457": {
@@ -1384,6 +1421,86 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
+    },
+    "929119db2c": {
+      "id": "929119db2c",
+      "created": 1795435769.439378,
+      "headline": "GTA 6 Guide: Where to Find the Ocean View Hotel and Its Classic Car",
+      "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435736/gta-bot/929119db2c-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435737/gta-bot/929119db2c-4.jpg"
+      ],
+      "full_caption": "Vice City nostalgia, with a free car attached. 🏨\n\nThe Ocean View Hotel returns from GTA: Vice City and sits on the city's waterfront. A '55 Stainer from the Vintage Vice City pack is parked outside it. Swipe for where to look and what to expect.\n\nHave you made the trip to the Ocean View yet?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #OceanViewHotel #RockstarGames #GTA6Guide #VintageViceCity #Gaming #GTA",
+      "alt_text": "Graphic with the text 'Ocean View Hotel' for a GTA 6 location guide covering the Vice City waterfront landmark and its classic car.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435768/gta-bot/929119db2c-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "A Vice City classic returns",
+          "text": "The Ocean View Hotel is one of the most recognisable landmarks to come back from GTA: Vice City. It also holds one of the items from the Vintage Vice City pack."
+        },
+        {
+          "title": "Where to find it",
+          "text": "Head to Vice City's waterfront. The hotel is modelled on the real-life Clevelander Hotel. Look for the huge glowing signs out front and the supercars regularly parked outside."
+        },
+        {
+          "title": "Early access",
+          "text": "You can reach this part of the map as soon as the open world opens up at the start of Chapter 1, so there's no need to wait."
+        },
+        {
+          "title": "The car outside",
+          "text": "The '55 Stainer, part of the Ultimate Edition's Vintage Vice City content, is parked outside. It nods to a similar car outside the real Miami hotel and the one at the Ocean View in Vice City."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
+      "text_message_id": 367
+    },
+    "7aa82313ff": {
+      "id": "7aa82313ff",
+      "created": 1795435821.0807414,
+      "headline": "How to break into Freddie Gibbs' doomsday compound in GTA 6",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435784/gta-bot/7aa82313ff-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435784/gta-bot/7aa82313ff-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435785/gta-bot/7aa82313ff-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435785/gta-bot/7aa82313ff-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435786/gta-bot/7aa82313ff-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435787/gta-bot/7aa82313ff-4.jpg"
+      ],
+      "full_caption": "Freddie Gibbs is ready for the end of the world, and his compound is ready for you. 💥\n\nIt has electric fences, mines and explosive drones, but there's a way in, and a second way in when he upgrades. Swipe for the location, both routes and the rewards.\n\nHeads up: the rewards are covered in the final slide.\n\nHave you cracked Freddie's bunker yet? Tell us your route! 🔧\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Guide #FreddieGibbs #GTA6Tips #LakeLeonida #Gaming",
+      "alt_text": "Graphic for a GTA 6 guide on finding and breaking into Freddie Gibbs' fenced doomsday compound and bunker.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435819/gta-bot/7aa82313ff-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where to find the compound",
+          "text": "Freddie's bunker sits on the north shore of Lake Leonida in North Leonard County. It's on the same road as One-Eyed Willie's Auto Shop (Ultimate Edition exclusive), with end-of-world billboards outside."
+        },
+        {
+          "title": "First break-in: the water tower",
+          "text": "A ladder on the water tower outside the fence leads to a platform. Jump from there onto a shed roof inside. Use Focus mode to spot mines and shoot drones, and stick to the pipes and cables, which have no mines."
+        },
+        {
+          "title": "The rematch: tractor and bulldozer",
+          "text": "After Freddie texts Jason and Lucia, the tower is out and the defenses are tougher. In the northwest corner, park the tractor and trailer against the fence, then lift the trailer with the bulldozer to make a ramp."
+        },
+        {
+          "title": "Your rewards",
+          "text": "Once Freddie lets you in and a storm hits, you choose. Leave and he pays $6,250 cash. Stay and you get a Benefactor Dubsta that you can register and keep."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
+      "text_message_id": 374
     }
   },
   "queue": [
@@ -1728,7 +1845,6 @@
     }
   ],
   "drafts_sent": [
-    1795263000.764236,
     1795263055.9127574,
     1795266628.5113723,
     1795327787.7262533,
@@ -1750,13 +1866,13 @@
     1795421337.9756882,
     1795428538.6871855,
     1795432130.0931582,
-    1795432140.0563505
+    1795432140.0563505,
+    1795435772.3919244,
+    1795435824.3790069
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_18.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996742/Jason_and_Lucia_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996753/Jason_and_Lucia_18.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996631/Vice_City_21.jpg",
@@ -1784,6 +1900,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996610/Port_Gellhorn_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Real_Dimez_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Jason_Duval_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg"
   ]
 }
