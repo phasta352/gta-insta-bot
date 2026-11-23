@@ -2,7 +2,7 @@
   "telegram_offset": 889593692,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795442966.3227904,
+  "last_scout": 1795446555.2642286,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1405,7 +1405,27 @@
     "203911a9c9d03bd8": 1795442975.5348306,
     "0246bc9bb9677304": 1795442975.5348306,
     "9ca11588dc82e677": 1795442975.5348306,
-    "ba0036f8d840d569": 1795442975.5348306
+    "ba0036f8d840d569": 1795442975.5348306,
+    "d7d8f712bc2a72fe": 1795446565.6146407,
+    "5cd72e5535d780e7": 1795446565.6146407,
+    "c39c99490f88be54": 1795446565.6146407,
+    "b3540526646ff51d": 1795446565.6146407,
+    "7dacedc442c5afa4": 1795446565.6146407,
+    "4b62ba67f2f678b9": 1795446565.6146407,
+    "2f756707b0a2b610": 1795446565.6146407,
+    "27da701988a59391": 1795446565.6146407,
+    "f26eee1449f736c1": 1795446565.6146407,
+    "590210064bbb88a2": 1795446565.6146407,
+    "890138b79828b2b3": 1795446565.6146407,
+    "2d0eaee2658f66fb": 1795446565.6146407,
+    "4ae1669830bbd4e0": 1795446565.6146407,
+    "dde60118e1f6d9b8": 1795446565.6146407,
+    "8e36808bdbef0e6c": 1795446565.6146407,
+    "809f7aff33738d33": 1795446565.6146407,
+    "7640b1e335a2f159": 1795446565.6146407,
+    "a75363f58b568076": 1795446565.6146407,
+    "d8122c7bbafae7af": 1795446565.6146407,
+    "7051c4bed0fee2e2": 1795446565.6146407
   },
   "drafts": {
     "a404638457": {
@@ -1563,52 +1583,89 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg",
       "text_message_id": 389
-    }
-  },
-  "queue": [
-    {
-      "id": "7aa82313ff",
-      "created": 1795435821.0807414,
-      "headline": "How to break into Freddie Gibbs' doomsday compound in GTA 6",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
+    },
+    "c7a8b67359": {
+      "id": "c7a8b67359",
+      "created": 1795446620.7800598,
+      "headline": "GTA 6 Missing Persons: How to Start and Find All 3 Locations",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-serial-killer-missing-persons-locations/",
       "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435784/gta-bot/7aa82313ff-0.jpg",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446580/gta-bot/c7a8b67359-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435784/gta-bot/7aa82313ff-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435785/gta-bot/7aa82313ff-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435785/gta-bot/7aa82313ff-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435786/gta-bot/7aa82313ff-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435787/gta-bot/7aa82313ff-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446580/gta-bot/c7a8b67359-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446581/gta-bot/c7a8b67359-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446583/gta-bot/c7a8b67359-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446584/gta-bot/c7a8b67359-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446585/gta-bot/c7a8b67359-4.jpg"
       ],
-      "full_caption": "Freddie Gibbs is ready for the end of the world, and his compound is ready for you. 💥\n\nIt has electric fences, mines and explosive drones, but there's a way in, and a second way in when he upgrades. Swipe for the location, both routes and the rewards.\n\nHeads up: the rewards are covered in the final slide.\n\nHave you cracked Freddie's bunker yet? Tell us your route! 🔧\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Guide #FreddieGibbs #GTA6Tips #LakeLeonida #Gaming",
-      "alt_text": "Graphic for a GTA 6 guide on finding and breaking into Freddie Gibbs' fenced doomsday compound and bunker.",
+      "full_caption": "Port Gellhorn has a dark mystery to solve. 🔍\n\nThe Missing Persons investigation opens up in Chapter 2. You start at the Starlet Motel, then use photographed clues from a nearby warehouse to track down three hidden locations in any order. The last one is the trickiest, so swipe for the full route.\n\nHave you cracked the case yet, and which spot gave you the most trouble?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #LeonidaDaily #GTA6Guide #PortGellhorn #GTA6Tips #Gaming #OpenWorld",
+      "alt_text": "Graphic with the headline of a GTA 6 guide to starting the Missing Persons investigation and finding its three locations in Port Gellhorn.",
       "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435819/gta-bot/7aa82313ff-reel.mp4",
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795446619/gta-bot/c7a8b67359-reel.mp4",
       "category": "GUIDE",
       "slides": [
         {
-          "title": "Where to find the compound",
-          "text": "Freddie's bunker sits on the north shore of Lake Leonida in North Leonard County. It's on the same road as One-Eyed Willie's Auto Shop (Ultimate Edition exclusive), with end-of-world billboards outside."
+          "title": "How to start the investigation",
+          "text": "It unlocks in Chapter 2, once both protagonists are available. Go to the Starlet Motel in Port Gellhorn, enter reception and examine the Missing Persons posters to add the Kelly County Tip Line."
         },
         {
-          "title": "First break-in: the water tower",
-          "text": "A ladder on the water tower outside the fence leads to a platform. Jump from there onto a shed roof inside. Use Focus mode to spot mines and shoot drones, and stick to the pipes and cables, which have no mines."
+          "title": "Find the warehouse and clues",
+          "text": "The warehouse sits across from Moses's garage. Open the shutter with a Slim Jim or crawl through a gap at the side. Photograph the evidence in the trophy room and the shots appear in your Creepy Photos album."
         },
         {
-          "title": "The rematch: tractor and bulldozer",
-          "text": "After Freddie texts Jason and Lucia, the tower is out and the defenses are tougher. In the northwest corner, park the tractor and trailer against the fence, then lift the trailer with the bulldozer to make a ramp."
+          "title": "The first two locations",
+          "text": "Any order works. One is a pink car with a PRTYGRL plate in the junkyard near the Pay 'n' Spray. The other is under a floorboard in a pale blue trailer below the northern water tower. Select Report Body at each."
         },
         {
-          "title": "Your rewards",
-          "text": "Once Freddie lets you in and a storm hits, you choose. Leave and he pays $6,250 cash. Stay and you get a Benefactor Dubsta that you can register and keep."
+          "title": "The third spot is the hardest",
+          "text": "Head west toward Wild Hog Point and search the marsh for a half-sunken rusty car. Go in daylight and watch out for alligators. Reporting the third completes the main part of the investigation."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
-      "text_message_id": 374,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795435967.667243
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
+      "text_message_id": 396
     },
+    "b81bf04eb0": {
+      "id": "b81bf04eb0",
+      "created": 1795446644.2724514,
+      "headline": "How to get rescued by GTA 6's Jet Ski Dog and earn cash",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446640/gta-bot/b81bf04eb0-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446640/gta-bot/b81bf04eb0-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446641/gta-bot/b81bf04eb0-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446642/gta-bot/b81bf04eb0-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446642/gta-bot/b81bf04eb0-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446643/gta-bot/b81bf04eb0-4.jpg"
+      ],
+      "full_caption": "Stranded at sea in Leonida? A very good boy might come to the rescue. 🐶\n\nCool Dog, better known as the Jet Ski Dog, picks up players floating far from shore and gives them a lift to his beach home. Swipe for how to trigger him and what's waiting when you arrive. Hint: there's a nice little cash bonus.\n\nHave you met Cool Dog yet?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #JetSkiDog #CoolDog #GTA6Guide #GTA6Tips #Gaming",
+      "alt_text": "Graphic with the headline about finding the Jet Ski Dog in GTA 6 and being rescued at sea.",
+      "score": 7,
+      "reel_url": null,
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Meet Cool Dog",
+          "text": "The Jet Ski Dog is officially named Cool Dog. If you're left stranded at sea, he can show up and help, then take you back to his home on one of Leonida's beaches."
+        },
+        {
+          "title": "How to trigger him",
+          "text": "Players report different locations. The key seems to be floating far from the coast and other boats. The guide's author swam away from their boat in Leonida Bay. If he doesn't show, swim further out and wait."
+        },
+        {
+          "title": "Listen for the signs",
+          "text": "Expect barking first, then music as he pulls up. Hold L2/LT to 'chat' (don't expect much back), then press Triangle/Y to hop on. It can take several minutes for him to arrive."
+        },
+        {
+          "title": "Playtime and payout",
+          "text": "At his home you can play fetch with his dog friends using a Mini Football and Wheee Discs. Afterwards, Cool Dog reveals a wallet on the sand holding over $1,200."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
+      "text_message_id": 402
+    }
+  },
+  "queue": [
     {
       "id": "929119db2c",
       "created": 1795435769.439378,
@@ -2027,6 +2084,14 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
       "at": 1795442964.6531909,
       "media_id": "18644484556022771"
+    },
+    {
+      "id": "7aa82313ff",
+      "headline": "How to break into Freddie Gibbs' doomsday compound in GTA 6",
+      "kind": "reel",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
+      "at": 1795446685.7439165,
+      "media_id": "18104275757552507"
     }
   ],
   "drafts_sent": [
@@ -2055,13 +2120,13 @@
     1795439368.7446132,
     1795439380.408582,
     1795442996.390176,
-    1795443007.148312
+    1795443007.148312,
+    1795446624.2943559,
+    1795446645.783974
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996634/Vice_City_08.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_07.jpg",
@@ -2089,6 +2154,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996641/Vice_City_22.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996624/Vice_City_12.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg"
   ]
 }
