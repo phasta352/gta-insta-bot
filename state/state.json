@@ -1689,51 +1689,7 @@
       "text_message_id": 402
     }
   },
-  "queue": [
-    {
-      "id": "929119db2c",
-      "created": 1795435769.439378,
-      "headline": "GTA 6 Guide: Where to Find the Ocean View Hotel and Its Classic Car",
-      "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435734/gta-bot/929119db2c-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435735/gta-bot/929119db2c-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435736/gta-bot/929119db2c-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795435737/gta-bot/929119db2c-4.jpg"
-      ],
-      "full_caption": "Vice City nostalgia, with a free car attached. 🏨\n\nThe Ocean View Hotel returns from GTA: Vice City and sits on the city's waterfront. A '55 Stainer from the Vintage Vice City pack is parked outside it. Swipe for where to look and what to expect.\n\nHave you made the trip to the Ocean View yet?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #OceanViewHotel #RockstarGames #GTA6Guide #VintageViceCity #Gaming #GTA",
-      "alt_text": "Graphic with the text 'Ocean View Hotel' for a GTA 6 location guide covering the Vice City waterfront landmark and its classic car.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795435768/gta-bot/929119db2c-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "A Vice City classic returns",
-          "text": "The Ocean View Hotel is one of the most recognisable landmarks to come back from GTA: Vice City. It also holds one of the items from the Vintage Vice City pack."
-        },
-        {
-          "title": "Where to find it",
-          "text": "Head to Vice City's waterfront. The hotel is modelled on the real-life Clevelander Hotel. Look for the huge glowing signs out front and the supercars regularly parked outside."
-        },
-        {
-          "title": "Early access",
-          "text": "You can reach this part of the map as soon as the open world opens up at the start of Chapter 1, so there's no need to wait."
-        },
-        {
-          "title": "The car outside",
-          "text": "The '55 Stainer, part of the Ultimate Edition's Vintage Vice City content, is parked outside. It nods to a similar car outside the real Miami hotel and the one at the Ocean View in Vice City."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
-      "text_message_id": 367,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795435968.6713583
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -2081,6 +2037,14 @@
       "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
       "at": 1795450434.8158698,
       "media_id": "18132010771866905"
+    },
+    {
+      "id": "929119db2c",
+      "headline": "GTA 6 Guide: Where to Find the Ocean View Hotel and Its Classic Car",
+      "kind": "reel",
+      "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
+      "at": 1795455563.4015915,
+      "media_id": "18175318549466749"
     }
   ],
   "drafts_sent": [
