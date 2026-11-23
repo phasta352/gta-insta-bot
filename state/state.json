@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593688,
+  "telegram_offset": 889593690,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795432111.1461308,
@@ -1384,27 +1384,10 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
-    },
-    "2968a6d5a7": {
-      "id": "2968a6d5a7",
-      "created": 1795432129.0618591,
-      "headline": "First GTA 6 Update Reportedly Rolling Out: Version 01.002.002",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OWGxleTZMQVM1UXJlMVNnXzBaRmlLaldUdlUyX0ttR0VUNkhrNjhaeHJRcG1yR1BDcDBrRjdYX2JLTkhwSE5kdkZoNl9NLWRlblJLWElaWHc3aTJTSW5FYi1KeGsta0MyS3QzLWVZaHjSAXZBVV95cUxOOEVlZE9hX0tRNU8xREZuanE1QlNid2lmQ3d3akNVZlpLTGRMMjI1cVpaNWdFRlpoUXBMOEV5dWxYYVN1dm8xVnBQeDBaY3k3UXdpN2NQR2NNRkNTcGQ5RHBlbl9MYVlzR19RTkNFR1FjWkNpX3pn?oc=5",
-      "source": "Beebom",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795432128/gta-bot/2968a6d5a7-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795432128/gta-bot/2968a6d5a7-0.jpg"
-      ],
-      "full_caption": "The first GTA 6 update is reportedly on its way. 🛠️\n\nBeebom reports that a patch labelled version 01.002.002 is rolling out, with patch notes available. We don't have the full list of changes yet, so check Rockstar's official channels and your console's update screen for the details.\n\nWe'll share the key changes once they're confirmed.\n\nHave you seen the update on your system yet?\n\nSource: Beebom\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #PatchNotes #GTA6Update #Leonida #GTANews #Gaming #GamingNews",
-      "alt_text": "News graphic announcing the first GTA 6 update, version 01.002.002, with a patch notes label.",
-      "score": 9,
-      "reel_url": null,
-      "category": "PATCH NOTES",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Jason_Duval_03.jpg",
-      "text_message_id": 357
-    },
-    "a201410489": {
+    }
+  },
+  "queue": [
+    {
       "id": "a201410489",
       "created": 1795432138.8477805,
       "headline": "Over Half of US Console Players Played GTA 6 on Day One",
@@ -1421,10 +1404,12 @@
       "category": "RECORDS",
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
-      "text_message_id": 359
+      "text_message_id": 359,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795432254.5206163
     }
-  },
-  "queue": [],
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -1732,6 +1717,14 @@
       "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
       "at": 1795418242.6996431,
       "media_id": "18083296889441813"
+    },
+    {
+      "id": "2968a6d5a7",
+      "headline": "First GTA 6 Update Reportedly Rolling Out: Version 01.002.002",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OWGxleTZMQVM1UXJlMVNnXzBaRmlLaldUdlUyX0ttR0VUNkhrNjhaeHJRcG1yR1BDcDBrRjdYX2JLTkhwSE5kdkZoNl9NLWRlblJLWElaWHc3aTJTSW5FYi1KeGsta0MyS3QzLWVZaHjSAXZBVV95cUxOOEVlZE9hX0tRNU8xREZuanE1QlNid2lmQ3d3akNVZlpLTGRMMjI1cVpaNWdFRlpoUXBMOEV5dWxYYVN1dm8xVnBQeDBaY3k3UXdpN2NQR2NNRkNTcGQ5RHBlbl9MYVlzR19RTkNFR1FjWkNpX3pn?oc=5",
+      "at": 1795432266.990952,
+      "media_id": "18146260396722478"
     }
   ],
   "drafts_sent": [
