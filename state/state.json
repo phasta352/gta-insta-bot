@@ -2,7 +2,7 @@
   "telegram_offset": 889593684,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795414182.193273,
+  "last_scout": 1795417720.2214215,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1242,7 +1242,20 @@
     "4d44395416aa1b8f": 1795414191.061628,
     "e0479fd7be30945a": 1795414191.061628,
     "ac28a6020caf1aa6": 1795414191.061628,
-    "8c4af39e55e8a353": 1795414191.061628
+    "8c4af39e55e8a353": 1795414191.061628,
+    "76ae144e3870a482": 1795417729.1264143,
+    "fc8addfcbfb91006": 1795417729.1264143,
+    "53d203bb3288f954": 1795417729.1264143,
+    "3f675a65a18ba866": 1795417729.1264143,
+    "d94b832b6e3ad057": 1795417729.1264143,
+    "2839d3831f6dbcb0": 1795417729.1264143,
+    "99919d77fe4fa6a3": 1795417729.1264143,
+    "d7f43d8f5c041276": 1795417729.1264143,
+    "28b10930e163acdc": 1795417729.1264143,
+    "44af8c4e79973d8e": 1795417729.1264143,
+    "d9309eb3e975cb8c": 1795417729.1264143,
+    "f091f1e1de8aa1f3": 1795417729.1264143,
+    "4493e70dbe90d83c": 1795417729.1264143
   },
   "drafts": {
     "a404638457": {
@@ -1322,6 +1335,25 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
       "text_message_id": 344
+    },
+    "f2e1b51e22": {
+      "id": "f2e1b51e22",
+      "created": 1795417755.8261323,
+      "headline": "Rockstar explains why Jason is so quiet in GTA 6",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DOUZSbjFZSnI0MHJxWk8xOWdMX2Fvc0dVYl9ETlVNSjhZVUVWdmtMbjJmclhYQ3E0cTJmeng4V01QZTRiLUpxcm5IZHN1aktpUzhUME5SNmxSUnJ2UUljMmI0NjFickdmbVIzT2QxQUtzdw?oc=5",
+      "source": "Eurogamer.net",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795417755/gta-bot/f2e1b51e22-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795417755/gta-bot/f2e1b51e22-0.jpg"
+      ],
+      "full_caption": "Why is Jason so quiet? Rockstar has an answer, and it involves Steve McQueen. 🎬\n\nAccording to Eurogamer, Rockstar has explained why the GTA 6 character barely says a word, and the reason comes down to the Hollywood icon. It's a small look at the thinking behind one of Leonida's lead characters.\n\nWe'll keep this spoiler-free and stick to what's been reported.\n\nDo you prefer a lead character who says little, or one who never stops talking?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #Jason #ViceCity #GTANews #GTA #Gaming",
+      "alt_text": "News graphic with the headline 'Rockstar explains why Jason is so quiet in GTA 6' in the style of The Leonida Daily.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_02.jpg",
+      "text_message_id": 346
     }
   },
   "queue": [
@@ -1671,7 +1703,6 @@
     }
   ],
   "drafts_sent": [
-    1795244936.1447256,
     1795244977.8254008,
     1795248536.3184495,
     1795248579.1891286,
@@ -1693,12 +1724,12 @@
     1795373292.8491461,
     1795378182.8789625,
     1795378236.1544225,
-    1795414201.8121722
+    1795414201.8121722,
+    1795417757.2433596
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
@@ -1727,6 +1758,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996622/Vice_City_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_02.jpg"
   ]
 }
