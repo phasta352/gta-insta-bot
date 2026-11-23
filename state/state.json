@@ -2,7 +2,7 @@
   "telegram_offset": 889593692,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795446555.2642286,
+  "last_scout": 1795450216.065021,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1425,7 +1425,31 @@
     "7640b1e335a2f159": 1795446565.6146407,
     "a75363f58b568076": 1795446565.6146407,
     "d8122c7bbafae7af": 1795446565.6146407,
-    "7051c4bed0fee2e2": 1795446565.6146407
+    "7051c4bed0fee2e2": 1795446565.6146407,
+    "0755ac3e12d8bcf6": 1795450225.461001,
+    "c7f3cfb17a73eecb": 1795450225.461001,
+    "4ad5808487b19325": 1795450225.461001,
+    "3a4597340106efe7": 1795450225.461001,
+    "0de03d8af8dd27f2": 1795450225.461001,
+    "c70a42e6b81beb57": 1795450225.461001,
+    "60c01d5cd5e1885c": 1795450225.461001,
+    "7083e331ea61924a": 1795450225.461001,
+    "132b8cfebab8907a": 1795450225.461001,
+    "b498c212b5785bbb": 1795450225.461001,
+    "32208d5afd6650fa": 1795450225.461001,
+    "7fd8e94f19cf92b9": 1795450225.461001,
+    "99f063c79f77c4b2": 1795450225.461001,
+    "e333cc14415eadca": 1795450225.461001,
+    "9dbd293bf28b8a1b": 1795450225.461001,
+    "257b76bb1e52331d": 1795450225.461001,
+    "e634e7fc2842172d": 1795450225.461001,
+    "4a4d5a0928f7856e": 1795450225.461001,
+    "77ceca79f1a1a524": 1795450225.461001,
+    "b6981f22c9769e76": 1795450225.461001,
+    "fa5a079270914cca": 1795450225.461001,
+    "09f2c14b4aa86466": 1795450225.461001,
+    "aacf9762ab194573": 1795450225.461001,
+    "d3e34d35be1da03d": 1795450225.461001
   },
   "drafts": {
     "a404638457": {
@@ -1663,6 +1687,25 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
       "text_message_id": 402
+    },
+    "57971f7a9c": {
+      "id": "57971f7a9c",
+      "created": 1795450234.907478,
+      "headline": "GTA 6 Update 01.002.002 Is Out Now",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSXcxd1FJbFgwdXl0WnROSGJIUDdfT1lKSXdUa0dBLThvVlVpSm8yNmxfaVdjTmJXdU5FS1VJdlJKNmt2SVhYa2R0Vno2Vkx1WVJIR2ZxNWp6TWN3ZUtxdVFPSDZnTGRHV1lteUZwaUl6Q3NFTkEzNHBvNm1XR01zcnhiWFYtR21fVU9MVFVPb3BUeHpsLURKR0wyNTJfek5oQ3k0eEhKRQ?oc=5",
+      "source": "IGN",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795450234/gta-bot/57971f7a9c-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795450234/gta-bot/57971f7a9c-0.jpg"
+      ],
+      "full_caption": "A new GTA 6 update has landed. 🚨\n\nAccording to IGN, update 01.002.002 is out now, and Rockstar has published official patch notes to go with it. We're only working from the headline so far, so check Rockstar's own patch notes for the full list of changes before you jump in.\n\nUpdates like this are worth a look because the notes tell you exactly what has changed and what has been fixed.\n\nHave you installed it yet? Tell us what you notice in the comments.\n\nSource: IGN\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Rockstar #RockstarGames #PatchNotes #GTANews #GameUpdate #Leonida #Gaming",
+      "alt_text": "News graphic announcing that GTA 6 update 01.002.002 is out now, with official patch notes released by Rockstar.",
+      "score": 9,
+      "reel_url": null,
+      "category": "PATCH NOTES",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Mount_Kalaga_National_Park_02.jpg",
+      "text_message_id": 405
     }
   },
   "queue": [
@@ -2122,12 +2165,12 @@
     1795442996.390176,
     1795443007.148312,
     1795446624.2943559,
-    1795446645.783974
+    1795446645.783974,
+    1795450235.8588793
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_07.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
@@ -2156,6 +2199,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996624/Vice_City_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Mount_Kalaga_National_Park_02.jpg"
   ]
 }
