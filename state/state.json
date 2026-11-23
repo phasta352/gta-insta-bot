@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593686,
+  "telegram_offset": 889593687,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795421315.9819906,
@@ -1328,25 +1328,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
-    },
-    "5a81c6a630": {
-      "id": "5a81c6a630",
-      "created": 1795421336.5295043,
-      "headline": "KFC Spain Offers Fried Chicken 'Replacement Disc' for GTA VI",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNEg1YjQweDRITWhwZGJqZER0UlJEQ0xCOG4wcjduZHpGOF9jUmJHd3J4RU9Ecllldm5OYjdyMlNuM0l4RC1RVU94SHQzNmNvVjVnTklCWXFycEdsZ3pHemIycEhDSWczZFJIdEp1YXN2N3doZHFJeUprOGJxTi1hQWhxQ203NTduc3V1dXR5LU5KOU1jZ0hjZXI2VGNhNURU?oc=5",
-      "source": "news.lavx.hu",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795421335/gta-bot/5a81c6a630-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795421335/gta-bot/5a81c6a630-0.jpg"
-      ],
-      "full_caption": "Empty GTA VI case? KFC Spain reportedly has a very crispy fix. 🍗\n\nAccording to the report, KFC Spain is offering a fried chicken \"replacement disc\" for empty GTA VI cases. It looks like a tongue-in-cheek brand promo riding the hype around the game. The details we have are limited, so we don't yet know how it works, how long it runs or where you can get it.\n\nWe'll update you if more comes out. Would you swap your empty case for a bucket of chicken?\n\nSource: news.lavx.hu\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #LeonidaDaily #KFC #KFCSpain #GamingNews #Leonida #GamingCommunity",
-      "alt_text": "News graphic with the headline about KFC Spain offering a fried chicken replacement disc for empty GTA VI cases.",
-      "score": 6,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996610/Port_Gellhorn_02.jpg",
-      "text_message_id": 349
     }
   },
   "queue": [],
