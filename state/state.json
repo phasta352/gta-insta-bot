@@ -2,7 +2,7 @@
   "telegram_offset": 889593684,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795378159.5947466,
+  "last_scout": 1795414182.193273,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1182,7 +1182,67 @@
     "a250c823f2eeae93": 1795378169.6326625,
     "0772b843d2cdd3f2": 1795378169.6326625,
     "7bbfe1dd97abb435": 1795378169.6326625,
-    "b3b0919f5f856456": 1795378169.6326625
+    "b3b0919f5f856456": 1795378169.6326625,
+    "e5c29321add7a115": 1795414191.061628,
+    "e0020dcb325a6dbc": 1795414191.061628,
+    "d50562d8c9ec194f": 1795414191.061628,
+    "44255b6a708056c2": 1795414191.061628,
+    "556af2c36f1758b3": 1795414191.061628,
+    "2a3cf37ad7cd23b6": 1795414191.061628,
+    "63d5a748cefd85cf": 1795414191.061628,
+    "3dae861f136778ac": 1795414191.061628,
+    "55e655769940d9a7": 1795414191.061628,
+    "56489f6e3c4864c7": 1795414191.061628,
+    "ac3c2e7db57bb044": 1795414191.061628,
+    "3dc43460eeb59c46": 1795414191.061628,
+    "8d568a7b8cc017df": 1795414191.061628,
+    "e71aca91b6ea6fcb": 1795414191.061628,
+    "c7ce6485cb3b1c0a": 1795414191.061628,
+    "d9738d64575055b8": 1795414191.061628,
+    "9bc6d739c673ea36": 1795414191.061628,
+    "5c81497c156f4674": 1795414191.061628,
+    "a7960098ff786ed6": 1795414191.061628,
+    "806bdc5ecf42ff30": 1795414191.061628,
+    "ab5da1529f9c547d": 1795414191.061628,
+    "ff1015da34cc97dd": 1795414191.061628,
+    "eeeb8572dac7cdca": 1795414191.061628,
+    "7c86ddb22f40c92a": 1795414191.061628,
+    "d3e934f37ccbaddb": 1795414191.061628,
+    "c9cbe197c7ce5b5d": 1795414191.061628,
+    "2b77903f00a24c64": 1795414191.061628,
+    "14093aeb27482e49": 1795414191.061628,
+    "39f6317ed820f43a": 1795414191.061628,
+    "21abab863270dafc": 1795414191.061628,
+    "a521af3c3ed3542b": 1795414191.061628,
+    "6dc7d9e0d55094f1": 1795414191.061628,
+    "e5711b644a6c508d": 1795414191.061628,
+    "dc48927d868f50f1": 1795414191.061628,
+    "3b8f3305de56fe52": 1795414191.061628,
+    "9409ea82fd2158bb": 1795414191.061628,
+    "8dab9ee97effc7b9": 1795414191.061628,
+    "e9e04483bbf3b016": 1795414191.061628,
+    "1edc1c600127695c": 1795414191.061628,
+    "2e3378dc15525adb": 1795414191.061628,
+    "f6a311ed1f8e535b": 1795414191.061628,
+    "60d3393a3e5014f7": 1795414191.061628,
+    "b4f2abcf4f8c9326": 1795414191.061628,
+    "3d54abfe07c1b5c5": 1795414191.061628,
+    "1b634ae9c39c738a": 1795414191.061628,
+    "fa31db569f553a83": 1795414191.061628,
+    "937e6828c7571672": 1795414191.061628,
+    "7ac97d1ea4672ed1": 1795414191.061628,
+    "a3f911fa76b06a93": 1795414191.061628,
+    "66a8b7eb5a57571b": 1795414191.061628,
+    "5ff97444639b28d4": 1795414191.061628,
+    "7909667ccf562a88": 1795414191.061628,
+    "dabb5947475e7365": 1795414191.061628,
+    "c3e6dcd06242e994": 1795414191.061628,
+    "2005219c086b1b64": 1795414191.061628,
+    "70550597e2802fba": 1795414191.061628,
+    "4d44395416aa1b8f": 1795414191.061628,
+    "e0479fd7be30945a": 1795414191.061628,
+    "ac28a6020caf1aa6": 1795414191.061628,
+    "8c4af39e55e8a353": 1795414191.061628
   },
   "drafts": {
     "e4fdbd4ad1": {
@@ -1278,53 +1338,28 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
       "text_message_id": 340
+    },
+    "69019386c6": {
+      "id": "69019386c6",
+      "created": 1795414200.6705377,
+      "headline": "Rockstar Explains Why Darts Missed the GTA 6 Cut",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZVZsTTFDM1NudkdoX1VqdWplNHI4ZkVpcWZQT0VDRzBlSFRIRmJhUHZUNFBqWlBDdG04YzdyYjcxQlE4TG5ka19FZWo4bFJQUW10NnoyUFFOTXNvbUQ1ODBBZERqMldSeTFNYjczSzZpZXBwZkVtNGh2UUVTbDRWaWhPZ3Q4Y3A5S3c2TTZwdndOSFVVUExrVXYxd3J6U1FSNWRCSTdTQzFXOHFZYXlKM3hiVUN1TjJtS2hPZGNWdzlpMTh4OFBRWThkX1A5dkZ5WVJB?oc=5",
+      "source": "IGN",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795414200/gta-bot/69019386c6-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795414200/gta-bot/69019386c6-0.jpg"
+      ],
+      "full_caption": "Darts won't be making the trip to Leonida. 🎯\n\nAccording to IGN, Rockstar says the pastime was cut from GTA 6 because the team didn't have endless budget or time to make it feel right. In other words, the studio chose to drop it rather than ship a version that fell short.\n\nIt's a small detail, but it shows how Rockstar weighs polish against scope. Plenty of fans like these side activities, so the news is bound to spark debate.\n\nWould you rather have fewer activities done well or a bigger list? Tell us below.\n\nSource: IGN\n\n#GTA6 #GTAVI #RockstarGames #Leonida #GrandTheftAutoVI #GTA #GTANews #Gaming #GamingNews #ViceCity",
+      "alt_text": "News graphic with the headline 'Rockstar Explains Why Darts Missed the GTA 6 Cut' for The Leonida Daily.",
+      "score": 8,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
+      "text_message_id": 344
     }
   },
   "queue": [
-    {
-      "id": "38af60b249",
-      "created": 1795373289.1253195,
-      "headline": "GTA 6 Player Hit With 30-Day PSN Ban Over In-Game Photo",
-      "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373261/gta-bot/38af60b249-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373261/gta-bot/38af60b249-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373262/gta-bot/38af60b249-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373262/gta-bot/38af60b249-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373263/gta-bot/38af60b249-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795373264/gta-bot/38af60b249-4.jpg"
-      ],
-      "full_caption": "Heads up, Leonida: your in-game photos still have to follow PlayStation's rules. 📸\n\nOne player says they got a 30-day PSN social features ban after messaging a friend an in-game camera shot from the nudist resort. The notice cited \"pornographic or obscene content\". Per the report, Sony's Code of Conduct makes no exception for content from games, even adults-only ones.\n\nShould Sony treat in-game screenshots differently from real photos?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #PlayStation #PS5 #PSN #GamingNews #RockstarGames #PlayStationNetwork",
-      "alt_text": "News graphic with the headline about a GTA 6 player receiving a 30-day PSN social features ban over an in-game photo.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795373288/gta-bot/38af60b249-reel.mp4",
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "What happened",
-          "text": "A player posted on X that they received a 30-day PSN social features ban. They had sent a friend a photo from the in-game camera, taken at GTA 6's nudist resort, via PlayStation's messaging."
-        },
-        {
-          "title": "What the notice says",
-          "text": "PlayStation Safety reportedly flagged \"pornographic or obscene content\" and suspended social features for 30 days. It warned that further offenses could lead to a suspension from the whole of PlayStation."
-        },
-        {
-          "title": "Why the rules apply",
-          "text": "The Code of Conduct bars sharing obscene or pornographic material. As Dexerto points out, it makes no exception for content from games, even ones rated for adults."
-        },
-        {
-          "title": "The takeaway",
-          "text": "If your Leonida photos include nudity, think twice before sending them over PSN messages. This is one player's report, and Sony hasn't commented in the source."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
-      "text_message_id": 329,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795373553.8371496,
-      "attempts": 1
-    },
     {
       "id": "38af60b249",
       "created": 1795373289.1253195,
@@ -1660,11 +1695,17 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-tank-rhino/",
       "at": 1795378157.5922432,
       "media_id": "18195551041364966"
+    },
+    {
+      "id": "38af60b249",
+      "headline": "GTA 6 Player Hit With 30-Day PSN Ban Over In-Game Photo",
+      "kind": "carousel",
+      "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+      "at": 1795414180.178205,
+      "media_id": "17986862706295738"
     }
   ],
   "drafts_sent": [
-    1795241342.6061072,
-    1795241391.4027162,
     1795244936.1447256,
     1795244977.8254008,
     1795248536.3184495,
@@ -1686,12 +1727,12 @@
     1795373248.7869985,
     1795373292.8491461,
     1795378182.8789625,
-    1795378236.1544225
+    1795378236.1544225,
+    1795414201.8121722
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996659/Grassrivers_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996735/Jason_and_Lucia_17.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
@@ -1720,6 +1761,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996622/Vice_City_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg"
   ]
 }
