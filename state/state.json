@@ -2,7 +2,7 @@
   "telegram_offset": 889593700,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795523940.312165,
+  "last_scout": 1795527515.8181722,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1623,68 +1623,23 @@
     "ee5551acbccd014d": 1795523949.0782015,
     "c4436b6e54f2f414": 1795523949.0782015,
     "23da71dc5a3be287": 1795523949.0782015,
-    "558e67e6ab228b75": 1795523949.0782015
+    "558e67e6ab228b75": 1795523949.0782015,
+    "9808e73f05458c9b": 1795527525.9670446,
+    "3db13a5b4b16a16c": 1795527525.9670446,
+    "ea62d0668e5c6ed4": 1795527525.9670446,
+    "ccc640abad13a714": 1795527525.9670446,
+    "ca0a5c328ee98e9e": 1795527525.9670446,
+    "62d4f5962dd6ce1e": 1795527525.9670446,
+    "47a0971b88da6e18": 1795527525.9670446,
+    "b4c334c5f48ce94c": 1795527525.9670446,
+    "953001c99c19f0c2": 1795527525.9670446,
+    "50b8e5b4d860ec99": 1795527525.9670446,
+    "90731e6be37c2478": 1795527525.9670446,
+    "eaeec6fcb1158c9e": 1795527525.9670446,
+    "f2b1041ea9d94cf2": 1795527525.9670446,
+    "72b07c1ce5721f8d": 1795527525.9670446
   },
   "drafts": {
-    "435972edd9": {
-      "id": "435972edd9",
-      "created": 1795439366.5549228,
-      "headline": "GTA 6: Vanessa's Laptop Password and Hidden Garage Location",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-laptop-password-aunties-place-la-perle/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439362/gta-bot/435972edd9-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439362/gta-bot/435972edd9-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439363/gta-bot/435972edd9-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439364/gta-bot/435972edd9-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439365/gta-bot/435972edd9-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439366/gta-bot/435972edd9-4.jpg"
-      ],
-      "full_caption": "Stuck on Vanessa's laptop in your Vice City apartment? 🔐 There's a quick fix.\n\nTwo items in the apartment give you the password. Solving it leads to a code for the Del Rio Boulevard Garage in La Perle, which comes with Vanessa's Pink Growler and a weapon locker. You can keep the car or sell it to Moses for $14,750. Swipe for the full walkthrough. Mild early-chapter spoilers ahead.\n\nHave you unlocked the garage yet, and are you keeping the Growler? 🚗\n\nSource: PC Gamer\n\n#GTAVI #GTA6 #GrandTheftAutoVI #ViceCity #LaPerle #RockstarGames #GTAGuide #GTATips #Leonida #GamingGuide",
-      "alt_text": "Graphic with the headline about solving the laptop password puzzle in GTA 6 and finding the Auntie's Place garage in La Perle.",
-      "score": 7,
-      "reel_url": null,
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Find the clues first",
-          "text": "The laptop in Vanessa's bedroom only offers a list of guesses. Flip the crowned-dog drawing on the left bedside table and pick up Muffins' certificate on the table near the entrance."
-        },
-        {
-          "title": "Enter the password",
-          "text": "At the laptop, choose Muffins, Queen and 15 in that order. Muffins is her dog, the drawing supplies the queen, and 15 comes from the class reunion note."
-        },
-        {
-          "title": "Grab the garage code",
-          "text": "Read through the messages on the laptop. One mentions Auntie's Place in La Perle and gives you a code to use."
-        },
-        {
-          "title": "Find Auntie's Place",
-          "text": "Go near Aunt Zola's Soul Food, take the main road past Twa Ponya tattoo shop and turn right before Aline's Thrift Store. Enter the code on the safe below the graffiti bow."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996641/Vice_City_22.jpg",
-      "text_message_id": 381
-    },
-    "2965e085c4": {
-      "id": "2965e085c4",
-      "created": 1795439378.6770418,
-      "headline": "Research Firm Claims GTA 6 Has Sold 45 Million Copies",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlVXR0RHlpakFudVlydE1uWG54RU9BQnhha1F4dHVRSDRxaDlfYzZtak0ydUJKMGZhc1h2Z3R3bVNVQ01NbFZ1bnJuUHcwcWt2MnI0SnpxdWdKc3dCQ3QwTQ?oc=5",
-      "source": "Insider Gaming",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439377/gta-bot/2965e085c4-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795439377/gta-bot/2965e085c4-0.jpg"
-      ],
-      "full_caption": "45 million copies? That's the number a research firm is putting on GTA 6, according to Insider Gaming. 📈\n\nThis is a third-party estimate, not an official sales figure from Rockstar or Take-Two. The report headline doesn't tell us how the number was calculated, so treat it with caution until there's an official update. If it holds up, it would be a huge sign of how much demand there is for the next trip to Leonida.\n\nDo you think 45 million is realistic, or is that estimate way off?\n\nSource: Insider Gaming\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Rockstar #RockstarGames #TakeTwo #LeonidaDaily #GTAOnline #GamingNews #VideoGameSales",
-      "alt_text": "News graphic with the headline that a research firm claims GTA 6 has sold 45 million copies.",
-      "score": 7,
-      "reel_url": null,
-      "category": "RECORDS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg",
-      "text_message_id": 383
-    },
     "4763625093": {
       "id": "4763625093",
       "created": 1795442995.1346183,
