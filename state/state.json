@@ -2,7 +2,7 @@
   "telegram_offset": 889593700,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795534780.24546,
+  "last_scout": 1795538369.8360395,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1676,7 +1676,37 @@
     "8d6ea4b3d6a2cc40": 1795534790.354552,
     "067cf5aa1a48ff14": 1795534790.354552,
     "4cc10b5a36f2a4fe": 1795534790.354552,
-    "daaf71d9980d23cc": 1795534790.354552
+    "daaf71d9980d23cc": 1795534790.354552,
+    "27ccd1609693b5c8": 1795538380.1280873,
+    "2e390e8dc7b2c2fd": 1795538380.1280873,
+    "7ccc97e4a20b97ec": 1795538380.1280873,
+    "e887c0f3a5237d4f": 1795538380.1280873,
+    "a54f8fe8cb04cf9e": 1795538380.1280873,
+    "acd40b0b94ab2ea4": 1795538380.1280873,
+    "dbe9a8c5dde08a4c": 1795538380.1280873,
+    "2e8813aef8c1d006": 1795538380.1280873,
+    "aec53e06c3821cf5": 1795538380.1280873,
+    "639c61cd0a10a7f2": 1795538380.1280873,
+    "6c8324cce91a42e2": 1795538380.1280873,
+    "6ed316f9e17ab47e": 1795538380.1280873,
+    "682390a2472a66af": 1795538380.1280873,
+    "0ea99f2090176dd5": 1795538380.1280873,
+    "d21bcefd876258b5": 1795538380.1280873,
+    "be28f03bef07a66f": 1795538380.1280873,
+    "2e4e47735c795366": 1795538380.1280873,
+    "dfc1e5db4c713896": 1795538380.1280873,
+    "919a80e18c366714": 1795538380.1280873,
+    "d72e32364af9ef11": 1795538380.1280873,
+    "7b462a2e7a814344": 1795538380.1280873,
+    "13d7f2dca17fd934": 1795538380.1280873,
+    "cef6031e37f30fa8": 1795538380.1280873,
+    "e6816fd484187b12": 1795538380.1280873,
+    "e2921d68929813dc": 1795538380.1280873,
+    "a5f81ab8659f5db4": 1795538380.1280873,
+    "c28fd650a27b9663": 1795538380.1280873,
+    "adc2505b45b6e707": 1795538380.1280873,
+    "2b44d6addf23e01b": 1795538380.1280873,
+    "3ef9b9b75f3d7771": 1795538380.1280873
   },
   "drafts": {
     "1498133717": {
@@ -1815,52 +1845,89 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_06.jpg",
       "text_message_id": 460
-    }
-  },
-  "queue": [
-    {
-      "id": "d36c620a07",
-      "created": 1795523985.6413755,
-      "headline": "How to Grab the BF Bandito Buggy in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-0.jpg",
+    },
+    "bf745c4276": {
+      "id": "bf745c4276",
+      "created": 1795538432.4410915,
+      "headline": "Players are robbing GTA 6 stores with a crate of beer",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-beer-robberies",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538398/gta-bot/bf745c4276-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523961/gta-bot/d36c620a07-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523961/gta-bot/d36c620a07-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523962/gta-bot/d36c620a07-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538398/gta-bot/bf745c4276-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538399/gta-bot/bf745c4276-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538400/gta-bot/bf745c4276-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538401/gta-bot/bf745c4276-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538403/gta-bot/bf745c4276-4.jpg"
       ],
-      "full_caption": "The BF Bandito won't sit still for you 🏁 This swamp buggy is a moving target on Moses' car list, so you'll have to run it down.\n\nHead to the marked area in South Leonard County and Buckskin Swamp, spot the locals riding buggies, and stop the right driver. Cut him off or chase him down, but go easy on the bodywork so you don't wreck the car.\n\nSwipe for the full breakdown.\n\nHave you bagged the Bandito yet? Tell us how you stopped it!\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Guide #GTA6Tips #GTA6Cars #BFBandito #GamingNews",
-      "alt_text": "Graphic with the headline 'How to Grab the BF Bandito Buggy in GTA 6' in the Leonida Daily style, labelled Guide.",
+      "full_caption": "Who needs a gun when you've got a crate of beer? 🍺\n\nGTA 6 players have found that throwing empty bottles at guards and staff knocks them out quietly. That keeps the cops away, and it's non-lethal too. A crate holds up to six throwable bottles, so it works as a handy stash of projectiles.\n\nWould you rob a store this way, or go in loud?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTATips #GTAcommunity #Gaming #PS5 #XboxSeriesX",
+      "alt_text": "A GTA 6 character walks into a jewelry store carrying a crate of beer, ready to throw bottles at the staff.",
       "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795523984/gta-bot/d36c620a07-reel.mp4",
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795538431/gta-bot/bf745c4276-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "The problem with store robberies",
+          "text": "Normally you have to take out the guards before you can hold up the till staff. If you make too much noise, the police show up and the robbery goes wrong."
+        },
+        {
+          "title": "The quiet fix: throw a bottle",
+          "text": "Players found that an empty bottle thrown at a guard's or clerk's head puts them out of action without much noise. It's non-lethal as well."
+        },
+        {
+          "title": "Why a beer crate?",
+          "text": "A crate holds up to six bottles, which makes it a reliable source of things to throw. One clip shows a player knocking out jewelry store staff with it. Roadkill and street lizards can also be thrown."
+        },
+        {
+          "title": "What's still unknown",
+          "text": "Whether bottles can handle something bigger, like a full bank heist, remains to be seen. Eurogamer's GTA 6 robbery guide can help you try the trick yourself."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996670/Leonida_Keys_02.jpg",
+      "text_message_id": 468
+    },
+    "b67376f433": {
+      "id": "b67376f433",
+      "created": 1795538453.88821,
+      "headline": "No Houses to Buy in GTA 6, But You Can Buy Garages",
+      "url": "https://www.videogameschronicle.com/guide/can-you-buy-houses-in-gta-6-property-garages-and-safehouses-explained/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538450/gta-bot/b67376f433-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538450/gta-bot/b67376f433-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538450/gta-bot/b67376f433-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538451/gta-bot/b67376f433-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538452/gta-bot/b67376f433-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538453/gta-bot/b67376f433-4.jpg"
+      ],
+      "full_caption": "Dreaming of a Leonida mansion? Not in story mode. 🏠\n\nAccording to VGC's guide, you can't buy houses or residential properties in GTA 6's story mode. Safehouses unlock as you progress instead. Garages are the main property you can buy, with eight available at prices from $4,000 to $40,000. Swipe for the details.\n\nWhich garage are you grabbing first?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #ViceCity #GTA6Guide #GTA6Tips #Gaming #GTA",
+      "alt_text": "Graphic with the text 'No Houses to Buy in GTA 6, But You Can Buy Garages' for a GTA 6 property guide.",
+      "score": 7,
+      "reel_url": null,
       "category": "GUIDE",
       "slides": [
         {
-          "title": "Where to find it",
-          "text": "The Bandito appears on your list while you steal cars for Moses. The map marker shows its rough location on the rural roads of South Leonard County and Buckskin Swamp."
+          "title": "No houses in story mode",
+          "text": "You can't buy houses or residential properties in GTA 6's story mode. The two protagonists get access to safehouses as the campaign moves along. These give you somewhere to sleep and change clothes."
         },
         {
-          "title": "It's on the move",
-          "text": "This target is harder than most because the car is moving. Locals are riding buggies around the swamps, and one of them is the Bandito. Keep your eyes and ears open."
+          "title": "Garages are the big buy",
+          "text": "Garages are currently the main property you can purchase. You can expand your vehicle storage across Leonida. Eight garages are on offer, priced from $4,000 to $40,000."
         },
         {
-          "title": "How to stop the driver",
-          "text": "Spot him early, especially when he crosses water, and get in front of him so he stops. Or chase him down and shoot the driver and his pals."
+          "title": "How to unlock them",
+          "text": "Play to Chapter 2 and finish a mission in the Moses questline. The Vice City Real Estate app then appears on your phone. Not every garage is available at once, as they unlock with story progress."
         },
         {
-          "title": "Don't wreck the buggy",
-          "text": "Stay close and don't shoot the car too much. In the guide writer's run, the driver eventually bailed and left the buggy free to take, though the trigger is unclear."
+          "title": "Register your rides",
+          "text": "Parking a car in a garage doesn't necessarily save it as one of your vehicles. Use the game's vehicle registration system so you can get it back later, for example at a Pay 'N' Spray."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
-      "text_message_id": 447,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795524124.6559572
-    },
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
+      "text_message_id": 474
+    }
+  },
+  "queue": [
     {
       "id": "e81c9cf640",
       "created": 1795524026.000169,
@@ -2343,6 +2410,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
       "at": 1795534777.7625523,
       "media_id": "18143464441616957"
+    },
+    {
+      "id": "d36c620a07",
+      "headline": "How to Grab the BF Bandito Buggy in GTA 6",
+      "kind": "reel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
+      "at": 1795538496.801797,
+      "media_id": "18158621581525517"
     }
   ],
   "drafts_sent": [
@@ -2374,16 +2449,13 @@
     1795523988.8631952,
     1795524029.1495318,
     1795531152.4800353,
-    1795531164.2051852
+    1795531164.2051852,
+    1795538437.1779044,
+    1795538456.2257462
   ],
-  "feed_errors": {
-    "PC Gamer": "404 Client Error: Not Found for url: https://www.pcgamer.com/feeds.xml",
-    "GamesRadar+": "404 Client Error: Not Found for url: https://www.gamesradar.com/feeds.xml"
-  },
+  "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996622/Vice_City_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
@@ -2411,6 +2483,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996642/Vice_City_27.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Boobie_Ike_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_06.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_06.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996670/Leonida_Keys_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg"
   ]
 }
