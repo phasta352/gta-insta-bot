@@ -2,7 +2,7 @@
   "telegram_offset": 889593700,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795531117.233667,
+  "last_scout": 1795534780.24546,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1650,89 +1650,35 @@
     "036f3432af4bd3e4": 1795531127.38606,
     "f3d1d3bdf6fdf052": 1795531127.38606,
     "899d0854aedfba11": 1795531127.38606,
-    "d9b2b68228754c3d": 1795531127.38606
+    "d9b2b68228754c3d": 1795531127.38606,
+    "d5355a45674efd2d": 1795534790.354552,
+    "38434c774e7d625a": 1795534790.354552,
+    "cf7d6e5dbfc34d14": 1795534790.354552,
+    "c926f8064596f164": 1795534790.354552,
+    "d419330ab7ca9945": 1795534790.354552,
+    "a07023272d73f5ec": 1795534790.354552,
+    "2524f327042ba215": 1795534790.354552,
+    "6555b63a067742bf": 1795534790.354552,
+    "d1c7e2429cd20b9a": 1795534790.354552,
+    "f911eb1c33bfd406": 1795534790.354552,
+    "1a202806dc47a39f": 1795534790.354552,
+    "d018679f15306fe5": 1795534790.354552,
+    "df9a8c3576c79097": 1795534790.354552,
+    "9edf2d7626fecad4": 1795534790.354552,
+    "a2dc03bcba0f490d": 1795534790.354552,
+    "98d27507de3d206c": 1795534790.354552,
+    "7e4cb38d7c4d055e": 1795534790.354552,
+    "61ebcd9f13f3aeab": 1795534790.354552,
+    "aecc86e2196bcf25": 1795534790.354552,
+    "90516b046b147a42": 1795534790.354552,
+    "bebd6c8b8e08ec95": 1795534790.354552,
+    "474649fd93061444": 1795534790.354552,
+    "8d6ea4b3d6a2cc40": 1795534790.354552,
+    "067cf5aa1a48ff14": 1795534790.354552,
+    "4cc10b5a36f2a4fe": 1795534790.354552,
+    "daaf71d9980d23cc": 1795534790.354552
   },
   "drafts": {
-    "c7a8b67359": {
-      "id": "c7a8b67359",
-      "created": 1795446620.7800598,
-      "headline": "GTA 6 Missing Persons: How to Start and Find All 3 Locations",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-serial-killer-missing-persons-locations/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446580/gta-bot/c7a8b67359-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446580/gta-bot/c7a8b67359-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446581/gta-bot/c7a8b67359-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446583/gta-bot/c7a8b67359-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446584/gta-bot/c7a8b67359-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446585/gta-bot/c7a8b67359-4.jpg"
-      ],
-      "full_caption": "Port Gellhorn has a dark mystery to solve. 🔍\n\nThe Missing Persons investigation opens up in Chapter 2. You start at the Starlet Motel, then use photographed clues from a nearby warehouse to track down three hidden locations in any order. The last one is the trickiest, so swipe for the full route.\n\nHave you cracked the case yet, and which spot gave you the most trouble?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #LeonidaDaily #GTA6Guide #PortGellhorn #GTA6Tips #Gaming #OpenWorld",
-      "alt_text": "Graphic with the headline of a GTA 6 guide to starting the Missing Persons investigation and finding its three locations in Port Gellhorn.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795446619/gta-bot/c7a8b67359-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "How to start the investigation",
-          "text": "It unlocks in Chapter 2, once both protagonists are available. Go to the Starlet Motel in Port Gellhorn, enter reception and examine the Missing Persons posters to add the Kelly County Tip Line."
-        },
-        {
-          "title": "Find the warehouse and clues",
-          "text": "The warehouse sits across from Moses's garage. Open the shutter with a Slim Jim or crawl through a gap at the side. Photograph the evidence in the trophy room and the shots appear in your Creepy Photos album."
-        },
-        {
-          "title": "The first two locations",
-          "text": "Any order works. One is a pink car with a PRTYGRL plate in the junkyard near the Pay 'n' Spray. The other is under a floorboard in a pale blue trailer below the northern water tower. Select Report Body at each."
-        },
-        {
-          "title": "The third spot is the hardest",
-          "text": "Head west toward Wild Hog Point and search the marsh for a half-sunken rusty car. Go in daylight and watch out for alligators. Reporting the third completes the main part of the investigation."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
-      "text_message_id": 396
-    },
-    "b81bf04eb0": {
-      "id": "b81bf04eb0",
-      "created": 1795446644.2724514,
-      "headline": "How to get rescued by GTA 6's Jet Ski Dog and earn cash",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-jet-ski-dog/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446640/gta-bot/b81bf04eb0-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446640/gta-bot/b81bf04eb0-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446641/gta-bot/b81bf04eb0-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446642/gta-bot/b81bf04eb0-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446642/gta-bot/b81bf04eb0-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795446643/gta-bot/b81bf04eb0-4.jpg"
-      ],
-      "full_caption": "Stranded at sea in Leonida? A very good boy might come to the rescue. 🐶\n\nCool Dog, better known as the Jet Ski Dog, picks up players floating far from shore and gives them a lift to his beach home. Swipe for how to trigger him and what's waiting when you arrive. Hint: there's a nice little cash bonus.\n\nHave you met Cool Dog yet?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #JetSkiDog #CoolDog #GTA6Guide #GTA6Tips #Gaming",
-      "alt_text": "Graphic with the headline about finding the Jet Ski Dog in GTA 6 and being rescued at sea.",
-      "score": 7,
-      "reel_url": null,
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Meet Cool Dog",
-          "text": "The Jet Ski Dog is officially named Cool Dog. If you're left stranded at sea, he can show up and help, then take you back to his home on one of Leonida's beaches."
-        },
-        {
-          "title": "How to trigger him",
-          "text": "Players report different locations. The key seems to be floating far from the coast and other boats. The guide's author swam away from their boat in Leonida Bay. If he doesn't show, swim further out and wait."
-        },
-        {
-          "title": "Listen for the signs",
-          "text": "Expect barking first, then music as he pulls up. Hold L2/LT to 'chat' (don't expect much back), then press Triangle/Y to hop on. It can take several minutes for him to arrive."
-        },
-        {
-          "title": "Playtime and payout",
-          "text": "At his home you can play fetch with his dog friends using a Mini Football and Wheee Discs. Afterwards, Cool Dog reveals a wallet on the sand holding over $1,200."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
-      "text_message_id": 402
-    },
     "1498133717": {
       "id": "1498133717",
       "created": 1795502381.0590172,
@@ -1872,49 +1818,6 @@
     }
   },
   "queue": [
-    {
-      "id": "d36c620a07",
-      "created": 1795523985.6413755,
-      "headline": "How to Grab the BF Bandito Buggy in GTA 6",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523961/gta-bot/d36c620a07-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523961/gta-bot/d36c620a07-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523962/gta-bot/d36c620a07-4.jpg"
-      ],
-      "full_caption": "The BF Bandito won't sit still for you 🏁 This swamp buggy is a moving target on Moses' car list, so you'll have to run it down.\n\nHead to the marked area in South Leonard County and Buckskin Swamp, spot the locals riding buggies, and stop the right driver. Cut him off or chase him down, but go easy on the bodywork so you don't wreck the car.\n\nSwipe for the full breakdown.\n\nHave you bagged the Bandito yet? Tell us how you stopped it!\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Guide #GTA6Tips #GTA6Cars #BFBandito #GamingNews",
-      "alt_text": "Graphic with the headline 'How to Grab the BF Bandito Buggy in GTA 6' in the Leonida Daily style, labelled Guide.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795523984/gta-bot/d36c620a07-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where to find it",
-          "text": "The Bandito appears on your list while you steal cars for Moses. The map marker shows its rough location on the rural roads of South Leonard County and Buckskin Swamp."
-        },
-        {
-          "title": "It's on the move",
-          "text": "This target is harder than most because the car is moving. Locals are riding buggies around the swamps, and one of them is the Bandito. Keep your eyes and ears open."
-        },
-        {
-          "title": "How to stop the driver",
-          "text": "Spot him early, especially when he crosses water, and get in front of him so he stops. Or chase him down and shoot the driver and his pals."
-        },
-        {
-          "title": "Don't wreck the buggy",
-          "text": "Stay close and don't shoot the car too much. In the guide writer's run, the driver eventually bailed and left the buggy free to take, though the trigger is unclear."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
-      "text_message_id": 447,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795524124.655954
-    },
     {
       "id": "d36c620a07",
       "created": 1795523985.6413755,
@@ -2432,6 +2335,14 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-where-to-find-the-mario-luigi-hats/",
       "at": 1795529397.0715463,
       "media_id": "18123054863107062"
+    },
+    {
+      "id": "d36c620a07",
+      "headline": "How to Grab the BF Bandito Buggy in GTA 6",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
+      "at": 1795534777.7625523,
+      "media_id": "18143464441616957"
     }
   ],
   "drafts_sent": [
@@ -2465,7 +2376,10 @@
     1795531152.4800353,
     1795531164.2051852
   ],
-  "feed_errors": {},
+  "feed_errors": {
+    "PC Gamer": "404 Client Error: Not Found for url: https://www.pcgamer.com/feeds.xml",
+    "GamesRadar+": "404 Client Error: Not Found for url: https://www.gamesradar.com/feeds.xml"
+  },
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_01.jpg",
