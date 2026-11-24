@@ -1860,49 +1860,6 @@
   },
   "queue": [
     {
-      "id": "123021ab21",
-      "created": 1795520366.7479522,
-      "headline": "GTA 6 Mario and Luigi hats: how to find the Easter egg",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-where-to-find-the-mario-luigi-hats/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520339/gta-bot/123021ab21-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520339/gta-bot/123021ab21-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520339/gta-bot/123021ab21-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520340/gta-bot/123021ab21-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520341/gta-bot/123021ab21-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520342/gta-bot/123021ab21-4.jpg"
-      ],
-      "full_caption": "Leonida has a hidden Super Mario nod, and it comes with free hats 🍄\n\nHead to the abandoned Paper Mill in the north, light up at a certain spot, and look to the sky. A hidden block is waiting to be smashed, and it drops Mario and Luigi hats for Jason and Lucia. Swipe for the full route.\n\nHave you found it yet? Tell us your favorite GTA 6 Easter egg so far!\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #EasterEgg #GTA6Guide #GTA6Tips #Gaming #SuperMario",
-      "alt_text": "Graphic for The Leonida Daily guide on finding the hidden Mario and Luigi hats Easter egg in GTA 6.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795520365/gta-bot/123021ab21-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Head to the Old Paper Mill",
-          "text": "Travel to the abandoned Paper Mill in the north of the map. Look for ruined brick structures near the river. It's tricky to spot, so zoom in on the map and set a marker."
-        },
-        {
-          "title": "Find the bong",
-          "text": "Inside the ruins, look for a dusty blue tarp with a bong on top. A lockbox with some cash sits nearby, so check that too. Interact with the bong to take a hit."
-        },
-        {
-          "title": "Spot the hidden block",
-          "text": "Your screen goes hazy and a white plume of smoke rises above the ruins. Look up for the outline of a block. It's easier to see at night or in cloudy weather, and a sound effect tells you it's there."
-        },
-        {
-          "title": "Smash it and grab the hats",
-          "text": "Climb the walls and use the planks to reach the upper section. Jump into the block from underneath its edge, which VGC found easier. Two hats drop. If one character takes both, one goes to the wardrobe."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996686/Jason_Duval_02.jpg",
-      "text_message_id": 438,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795524123.8445647
-    },
-    {
       "id": "d36c620a07",
       "created": 1795523985.6413755,
       "headline": "How to Grab the BF Bandito Buggy in GTA 6",
@@ -2454,6 +2411,14 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-where-to-find-the-mario-luigi-hats/",
       "at": 1795524182.8662682,
       "media_id": "18083673059372162"
+    },
+    {
+      "id": "123021ab21",
+      "headline": "GTA 6 Mario and Luigi hats: how to find the Easter egg",
+      "kind": "reel",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-where-to-find-the-mario-luigi-hats/",
+      "at": 1795529397.0715463,
+      "media_id": "18123054863107062"
     }
   ],
   "drafts_sent": [
