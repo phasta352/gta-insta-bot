@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593700,
+  "telegram_offset": 889593701,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795541919.687816,
@@ -1942,46 +1942,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
       "text_message_id": 474
-    },
-    "d14e00bc16": {
-      "id": "d14e00bc16",
-      "created": 1795541987.0660353,
-      "headline": "Official GTA 6 Trading Cards Arrive This December",
-      "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541952/gta-bot/d14e00bc16-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541955/gta-bot/d14e00bc16-4.jpg"
-      ],
-      "full_caption": "Rockstar's fictional sports world is going physical 🃏\n\nPanini America and Rockstar are releasing the GTA 6: Sports Trading Card Collection this December. The cards feature the in-game sports stars and teams, with packs containing different rarities.\n\nThere's no exact date, price or region list yet, and no pre-orders. Swipe for the full rundown.\n\nWill you be chasing the rarest cards?\n\nSource: VGC\n\n#GTA6 #GTAVI #RockstarGames #Panini #TradingCards #GTA #Leonida #VideoGames #Collectibles #GamingNews",
-      "alt_text": "News graphic announcing the official GTA 6 Sports Trading Card Collection from Panini America and Rockstar Games, coming in December.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795541986/gta-bot/d14e00bc16-reel.mp4",
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "Physical cards are coming",
-          "text": "Rockstar and Panini America are teaming up for the GTA 6: Sports Trading Card Collection. It's set to launch this December, just a few weeks away."
-        },
-        {
-          "title": "What's in the packs",
-          "text": "The cards centre on fictional sports stars and teams from the game. Artwork mixes stylised drawings and in-game character renders, and each pack has cards of varying rarities."
-        },
-        {
-          "title": "What we don't know yet",
-          "text": "No exact date, price or regions have been announced, and you can't pre-order yet. Panini America is the distributor, so availability outside the US is unclear."
-        },
-        {
-          "title": "Part of a bigger merch wave",
-          "text": "Before launch, Rockstar did a sports-themed line with the Miami Heat and a Selfridges drop in the UK with 60+ items. PlayStation says GTA 6 launched with 39 million players."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
-      "text_message_id": 482
     }
   },
   "queue": [
@@ -2027,6 +1987,92 @@
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795524126.4410362
+    },
+    {
+      "id": "d14e00bc16",
+      "created": 1795541987.0660353,
+      "headline": "Official GTA 6 Trading Cards Arrive This December",
+      "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541952/gta-bot/d14e00bc16-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541955/gta-bot/d14e00bc16-4.jpg"
+      ],
+      "full_caption": "Rockstar's fictional sports world is going physical 🃏\n\nPanini America and Rockstar are releasing the GTA 6: Sports Trading Card Collection this December. The cards feature the in-game sports stars and teams, with packs containing different rarities.\n\nThere's no exact date, price or region list yet, and no pre-orders. Swipe for the full rundown.\n\nWill you be chasing the rarest cards?\n\nSource: VGC\n\n#GTA6 #GTAVI #RockstarGames #Panini #TradingCards #GTA #Leonida #VideoGames #Collectibles #GamingNews",
+      "alt_text": "News graphic announcing the official GTA 6 Sports Trading Card Collection from Panini America and Rockstar Games, coming in December.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795541986/gta-bot/d14e00bc16-reel.mp4",
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "Physical cards are coming",
+          "text": "Rockstar and Panini America are teaming up for the GTA 6: Sports Trading Card Collection. It's set to launch this December, just a few weeks away."
+        },
+        {
+          "title": "What's in the packs",
+          "text": "The cards centre on fictional sports stars and teams from the game. Artwork mixes stylised drawings and in-game character renders, and each pack has cards of varying rarities."
+        },
+        {
+          "title": "What we don't know yet",
+          "text": "No exact date, price or regions have been announced, and you can't pre-order yet. Panini America is the distributor, so availability outside the US is unclear."
+        },
+        {
+          "title": "Part of a bigger merch wave",
+          "text": "Before launch, Rockstar did a sports-themed line with the Miami Heat and a Selfridges drop in the UK with 60+ items. PlayStation says GTA 6 launched with 39 million players."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
+      "text_message_id": 482,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795544910.7933326
+    },
+    {
+      "id": "d14e00bc16",
+      "created": 1795541987.0660353,
+      "headline": "Official GTA 6 Trading Cards Arrive This December",
+      "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541952/gta-bot/d14e00bc16-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541955/gta-bot/d14e00bc16-4.jpg"
+      ],
+      "full_caption": "Rockstar's fictional sports world is going physical 🃏\n\nPanini America and Rockstar are releasing the GTA 6: Sports Trading Card Collection this December. The cards feature the in-game sports stars and teams, with packs containing different rarities.\n\nThere's no exact date, price or region list yet, and no pre-orders. Swipe for the full rundown.\n\nWill you be chasing the rarest cards?\n\nSource: VGC\n\n#GTA6 #GTAVI #RockstarGames #Panini #TradingCards #GTA #Leonida #VideoGames #Collectibles #GamingNews",
+      "alt_text": "News graphic announcing the official GTA 6 Sports Trading Card Collection from Panini America and Rockstar Games, coming in December.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795541986/gta-bot/d14e00bc16-reel.mp4",
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "Physical cards are coming",
+          "text": "Rockstar and Panini America are teaming up for the GTA 6: Sports Trading Card Collection. It's set to launch this December, just a few weeks away."
+        },
+        {
+          "title": "What's in the packs",
+          "text": "The cards centre on fictional sports stars and teams from the game. Artwork mixes stylised drawings and in-game character renders, and each pack has cards of varying rarities."
+        },
+        {
+          "title": "What we don't know yet",
+          "text": "No exact date, price or regions have been announced, and you can't pre-order yet. Panini America is the distributor, so availability outside the US is unclear."
+        },
+        {
+          "title": "Part of a bigger merch wave",
+          "text": "Before launch, Rockstar did a sports-themed line with the Miami Heat and a Selfridges drop in the UK with 60+ items. PlayStation says GTA 6 launched with 39 million players."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
+      "text_message_id": 482,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795544910.7933342
     }
   ],
   "published": [
