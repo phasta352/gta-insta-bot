@@ -2,7 +2,7 @@
   "telegram_offset": 889593696,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795505926.2446487,
+  "last_scout": 1795509568.568127,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1548,7 +1548,14 @@
     "5d1a5a19e0fc5473": 1795505936.7684844,
     "dac2e9470dad64f3": 1795505936.7684844,
     "0c34638861676be0": 1795505936.7684844,
-    "634295febfcf544f": 1795505936.7684844
+    "634295febfcf544f": 1795505936.7684844,
+    "10a7aa70a25a8d54": 1795509577.8484902,
+    "f205542cdbba5989": 1795509577.8484902,
+    "2cac0a3792551768": 1795509577.8484902,
+    "3a15babd164b907e": 1795509577.8484902,
+    "214539757a752e1c": 1795509577.8484902,
+    "b9c07cd3ba8e9109": 1795509577.8484902,
+    "8d96df195e327d44": 1795509577.8484902
   },
   "drafts": {
     "435972edd9": {
@@ -1828,51 +1835,7 @@
       "text_message_id": 430
     }
   },
-  "queue": [
-    {
-      "id": "247281923e",
-      "created": 1795502367.3343284,
-      "headline": "GTA 6 Is the Biggest Launch in PlayStation History",
-      "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502337/gta-bot/247281923e-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502337/gta-bot/247281923e-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502338/gta-bot/247281923e-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502339/gta-bot/247281923e-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502339/gta-bot/247281923e-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502340/gta-bot/247281923e-4.jpg"
-      ],
-      "full_caption": "Another record for Leonida! 🌴 Sony says GTA 6 is the biggest launch in PlayStation history, with over 39 million players on PS5. Between launch and November 22, players logged 683 million hours, and it also set a new PlayStation record for concurrent players in a single game. Swipe for the full numbers. Did you jump in on day one?\n\nSource: VGC\n\n#GTA6 #GrandTheftAuto6 #GTAVI #Rockstar #RockstarGames #PS5 #PlayStation #TakeTwo #Leonida #GamingNews",
-      "alt_text": "Graphic with the headline 'GTA 6 Is the Biggest Launch in PlayStation History' announcing over 39 million players on PS5.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795502366/gta-bot/247281923e-reel.mp4",
-      "category": "RECORDS",
-      "slides": [
-        {
-          "title": "A new PlayStation record",
-          "text": "Sony calls GTA 6 the biggest launch in PlayStation history. Over 39 million users played it on PS5 between launch and November 22."
-        },
-        {
-          "title": "683 million hours played",
-          "text": "Players logged 683 million hours in total over that period. GTA 6 also set a new record for concurrent players of a single game on PlayStation consoles."
-        },
-        {
-          "title": "A boost for PS5 hardware",
-          "text": "Sony saw its largest number of newly connected PS5 consoles in a single day since the console's launch, outside end-of-year holidays. GTA 6 was the first game played on 70% of new PS5s."
-        },
-        {
-          "title": "The bigger picture",
-          "text": "GTA 6 launched Thursday, November 19, with over 32 million pre-orders and $3.79 billion in day-one retail sales, per Rockstar and Take-Two. GTA 5 made $815 million on its launch day."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
-      "text_message_id": 414,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795504834.6416638
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -2236,11 +2199,17 @@
       "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
       "at": 1795504894.3734195,
       "media_id": "18473012287187900"
+    },
+    {
+      "id": "247281923e",
+      "headline": "GTA 6 Is the Biggest Launch in PlayStation History",
+      "kind": "reel",
+      "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
+      "at": 1795509566.5291758,
+      "media_id": "18071315219787428"
     }
   ],
   "drafts_sent": [
-    1795334932.2452805,
-    1795334943.5511618,
     1795342140.020933,
     1795342166.949565,
     1795345801.9198136,
