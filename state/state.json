@@ -2,7 +2,7 @@
   "telegram_offset": 889593696,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795520316.9934428,
+  "last_scout": 1795523940.312165,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1598,7 +1598,32 @@
     "7cb651e286fa8cae": 1795520327.4697933,
     "a4a73779e70388d6": 1795520327.4697933,
     "d86560a8f5e529ea": 1795520327.4697933,
-    "32ded753ef126b98": 1795520327.4697933
+    "32ded753ef126b98": 1795520327.4697933,
+    "cd8a94111d265d3b": 1795523949.0782015,
+    "e1c71056ef1d5b13": 1795523949.0782015,
+    "9502469388d4a779": 1795523949.0782015,
+    "97284167929cf352": 1795523949.0782015,
+    "c45bad7d68b32842": 1795523949.0782015,
+    "9c30b7584e3e984f": 1795523949.0782015,
+    "72c6b4ce0b3e5582": 1795523949.0782015,
+    "99a13f9baf616590": 1795523949.0782015,
+    "c2e3fdaae04d19fe": 1795523949.0782015,
+    "d04dbe45fbd2ac01": 1795523949.0782015,
+    "dc8fd172d7ac571f": 1795523949.0782015,
+    "69daedeaea4a40d6": 1795523949.0782015,
+    "f039a4a367bd15a8": 1795523949.0782015,
+    "f2ff094092f0a09a": 1795523949.0782015,
+    "cd00d00c311843a3": 1795523949.0782015,
+    "e9e812ae7e398aca": 1795523949.0782015,
+    "03b2a6701b68139d": 1795523949.0782015,
+    "7a24b5cfa83bddd2": 1795523949.0782015,
+    "db4eb5172c31857f": 1795523949.0782015,
+    "f60c963302b605d1": 1795523949.0782015,
+    "d43c2e044969c08a": 1795523949.0782015,
+    "ee5551acbccd014d": 1795523949.0782015,
+    "c4436b6e54f2f414": 1795523949.0782015,
+    "23da71dc5a3be287": 1795523949.0782015,
+    "558e67e6ab228b75": 1795523949.0782015
   },
   "drafts": {
     "435972edd9": {
@@ -1935,6 +1960,86 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996665/Leonida_Keys_01.jpg",
       "text_message_id": 440
+    },
+    "d36c620a07": {
+      "id": "d36c620a07",
+      "created": 1795523985.6413755,
+      "headline": "How to Grab the BF Bandito Buggy in GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523960/gta-bot/d36c620a07-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523961/gta-bot/d36c620a07-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523961/gta-bot/d36c620a07-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795523962/gta-bot/d36c620a07-4.jpg"
+      ],
+      "full_caption": "The BF Bandito won't sit still for you 🏁 This swamp buggy is a moving target on Moses' car list, so you'll have to run it down.\n\nHead to the marked area in South Leonard County and Buckskin Swamp, spot the locals riding buggies, and stop the right driver. Cut him off or chase him down, but go easy on the bodywork so you don't wreck the car.\n\nSwipe for the full breakdown.\n\nHave you bagged the Bandito yet? Tell us how you stopped it!\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Guide #GTA6Tips #GTA6Cars #BFBandito #GamingNews",
+      "alt_text": "Graphic with the headline 'How to Grab the BF Bandito Buggy in GTA 6' in the Leonida Daily style, labelled Guide.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795523984/gta-bot/d36c620a07-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where to find it",
+          "text": "The Bandito appears on your list while you steal cars for Moses. The map marker shows its rough location on the rural roads of South Leonard County and Buckskin Swamp."
+        },
+        {
+          "title": "It's on the move",
+          "text": "This target is harder than most because the car is moving. Locals are riding buggies around the swamps, and one of them is the Bandito. Keep your eyes and ears open."
+        },
+        {
+          "title": "How to stop the driver",
+          "text": "Spot him early, especially when he crosses water, and get in front of him so he stops. Or chase him down and shoot the driver and his pals."
+        },
+        {
+          "title": "Don't wreck the buggy",
+          "text": "Stay close and don't shoot the car too much. In the guide writer's run, the driver eventually bailed and left the buggy free to take, though the trigger is unclear."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
+      "text_message_id": 447
+    },
+    "e81c9cf640": {
+      "id": "e81c9cf640",
+      "created": 1795524026.000169,
+      "headline": "GTA 6 Reportedly Earns $4B in Launch Weekend",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-first-weekend-sales/",
+      "source": "Polygon",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524000/gta-bot/e81c9cf640-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524000/gta-bot/e81c9cf640-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524000/gta-bot/e81c9cf640-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524001/gta-bot/e81c9cf640-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524001/gta-bot/e81c9cf640-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524002/gta-bot/e81c9cf640-4.jpg"
+      ],
+      "full_caption": "Four days, $4 billion. 💰 Analytics firm Alinea reports GTA 6 sold 44.9 million copies and grossed $4B by the end of launch weekend, double the $2B the Eras Tour made in ticket sales. Rockstar itself calls this the biggest entertainment launch ever. Note that the sales figures are analyst numbers, not official Rockstar data.\n\nIs GTA 6 the biggest entertainment moment you've ever seen?\n\nSource: Polygon\n\n#GTA6 #GTAVI #GrandTheftAuto6 #RockstarGames #Leonida #GTAOnline #GamingNews #PlayStation #VideoGames #SalesRecord",
+      "alt_text": "Graphic with the headline that GTA 6 reportedly earned $4 billion in its launch weekend, with a RECORDS label.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795524025/gta-bot/e81c9cf640-reel.mp4",
+      "category": "RECORDS",
+      "slides": [
+        {
+          "title": "The Numbers",
+          "text": "Alinea Analytics reports GTA 6 sold 44.9 million copies and made $4 billion in gross revenue by the end of its launch weekend. The game launched on Nov. 19, 2026."
+        },
+        {
+          "title": "Bigger Than the Eras Tour",
+          "text": "Taylor Swift's Eras Tour earned $2 billion in ticket sales, the highest-grossing tour ever. By Alinea's figures, GTA 6 made twice that in just four days."
+        },
+        {
+          "title": "Beating Hollywood Too",
+          "text": "The Odyssey made $1.2B and Spider-Man: Brand New Day made $2.5B. Combined, the two summer box-office hits still fall short of GTA 6's opening numbers."
+        },
+        {
+          "title": "What Comes Next",
+          "text": "These figures cover only the launch window. A PC release and the GTA 6 Online mode could bring in millions more players. Rockstar calls it the biggest entertainment launch of all time."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996642/Vice_City_27.jpg",
+      "text_message_id": 454
     }
   },
   "queue": [],
@@ -2336,13 +2441,13 @@
     1795505991.556393,
     1795506010.5333176,
     1795520370.5190852,
-    1795520392.0901902
+    1795520392.0901902,
+    1795523988.8631952,
+    1795524029.1495318
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Cal_Hampton_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996709/DreQuan_Priest_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_01.jpg",
@@ -2370,6 +2475,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996652/Grassrivers_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996686/Jason_Duval_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996665/Leonida_Keys_01.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996665/Leonida_Keys_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996642/Vice_City_27.jpg"
   ]
 }
