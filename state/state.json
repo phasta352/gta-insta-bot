@@ -2,7 +2,7 @@
   "telegram_offset": 889593701,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795541919.687816,
+  "last_scout": 1795545517.6419866,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1723,7 +1723,30 @@
     "837742f628fe5a57": 1795541930.378056,
     "7c62d6beb03a2c15": 1795541930.378056,
     "fe9b09f9cffba801": 1795541930.378056,
-    "253f0021c852f281": 1795541930.378056
+    "253f0021c852f281": 1795541930.378056,
+    "4d6e8f6d167d03d0": 1795545526.2919147,
+    "2bd91166333fcec8": 1795545526.2919147,
+    "525f8ebc66e8e09e": 1795545526.2919147,
+    "d3f4b92f7893be2c": 1795545526.2919147,
+    "8a5a3c540fc67e47": 1795545526.2919147,
+    "991cec1ba34f9d99": 1795545526.2919147,
+    "edd050a945dacbd4": 1795545526.2919147,
+    "b62208bff624710e": 1795545526.2919147,
+    "b88e5841cd4b9563": 1795545526.2919147,
+    "f70af9945b18eb6a": 1795545526.2919147,
+    "2a6a1f52d600571d": 1795545526.2919147,
+    "f39de2737cb879f0": 1795545526.2919147,
+    "cb7535bbeb02958b": 1795545526.2919147,
+    "db02a16e6b0c27e0": 1795545526.2919147,
+    "7e8801b628840206": 1795545526.2919147,
+    "298c603dd39cba5e": 1795545526.2919147,
+    "dd220868c8429286": 1795545526.2919147,
+    "842b9eb752393463": 1795545526.2919147,
+    "8fa18fdb8a9b1a84": 1795545526.2919147,
+    "9f446057100b052d": 1795545526.2919147,
+    "30dcd1e715761410": 1795545526.2919147,
+    "917f0550b7ba2455": 1795545526.2919147,
+    "e3763bf77562e81e": 1795545526.2919147
   },
   "drafts": {
     "1498133717": {
@@ -1942,6 +1965,46 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
       "text_message_id": 474
+    },
+    "db46414d6e": {
+      "id": "db46414d6e",
+      "created": 1795545564.3311598,
+      "headline": "Analysts: GTA 6 launch cut Call of Duty's daily players by 42%",
+      "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545560/gta-bot/db46414d6e-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545560/gta-bot/db46414d6e-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545561/gta-bot/db46414d6e-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545562/gta-bot/db46414d6e-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545563/gta-bot/db46414d6e-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545563/gta-bot/db46414d6e-4.jpg"
+      ],
+      "full_caption": "GTA 6 has shaken up the charts, and Call of Duty felt it most. 💥\n\nAlinea Analytics estimates Call of Duty HQ's daily players fell 42% after launch and are still about 41% below normal four days later. Fortnite and FC 27 also dipped but are recovering faster. These are analyst estimates, not official figures.\n\nDid GTA 6 pull you away from your usual games?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #CallOfDuty #Fortnite #GamingNews #PS5 #XboxSeriesX",
+      "alt_text": "News graphic showing the headline that GTA 6's launch cut Call of Duty's daily players by an estimated 42 percent.",
+      "score": 5,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [
+        {
+          "title": "Call of Duty takes the biggest hit",
+          "text": "Alinea estimates Call of Duty HQ's daily players on PlayStation, Xbox and Steam fell 42% after GTA 6 launched on 19 November, from 7.5M to 4.4M. PlayStation saw a 44% drop."
+        },
+        {
+          "title": "No bounce back yet",
+          "text": "Four days on, Call of Duty is still down 41% from its baseline, according to analyst Rhys Elliott. He calls it the outlier among the big live service games."
+        },
+        {
+          "title": "Fortnite and FC 27 recover faster",
+          "text": "Fortnite's daily players on PlayStation and Xbox fell 28%, to 12.8M, but were 19% below baseline by Sunday. FC 27 dropped about 27% and is already within 20% of its baseline."
+        },
+        {
+          "title": "Big launch, big numbers",
+          "text": "Alinea estimates GTA 6 has sold 44.9M copies and earned over $4B. Elliott expects the online mode and PC port next year, which he thinks could make recovery harder for rivals."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
+      "text_message_id": 489
     }
   },
   "queue": [
@@ -2520,12 +2583,12 @@
     1795531164.2051852,
     1795538437.1779044,
     1795538456.2257462,
-    1795541991.3369296
+    1795541991.3369296,
+    1795545565.7575383
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996622/Vice_City_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_02.jpg",
@@ -2554,6 +2617,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996670/Leonida_Keys_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg"
   ]
 }
