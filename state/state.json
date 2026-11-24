@@ -2,7 +2,7 @@
   "telegram_offset": 889593696,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795502315.0996907,
+  "last_scout": 1795505926.2446487,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1509,7 +1509,46 @@
     "53fd08f682ecca74": 1795502326.6559682,
     "1ee5d09725306110": 1795502326.6559682,
     "beee9bc6872ae0ac": 1795502326.6559682,
-    "b5983be355c029a0": 1795502326.6559682
+    "b5983be355c029a0": 1795502326.6559682,
+    "a8b38db7a8c9b8bb": 1795505936.7684844,
+    "91b0b09ad29521e2": 1795505936.7684844,
+    "306a1c4649b9de2a": 1795505936.7684844,
+    "fddcfba31cc608e5": 1795505936.7684844,
+    "8b79c7f337efbb6d": 1795505936.7684844,
+    "75482d5b0e69761a": 1795505936.7684844,
+    "00f152ff3ccad823": 1795505936.7684844,
+    "7e7c2bf83ca522eb": 1795505936.7684844,
+    "62cbde0a6464be08": 1795505936.7684844,
+    "6cafc18384d1efc0": 1795505936.7684844,
+    "f81f692fc8c8cd7e": 1795505936.7684844,
+    "f822fb39f20e847a": 1795505936.7684844,
+    "a7151b32cd6d26c6": 1795505936.7684844,
+    "3a944a6fbdb18274": 1795505936.7684844,
+    "4e8bd204f78e65a0": 1795505936.7684844,
+    "86da853b2176146a": 1795505936.7684844,
+    "b26e53a40f938775": 1795505936.7684844,
+    "79130dc3c1125f38": 1795505936.7684844,
+    "cc26141938fad8e4": 1795505936.7684844,
+    "ff1be783b9932907": 1795505936.7684844,
+    "923d5c47ca2d72fe": 1795505936.7684844,
+    "3146278b01635fa6": 1795505936.7684844,
+    "e50550e6e881ab1f": 1795505936.7684844,
+    "9abe0d57c32a16ad": 1795505936.7684844,
+    "40e4aaecde924701": 1795505936.7684844,
+    "6a441927847c8d48": 1795505936.7684844,
+    "a6607b102529c455": 1795505936.7684844,
+    "25b3f1c4f9f7594b": 1795505936.7684844,
+    "6842f72cd3ee3de5": 1795505936.7684844,
+    "d93ebf18b8e3817f": 1795505936.7684844,
+    "1f7fd1a981fb3f00": 1795505936.7684844,
+    "a0a45338303dc536": 1795505936.7684844,
+    "0b5bac1502ecea7c": 1795505936.7684844,
+    "a15082b1da5b99c4": 1795505936.7684844,
+    "671a998467ca211f": 1795505936.7684844,
+    "5d1a5a19e0fc5473": 1795505936.7684844,
+    "dac2e9470dad64f3": 1795505936.7684844,
+    "0c34638861676be0": 1795505936.7684844,
+    "634295febfcf544f": 1795505936.7684844
   },
   "drafts": {
     "435972edd9": {
@@ -1707,6 +1746,86 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
       "text_message_id": 416
+    },
+    "23bd53c39a": {
+      "id": "23bd53c39a",
+      "created": 1795505987.5089247,
+      "headline": "How to use auto drive in GTA 6 and cruise Leonida",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505948/gta-bot/23bd53c39a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505948/gta-bot/23bd53c39a-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505949/gta-bot/23bd53c39a-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505950/gta-bot/23bd53c39a-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505951/gta-bot/23bd53c39a-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505952/gta-bot/23bd53c39a-4.jpg"
+      ],
+      "full_caption": "Want to see Leonida without touching the wheel? 🚗 Auto drive lets Jason or Lucia drive to your map marker while the camera cycles through cinematic views. Set a destination, open the CINEMATIC menu from the camera options and hold the prompt to start. It's no fast travel, though. Your driver follows the road rules and will sit in traffic, so it's best for screenshots and video clips.\n\nWill you use auto drive for the scenery or skip it?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTA6Tips #GTA6Guide #ViceCity #Gaming #PS5",
+      "alt_text": "Graphic with the headline 'How to use auto drive in GTA 6 and cruise Leonida' in the style of a gaming news post.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795505983/gta-bot/23bd53c39a-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "What you need first",
+          "text": "You have to be in control of a vehicle and have a destination marker set on your map. Without a marker, auto drive has nowhere to take you."
+        },
+        {
+          "title": "How to switch it on",
+          "text": "In the vehicle, hold Down on the D-pad for camera options, then press Options (PS5) or Menu (Xbox) to open the CINEMATIC menu. Hold the ENABLE AUTO DRIVE prompt in the bottom right."
+        },
+        {
+          "title": "Controls while cruising",
+          "text": "Use the right stick to move the camera and R3/RS to change view. The triggers pick from three speeds, and you can move the destination marker at any time to reroute."
+        },
+        {
+          "title": "Not a fast travel option",
+          "text": "Your driver obeys all road rules and will spend plenty of time in traffic. It's meant for soaking up the atmosphere and grabbing screenshots or video of the journey."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996652/Grassrivers_04.jpg",
+      "text_message_id": 424
+    },
+    "2e38d8749b": {
+      "id": "2e38d8749b",
+      "created": 1795506008.806804,
+      "headline": "GTA 6's tiniest details: blinkers, dents and Snapmatic memes",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/from-scoffing-chips-to-snapmatic-sh-tposts-gta-6-is-filled-with-brilliant-little-details-here-are-our-favorites/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506004/gta-bot/2e38d8749b-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506004/gta-bot/2e38d8749b-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506005/gta-bot/2e38d8749b-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506006/gta-bot/2e38d8749b-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506007/gta-bot/2e38d8749b-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506008/gta-bot/2e38d8749b-4.jpg"
+      ],
+      "full_caption": "Rockstar sweated the small stuff in GTA 6. 👀\n\nGamesRadar+ staff shared the little touches they've spotted in their first days in Leonida. These include working turn signals, car damage that shows, and a Snapmatic feed full of in-world memes. Jason's snacking habits get some love too.\n\nWhich tiny detail has impressed you most so far?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #Snapmatic #JasonDuval #GTANews #GamingNews #OpenWorld",
+      "alt_text": "Graphic with the headline about GTA 6's small details, including turn signals, car damage and Snapmatic memes.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "Turn signals that actually work",
+          "text": "One writer was delighted to use the blinkers with the D-pad on a PS5 controller. The indicator also switches itself off after you complete the turn, just like a real car."
+        },
+        {
+          "title": "Car damage that shows",
+          "text": "Even a light bump on a post box can leave a dent, and squeezing between cars can scrape the paint. One writer now visits every Pay 'n' Spray to fix even tiny cosmetic damage."
+        },
+        {
+          "title": "Snapmatic is full of memes",
+          "text": "The in-game take on Instagram features photos and videos from Leonida's residents. Many are ridiculous memes, and Rockstar even parodies the \"we got X before GTA 6\" jokes."
+        },
+        {
+          "title": "Jason the snacker",
+          "text": "Jason sips coffee while sneaking, munches apples and opens a bag of chips one-handed with his mouth while carrying a crate of beer. The team loved how detailed it all is."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
+      "text_message_id": 430
     }
   },
   "queue": [
@@ -2146,13 +2265,13 @@
     1795446645.783974,
     1795450235.8588793,
     1795502370.92339,
-    1795502382.4516337
+    1795502382.4516337,
+    1795505991.556393,
+    1795506010.5333176
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
@@ -2180,6 +2299,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Mount_Kalaga_National_Park_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996652/Grassrivers_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg"
   ]
 }
