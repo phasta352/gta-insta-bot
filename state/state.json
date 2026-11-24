@@ -2024,49 +2024,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996642/Vice_City_27.jpg",
       "text_message_id": 454,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795524126.441034
-    },
-    {
-      "id": "e81c9cf640",
-      "created": 1795524026.000169,
-      "headline": "GTA 6 Reportedly Earns $4B in Launch Weekend",
-      "url": "https://www.polygon.com/gta-6-grand-theft-auto-first-weekend-sales/",
-      "source": "Polygon",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524000/gta-bot/e81c9cf640-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524000/gta-bot/e81c9cf640-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524000/gta-bot/e81c9cf640-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524001/gta-bot/e81c9cf640-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524001/gta-bot/e81c9cf640-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795524002/gta-bot/e81c9cf640-4.jpg"
-      ],
-      "full_caption": "Four days, $4 billion. 💰 Analytics firm Alinea reports GTA 6 sold 44.9 million copies and grossed $4B by the end of launch weekend, double the $2B the Eras Tour made in ticket sales. Rockstar itself calls this the biggest entertainment launch ever. Note that the sales figures are analyst numbers, not official Rockstar data.\n\nIs GTA 6 the biggest entertainment moment you've ever seen?\n\nSource: Polygon\n\n#GTA6 #GTAVI #GrandTheftAuto6 #RockstarGames #Leonida #GTAOnline #GamingNews #PlayStation #VideoGames #SalesRecord",
-      "alt_text": "Graphic with the headline that GTA 6 reportedly earned $4 billion in its launch weekend, with a RECORDS label.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795524025/gta-bot/e81c9cf640-reel.mp4",
-      "category": "RECORDS",
-      "slides": [
-        {
-          "title": "The Numbers",
-          "text": "Alinea Analytics reports GTA 6 sold 44.9 million copies and made $4 billion in gross revenue by the end of its launch weekend. The game launched on Nov. 19, 2026."
-        },
-        {
-          "title": "Bigger Than the Eras Tour",
-          "text": "Taylor Swift's Eras Tour earned $2 billion in ticket sales, the highest-grossing tour ever. By Alinea's figures, GTA 6 made twice that in just four days."
-        },
-        {
-          "title": "Beating Hollywood Too",
-          "text": "The Odyssey made $1.2B and Spider-Man: Brand New Day made $2.5B. Combined, the two summer box-office hits still fall short of GTA 6's opening numbers."
-        },
-        {
-          "title": "What Comes Next",
-          "text": "These figures cover only the launch window. A PC release and the GTA 6 Online mode could bring in millions more players. Rockstar calls it the biggest entertainment launch of all time."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996642/Vice_City_27.jpg",
-      "text_message_id": 454,
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795524126.4410362
@@ -2475,6 +2432,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-bf-bandito/",
       "at": 1795538496.801797,
       "media_id": "18158621581525517"
+    },
+    {
+      "id": "e81c9cf640",
+      "headline": "GTA 6 Reportedly Earns $4B in Launch Weekend",
+      "kind": "carousel",
+      "url": "https://www.polygon.com/gta-6-grand-theft-auto-first-weekend-sales/",
+      "at": 1795543794.7057803,
+      "media_id": "17904418572386406"
     }
   ],
   "drafts_sent": [
