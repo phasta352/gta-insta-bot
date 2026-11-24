@@ -2,7 +2,7 @@
   "telegram_offset": 889593696,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795516716.2357528,
+  "last_scout": 1795520316.9934428,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1581,7 +1581,24 @@
     "77b1c5032ea35eb5": 1795516724.9867687,
     "8229dc65af102ab5": 1795516724.9867687,
     "b2947786810dc19a": 1795516724.9867687,
-    "94b91a34f022ef81": 1795516724.9867687
+    "94b91a34f022ef81": 1795516724.9867687,
+    "2e7fdfabdf64d115": 1795520327.4697933,
+    "f6d085bb9f293d75": 1795520327.4697933,
+    "2b261139a7c2a6ae": 1795520327.4697933,
+    "d6483d88999290bc": 1795520327.4697933,
+    "82fa7cfd0eccaa2e": 1795520327.4697933,
+    "06479ac0c19b9c76": 1795520327.4697933,
+    "6db3a253a5959205": 1795520327.4697933,
+    "15a7db427538b26d": 1795520327.4697933,
+    "4da33aabd5d5d424": 1795520327.4697933,
+    "bdfbfd1229fe70a2": 1795520327.4697933,
+    "3b636aa6cb85e7fe": 1795520327.4697933,
+    "8056d39256418f6c": 1795520327.4697933,
+    "972690382f4b0b67": 1795520327.4697933,
+    "7cb651e286fa8cae": 1795520327.4697933,
+    "a4a73779e70388d6": 1795520327.4697933,
+    "d86560a8f5e529ea": 1795520327.4697933,
+    "32ded753ef126b98": 1795520327.4697933
   },
   "drafts": {
     "435972edd9": {
@@ -1859,6 +1876,65 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
       "text_message_id": 430
+    },
+    "123021ab21": {
+      "id": "123021ab21",
+      "created": 1795520366.7479522,
+      "headline": "GTA 6 Mario and Luigi hats: how to find the Easter egg",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-where-to-find-the-mario-luigi-hats/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520339/gta-bot/123021ab21-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520339/gta-bot/123021ab21-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520339/gta-bot/123021ab21-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520340/gta-bot/123021ab21-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520341/gta-bot/123021ab21-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520342/gta-bot/123021ab21-4.jpg"
+      ],
+      "full_caption": "Leonida has a hidden Super Mario nod, and it comes with free hats 🍄\n\nHead to the abandoned Paper Mill in the north, light up at a certain spot, and look to the sky. A hidden block is waiting to be smashed, and it drops Mario and Luigi hats for Jason and Lucia. Swipe for the full route.\n\nHave you found it yet? Tell us your favorite GTA 6 Easter egg so far!\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #EasterEgg #GTA6Guide #GTA6Tips #Gaming #SuperMario",
+      "alt_text": "Graphic for The Leonida Daily guide on finding the hidden Mario and Luigi hats Easter egg in GTA 6.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795520365/gta-bot/123021ab21-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Head to the Old Paper Mill",
+          "text": "Travel to the abandoned Paper Mill in the north of the map. Look for ruined brick structures near the river. It's tricky to spot, so zoom in on the map and set a marker."
+        },
+        {
+          "title": "Find the bong",
+          "text": "Inside the ruins, look for a dusty blue tarp with a bong on top. A lockbox with some cash sits nearby, so check that too. Interact with the bong to take a hit."
+        },
+        {
+          "title": "Spot the hidden block",
+          "text": "Your screen goes hazy and a white plume of smoke rises above the ruins. Look up for the outline of a block. It's easier to see at night or in cloudy weather, and a sound effect tells you it's there."
+        },
+        {
+          "title": "Smash it and grab the hats",
+          "text": "Climb the walls and use the planks to reach the upper section. Jump into the block from underneath its edge, which VGC found easier. Two hats drop. If one character takes both, one goes to the wardrobe."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996686/Jason_Duval_02.jpg",
+      "text_message_id": 438
+    },
+    "69c430d3b7": {
+      "id": "69c430d3b7",
+      "created": 1795520390.5203147,
+      "headline": "GTA 6 Fans Spot Real North Florida Landmarks in Leonida",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DeEN5TkVPcDZtVUJzTWNlNjVBSzY2cGZ1RnJCSGhDQXFPWUxua0dkNnVKRllnSXA1LTJIbGxnM203YnRfWVl4LTNPc0pId1JIU1haZkVCTzhHNmh3cnFfcjRvaGRaRXFOMHRNMHBNUHF3cG1i?oc=5",
+      "source": "Bradenton Herald",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520390/gta-bot/69c430d3b7-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795520390/gta-bot/69c430d3b7-0.jpg"
+      ],
+      "full_caption": "Fans are playing spot-the-landmark with GTA 6 🌴\n\nAccording to the Bradenton Herald, players are recognizing real north Florida landmarks in the game's world. These are fan sightings, not an official list from Rockstar. Even so, Leonida's Florida inspiration is clearly sparking a lot of local pride and curiosity.\n\nWhich real-life Florida spot are you hoping to see in Leonida?\n\nSource: Bradenton Herald\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #ViceCity #Florida #GTAcommunity #GTAOnline #Gaming",
+      "alt_text": "News graphic reading 'GTA 6 Fans Spot Real North Florida Landmarks in Leonida' with a Florida-themed look.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996665/Leonida_Keys_01.jpg",
+      "text_message_id": 440
     }
   },
   "queue": [],
@@ -2236,8 +2312,6 @@
     }
   ],
   "drafts_sent": [
-    1795345801.9198136,
-    1795345811.6468923,
     1795373248.7869985,
     1795373292.8491461,
     1795378182.8789625,
@@ -2260,13 +2334,13 @@
     1795502370.92339,
     1795502382.4516337,
     1795505991.556393,
-    1795506010.5333176
+    1795506010.5333176,
+    1795520370.5190852,
+    1795520392.0901902
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Cal_Hampton_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996709/DreQuan_Priest_03.jpg",
@@ -2294,6 +2368,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996652/Grassrivers_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996686/Jason_Duval_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996665/Leonida_Keys_01.jpg"
   ]
 }
