@@ -2,7 +2,7 @@
   "telegram_offset": 889593700,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795538369.8360395,
+  "last_scout": 1795541919.687816,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1706,7 +1706,24 @@
     "c28fd650a27b9663": 1795538380.1280873,
     "adc2505b45b6e707": 1795538380.1280873,
     "2b44d6addf23e01b": 1795538380.1280873,
-    "3ef9b9b75f3d7771": 1795538380.1280873
+    "3ef9b9b75f3d7771": 1795538380.1280873,
+    "1c806099351343fa": 1795541930.378056,
+    "f27fdae462530df7": 1795541930.378056,
+    "5fccab4801881733": 1795541930.378056,
+    "dd8d5f2690722be9": 1795541930.378056,
+    "509006b0245f4996": 1795541930.378056,
+    "4c79047dc78dfbf3": 1795541930.378056,
+    "bcbe04ed8edb21be": 1795541930.378056,
+    "f5129c427221f8a6": 1795541930.378056,
+    "eb6d21c576da22b3": 1795541930.378056,
+    "8a682ba34c2d144c": 1795541930.378056,
+    "0026efdc41661955": 1795541930.378056,
+    "b13b5392a47f91e2": 1795541930.378056,
+    "6fafdf23ca9ced8e": 1795541930.378056,
+    "837742f628fe5a57": 1795541930.378056,
+    "7c62d6beb03a2c15": 1795541930.378056,
+    "fe9b09f9cffba801": 1795541930.378056,
+    "253f0021c852f281": 1795541930.378056
   },
   "drafts": {
     "1498133717": {
@@ -1925,6 +1942,46 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
       "text_message_id": 474
+    },
+    "d14e00bc16": {
+      "id": "d14e00bc16",
+      "created": 1795541987.0660353,
+      "headline": "Official GTA 6 Trading Cards Arrive This December",
+      "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541952/gta-bot/d14e00bc16-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541955/gta-bot/d14e00bc16-4.jpg"
+      ],
+      "full_caption": "Rockstar's fictional sports world is going physical 🃏\n\nPanini America and Rockstar are releasing the GTA 6: Sports Trading Card Collection this December. The cards feature the in-game sports stars and teams, with packs containing different rarities.\n\nThere's no exact date, price or region list yet, and no pre-orders. Swipe for the full rundown.\n\nWill you be chasing the rarest cards?\n\nSource: VGC\n\n#GTA6 #GTAVI #RockstarGames #Panini #TradingCards #GTA #Leonida #VideoGames #Collectibles #GamingNews",
+      "alt_text": "News graphic announcing the official GTA 6 Sports Trading Card Collection from Panini America and Rockstar Games, coming in December.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795541986/gta-bot/d14e00bc16-reel.mp4",
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "Physical cards are coming",
+          "text": "Rockstar and Panini America are teaming up for the GTA 6: Sports Trading Card Collection. It's set to launch this December, just a few weeks away."
+        },
+        {
+          "title": "What's in the packs",
+          "text": "The cards centre on fictional sports stars and teams from the game. Artwork mixes stylised drawings and in-game character renders, and each pack has cards of varying rarities."
+        },
+        {
+          "title": "What we don't know yet",
+          "text": "No exact date, price or regions have been announced, and you can't pre-order yet. Panini America is the distributor, so availability outside the US is unclear."
+        },
+        {
+          "title": "Part of a bigger merch wave",
+          "text": "Before launch, Rockstar did a sports-themed line with the Miami Heat and a Selfridges drop in the UK with 60+ items. PlayStation says GTA 6 launched with 39 million players."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
+      "text_message_id": 482
     }
   },
   "queue": [
@@ -2451,12 +2508,12 @@
     1795531152.4800353,
     1795531164.2051852,
     1795538437.1779044,
-    1795538456.2257462
+    1795538456.2257462,
+    1795541991.3369296
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996622/Vice_City_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996671/Jason_Duval_19.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
@@ -2485,6 +2542,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Boobie_Ike_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996670/Leonida_Keys_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg"
   ]
 }
