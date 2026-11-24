@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593695,
+  "telegram_offset": 889593696,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795502315.0996907,
@@ -1689,7 +1689,28 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
       "text_message_id": 402
     },
-    "247281923e": {
+    "1498133717": {
+      "id": "1498133717",
+      "created": 1795502381.0590172,
+      "headline": "GTA 6 Streaming Reportedly Live on PS5 and PS Portal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWUxcUxZRGJmdFQ2amh0aVg0dy1yMWNLM2tYYk81Z3pRaFE1eGw0MkFNM0NReGpIVFVlTVZqTDhDTTJJRDU3c1hFVm5uelZ1eTRKUlFja0ItUF9GTDhrMGpJZXpRaGYxWk5rRU5lZXl2Z09RdHRETzhKU01yZnZ6X2FEb0lLdHJKbXp4QV8tel9xcnRmS0t5U2c2MXVUbU9VRV96V0cxQWFLbmtxUEtCY3ZXems?oc=5",
+      "source": "Push Square",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502380/gta-bot/1498133717-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502380/gta-bot/1498133717-0.jpg"
+      ],
+      "full_caption": "Playing GTA VI on PS5 or PS Portal without a local install? 📡 Push Square reports that GTA 6 owners can now stream the game to both devices with PS Plus Premium.\n\nThe headline points to two requirements: owning the game and having a PS Plus Premium subscription. If it holds up, PS Portal players get another way to reach Leonida.\n\nWe're waiting on more detail before covering specifics such as performance, supported regions or setup steps.\n\nWill you stream GTA VI, or stick with a local install? 🌴\n\nSource: Push Square\n\n#GTA6 #GTAVI #Leonida #PS5 #PSPortal #PSPlusPremium #PlayStation #CloudStreaming #RockstarGames #GamingNews",
+      "alt_text": "News graphic announcing that GTA 6 owners can reportedly stream the game to PS5 and PS Portal with PS Plus Premium.",
+      "score": 8,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
+      "text_message_id": 416
+    }
+  },
+  "queue": [
+    {
       "id": "247281923e",
       "created": 1795502367.3343284,
       "headline": "GTA 6 Is the Biggest Launch in PlayStation History",
@@ -1727,29 +1748,12 @@
         }
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
-      "text_message_id": 414
-    },
-    "1498133717": {
-      "id": "1498133717",
-      "created": 1795502381.0590172,
-      "headline": "GTA 6 Streaming Reportedly Live on PS5 and PS Portal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWUxcUxZRGJmdFQ2amh0aVg0dy1yMWNLM2tYYk81Z3pRaFE1eGw0MkFNM0NReGpIVFVlTVZqTDhDTTJJRDU3c1hFVm5uelZ1eTRKUlFja0ItUF9GTDhrMGpJZXpRaGYxWk5rRU5lZXl2Z09RdHRETzhKU01yZnZ6X2FEb0lLdHJKbXp4QV8tel9xcnRmS0t5U2c2MXVUbU9VRV96V0cxQWFLbmtxUEtCY3ZXems?oc=5",
-      "source": "Push Square",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502380/gta-bot/1498133717-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502380/gta-bot/1498133717-0.jpg"
-      ],
-      "full_caption": "Playing GTA VI on PS5 or PS Portal without a local install? 📡 Push Square reports that GTA 6 owners can now stream the game to both devices with PS Plus Premium.\n\nThe headline points to two requirements: owning the game and having a PS Plus Premium subscription. If it holds up, PS Portal players get another way to reach Leonida.\n\nWe're waiting on more detail before covering specifics such as performance, supported regions or setup steps.\n\nWill you stream GTA VI, or stick with a local install? 🌴\n\nSource: Push Square\n\n#GTA6 #GTAVI #Leonida #PS5 #PSPortal #PSPlusPremium #PlayStation #CloudStreaming #RockstarGames #GamingNews",
-      "alt_text": "News graphic announcing that GTA 6 owners can reportedly stream the game to PS5 and PS Portal with PS Plus Premium.",
-      "score": 8,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
-      "text_message_id": 416
+      "text_message_id": 414,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795504834.6416638
     }
-  },
-  "queue": [],
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -2105,11 +2109,17 @@
       "url": "https://www.videogameschronicle.com/guide/ocean-view-hotel-gta-6-location-guide-where-to-find-the-vapid-55-stainer/",
       "at": 1795455563.4015915,
       "media_id": "18175318549466749"
+    },
+    {
+      "id": "247281923e",
+      "headline": "GTA 6 Is the Biggest Launch in PlayStation History",
+      "kind": "carousel",
+      "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
+      "at": 1795504894.3734195,
+      "media_id": "18473012287187900"
     }
   ],
   "drafts_sent": [
-    1795331374.021918,
-    1795331430.5370119,
     1795334932.2452805,
     1795334943.5511618,
     1795342140.020933,
