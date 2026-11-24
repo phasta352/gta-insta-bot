@@ -2,7 +2,7 @@
   "telegram_offset": 889593695,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795450216.065021,
+  "last_scout": 1795502315.0996907,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1449,7 +1449,67 @@
     "fa5a079270914cca": 1795450225.461001,
     "09f2c14b4aa86466": 1795450225.461001,
     "aacf9762ab194573": 1795450225.461001,
-    "d3e34d35be1da03d": 1795450225.461001
+    "d3e34d35be1da03d": 1795450225.461001,
+    "b95ba83b7c5faffd": 1795502326.6559682,
+    "63435bc73ee85819": 1795502326.6559682,
+    "b7691f2ddf4f5f4f": 1795502326.6559682,
+    "3b14cc488454fcde": 1795502326.6559682,
+    "0b1696ac557dedd7": 1795502326.6559682,
+    "9b8f0a3e9614e83b": 1795502326.6559682,
+    "b4d5f008affd6f22": 1795502326.6559682,
+    "0486cda94b50ce76": 1795502326.6559682,
+    "1296303e89ec197a": 1795502326.6559682,
+    "ac844ba264ea24d8": 1795502326.6559682,
+    "ec2dd5c2f7bf9d81": 1795502326.6559682,
+    "7d5ee7bfd5b45db5": 1795502326.6559682,
+    "42daf994aec74dec": 1795502326.6559682,
+    "1d1972084afedfe0": 1795502326.6559682,
+    "73113478b790cb8d": 1795502326.6559682,
+    "00a0af48ce19f780": 1795502326.6559682,
+    "f60a5e584c8c71b5": 1795502326.6559682,
+    "ff89b512478862c8": 1795502326.6559682,
+    "bb0a28a375c518cb": 1795502326.6559682,
+    "4d560c7b28f25611": 1795502326.6559682,
+    "c244a31e9c084bc7": 1795502326.6559682,
+    "0394825a43a9c1ad": 1795502326.6559682,
+    "2d748f71f7be471c": 1795502326.6559682,
+    "3db50b382cab32e7": 1795502326.6559682,
+    "f16a96c46c93c50a": 1795502326.6559682,
+    "386244adbeb9e569": 1795502326.6559682,
+    "4cb1094e4926f9af": 1795502326.6559682,
+    "9a94b3c319f297e4": 1795502326.6559682,
+    "ca515e7986b862b2": 1795502326.6559682,
+    "2987261d18746ccc": 1795502326.6559682,
+    "c5b6142069a141b1": 1795502326.6559682,
+    "f618cda7634b19a2": 1795502326.6559682,
+    "ecb09caaa0134e90": 1795502326.6559682,
+    "38c7c16617bd1126": 1795502326.6559682,
+    "df4ba0b859c1cc7e": 1795502326.6559682,
+    "6c50019225f26e12": 1795502326.6559682,
+    "8e0d29e0259cecea": 1795502326.6559682,
+    "8f60a1f049ee7d39": 1795502326.6559682,
+    "a768e5621a3f616d": 1795502326.6559682,
+    "724d0904ad74cd96": 1795502326.6559682,
+    "67c3704cabdbb45e": 1795502326.6559682,
+    "c307e73be1a1dc2f": 1795502326.6559682,
+    "e13f133b96b7738c": 1795502326.6559682,
+    "7494aa88349a0ccf": 1795502326.6559682,
+    "ebb452ac8b1b352c": 1795502326.6559682,
+    "866b095f7866cc79": 1795502326.6559682,
+    "578b534be9e9749d": 1795502326.6559682,
+    "d9fc5a0354660e52": 1795502326.6559682,
+    "4f6b752af2a731c7": 1795502326.6559682,
+    "6e7542cca247b301": 1795502326.6559682,
+    "3340158ed9ba8ee2": 1795502326.6559682,
+    "cd860121e742f1d7": 1795502326.6559682,
+    "c08b538e0444363b": 1795502326.6559682,
+    "c62bee7404f1f285": 1795502326.6559682,
+    "e59273d6444f384c": 1795502326.6559682,
+    "1660a2b42b6c5e87": 1795502326.6559682,
+    "53fd08f682ecca74": 1795502326.6559682,
+    "1ee5d09725306110": 1795502326.6559682,
+    "beee9bc6872ae0ac": 1795502326.6559682,
+    "b5983be355c029a0": 1795502326.6559682
   },
   "drafts": {
     "435972edd9": {
@@ -1628,6 +1688,65 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
       "text_message_id": 402
+    },
+    "247281923e": {
+      "id": "247281923e",
+      "created": 1795502367.3343284,
+      "headline": "GTA 6 Is the Biggest Launch in PlayStation History",
+      "url": "https://www.videogameschronicle.com/news/gta-6-was-the-biggest-launch-in-playstation-history-with-over-39-million-players/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502337/gta-bot/247281923e-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502337/gta-bot/247281923e-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502338/gta-bot/247281923e-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502339/gta-bot/247281923e-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502339/gta-bot/247281923e-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502340/gta-bot/247281923e-4.jpg"
+      ],
+      "full_caption": "Another record for Leonida! 🌴 Sony says GTA 6 is the biggest launch in PlayStation history, with over 39 million players on PS5. Between launch and November 22, players logged 683 million hours, and it also set a new PlayStation record for concurrent players in a single game. Swipe for the full numbers. Did you jump in on day one?\n\nSource: VGC\n\n#GTA6 #GrandTheftAuto6 #GTAVI #Rockstar #RockstarGames #PS5 #PlayStation #TakeTwo #Leonida #GamingNews",
+      "alt_text": "Graphic with the headline 'GTA 6 Is the Biggest Launch in PlayStation History' announcing over 39 million players on PS5.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795502366/gta-bot/247281923e-reel.mp4",
+      "category": "RECORDS",
+      "slides": [
+        {
+          "title": "A new PlayStation record",
+          "text": "Sony calls GTA 6 the biggest launch in PlayStation history. Over 39 million users played it on PS5 between launch and November 22."
+        },
+        {
+          "title": "683 million hours played",
+          "text": "Players logged 683 million hours in total over that period. GTA 6 also set a new record for concurrent players of a single game on PlayStation consoles."
+        },
+        {
+          "title": "A boost for PS5 hardware",
+          "text": "Sony saw its largest number of newly connected PS5 consoles in a single day since the console's launch, outside end-of-year holidays. GTA 6 was the first game played on 70% of new PS5s."
+        },
+        {
+          "title": "The bigger picture",
+          "text": "GTA 6 launched Thursday, November 19, with over 32 million pre-orders and $3.79 billion in day-one retail sales, per Rockstar and Take-Two. GTA 5 made $815 million on its launch day."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
+      "text_message_id": 414
+    },
+    "1498133717": {
+      "id": "1498133717",
+      "created": 1795502381.0590172,
+      "headline": "GTA 6 Streaming Reportedly Live on PS5 and PS Portal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWUxcUxZRGJmdFQ2amh0aVg0dy1yMWNLM2tYYk81Z3pRaFE1eGw0MkFNM0NReGpIVFVlTVZqTDhDTTJJRDU3c1hFVm5uelZ1eTRKUlFja0ItUF9GTDhrMGpJZXpRaGYxWk5rRU5lZXl2Z09RdHRETzhKU01yZnZ6X2FEb0lLdHJKbXp4QV8tel9xcnRmS0t5U2c2MXVUbU9VRV96V0cxQWFLbmtxUEtCY3ZXems?oc=5",
+      "source": "Push Square",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502380/gta-bot/1498133717-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502380/gta-bot/1498133717-0.jpg"
+      ],
+      "full_caption": "Playing GTA VI on PS5 or PS Portal without a local install? 📡 Push Square reports that GTA 6 owners can now stream the game to both devices with PS Plus Premium.\n\nThe headline points to two requirements: owning the game and having a PS Plus Premium subscription. If it holds up, PS Portal players get another way to reach Leonida.\n\nWe're waiting on more detail before covering specifics such as performance, supported regions or setup steps.\n\nWill you stream GTA VI, or stick with a local install? 🌴\n\nSource: Push Square\n\n#GTA6 #GTAVI #Leonida #PS5 #PSPortal #PSPlusPremium #PlayStation #CloudStreaming #RockstarGames #GamingNews",
+      "alt_text": "News graphic announcing that GTA 6 owners can reportedly stream the game to PS5 and PS Portal with PS Plus Premium.",
+      "score": 8,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
+      "text_message_id": 416
     }
   },
   "queue": [],
@@ -1989,8 +2108,6 @@
     }
   ],
   "drafts_sent": [
-    1795327787.7262533,
-    1795327815.484567,
     1795331374.021918,
     1795331430.5370119,
     1795334932.2452805,
@@ -2017,13 +2134,13 @@
     1795443007.148312,
     1795446624.2943559,
     1795446645.783974,
-    1795450235.8588793
+    1795450235.8588793,
+    1795502370.92339,
+    1795502382.4516337
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_07.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996600/Ambrosia_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996628/Vice_City_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
@@ -2051,6 +2168,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Mount_Kalaga_National_Park_02.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Mount_Kalaga_National_Park_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg"
   ]
 }
