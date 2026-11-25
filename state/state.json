@@ -2,7 +2,7 @@
   "telegram_offset": 889593703,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795601384.2325404,
+  "last_scout": 1795604933.2869391,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1846,7 +1846,20 @@
     "9881d305a117e1e4": 1795601392.529912,
     "d626002f0b4f4003": 1795601392.529912,
     "46c60184a33284e2": 1795601392.529912,
-    "e06b2770a0a48e3f": 1795601392.529912
+    "e06b2770a0a48e3f": 1795601392.529912,
+    "ee40616e11ea53b2": 1795604942.9480221,
+    "7426e171ba919b0b": 1795604942.9480221,
+    "a9f09c42b6f510cd": 1795604942.9480221,
+    "ab531402ea8f249f": 1795604942.9480221,
+    "f39489a2b170c3b2": 1795604942.9480221,
+    "e4f91f7dbc5ca4f2": 1795604942.9480221,
+    "bd6b9a2b35d59f3f": 1795604942.9480221,
+    "a727df508832f120": 1795604942.9480221,
+    "b27dfa9d6c1d910b": 1795604942.9480221,
+    "1b6797a4131b5280": 1795604942.9480221,
+    "0f5f0d4ac85d4840": 1795604942.9480221,
+    "d0b85f9a334522b2": 1795604942.9480221,
+    "e7d18ec51e33ed13": 1795604942.9480221
   },
   "drafts": {
     "8abbddb36c": {
@@ -2103,6 +2116,46 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg",
       "text_message_id": 521
+    },
+    "eee0021317": {
+      "id": "eee0021317",
+      "created": 1795604960.0586896,
+      "headline": "How to flip your car back over in GTA 6",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-how-to-flip-car-grand-theft-auto/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795604955/gta-bot/eee0021317-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795604955/gta-bot/eee0021317-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795604956/gta-bot/eee0021317-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795604957/gta-bot/eee0021317-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795604958/gta-bot/eee0021317-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795604959/gta-bot/eee0021317-4.jpg"
+      ],
+      "full_caption": "Rolled your ride in GTA 6? No need to panic. 🚗\n\nWalk into the side of the upturned car until your character starts a pushing animation, then shove it back onto its wheels. In races you can't leave the car, so there's a quick reset button instead. Swipe for the exact controls.\n\nWhat's the wildest crash you've had so far?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #GTA6Tips #GTA6Guide #Leonida #JasonAndLucia #RockstarGames #GamingTips #OpenWorld",
+      "alt_text": "Graphic with the headline 'How to flip your car back over in GTA 6' for a tips and tricks guide.",
+      "score": 7,
+      "reel_url": null,
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "Flipped in the open world",
+          "text": "Walk into the side of your upturned car as Jason or Lucia until your character switches to a pushing animation. You need to push from the side for this to work."
+        },
+        {
+          "title": "Shove it back",
+          "text": "While pushing, press X on Xbox or Square on PS5 to shove. Your character should have enough strength to tip the car back onto its wheels."
+        },
+        {
+          "title": "Bonus: beached boats",
+          "text": "The same technique can push a boat stuck on the shore back into the water."
+        },
+        {
+          "title": "Crashed in a race?",
+          "text": "You can't leave your vehicle in a race. Hold Back (Xbox) or Touch Pad (PS5) to reset onto the road facing the right way. If the race is ruined, pick Restart Event in the pause menu."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
+      "text_message_id": 527
     }
   },
   "queue": [],
@@ -2568,8 +2621,6 @@
     }
   ],
   "drafts_sent": [
-    1795432130.0931582,
-    1795432140.0563505,
     1795435772.3919244,
     1795435824.3790069,
     1795439368.7446132,
@@ -2598,14 +2649,12 @@
     1795587023.2191162,
     1795594155.6781394,
     1795601443.4675686,
-    1795601454.9033182
+    1795601454.9033182,
+    1795604962.0031707
   ],
-  "feed_errors": {
-    "Google News: GTA 6": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=GTA+6+when%3A1d&hl=en-US&gl=US&ceid=US:en"
-  },
+  "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996641/Vice_City_22.jpg",
@@ -2634,6 +2683,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg"
   ]
 }
