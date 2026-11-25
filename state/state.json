@@ -2,7 +2,7 @@
   "telegram_offset": 889593703,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795604933.2869391,
+  "last_scout": 1795608528.8807652,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1859,7 +1859,26 @@
     "1b6797a4131b5280": 1795604942.9480221,
     "0f5f0d4ac85d4840": 1795604942.9480221,
     "d0b85f9a334522b2": 1795604942.9480221,
-    "e7d18ec51e33ed13": 1795604942.9480221
+    "e7d18ec51e33ed13": 1795604942.9480221,
+    "4a3d560cd752145b": 1795608537.7351012,
+    "45d032e69d1e5b96": 1795608537.7351012,
+    "1d873bcddd1a9afd": 1795608537.7351012,
+    "3da54ef161fc1b54": 1795608537.7351012,
+    "33863c6f5167f8e8": 1795608537.7351012,
+    "6ee037c09dc2abf4": 1795608537.7351012,
+    "2ea00893ecc844ce": 1795608537.7351012,
+    "1e9efcc9375dbfdc": 1795608537.7351012,
+    "f0c4cc7c13cf1296": 1795608537.7351012,
+    "fc32b3b83d6976d4": 1795608537.7351012,
+    "de13eb3fbc386de4": 1795608537.7351012,
+    "2323dd1a61ba8199": 1795608537.7351012,
+    "efa797080ecb211c": 1795608537.7351012,
+    "fa10591ccd71bf53": 1795608537.7351012,
+    "68e687d520ac9650": 1795608537.7351012,
+    "b12229d00213fe00": 1795608537.7351012,
+    "b24f4e38ad692a0a": 1795608537.7351012,
+    "299e5acf171cb20f": 1795608537.7351012,
+    "4e27b0bf81f42c82": 1795608537.7351012
   },
   "drafts": {
     "8abbddb36c": {
@@ -2156,6 +2175,46 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
       "text_message_id": 527
+    },
+    "06b20d57e7": {
+      "id": "06b20d57e7",
+      "created": 1795608591.5203285,
+      "headline": "How to Use NOS in GTA 6 (and What It Costs)",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-nos-nitrous-boost/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608553/gta-bot/06b20d57e7-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608553/gta-bot/06b20d57e7-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608554/gta-bot/06b20d57e7-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608556/gta-bot/06b20d57e7-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608557/gta-bot/06b20d57e7-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608558/gta-bot/06b20d57e7-4.jpg"
+      ],
+      "full_caption": "Want a little extra speed in GTA 6? Here's how to fire off your nitrous. 🏎️\n\nHold in the left stick (L3/LS) while fully pressing the accelerator (R2/RT). If you're not at full throttle, you'll just honk the horn. Your car needs Nitrous Boost installed, which a Mod Shop offers for $5,000.\n\nOne caveat: it feels faster than it really is, so don't count on it to win you a race.\n\nHave you fitted NOS to your ride yet?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAuto6 #GTAVI #GTA #RockstarGames #Leonida #GTA6Tips #GTA6Guide #NOS #StreetRacing",
+      "alt_text": "Graphic with the headline 'How to Use NOS in GTA 6' for a tips and guide post about the nitrous boost.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795608590/gta-bot/06b20d57e7-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "How to trigger the boost",
+          "text": "Hold in the left stick (L3/LS) while fully pressing the accelerator (R2/RT). If you press the stick at anything less than full throttle, your character just honks the horn."
+        },
+        {
+          "title": "Get Nitrous Boost installed",
+          "text": "Your car needs the upgrade. Any Mod Shop can fit it for $5,000 under Performance, then Boost. Depending on the car, it can also slightly raise speed and acceleration stats."
+        },
+        {
+          "title": "Spot it and manage it",
+          "text": "A blue ring icon next to the engine health and fuel gauges means NOS is fitted. It drains fast, so use short bursts. It refills on its own, so no refuelling needed."
+        },
+        {
+          "title": "Manage your expectations",
+          "text": "The writer found the extra speed fairly modest. Camera zoom and field-of-view changes make it feel quicker than it is. It helps in street races, but won't guarantee first place."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg",
+      "text_message_id": 534
     }
   },
   "queue": [],
@@ -2621,7 +2680,6 @@
     }
   ],
   "drafts_sent": [
-    1795435772.3919244,
     1795435824.3790069,
     1795439368.7446132,
     1795439380.408582,
@@ -2650,12 +2708,12 @@
     1795594155.6781394,
     1795601443.4675686,
     1795601454.9033182,
-    1795604962.0031707
+    1795604962.0031707,
+    1795608596.3277438
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996641/Vice_City_22.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg",
@@ -2684,6 +2742,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg"
   ]
 }
