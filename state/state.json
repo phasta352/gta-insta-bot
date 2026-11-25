@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593703,
+  "telegram_offset": 889593704,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795608528.8807652,
@@ -2175,8 +2175,10 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
       "text_message_id": 527
-    },
-    "06b20d57e7": {
+    }
+  },
+  "queue": [
+    {
       "id": "06b20d57e7",
       "created": 1795608591.5203285,
       "headline": "How to Use NOS in GTA 6 (and What It Costs)",
@@ -2214,10 +2216,12 @@
         }
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg",
-      "text_message_id": 534
+      "text_message_id": 534,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795610193.7768152
     }
-  },
-  "queue": [],
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -2677,10 +2681,17 @@
       "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
       "at": 1795601382.0130765,
       "media_id": "18062927705801244"
+    },
+    {
+      "id": "06b20d57e7",
+      "headline": "How to Use NOS in GTA 6 (and What It Costs)",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-nos-nitrous-boost/",
+      "at": 1795610243.8006778,
+      "media_id": "17932387599425134"
     }
   ],
   "drafts_sent": [
-    1795435824.3790069,
     1795439368.7446132,
     1795439380.408582,
     1795442996.390176,
