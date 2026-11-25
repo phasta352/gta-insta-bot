@@ -2275,49 +2275,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
       "text_message_id": 552,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795617454.4788435
-    },
-    {
-      "id": "e26806e57e",
-      "created": 1795615782.92094,
-      "headline": "GTA 6's Fastest Cars: The Top 5 and Where to Find Them",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fastest-cars/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615750/gta-bot/e26806e57e-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615752/gta-bot/e26806e57e-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615753/gta-bot/e26806e57e-4.jpg"
-      ],
-      "full_caption": "Want the quickest rides in Leonida? 🏎️ GamesRadar+ has ranked the top five fastest cars in GTA 6: Andrew Node's Thrax Truffade, three Progen Emerus variants (Honeycomb, Black Widow, Seaspray) and the standard Thrax Truffade. The Emerus trio are basically equal on speed, so it comes down to looks. The top spot is tied to a glitch, so we're skipping that one and focusing on the in-game routes. Swipe for where to find the rest. Which one would you drive first?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #LeonidaDaily #ViceCity #GTA6Cars #RockstarGames #GamingNews #GTA6Guide #SupercarSpotting",
-      "alt_text": "Graphic with the headline about the fastest cars in GTA 6 and the top five supercars ranked by speed.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795615782/gta-bot/e26806e57e-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "The Top 5 Fastest Cars",
-          "text": "Ranked: Andrew Node's Thrax Truffade, then the Progen Honeycomb, Black Widow and Seaspray Emerus, then the standard Thrax Truffade. The three Emerus cars are level on speed and mostly differ in looks."
-        },
-        {
-          "title": "Honeycomb Emerus",
-          "text": "It sits in a parking lot outside a Vice City dealership and car rental spot, across from the Hospital. Easy to reach, but you need the Key Cloner, and it has Advanced Security and Trackers, so it suits mid-to-late game."
-        },
-        {
-          "title": "Dockyard and Capri Emerus",
-          "text": "One Emerus is in a container at Vice City County Dockyard. You need the cut-off tool, and registering it costs $29,900. Another is in a Northwest Capri garage that the Snap Gun can open, with top-tier security."
-        },
-        {
-          "title": "The Standard Thrax Truffade",
-          "text": "Look for it on a trailer just outside Boone Raceway's entrance in Southwest Hamlet. It's loaded with security features, so you won't be able to keep it until the later stages of the game."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
-      "text_message_id": 552,
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795617454.4788465
@@ -2900,6 +2857,14 @@
       "url": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
       "at": 1795623108.892761,
       "media_id": "18189661729423959"
+    },
+    {
+      "id": "e26806e57e",
+      "headline": "GTA 6's Fastest Cars: The Top 5 and Where to Find Them",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fastest-cars/",
+      "at": 1795628601.0366004,
+      "media_id": "18434749009148893"
     }
   ],
   "drafts_sent": [
