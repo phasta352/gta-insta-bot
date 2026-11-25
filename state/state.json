@@ -2,7 +2,7 @@
   "telegram_offset": 889593703,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795590511.5059898,
+  "last_scout": 1795594131.5677993,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1826,89 +1826,17 @@
     "97f28b9fa0076828": 1795590520.671623,
     "faf14912a915a3b8": 1795590520.671623,
     "06921fc0c9c65d54": 1795590520.671623,
-    "92647be8fc46910f": 1795590520.671623
+    "92647be8fc46910f": 1795590520.671623,
+    "f7e8160685c2d6d0": 1795594141.2739854,
+    "4c3460d7b8f80747": 1795594141.2739854,
+    "1770de8e6996fa0f": 1795594141.2739854,
+    "61e71e6e5836ee42": 1795594141.2739854,
+    "15b5c56436d1eda3": 1795594141.2739854,
+    "71909e0213671af9": 1795594141.2739854,
+    "b4f414db8c343890": 1795594141.2739854,
+    "8303ac60e3be76ba": 1795594141.2739854
   },
   "drafts": {
-    "23bd53c39a": {
-      "id": "23bd53c39a",
-      "created": 1795505987.5089247,
-      "headline": "How to use auto drive in GTA 6 and cruise Leonida",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-auto-drive/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505948/gta-bot/23bd53c39a-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505948/gta-bot/23bd53c39a-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505949/gta-bot/23bd53c39a-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505950/gta-bot/23bd53c39a-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505951/gta-bot/23bd53c39a-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795505952/gta-bot/23bd53c39a-4.jpg"
-      ],
-      "full_caption": "Want to see Leonida without touching the wheel? 🚗 Auto drive lets Jason or Lucia drive to your map marker while the camera cycles through cinematic views. Set a destination, open the CINEMATIC menu from the camera options and hold the prompt to start. It's no fast travel, though. Your driver follows the road rules and will sit in traffic, so it's best for screenshots and video clips.\n\nWill you use auto drive for the scenery or skip it?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTA6Tips #GTA6Guide #ViceCity #Gaming #PS5",
-      "alt_text": "Graphic with the headline 'How to use auto drive in GTA 6 and cruise Leonida' in the style of a gaming news post.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795505983/gta-bot/23bd53c39a-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "What you need first",
-          "text": "You have to be in control of a vehicle and have a destination marker set on your map. Without a marker, auto drive has nowhere to take you."
-        },
-        {
-          "title": "How to switch it on",
-          "text": "In the vehicle, hold Down on the D-pad for camera options, then press Options (PS5) or Menu (Xbox) to open the CINEMATIC menu. Hold the ENABLE AUTO DRIVE prompt in the bottom right."
-        },
-        {
-          "title": "Controls while cruising",
-          "text": "Use the right stick to move the camera and R3/RS to change view. The triggers pick from three speeds, and you can move the destination marker at any time to reroute."
-        },
-        {
-          "title": "Not a fast travel option",
-          "text": "Your driver obeys all road rules and will spend plenty of time in traffic. It's meant for soaking up the atmosphere and grabbing screenshots or video of the journey."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996652/Grassrivers_04.jpg",
-      "text_message_id": 424
-    },
-    "2e38d8749b": {
-      "id": "2e38d8749b",
-      "created": 1795506008.806804,
-      "headline": "GTA 6's tiniest details: blinkers, dents and Snapmatic memes",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/from-scoffing-chips-to-snapmatic-sh-tposts-gta-6-is-filled-with-brilliant-little-details-here-are-our-favorites/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506004/gta-bot/2e38d8749b-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506004/gta-bot/2e38d8749b-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506005/gta-bot/2e38d8749b-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506006/gta-bot/2e38d8749b-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506007/gta-bot/2e38d8749b-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795506008/gta-bot/2e38d8749b-4.jpg"
-      ],
-      "full_caption": "Rockstar sweated the small stuff in GTA 6. 👀\n\nGamesRadar+ staff shared the little touches they've spotted in their first days in Leonida. These include working turn signals, car damage that shows, and a Snapmatic feed full of in-world memes. Jason's snacking habits get some love too.\n\nWhich tiny detail has impressed you most so far?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #Snapmatic #JasonDuval #GTANews #GamingNews #OpenWorld",
-      "alt_text": "Graphic with the headline about GTA 6's small details, including turn signals, car damage and Snapmatic memes.",
-      "score": 7,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "Turn signals that actually work",
-          "text": "One writer was delighted to use the blinkers with the D-pad on a PS5 controller. The indicator also switches itself off after you complete the turn, just like a real car."
-        },
-        {
-          "title": "Car damage that shows",
-          "text": "Even a light bump on a post box can leave a dent, and squeezing between cars can scrape the paint. One writer now visits every Pay 'n' Spray to fix even tiny cosmetic damage."
-        },
-        {
-          "title": "Snapmatic is full of memes",
-          "text": "The in-game take on Instagram features photos and videos from Leonida's residents. Many are ridiculous memes, and Rockstar even parodies the \"we got X before GTA 6\" jokes."
-        },
-        {
-          "title": "Jason the snacker",
-          "text": "Jason sips coffee while sneaking, munches apples and opens a bag of chips one-handed with his mouth while carrying a crate of beer. The team loved how detailed it all is."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
-      "text_message_id": 430
-    },
     "8abbddb36c": {
       "id": "8abbddb36c",
       "created": 1795531150.5931618,
@@ -2085,6 +2013,25 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg",
       "text_message_id": 507
+    },
+    "8a64ef881b": {
+      "id": "8a64ef881b",
+      "created": 1795594154.3001873,
+      "headline": "GTA 6 Hands Out Free $5,000 at Chapter 2 Start",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmRyYm5oemdBbVJhUEl0dDlSamd3djNWLS1OeTJqU3VPZkw2SmVjeUFHUkhseXM0Vl9ocnZyQ3hhRkZiTXN2WDBUYTZMakxFR0dGZHBBcFZYNVY3OW9NbE9qZWxMODZ5b0hWUGJscW9nTGtaeWhSZGRsbl9NVEhXRkluWmlLN1k?oc=5",
+      "source": "IGN",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795594153/gta-bot/8a64ef881b-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795594153/gta-bot/8a64ef881b-0.jpg"
+      ],
+      "full_caption": "Free cash alert for Leonida! 💸\n\nAccording to IGN, GTA 6 players can pick up a free $5,000 as soon as Chapter 2 begins. It's an easy early boost for your wallet, so it's worth knowing about before you start spending.\n\nWe only have IGN's headline to go on, so check their full guide for the exact steps before you rely on it.\n\nWill you spend it right away or save it for something big?\n\nSource: IGN\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTATips #GamingNews #VideoGameTips #OpenWorld #GTAMoney",
+      "alt_text": "News graphic with the headline about a free $5,000 reward in GTA 6 when Chapter 2 begins.",
+      "score": 8,
+      "reel_url": null,
+      "category": "TIPS & TRICKS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
+      "text_message_id": 510
     }
   },
   "queue": [
@@ -2621,7 +2568,6 @@
     }
   ],
   "drafts_sent": [
-    1795421337.9756882,
     1795428538.6871855,
     1795432130.0931582,
     1795432140.0563505,
@@ -2650,12 +2596,12 @@
     1795545565.7575383,
     1795549220.2266383,
     1795586993.8946316,
-    1795587023.2191162
+    1795587023.2191162,
+    1795594155.6781394
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996610/Port_Gellhorn_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Real_Dimez_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Jason_Duval_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
@@ -2684,6 +2630,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_11.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg"
   ]
 }
