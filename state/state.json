@@ -2,7 +2,7 @@
   "telegram_offset": 889593704,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795608528.8807652,
+  "last_scout": 1795612119.9589152,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1878,7 +1878,22 @@
     "b12229d00213fe00": 1795608537.7351012,
     "b24f4e38ad692a0a": 1795608537.7351012,
     "299e5acf171cb20f": 1795608537.7351012,
-    "4e27b0bf81f42c82": 1795608537.7351012
+    "4e27b0bf81f42c82": 1795608537.7351012,
+    "9b9dcaaf3c152e6c": 1795612128.040134,
+    "0874be92e683fddc": 1795612128.040134,
+    "6fd8945d11b2afc8": 1795612128.040134,
+    "b49efffeb0d2d729": 1795612128.040134,
+    "dc05742c86a957bc": 1795612128.040134,
+    "7671143e15371a2f": 1795612128.040134,
+    "4f5ada248354847f": 1795612128.040134,
+    "7cd1dd09c0c6b62c": 1795612128.040134,
+    "47ca05691a2300f5": 1795612128.040134,
+    "019ef15fcbf58c0b": 1795612128.040134,
+    "977bfe9c9c97656f": 1795612128.040134,
+    "25db05121de40984": 1795612128.040134,
+    "4a3c8f7f5e0710a4": 1795612128.040134,
+    "9b6288c165306b73": 1795612128.040134,
+    "9b705a376d53bfb7": 1795612128.040134
   },
   "drafts": {
     "8abbddb36c": {
@@ -2175,6 +2190,65 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
       "text_message_id": 527
+    },
+    "d77050da4e": {
+      "id": "d77050da4e",
+      "created": 1795612170.0200596,
+      "headline": "Players Count 1,563 Enterable Buildings in GTA 6's Leonida",
+      "url": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612143/gta-bot/d77050da4e-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612143/gta-bot/d77050da4e-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612144/gta-bot/d77050da4e-4.jpg"
+      ],
+      "full_caption": "Leonida has a lot more open doors than you'd think. 🚪\n\nA Reddit player named Aileos counted 1,563 enterable buildings out of 5,588 on the map, which works out to roughly 28%. That's a lot of reasons to go exploring instead of just following the road.\n\nWhich building type are you most excited to walk into first?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTA #GTACommunity #OpenWorld #Gaming #GamingNews",
+      "alt_text": "News graphic for The Leonida Daily showing the headline about players finding 1,563 enterable buildings in GTA 6.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795612169/gta-bot/d77050da4e-reel.mp4",
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "The big number",
+          "text": "Reddit user Aileos counted 1,563 enterable buildings out of 5,588 in GTA 6. That's 27.97% of all structures on the map."
+        },
+        {
+          "title": "Not just shops and banks",
+          "text": "Some of the buildings are the ones you'd expect, like stores and banks. Plenty of others may surprise you, and Eurogamer suggests simply picking a house in a neighbourhood and walking in."
+        },
+        {
+          "title": "Past claims and doubts",
+          "text": "In 2025, a claim said over 700 buildings could be entered. Many fans doubted it. This community count is far higher than that figure."
+        },
+        {
+          "title": "Worth a wander",
+          "text": "Eurogamer notes that many of the best secrets sit off the beaten path, including random drops of illicit goods. Spending an hour just exploring could pay off."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
+      "text_message_id": 542
+    },
+    "9d27534f4f": {
+      "id": "9d27534f4f",
+      "created": 1795612195.769562,
+      "headline": "GTA 6 Car Theft Reportedly Gets Trickier",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXN1SnJLZEtDSVEwMW9wRkhlaEdJNkdsRF92NzVJeThoVVlITWhpTGU3UURQTGg3MXgtN3c1bkNQTlFBMDdyNVpubmJScnN2czZuckF5TGlyVnVad0xVUE9XVGFMZXp1dlRCOFNYZVVRU2xRN2xCdUZYWmE2N1ZxVnBpNnRRNWNBRW5lblRzSzRuaFlXRlRaU25TQQ?oc=5",
+      "source": "Jalopnik",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612195/gta-bot/9d27534f4f-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612195/gta-bot/9d27534f4f-0.jpg"
+      ],
+      "full_caption": "Stealing a ride in GTA 6 might not be as simple as it used to be. 🚗\n\nAccording to Jalopnik, the game makes car theft more of a hassle, with key cloning and car trackers named as part of the picture. If that holds up, grabbing a set of wheels could take more thought than in earlier GTA games.\n\nWe only have the headline to go on so far, so details on how these systems work are still to come.\n\nWould you enjoy a tougher car theft system, or do you just want to jump in and drive?\n\nSource: Jalopnik\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTAOnline #GTANews #CarTheft #Gaming #VideoGames",
+      "alt_text": "News graphic with the headline 'GTA 6 Car Theft Reportedly Gets Trickier' for The Leonida Daily.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg",
+      "text_message_id": 544
     }
   },
   "queue": [
@@ -2692,8 +2766,6 @@
     }
   ],
   "drafts_sent": [
-    1795439368.7446132,
-    1795439380.408582,
     1795442996.390176,
     1795443007.148312,
     1795446624.2943559,
@@ -2720,13 +2792,13 @@
     1795601443.4675686,
     1795601454.9033182,
     1795604962.0031707,
-    1795608596.3277438
+    1795608596.3277438,
+    1795612173.2500045,
+    1795612196.8330362
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996641/Vice_City_22.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996624/Vice_City_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg",
@@ -2754,6 +2826,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg"
   ]
 }
