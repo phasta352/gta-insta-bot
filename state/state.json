@@ -2,7 +2,7 @@
   "telegram_offset": 889593701,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795586970.4762251,
+  "last_scout": 1795590511.5059898,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1820,28 +1820,15 @@
     "28b1da35efbc8f4d": 1795586981.125128,
     "b796c62d1cd990dc": 1795586981.125128,
     "61f653311dff3aab": 1795586981.125128,
-    "11b61ced60aff491": 1795586981.125128
+    "11b61ced60aff491": 1795586981.125128,
+    "c9ad96fc8d80bfcd": 1795590520.671623,
+    "cfa661ad29bf4bb1": 1795590520.671623,
+    "97f28b9fa0076828": 1795590520.671623,
+    "faf14912a915a3b8": 1795590520.671623,
+    "06921fc0c9c65d54": 1795590520.671623,
+    "92647be8fc46910f": 1795590520.671623
   },
   "drafts": {
-    "1498133717": {
-      "id": "1498133717",
-      "created": 1795502381.0590172,
-      "headline": "GTA 6 Streaming Reportedly Live on PS5 and PS Portal",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNWUxcUxZRGJmdFQ2amh0aVg0dy1yMWNLM2tYYk81Z3pRaFE1eGw0MkFNM0NReGpIVFVlTVZqTDhDTTJJRDU3c1hFVm5uelZ1eTRKUlFja0ItUF9GTDhrMGpJZXpRaGYxWk5rRU5lZXl2Z09RdHRETzhKU01yZnZ6X2FEb0lLdHJKbXp4QV8tel9xcnRmS0t5U2c2MXVUbU9VRV96V0cxQWFLbmtxUEtCY3ZXems?oc=5",
-      "source": "Push Square",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502380/gta-bot/1498133717-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795502380/gta-bot/1498133717-0.jpg"
-      ],
-      "full_caption": "Playing GTA VI on PS5 or PS Portal without a local install? 📡 Push Square reports that GTA 6 owners can now stream the game to both devices with PS Plus Premium.\n\nThe headline points to two requirements: owning the game and having a PS Plus Premium subscription. If it holds up, PS Portal players get another way to reach Leonida.\n\nWe're waiting on more detail before covering specifics such as performance, supported regions or setup steps.\n\nWill you stream GTA VI, or stick with a local install? 🌴\n\nSource: Push Square\n\n#GTA6 #GTAVI #Leonida #PS5 #PSPortal #PSPlusPremium #PlayStation #CloudStreaming #RockstarGames #GamingNews",
-      "alt_text": "News graphic announcing that GTA 6 owners can reportedly stream the game to PS5 and PS Portal with PS Plus Premium.",
-      "score": 8,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
-      "text_message_id": 416
-    },
     "23bd53c39a": {
       "id": "23bd53c39a",
       "created": 1795505987.5089247,
