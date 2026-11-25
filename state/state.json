@@ -2,7 +2,7 @@
   "telegram_offset": 889593710,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795623110.7572505,
+  "last_scout": 1795626517.7620864,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1970,89 +1970,34 @@
     "db4d57cc4f296cc5": 1795623121.5512562,
     "b68d610f44dbf8f8": 1795623121.5512562,
     "9670091eeb8941d9": 1795623121.5512562,
-    "6b7607d53a9e41a5": 1795623121.5512562
+    "6b7607d53a9e41a5": 1795623121.5512562,
+    "34732c55cea26820": 1795626528.3270264,
+    "1ab2cd236787dc3e": 1795626528.3270264,
+    "3229f1a1d6ead22c": 1795626528.3270264,
+    "ec0f551417d1e442": 1795626528.3270264,
+    "079ab3fe7d9198fc": 1795626528.3270264,
+    "65b296c96a12fa96": 1795626528.3270264,
+    "75bffd65c05d8555": 1795626528.3270264,
+    "1a2eecbccf9ee907": 1795626528.3270264,
+    "7383f605af8b0dff": 1795626528.3270264,
+    "bac979fa7b2ae11b": 1795626528.3270264,
+    "d9100c45f275b724": 1795626528.3270264,
+    "05528630a2fc8cc9": 1795626528.3270264,
+    "ef1334462b66d088": 1795626528.3270264,
+    "06e58856fcddc820": 1795626528.3270264,
+    "725499e59c4849db": 1795626528.3270264,
+    "5b9f36dddb91bae5": 1795626528.3270264,
+    "38d6699044468e81": 1795626528.3270264,
+    "2199c579bc58149c": 1795626528.3270264,
+    "3743a0898a85c791": 1795626528.3270264,
+    "ce062f20187e3efa": 1795626528.3270264,
+    "8cf46273d9391586": 1795626528.3270264,
+    "3b89962b1b5b85ef": 1795626528.3270264,
+    "1cc01b59deb37356": 1795626528.3270264,
+    "7e263075211f7dc2": 1795626528.3270264,
+    "046cc98c817153a3": 1795626528.3270264
   },
   "drafts": {
-    "bf745c4276": {
-      "id": "bf745c4276",
-      "created": 1795538432.4410915,
-      "headline": "Players are robbing GTA 6 stores with a crate of beer",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-beer-robberies",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538398/gta-bot/bf745c4276-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538398/gta-bot/bf745c4276-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538399/gta-bot/bf745c4276-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538400/gta-bot/bf745c4276-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538401/gta-bot/bf745c4276-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538403/gta-bot/bf745c4276-4.jpg"
-      ],
-      "full_caption": "Who needs a gun when you've got a crate of beer? 🍺\n\nGTA 6 players have found that throwing empty bottles at guards and staff knocks them out quietly. That keeps the cops away, and it's non-lethal too. A crate holds up to six throwable bottles, so it works as a handy stash of projectiles.\n\nWould you rob a store this way, or go in loud?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GTATips #GTAcommunity #Gaming #PS5 #XboxSeriesX",
-      "alt_text": "A GTA 6 character walks into a jewelry store carrying a crate of beer, ready to throw bottles at the staff.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795538431/gta-bot/bf745c4276-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "The problem with store robberies",
-          "text": "Normally you have to take out the guards before you can hold up the till staff. If you make too much noise, the police show up and the robbery goes wrong."
-        },
-        {
-          "title": "The quiet fix: throw a bottle",
-          "text": "Players found that an empty bottle thrown at a guard's or clerk's head puts them out of action without much noise. It's non-lethal as well."
-        },
-        {
-          "title": "Why a beer crate?",
-          "text": "A crate holds up to six bottles, which makes it a reliable source of things to throw. One clip shows a player knocking out jewelry store staff with it. Roadkill and street lizards can also be thrown."
-        },
-        {
-          "title": "What's still unknown",
-          "text": "Whether bottles can handle something bigger, like a full bank heist, remains to be seen. Eurogamer's GTA 6 robbery guide can help you try the trick yourself."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996670/Leonida_Keys_02.jpg",
-      "text_message_id": 468
-    },
-    "b67376f433": {
-      "id": "b67376f433",
-      "created": 1795538453.88821,
-      "headline": "No Houses to Buy in GTA 6, But You Can Buy Garages",
-      "url": "https://www.videogameschronicle.com/guide/can-you-buy-houses-in-gta-6-property-garages-and-safehouses-explained/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538450/gta-bot/b67376f433-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538450/gta-bot/b67376f433-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538450/gta-bot/b67376f433-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538451/gta-bot/b67376f433-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538452/gta-bot/b67376f433-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795538453/gta-bot/b67376f433-4.jpg"
-      ],
-      "full_caption": "Dreaming of a Leonida mansion? Not in story mode. 🏠\n\nAccording to VGC's guide, you can't buy houses or residential properties in GTA 6's story mode. Safehouses unlock as you progress instead. Garages are the main property you can buy, with eight available at prices from $4,000 to $40,000. Swipe for the details.\n\nWhich garage are you grabbing first?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #ViceCity #GTA6Guide #GTA6Tips #Gaming #GTA",
-      "alt_text": "Graphic with the text 'No Houses to Buy in GTA 6, But You Can Buy Garages' for a GTA 6 property guide.",
-      "score": 7,
-      "reel_url": null,
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "No houses in story mode",
-          "text": "You can't buy houses or residential properties in GTA 6's story mode. The two protagonists get access to safehouses as the campaign moves along. These give you somewhere to sleep and change clothes."
-        },
-        {
-          "title": "Garages are the big buy",
-          "text": "Garages are currently the main property you can purchase. You can expand your vehicle storage across Leonida. Eight garages are on offer, priced from $4,000 to $40,000."
-        },
-        {
-          "title": "How to unlock them",
-          "text": "Play to Chapter 2 and finish a mission in the Moses questline. The Vice City Real Estate app then appears on your phone. Not every garage is available at once, as they unlock with story progress."
-        },
-        {
-          "title": "Register your rides",
-          "text": "Parking a car in a garage doesn't necessarily save it as one of your vehicles. Use the game's vehicle registration system so you can get it back later, for example at a Pay 'N' Spray."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
-      "text_message_id": 474
-    },
     "da62a50139": {
       "id": "da62a50139",
       "created": 1795586992.1797917,
@@ -2248,6 +2193,46 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
       "text_message_id": 571
+    },
+    "982a0d79e0": {
+      "id": "982a0d79e0",
+      "created": 1795626575.8939593,
+      "headline": "GTA 6 Sniper Scope Trick Turns Angry NPCs Into $2,000 Payouts",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626541/gta-bot/982a0d79e0-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626541/gta-bot/982a0d79e0-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626541/gta-bot/982a0d79e0-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626542/gta-bot/982a0d79e0-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626543/gta-bot/982a0d79e0-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626544/gta-bot/982a0d79e0-4.jpg"
+      ],
+      "full_caption": "Scoping random pedestrians in GTA 6 can turn one of them into a very persistent problem, and a profitable one. 🎯\n\nKeep your sniper zoomed on an NPC and they may spot you from hundreds of meters away, make a throat-slash gesture and sprint straight at you. Guns reportedly stop working on them, but beating one earns $2,000. Streamer CausticCorro showed a fist fight doing the job.\n\nThe report expects Rockstar to patch it, so treat it as a find, not a permanent strategy.\n\nWould you take the fist fight or throw them off a wall?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Tips #GTA6Money #GamingNews #CausticCorro #GTACommunity",
+      "alt_text": "Graphic with the headline about a GTA 6 sniper scope trick that makes NPCs hunt the player and pay out $2,000 when beaten.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795626574/gta-bot/982a0d79e0-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "The sniper scope trigger",
+          "text": "Zoom in on ordinary NPCs with your sniper rifle in GTA 6 and some will notice, even from hundreds of meters away. They respond by drawing a thumb across their neck."
+        },
+        {
+          "title": "Then they come for you",
+          "text": "The NPC sprints straight at your position and keeps coming until it finds you. Once it arrives, it is described as practically invincible."
+        },
+        {
+          "title": "How players beat them",
+          "text": "In CausticCorro's clip, the NPC tracks them across Leonida at night and shrugs off gunfire. Only a fist fight finishes it. Another method is luring them up high and throwing them over a wall."
+        },
+        {
+          "title": "The payout, and a warning",
+          "text": "Each win earns $2,000. GamesRadar+ expects Rockstar to patch this quickly, so it may not last."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
+      "text_message_id": 578
     }
   },
   "queue": [
@@ -2946,12 +2931,12 @@
     1795615810.2682195,
     1795619443.7072985,
     1795619464.1097093,
-    1795623135.4150064
+    1795623135.4150064,
+    1795626580.060153
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Mount_Kalaga_National_Park_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996652/Grassrivers_04.jpg",
@@ -2980,6 +2965,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg"
   ]
 }
