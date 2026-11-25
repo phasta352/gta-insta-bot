@@ -1,8 +1,8 @@
 {
-  "telegram_offset": 889593707,
+  "telegram_offset": 889593710,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795619381.3528266,
+  "last_scout": 1795623110.7572505,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1939,7 +1939,38 @@
     "9ba160be688876ec": 1795619389.2744455,
     "dbaec2e2720f6f13": 1795619389.2744455,
     "ac00e5aac8d37236": 1795619389.2744455,
-    "b4ef7f65f2e2d1fd": 1795619389.2744455
+    "b4ef7f65f2e2d1fd": 1795619389.2744455,
+    "4185101dd0616745": 1795623121.5512562,
+    "5a4bc7d94056ee65": 1795623121.5512562,
+    "2ef5c66d117bda5d": 1795623121.5512562,
+    "bca433ad88504990": 1795623121.5512562,
+    "d0345ddc443559a4": 1795623121.5512562,
+    "5101c18d108cd357": 1795623121.5512562,
+    "302bf6cecb9ffbc6": 1795623121.5512562,
+    "3d1c1ca8a1719a2b": 1795623121.5512562,
+    "4f18e9700f0f0445": 1795623121.5512562,
+    "846e442642cd69a4": 1795623121.5512562,
+    "fadedbd72a7ec768": 1795623121.5512562,
+    "7208e6b9a5b48816": 1795623121.5512562,
+    "c1718c1429a11232": 1795623121.5512562,
+    "1d01270d352f9907": 1795623121.5512562,
+    "ff50ec562bffda8c": 1795623121.5512562,
+    "3c058567209f8315": 1795623121.5512562,
+    "00cc5a815b2542ab": 1795623121.5512562,
+    "ef6c42df7a9012a1": 1795623121.5512562,
+    "c3be0d52ccc20425": 1795623121.5512562,
+    "fd4408c8900a893e": 1795623121.5512562,
+    "f361c08c12391d0e": 1795623121.5512562,
+    "cee111fcc6e64edc": 1795623121.5512562,
+    "1ae4c0adb4322734": 1795623121.5512562,
+    "c1cffa3dcae25a1c": 1795623121.5512562,
+    "07dd40d8b28428e0": 1795623121.5512562,
+    "5c1c664af046ad28": 1795623121.5512562,
+    "77cf9aad36cb7dc4": 1795623121.5512562,
+    "db4d57cc4f296cc5": 1795623121.5512562,
+    "b68d610f44dbf8f8": 1795623121.5512562,
+    "9670091eeb8941d9": 1795623121.5512562,
+    "6b7607d53a9e41a5": 1795623121.5512562
   },
   "drafts": {
     "bf745c4276": {
@@ -2199,150 +2230,27 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
       "text_message_id": 527
     },
-    "4f8b99b588": {
-      "id": "4f8b99b588",
-      "created": 1795615808.364672,
-      "headline": "Streamers report PS5 failures while playing GTA 6",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYTVNdjVJNk12QUEya2xNYkJWTndpRTAwNHFsT3B3REl0TjEwMWFpRW4zVWZfRTdlcVR5YVBkbnppdGZtSHlxYnF4WTVnOWdlbDAzbGU4Q2lGTG9TcW41UHdQUE1YdC1NQkVUN1JXeWR0Y2pnVXVlbHNEd1dRWUh5UWx1dHFoMXVGYUhuU2MtTFVmWmt1ZlhBX0lBUVIwZnpFRThmLWx4ak9TU19SVV9JalJkWXNTSmt2ZzE3enk5cVdEM2FtVWhaUW5BZzZtUktNQWdoNXJJZjg5WE5BMkdqWkdyVFFDV3VzMGRJdkRB?oc=5",
-      "source": "TechRadar",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615808/gta-bot/4f8b99b588-0.jpg",
+    "9199b24968": {
+      "id": "9199b24968",
+      "created": 1795623133.6047018,
+      "headline": "GTA 6 Gets Its First Post-Launch Patch",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX05KVVRXdGc4TXFDUldLaG5Va2ZkNFFPUTl4M2RSV2Y3WWdCY0l2cDZWRXphWWd5M3hLOUk5LUNNczFhN2NsNW1qUjRIQkNJY0JNME1UamQyMjRrOUw4am5UNGhoNnI1YThSMm1abjN6cFlJSHM4ZzgtTXlOMFQ2NXVVb3BlWjN3VlJrVXFjckc3UWtXdnJvWC1UZ0hJSmJzMmVYMzcwMGlhSVluWlV1TXRSQWNSQzRDXzVDX1BaSQ?oc=5",
+      "source": "GosuGamers",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795623133/gta-bot/9199b24968-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615808/gta-bot/4f8b99b588-0.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795623133/gta-bot/9199b24968-0.jpg"
       ],
-      "full_caption": "PS5 owners, keep an eye on your console. 🔥\n\nTechRadar reports that GTA 6 seems to be linked to some PS5 consoles smoking and suffering failed GPUs. Multiple streamers say they have been hit, and one says they now need a replacement console.\n\nThis is a media report based on streamer accounts, and the cause hasn't been established. We haven't seen a statement from Rockstar or Sony, so treat it as unconfirmed for now.\n\nHave you noticed your PS5 running unusually hot or loud during GTA 6? Tell us below.\n\nSource: TechRadar\n\n#GTA6 #GTAVI #GrandTheftAutoVI #PS5 #PlayStation5 #Rockstar #RockstarGames #GamingNews #LeonidaDaily",
-      "alt_text": "News graphic with the headline 'Streamers report PS5 failures while playing GTA 6' for The Leonida Daily.",
-      "score": 7,
+      "full_caption": "GTA 6 has received its first post-launch patch. 🛠️\n\nAccording to GosuGamers, the update targets two problems: weather and autosave issues. Reliable saving and properly behaving weather are a big deal in a world as detailed as Leonida. We're waiting on the full patch notes before sharing anything else, such as other fixes, platforms or file size.\n\nHave you run into weather or autosave glitches in your game? Tell us below.\n\nSource: GosuGamers\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #PatchNotes #GameUpdate #GamingNews #ViceCity #GTANews",
+      "alt_text": "News graphic with the text 'GTA 6 Gets Its First Post-Launch Patch' and a PATCH NOTES label.",
+      "score": 9,
       "reel_url": null,
-      "category": "NEWS",
+      "category": "PATCH NOTES",
       "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
-      "text_message_id": 554
-    },
-    "685eb3fc07": {
-      "id": "685eb3fc07",
-      "created": 1795619439.7243366,
-      "headline": "How to Rip an ATM Out of the Wall in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619408/gta-bot/685eb3fc07-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619409/gta-bot/685eb3fc07-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619410/gta-bot/685eb3fc07-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619411/gta-bot/685eb3fc07-4.jpg"
-      ],
-      "full_caption": "Want to pull an ATM out of the wall in GTA 6? Here's the setup. 🏧\n\nYou need a winched vehicle and a dye pack jammer, which stops marked bills from bursting pink all over your loot. Hook the ATM, floor it, then smash it around to spill the cash boxes. PC Gamer's tester made about 11k per ATM, so it's decent but probably not the top earner.\n\nWould you use a winch truck for cash runs, or is there a better money method? 💸\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #GTA6Guide #GTA6Tips #GTAMoney #GamingNews",
-      "alt_text": "Graphic with the headline 'How to Rip an ATM Out of the Wall in GTA 6', announcing a guide to stealing ATMs with a winched vehicle.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795619438/gta-bot/685eb3fc07-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "What You Need",
-          "text": "Two things: a winched vehicle to haul the ATM out of the wall, and a dye pack jammer. The jammer stops marked bills from exploding pink all over your cash. The jammer is unlocked through story progress."
-        },
-        {
-          "title": "Getting a Winch Truck",
-          "text": "You can steal one at the crop duster landing strip in Frogswater, or add a winch to any truck at a mod shop. A unique truck can also be taken from a warehouse robbery in Port Gellhorn."
-        },
-        {
-          "title": "How to Pull It Off",
-          "text": "Reverse into the ATM and lower the hook until it attaches. Drive off at full speed. The alarm will bring the cops. Swerve and smash the ATM to spill the cash boxes, then kick them open and grab the marked bills."
-        },
-        {
-          "title": "Is It Worth It?",
-          "text": "On tipped-off ATMs, which give three free targets with a 24-hour window, PC Gamer's tester got about 11k each. That's decent, but probably not the best earner unless you get efficient."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
-      "text_message_id": 562
-    },
-    "4667f123e7": {
-      "id": "4667f123e7",
-      "created": 1795619462.449005,
-      "headline": "GTA 6 hides a Paul Walker Fast & Furious tribute car",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-find-steal-paul-walkers-car-fast-furious/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619459/gta-bot/4667f123e7-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619459/gta-bot/4667f123e7-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619459/gta-bot/4667f123e7-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619460/gta-bot/4667f123e7-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619461/gta-bot/4667f123e7-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619462/gta-bot/4667f123e7-4.jpg"
-      ],
-      "full_caption": "A Fast & Furious fan favourite is parked in Leonida, and you can take it home. 🏁\n\nGTA 6 nods to Paul Walker's famous Eclipse with the Maibatsu 1997 Penumbra FF. The green paint, decals and black hood give it away. It sits in a mansion garage on Vespucci Island, and you can steal it and register it as your own.\n\nSwipe for the location and the steps.\n\nWhich movie car would you like to see next?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #FastAndFurious #PaulWalker #EasterEgg #GamingNews",
-      "alt_text": "Graphic with the title 'GTA 6 hides a Paul Walker Fast & Furious tribute car' for a GTA 6 guide post.",
-      "score": 7,
-      "reel_url": null,
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "The Fast & Furious nod",
-          "text": "Paul Walker is best known for the Fast & Furious films, and he drove a 1995 Mitsubishi Eclipse in them. GTA 6 references that car with the Maibatsu 1997 Penumbra FF."
-        },
-        {
-          "title": "How to spot it",
-          "text": "The green shade, the decals and the black hood point straight to Walker's car. The name is a legally distinct take on the real model."
-        },
-        {
-          "title": "Where to find it",
-          "text": "Go to Vespucci Island, the middle of the three Rialto Islands between Vice City and Vice Beach. At the island's central crossroads, the mansion directly north holds the car. The garage entrance is on its west side."
-        },
-        {
-          "title": "How to grab it",
-          "text": "Enter through the door on the right of the garage, then disable the security system on the left. Open the garage door, then use a Slim Jim or smash the window. No Key Cloner needed. Register it at Moses or a Pay 'n' Spray if you have garage space."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
-      "text_message_id": 568
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
+      "text_message_id": 571
     }
   },
   "queue": [
-    {
-      "id": "d77050da4e",
-      "created": 1795612170.0200596,
-      "headline": "Players Count 1,563 Enterable Buildings in GTA 6's Leonida",
-      "url": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612143/gta-bot/d77050da4e-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612143/gta-bot/d77050da4e-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612144/gta-bot/d77050da4e-4.jpg"
-      ],
-      "full_caption": "Leonida has a lot more open doors than you'd think. 🚪\n\nA Reddit player named Aileos counted 1,563 enterable buildings out of 5,588 on the map, which works out to roughly 28%. That's a lot of reasons to go exploring instead of just following the road.\n\nWhich building type are you most excited to walk into first?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTA #GTACommunity #OpenWorld #Gaming #GamingNews",
-      "alt_text": "News graphic for The Leonida Daily showing the headline about players finding 1,563 enterable buildings in GTA 6.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795612169/gta-bot/d77050da4e-reel.mp4",
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "The big number",
-          "text": "Reddit user Aileos counted 1,563 enterable buildings out of 5,588 in GTA 6. That's 27.97% of all structures on the map."
-        },
-        {
-          "title": "Not just shops and banks",
-          "text": "Some of the buildings are the ones you'd expect, like stores and banks. Plenty of others may surprise you, and Eurogamer suggests simply picking a house in a neighbourhood and walking in."
-        },
-        {
-          "title": "Past claims and doubts",
-          "text": "In 2025, a claim said over 700 buildings could be entered. Many fans doubted it. This community count is far higher than that figure."
-        },
-        {
-          "title": "Worth a wander",
-          "text": "Eurogamer notes that many of the best secrets sit off the beaten path, including random drops of illicit goods. Spending an hour just exploring could pay off."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
-      "text_message_id": 542,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795617453.8423228
-    },
     {
       "id": "e26806e57e",
       "created": 1795615782.92094,
@@ -2428,6 +2336,92 @@
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795617454.4788465
+    },
+    {
+      "id": "685eb3fc07",
+      "created": 1795619439.7243366,
+      "headline": "How to Rip an ATM Out of the Wall in GTA 6",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619408/gta-bot/685eb3fc07-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619409/gta-bot/685eb3fc07-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619410/gta-bot/685eb3fc07-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619411/gta-bot/685eb3fc07-4.jpg"
+      ],
+      "full_caption": "Want to pull an ATM out of the wall in GTA 6? Here's the setup. 🏧\n\nYou need a winched vehicle and a dye pack jammer, which stops marked bills from bursting pink all over your loot. Hook the ATM, floor it, then smash it around to spill the cash boxes. PC Gamer's tester made about 11k per ATM, so it's decent but probably not the top earner.\n\nWould you use a winch truck for cash runs, or is there a better money method? 💸\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #GTA6Guide #GTA6Tips #GTAMoney #GamingNews",
+      "alt_text": "Graphic with the headline 'How to Rip an ATM Out of the Wall in GTA 6', announcing a guide to stealing ATMs with a winched vehicle.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795619438/gta-bot/685eb3fc07-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "What You Need",
+          "text": "Two things: a winched vehicle to haul the ATM out of the wall, and a dye pack jammer. The jammer stops marked bills from exploding pink all over your cash. The jammer is unlocked through story progress."
+        },
+        {
+          "title": "Getting a Winch Truck",
+          "text": "You can steal one at the crop duster landing strip in Frogswater, or add a winch to any truck at a mod shop. A unique truck can also be taken from a warehouse robbery in Port Gellhorn."
+        },
+        {
+          "title": "How to Pull It Off",
+          "text": "Reverse into the ATM and lower the hook until it attaches. Drive off at full speed. The alarm will bring the cops. Swerve and smash the ATM to spill the cash boxes, then kick them open and grab the marked bills."
+        },
+        {
+          "title": "Is It Worth It?",
+          "text": "On tipped-off ATMs, which give three free targets with a 24-hour window, PC Gamer's tester got about 11k each. That's decent, but probably not the best earner unless you get efficient."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
+      "text_message_id": 562,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795623040.311798
+    },
+    {
+      "id": "685eb3fc07",
+      "created": 1795619439.7243366,
+      "headline": "How to Rip an ATM Out of the Wall in GTA 6",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619408/gta-bot/685eb3fc07-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619409/gta-bot/685eb3fc07-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619410/gta-bot/685eb3fc07-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619411/gta-bot/685eb3fc07-4.jpg"
+      ],
+      "full_caption": "Want to pull an ATM out of the wall in GTA 6? Here's the setup. 🏧\n\nYou need a winched vehicle and a dye pack jammer, which stops marked bills from bursting pink all over your loot. Hook the ATM, floor it, then smash it around to spill the cash boxes. PC Gamer's tester made about 11k per ATM, so it's decent but probably not the top earner.\n\nWould you use a winch truck for cash runs, or is there a better money method? 💸\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #GTA6Guide #GTA6Tips #GTAMoney #GamingNews",
+      "alt_text": "Graphic with the headline 'How to Rip an ATM Out of the Wall in GTA 6', announcing a guide to stealing ATMs with a winched vehicle.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795619438/gta-bot/685eb3fc07-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "What You Need",
+          "text": "Two things: a winched vehicle to haul the ATM out of the wall, and a dye pack jammer. The jammer stops marked bills from exploding pink all over your cash. The jammer is unlocked through story progress."
+        },
+        {
+          "title": "Getting a Winch Truck",
+          "text": "You can steal one at the crop duster landing strip in Frogswater, or add a winch to any truck at a mod shop. A unique truck can also be taken from a warehouse robbery in Port Gellhorn."
+        },
+        {
+          "title": "How to Pull It Off",
+          "text": "Reverse into the ATM and lower the hook until it attaches. Drive off at full speed. The alarm will bring the cops. Swerve and smash the ATM to spill the cash boxes, then kick them open and grab the marked bills."
+        },
+        {
+          "title": "Is It Worth It?",
+          "text": "On tipped-off ATMs, which give three free targets with a 24-hour window, PC Gamer's tester got about 11k each. That's decent, but probably not the best earner unless you get efficient."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
+      "text_message_id": 562,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795623040.3118005
     }
   ],
   "published": [
@@ -2913,10 +2907,17 @@
       "url": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
       "at": 1795619379.7077377,
       "media_id": "18130867624870279"
+    },
+    {
+      "id": "d77050da4e",
+      "headline": "Players Count 1,563 Enterable Buildings in GTA 6's Leonida",
+      "kind": "reel",
+      "url": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
+      "at": 1795623108.892761,
+      "media_id": "18189661729423959"
     }
   ],
   "drafts_sent": [
-    1795450235.8588793,
     1795502370.92339,
     1795502382.4516337,
     1795505991.556393,
@@ -2944,14 +2945,12 @@
     1795615787.5664134,
     1795615810.2682195,
     1795619443.7072985,
-    1795619464.1097093
+    1795619464.1097093,
+    1795623135.4150064
   ],
-  "feed_errors": {
-    "Polygon": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
-  },
+  "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Mount_Kalaga_National_Park_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
@@ -2980,6 +2979,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg"
   ]
 }
