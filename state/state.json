@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593704,
+  "telegram_offset": 889593707,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795615722.3243685,
@@ -2213,7 +2213,28 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
       "text_message_id": 527
     },
-    "d77050da4e": {
+    "4f8b99b588": {
+      "id": "4f8b99b588",
+      "created": 1795615808.364672,
+      "headline": "Streamers report PS5 failures while playing GTA 6",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYTVNdjVJNk12QUEya2xNYkJWTndpRTAwNHFsT3B3REl0TjEwMWFpRW4zVWZfRTdlcVR5YVBkbnppdGZtSHlxYnF4WTVnOWdlbDAzbGU4Q2lGTG9TcW41UHdQUE1YdC1NQkVUN1JXeWR0Y2pnVXVlbHNEd1dRWUh5UWx1dHFoMXVGYUhuU2MtTFVmWmt1ZlhBX0lBUVIwZnpFRThmLWx4ak9TU19SVV9JalJkWXNTSmt2ZzE3enk5cVdEM2FtVWhaUW5BZzZtUktNQWdoNXJJZjg5WE5BMkdqWkdyVFFDV3VzMGRJdkRB?oc=5",
+      "source": "TechRadar",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615808/gta-bot/4f8b99b588-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615808/gta-bot/4f8b99b588-0.jpg"
+      ],
+      "full_caption": "PS5 owners, keep an eye on your console. 🔥\n\nTechRadar reports that GTA 6 seems to be linked to some PS5 consoles smoking and suffering failed GPUs. Multiple streamers say they have been hit, and one says they now need a replacement console.\n\nThis is a media report based on streamer accounts, and the cause hasn't been established. We haven't seen a statement from Rockstar or Sony, so treat it as unconfirmed for now.\n\nHave you noticed your PS5 running unusually hot or loud during GTA 6? Tell us below.\n\nSource: TechRadar\n\n#GTA6 #GTAVI #GrandTheftAutoVI #PS5 #PlayStation5 #Rockstar #RockstarGames #GamingNews #LeonidaDaily",
+      "alt_text": "News graphic with the headline 'Streamers report PS5 failures while playing GTA 6' for The Leonida Daily.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
+      "text_message_id": 554
+    }
+  },
+  "queue": [
+    {
       "id": "d77050da4e",
       "created": 1795612170.0200596,
       "headline": "Players Count 1,563 Enterable Buildings in GTA 6's Leonida",
@@ -2251,28 +2272,55 @@
         }
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
-      "text_message_id": 542
+      "text_message_id": 542,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795617453.842321
     },
-    "9d27534f4f": {
-      "id": "9d27534f4f",
-      "created": 1795612195.769562,
-      "headline": "GTA 6 Car Theft Reportedly Gets Trickier",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbXN1SnJLZEtDSVEwMW9wRkhlaEdJNkdsRF92NzVJeThoVVlITWhpTGU3UURQTGg3MXgtN3c1bkNQTlFBMDdyNVpubmJScnN2czZuckF5TGlyVnVad0xVUE9XVGFMZXp1dlRCOFNYZVVRU2xRN2xCdUZYWmE2N1ZxVnBpNnRRNWNBRW5lblRzSzRuaFlXRlRaU25TQQ?oc=5",
-      "source": "Jalopnik",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612195/gta-bot/9d27534f4f-0.jpg",
+    {
+      "id": "d77050da4e",
+      "created": 1795612170.0200596,
+      "headline": "Players Count 1,563 Enterable Buildings in GTA 6's Leonida",
+      "url": "https://www.eurogamer.net/gta-6-over-1500-buildings-you-can-enter",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612195/gta-bot/9d27534f4f-0.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612141/gta-bot/d77050da4e-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612143/gta-bot/d77050da4e-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612143/gta-bot/d77050da4e-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795612144/gta-bot/d77050da4e-4.jpg"
       ],
-      "full_caption": "Stealing a ride in GTA 6 might not be as simple as it used to be. 🚗\n\nAccording to Jalopnik, the game makes car theft more of a hassle, with key cloning and car trackers named as part of the picture. If that holds up, grabbing a set of wheels could take more thought than in earlier GTA games.\n\nWe only have the headline to go on so far, so details on how these systems work are still to come.\n\nWould you enjoy a tougher car theft system, or do you just want to jump in and drive?\n\nSource: Jalopnik\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTAOnline #GTANews #CarTheft #Gaming #VideoGames",
-      "alt_text": "News graphic with the headline 'GTA 6 Car Theft Reportedly Gets Trickier' for The Leonida Daily.",
-      "score": 6,
-      "reel_url": null,
+      "full_caption": "Leonida has a lot more open doors than you'd think. 🚪\n\nA Reddit player named Aileos counted 1,563 enterable buildings out of 5,588 on the map, which works out to roughly 28%. That's a lot of reasons to go exploring instead of just following the road.\n\nWhich building type are you most excited to walk into first?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTA #GTACommunity #OpenWorld #Gaming #GamingNews",
+      "alt_text": "News graphic for The Leonida Daily showing the headline about players finding 1,563 enterable buildings in GTA 6.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795612169/gta-bot/d77050da4e-reel.mp4",
       "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg",
-      "text_message_id": 544
+      "slides": [
+        {
+          "title": "The big number",
+          "text": "Reddit user Aileos counted 1,563 enterable buildings out of 5,588 in GTA 6. That's 27.97% of all structures on the map."
+        },
+        {
+          "title": "Not just shops and banks",
+          "text": "Some of the buildings are the ones you'd expect, like stores and banks. Plenty of others may surprise you, and Eurogamer suggests simply picking a house in a neighbourhood and walking in."
+        },
+        {
+          "title": "Past claims and doubts",
+          "text": "In 2025, a claim said over 700 buildings could be entered. Many fans doubted it. This community count is far higher than that figure."
+        },
+        {
+          "title": "Worth a wander",
+          "text": "Eurogamer notes that many of the best secrets sit off the beaten path, including random drops of illicit goods. Spending an hour just exploring could pay off."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
+      "text_message_id": 542,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795617453.8423228
     },
-    "e26806e57e": {
+    {
       "id": "e26806e57e",
       "created": 1795615782.92094,
       "headline": "GTA 6's Fastest Cars: The Top 5 and Where to Find Them",
@@ -2310,29 +2358,55 @@
         }
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
-      "text_message_id": 552
+      "text_message_id": 552,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795617454.4788435
     },
-    "4f8b99b588": {
-      "id": "4f8b99b588",
-      "created": 1795615808.364672,
-      "headline": "Streamers report PS5 failures while playing GTA 6",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYTVNdjVJNk12QUEya2xNYkJWTndpRTAwNHFsT3B3REl0TjEwMWFpRW4zVWZfRTdlcVR5YVBkbnppdGZtSHlxYnF4WTVnOWdlbDAzbGU4Q2lGTG9TcW41UHdQUE1YdC1NQkVUN1JXeWR0Y2pnVXVlbHNEd1dRWUh5UWx1dHFoMXVGYUhuU2MtTFVmWmt1ZlhBX0lBUVIwZnpFRThmLWx4ak9TU19SVV9JalJkWXNTSmt2ZzE3enk5cVdEM2FtVWhaUW5BZzZtUktNQWdoNXJJZjg5WE5BMkdqWkdyVFFDV3VzMGRJdkRB?oc=5",
-      "source": "TechRadar",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615808/gta-bot/4f8b99b588-0.jpg",
+    {
+      "id": "e26806e57e",
+      "created": 1795615782.92094,
+      "headline": "GTA 6's Fastest Cars: The Top 5 and Where to Find Them",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fastest-cars/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615808/gta-bot/4f8b99b588-0.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615750/gta-bot/e26806e57e-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615752/gta-bot/e26806e57e-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615753/gta-bot/e26806e57e-4.jpg"
       ],
-      "full_caption": "PS5 owners, keep an eye on your console. 🔥\n\nTechRadar reports that GTA 6 seems to be linked to some PS5 consoles smoking and suffering failed GPUs. Multiple streamers say they have been hit, and one says they now need a replacement console.\n\nThis is a media report based on streamer accounts, and the cause hasn't been established. We haven't seen a statement from Rockstar or Sony, so treat it as unconfirmed for now.\n\nHave you noticed your PS5 running unusually hot or loud during GTA 6? Tell us below.\n\nSource: TechRadar\n\n#GTA6 #GTAVI #GrandTheftAutoVI #PS5 #PlayStation5 #Rockstar #RockstarGames #GamingNews #LeonidaDaily",
-      "alt_text": "News graphic with the headline 'Streamers report PS5 failures while playing GTA 6' for The Leonida Daily.",
-      "score": 7,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
-      "text_message_id": 554
+      "full_caption": "Want the quickest rides in Leonida? 🏎️ GamesRadar+ has ranked the top five fastest cars in GTA 6: Andrew Node's Thrax Truffade, three Progen Emerus variants (Honeycomb, Black Widow, Seaspray) and the standard Thrax Truffade. The Emerus trio are basically equal on speed, so it comes down to looks. The top spot is tied to a glitch, so we're skipping that one and focusing on the in-game routes. Swipe for where to find the rest. Which one would you drive first?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #LeonidaDaily #ViceCity #GTA6Cars #RockstarGames #GamingNews #GTA6Guide #SupercarSpotting",
+      "alt_text": "Graphic with the headline about the fastest cars in GTA 6 and the top five supercars ranked by speed.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795615782/gta-bot/e26806e57e-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "The Top 5 Fastest Cars",
+          "text": "Ranked: Andrew Node's Thrax Truffade, then the Progen Honeycomb, Black Widow and Seaspray Emerus, then the standard Thrax Truffade. The three Emerus cars are level on speed and mostly differ in looks."
+        },
+        {
+          "title": "Honeycomb Emerus",
+          "text": "It sits in a parking lot outside a Vice City dealership and car rental spot, across from the Hospital. Easy to reach, but you need the Key Cloner, and it has Advanced Security and Trackers, so it suits mid-to-late game."
+        },
+        {
+          "title": "Dockyard and Capri Emerus",
+          "text": "One Emerus is in a container at Vice City County Dockyard. You need the cut-off tool, and registering it costs $29,900. Another is in a Northwest Capri garage that the Snap Gun can open, with top-tier security."
+        },
+        {
+          "title": "The Standard Thrax Truffade",
+          "text": "Look for it on a trailer just outside Boone Raceway's entrance in Southwest Hamlet. It's loaded with security features, so you won't be able to keep it until the later stages of the game."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
+      "text_message_id": 552,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795617454.4788465
     }
-  },
-  "queue": [],
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
