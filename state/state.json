@@ -2,7 +2,7 @@
   "telegram_offset": 889593701,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795549168.9015787,
+  "last_scout": 1795586970.4762251,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1770,7 +1770,57 @@
     "df698580d4586abf": 1795549177.9953983,
     "aed778f3f6b7ec76": 1795549177.9953983,
     "029fef05a7814760": 1795549177.9953983,
-    "7aa005c4aff577de": 1795549177.9953983
+    "7aa005c4aff577de": 1795549177.9953983,
+    "31b1055e839ea43d": 1795586981.125128,
+    "828f73969b6979fc": 1795586981.125128,
+    "e91ba3165a597849": 1795586981.125128,
+    "69fa25ab1cc3d515": 1795586981.125128,
+    "7216da620776dc60": 1795586981.125128,
+    "179327d01e8cd483": 1795586981.125128,
+    "c226eec21d61521b": 1795586981.125128,
+    "4e839da6449f7272": 1795586981.125128,
+    "6363066583a2626f": 1795586981.125128,
+    "4c101c8f53e3caff": 1795586981.125128,
+    "2baa14e8384c9d55": 1795586981.125128,
+    "e1c3fb7422a44d56": 1795586981.125128,
+    "90a03121bc8ee1d0": 1795586981.125128,
+    "1acb07be4705911f": 1795586981.125128,
+    "bbeac0562d415d23": 1795586981.125128,
+    "95f392d7e8d86dda": 1795586981.125128,
+    "135775cb2fa3a983": 1795586981.125128,
+    "7a9f91c09435b785": 1795586981.125128,
+    "b06ef02b458959c1": 1795586981.125128,
+    "e42c00607b2a6c69": 1795586981.125128,
+    "2c5f14e1bce8043a": 1795586981.125128,
+    "1a02a3410cd06697": 1795586981.125128,
+    "291129097adb9057": 1795586981.125128,
+    "028352f4f1edd48b": 1795586981.125128,
+    "b6ec70822d4957e5": 1795586981.125128,
+    "2e93133b476ec805": 1795586981.125128,
+    "c12cece726ae5b14": 1795586981.125128,
+    "16d364325238d98f": 1795586981.125128,
+    "f2a59638b5af936e": 1795586981.125128,
+    "7f7a1b4a0ab3daba": 1795586981.125128,
+    "976a1465a80be84a": 1795586981.125128,
+    "db6818a946c688f5": 1795586981.125128,
+    "06b8ba582f655fbf": 1795586981.125128,
+    "c1203c7ae16dd3ac": 1795586981.125128,
+    "763b0b2420debd86": 1795586981.125128,
+    "3cf24ca5d63311c6": 1795586981.125128,
+    "dd05a73cee07249b": 1795586981.125128,
+    "c1af9be26b540081": 1795586981.125128,
+    "34cbb55029fcc4b9": 1795586981.125128,
+    "d8c472bffc722080": 1795586981.125128,
+    "c3091d0bd168d0e4": 1795586981.125128,
+    "4a6e1b7e4aff1ae3": 1795586981.125128,
+    "b3ff0891e904ec93": 1795586981.125128,
+    "71650d30f9a8334b": 1795586981.125128,
+    "2b76b2f668c461b4": 1795586981.125128,
+    "024eebecb210c66a": 1795586981.125128,
+    "28b1da35efbc8f4d": 1795586981.125128,
+    "b796c62d1cd990dc": 1795586981.125128,
+    "61f653311dff3aab": 1795586981.125128,
+    "11b61ced60aff491": 1795586981.125128
   },
   "drafts": {
     "1498133717": {
@@ -2069,53 +2119,68 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
       "text_message_id": 497
-    }
-  },
-  "queue": [
-    {
-      "id": "d14e00bc16",
-      "created": 1795541987.0660353,
-      "headline": "Official GTA 6 Trading Cards Arrive This December",
-      "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
+    },
+    "da62a50139": {
+      "id": "da62a50139",
+      "created": 1795586992.1797917,
+      "headline": "GTA 6 Has Hidden Controls the Game Never Explains",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVmlDSnRvT2FSTmNmcUtZQUE1U3Eta2pVNTRBR0RXVFRTOVN2eHdVZFJBMjJ2V1g1YTBNdU5LVDNlbWxURTk3NHlPZll3blNEcUFEOWU0cDdpQS1tdzRyWTZiUUVIT01ZRWc?oc=5",
+      "source": "IGN",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795586991/gta-bot/da62a50139-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541951/gta-bot/d14e00bc16-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541952/gta-bot/d14e00bc16-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541953/gta-bot/d14e00bc16-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795541955/gta-bot/d14e00bc16-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795586991/gta-bot/da62a50139-0.jpg"
       ],
-      "full_caption": "Rockstar's fictional sports world is going physical 🃏\n\nPanini America and Rockstar are releasing the GTA 6: Sports Trading Card Collection this December. The cards feature the in-game sports stars and teams, with packs containing different rarities.\n\nThere's no exact date, price or region list yet, and no pre-orders. Swipe for the full rundown.\n\nWill you be chasing the rarest cards?\n\nSource: VGC\n\n#GTA6 #GTAVI #RockstarGames #Panini #TradingCards #GTA #Leonida #VideoGames #Collectibles #GamingNews",
-      "alt_text": "News graphic announcing the official GTA 6 Sports Trading Card Collection from Panini America and Rockstar Games, coming in December.",
+      "full_caption": "Some of GTA 6's best moves aren't in the tutorial. 🔍\n\nIGN has published a guide to controls the game doesn't spell out for you. It covers how to flip your car back over and how to give someone the finger, plus a few other lesser-known moves. Small tricks like these can save you in a pinch, and they make Leonida feel more alive.\n\nWhich hidden control do you wish you'd found sooner? Tell us below. 👇\n\nSource: IGN\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTATips #GamingTips #HiddenControls #GTAGuide #VideoGames",
+      "alt_text": "Graphic with the headline 'GTA 6 Has Hidden Controls the Game Never Explains' in the Tips & Tricks style of The Leonida Daily.",
       "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795541986/gta-bot/d14e00bc16-reel.mp4",
-      "category": "NEWS",
+      "reel_url": null,
+      "category": "TIPS & TRICKS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_11.jpg",
+      "text_message_id": 501
+    },
+    "396d1ce6ee": {
+      "id": "396d1ce6ee",
+      "created": 1795587021.0929701,
+      "headline": "Fastest Way to Clear the GTA 6 Map Fog: Take to the Sky",
+      "url": "https://www.polygon.com/gta-6-reveal-map-best-method-defog-tips/",
+      "source": "Polygon",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587017/gta-bot/396d1ce6ee-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587017/gta-bot/396d1ce6ee-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587017/gta-bot/396d1ce6ee-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587019/gta-bot/396d1ce6ee-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587019/gta-bot/396d1ce6ee-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587020/gta-bot/396d1ce6ee-4.jpg"
+      ],
+      "full_caption": "Want to clear the fog off Leonida's huge map? Take to the air. ✈️\n\nPolygon's guide says a plane or helicopter is the quickest route. There's no traffic up there, and you can cross land and water in one go. Even so, expect it to take a couple of hours.\n\nSwipe for the best aircraft, the downsides and the no-fly zones to avoid.\n\nAre you a map-completionist, or do you leave the fog alone?\n\nSource: Polygon\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #ViceCity #RockstarGames #GTA6Tips #GTA6Guide #GTA #Gaming",
+      "alt_text": "Graphic with the headline about the fastest way to reveal the fogged map in GTA 6 by flying a plane or helicopter over Leonida.",
+      "score": 7,
+      "reel_url": null,
+      "category": "GUIDE",
       "slides": [
         {
-          "title": "Physical cards are coming",
-          "text": "Rockstar and Panini America are teaming up for the GTA 6: Sports Trading Card Collection. It's set to launch this December, just a few weeks away."
+          "title": "Why fly?",
+          "text": "Aircraft need no key cloner and carry no trackers. Planes cross land and sea, the skies have no traffic, and there are plenty of planes and helicopters to swap into when fuel runs low."
         },
         {
-          "title": "What's in the packs",
-          "text": "The cards centre on fictional sports stars and teams from the game. Artwork mixes stylised drawings and in-game character renders, and each pack has cards of varying rarities."
+          "title": "Best ride: the Mammoth Dodo",
+          "text": "Polygon's pick is the Dodo seaplane. It's fast and fuel efficient, and it can land on flat ground or on water. Look for Dodos near hangars along the coast."
         },
         {
-          "title": "What we don't know yet",
-          "text": "No exact date, price or regions have been announced, and you can't pre-order yet. Panini America is the distributor, so availability outside the US is unclear."
+          "title": "The downsides",
+          "text": "You can't use auto drive in aircraft, and at the time of writing you can't refuel them. When fuel is low, head to another aircraft. Helicopters often sit on tower roofs, so use the elevator."
         },
         {
-          "title": "Part of a bigger merch wave",
-          "text": "Before launch, Rockstar did a sports-themed line with the Miami Heat and a Selfridges drop in the UK with 60+ items. PlayStation says GTA 6 launched with 39 million players."
+          "title": "Fly smart",
+          "text": "Crossing a fog border is enough to reveal the area. Avoid the yellow-tinted zones like Mile Zero Air Station and VCIA, where stealing aircraft brings a strong military response."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
-      "text_message_id": 482,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795544910.7933342
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg",
+      "text_message_id": 507
     }
-  ],
+  },
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -2543,10 +2608,17 @@
       "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
       "at": 1795554568.6630843,
       "media_id": "18021164283002258"
+    },
+    {
+      "id": "d14e00bc16",
+      "headline": "Official GTA 6 Trading Cards Arrive This December",
+      "kind": "reel",
+      "url": "https://www.videogameschronicle.com/news/official-gta-6-trading-cards-are-coming-next-month/",
+      "at": 1795586968.4150639,
+      "media_id": "17959833333294650"
     }
   ],
   "drafts_sent": [
-    1795414201.8121722,
     1795417757.2433596,
     1795421337.9756882,
     1795428538.6871855,
@@ -2575,13 +2647,13 @@
     1795538456.2257462,
     1795541991.3369296,
     1795545565.7575383,
-    1795549220.2266383
+    1795549220.2266383,
+    1795586993.8946316,
+    1795587023.2191162
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996610/Port_Gellhorn_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Real_Dimez_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Jason_Duval_03.jpg",
@@ -2609,6 +2681,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_11.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg"
   ]
 }
