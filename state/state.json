@@ -2,7 +2,7 @@
   "telegram_offset": 889593703,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795597719.9766593,
+  "last_scout": 1795601384.2325404,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1840,7 +1840,13 @@
     "b3a8ba25d02f95a4": 1795597729.6373775,
     "8c9d97fc1f3bae92": 1795597729.6373775,
     "aa80aabd3cd89d12": 1795597729.6373775,
-    "071a1b528f651ada": 1795597729.6373775
+    "071a1b528f651ada": 1795597729.6373775,
+    "5d7fb2e982b95d71": 1795601392.529912,
+    "42905984e4cc0ea4": 1795601392.529912,
+    "9881d305a117e1e4": 1795601392.529912,
+    "d626002f0b4f4003": 1795601392.529912,
+    "46c60184a33284e2": 1795601392.529912,
+    "e06b2770a0a48e3f": 1795601392.529912
   },
   "drafts": {
     "8abbddb36c": {
@@ -2038,53 +2044,68 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
       "text_message_id": 510
-    }
-  },
-  "queue": [
-    {
-      "id": "db46414d6e",
-      "created": 1795545564.3311598,
-      "headline": "Analysts: GTA 6 launch cut Call of Duty's daily players by 42%",
-      "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+    },
+    "66b4458a3d": {
+      "id": "66b4458a3d",
+      "created": 1795601439.091578,
+      "headline": "Digital Foundry: GTA 6 runs steadier on Series X than base PS5",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
       "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545560/gta-bot/db46414d6e-0.jpg",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795601405/gta-bot/66b4458a3d-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545560/gta-bot/db46414d6e-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545561/gta-bot/db46414d6e-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545562/gta-bot/db46414d6e-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545563/gta-bot/db46414d6e-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795545563/gta-bot/db46414d6e-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795601405/gta-bot/66b4458a3d-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795601406/gta-bot/66b4458a3d-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795601407/gta-bot/66b4458a3d-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795601408/gta-bot/66b4458a3d-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795601409/gta-bot/66b4458a3d-4.jpg"
       ],
-      "full_caption": "GTA 6 has shaken up the charts, and Call of Duty felt it most. 💥\n\nAlinea Analytics estimates Call of Duty HQ's daily players fell 42% after launch and are still about 41% below normal four days later. Fortnite and FC 27 also dipped but are recovering faster. These are analyst estimates, not official figures.\n\nDid GTA 6 pull you away from your usual games?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #CallOfDuty #Fortnite #GamingNews #PS5 #XboxSeriesX",
-      "alt_text": "News graphic showing the headline that GTA 6's launch cut Call of Duty's daily players by an estimated 42 percent.",
-      "score": 5,
-      "reel_url": null,
-      "category": "RECORDS",
+      "full_caption": "Console showdown! 🎮 Digital Foundry's new performance analysis says Xbox Series X holds GTA 6's 30fps target more consistently than the base PS5. PS5 Pro takes the overall lead, with the most stable performance and the sharpest image of the four consoles. Swipe for the full breakdown.\n\nWhich console are you playing GTA 6 on, and have you noticed any dips?\n\nSource: Eurogamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #DigitalFoundry #PS5 #PS5Pro #XboxSeriesX #GamingNews #LeonidaDaily",
+      "alt_text": "News graphic comparing GTA 6 frame-rate performance on Xbox Series X, PS5 and PS5 Pro, based on a Digital Foundry analysis.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795601438/gta-bot/66b4458a3d-reel.mp4",
+      "category": "NEWS",
       "slides": [
         {
-          "title": "Call of Duty takes the biggest hit",
-          "text": "Alinea estimates Call of Duty HQ's daily players on PlayStation, Xbox and Steam fell 42% after GTA 6 launched on 19 November, from 7.5M to 4.4M. PlayStation saw a 44% drop."
+          "title": "The verdict",
+          "text": "Digital Foundry's analysis finds that Xbox Series X keeps GTA 6's 30fps target more consistently than the base PS5."
         },
         {
-          "title": "No bounce back yet",
-          "text": "Four days on, Call of Duty is still down 41% from its baseline, according to analyst Rhys Elliott. He calls it the outlier among the big live service games."
+          "title": "Where the dips happen",
+          "text": "Both base consoles often hit 30fps. Drops show up in busy crowds and fast vehicle traversal, sometimes falling to the mid-to-high 20s."
         },
         {
-          "title": "Fortnite and FC 27 recover faster",
-          "text": "Fortnite's daily players on PlayStation and Xbox fell 28%, to 12.8M, but were 19% below baseline by Sunday. FC 27 dropped about 27% and is already within 20% of its baseline."
+          "title": "Series X edge",
+          "text": "PS5 has substantially more frequent drops than Series X. Series X also supports 120Hz VRR, which helps smooth out small dips."
         },
         {
-          "title": "Big launch, big numbers",
-          "text": "Alinea estimates GTA 6 has sold 44.9M copies and earned over $4B. Elliott expects the online mode and PC port next year, which he thinks could make recovery harder for rivals."
+          "title": "PS5 Pro leads the pack",
+          "text": "PS5 Pro has the most stable 30fps of all four consoles. It looks sharper at 4K thanks to PSSR upscaling from a 1440p base. It has no 60fps or 40fps modes."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
-      "text_message_id": 489,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795591440.2228603
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
+      "text_message_id": 519
+    },
+    "9c687f59cc": {
+      "id": "9c687f59cc",
+      "created": 1795601453.2983253,
+      "headline": "GTA 6 Reportedly Trimmed One Minor Function in Australia and NZ",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUkFiZzNZLUpKekh2akRpOFZvYklJLURZbUtNYi1rSnpQaVUtNVJJSWlSSWZlZ25jdVRmQ0ZIWkhKQUFUVkxCZzJVd1ZZVW5tOXhIa0NMb2llX2oybEdGSHZBNTNfSVZ1czRZY2t1RElPTlV3eWY1U0VVVEpwaTFBOU5lWVlJNUZyN2V5Qw?oc=5",
+      "source": "IGN",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795601452/gta-bot/9c687f59cc-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795601452/gta-bot/9c687f59cc-0.jpg"
+      ],
+      "full_caption": "One small feature in GTA 6 has reportedly been censored for Australia and New Zealand. 🇦🇺\n\nIGN's headline says it's a minor function, and that the game would have been banned in those regions without the change. The headline doesn't say what the function is, so we're not guessing. We'll share more once the details are clear.\n\nDo you think a change like this matters if it's only one small feature?\n\nSource: IGN\n\n#GTA6 #GrandTheftAutoVI #GTAVI #RockstarGames #Leonida #GTANews #Australia #NewZealand #GamingNews #VideoGames",
+      "alt_text": "News graphic with the headline about GTA 6 having one minor function censored in Australia and New Zealand.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg",
+      "text_message_id": 521
     }
-  ],
+  },
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -2536,10 +2557,17 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-vice-city-retro-easter-egg-walkthrough-rewards/",
       "at": 1795595954.0321562,
       "media_id": "18040664417852546"
+    },
+    {
+      "id": "db46414d6e",
+      "headline": "Analysts: GTA 6 launch cut Call of Duty's daily players by 42%",
+      "kind": "carousel",
+      "url": "https://www.eurogamer.net/gta-6-call-of-duty-fortnite-fc-27-daily-players-alinea",
+      "at": 1795601382.0130765,
+      "media_id": "18062927705801244"
     }
   ],
   "drafts_sent": [
-    1795428538.6871855,
     1795432130.0931582,
     1795432140.0563505,
     1795435772.3919244,
@@ -2568,13 +2596,15 @@
     1795549220.2266383,
     1795586993.8946316,
     1795587023.2191162,
-    1795594155.6781394
+    1795594155.6781394,
+    1795601443.4675686,
+    1795601454.9033182
   ],
-  "feed_errors": {},
+  "feed_errors": {
+    "Google News: GTA 6": "429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=GTA+6+when%3A1d&hl=en-US&gl=US&ceid=US:en"
+  },
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Real_Dimez_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Jason_Duval_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996605/Ambrosia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996726/Lucia_Caminos_10.jpg",
@@ -2602,6 +2632,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_11.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg"
   ]
 }
