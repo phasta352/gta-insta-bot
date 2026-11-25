@@ -2,7 +2,7 @@
   "telegram_offset": 889593704,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795612119.9589152,
+  "last_scout": 1795615722.3243685,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1893,7 +1893,29 @@
     "25db05121de40984": 1795612128.040134,
     "4a3c8f7f5e0710a4": 1795612128.040134,
     "9b6288c165306b73": 1795612128.040134,
-    "9b705a376d53bfb7": 1795612128.040134
+    "9b705a376d53bfb7": 1795612128.040134,
+    "e32579644fd1d65f": 1795615732.8357203,
+    "1dade4211ffcc601": 1795615732.8357203,
+    "2abefa19b381b4e9": 1795615732.8357203,
+    "49f7b5438e1fae01": 1795615732.8357203,
+    "95d46f2552d7ef6f": 1795615732.8357203,
+    "fdfd9fb93592b16e": 1795615732.8357203,
+    "cfd3b90c60f860b4": 1795615732.8357203,
+    "ddfb9e1eaf4808d1": 1795615732.8357203,
+    "7c0fae46cd2f08f3": 1795615732.8357203,
+    "187e96f0fc685662": 1795615732.8357203,
+    "54a1c4f75764e1ce": 1795615732.8357203,
+    "2ab26d5768511861": 1795615732.8357203,
+    "889137db8fc84ad2": 1795615732.8357203,
+    "26e766dcfb10a96f": 1795615732.8357203,
+    "9b2624b67114d765": 1795615732.8357203,
+    "b555278071197e6f": 1795615732.8357203,
+    "e6bc3d1ca9bc1fe5": 1795615732.8357203,
+    "81706ff2ae261477": 1795615732.8357203,
+    "0aca0adc0500c1c4": 1795615732.8357203,
+    "317000839eca2127": 1795615732.8357203,
+    "e51b57ed7afd1a7b": 1795615732.8357203,
+    "fb5a9fc412be2ea2": 1795615732.8357203
   },
   "drafts": {
     "8abbddb36c": {
@@ -2249,6 +2271,65 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg",
       "text_message_id": 544
+    },
+    "e26806e57e": {
+      "id": "e26806e57e",
+      "created": 1795615782.92094,
+      "headline": "GTA 6's Fastest Cars: The Top 5 and Where to Find Them",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fastest-cars/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615749/gta-bot/e26806e57e-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615750/gta-bot/e26806e57e-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615752/gta-bot/e26806e57e-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615753/gta-bot/e26806e57e-4.jpg"
+      ],
+      "full_caption": "Want the quickest rides in Leonida? 🏎️ GamesRadar+ has ranked the top five fastest cars in GTA 6: Andrew Node's Thrax Truffade, three Progen Emerus variants (Honeycomb, Black Widow, Seaspray) and the standard Thrax Truffade. The Emerus trio are basically equal on speed, so it comes down to looks. The top spot is tied to a glitch, so we're skipping that one and focusing on the in-game routes. Swipe for where to find the rest. Which one would you drive first?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #LeonidaDaily #ViceCity #GTA6Cars #RockstarGames #GamingNews #GTA6Guide #SupercarSpotting",
+      "alt_text": "Graphic with the headline about the fastest cars in GTA 6 and the top five supercars ranked by speed.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795615782/gta-bot/e26806e57e-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "The Top 5 Fastest Cars",
+          "text": "Ranked: Andrew Node's Thrax Truffade, then the Progen Honeycomb, Black Widow and Seaspray Emerus, then the standard Thrax Truffade. The three Emerus cars are level on speed and mostly differ in looks."
+        },
+        {
+          "title": "Honeycomb Emerus",
+          "text": "It sits in a parking lot outside a Vice City dealership and car rental spot, across from the Hospital. Easy to reach, but you need the Key Cloner, and it has Advanced Security and Trackers, so it suits mid-to-late game."
+        },
+        {
+          "title": "Dockyard and Capri Emerus",
+          "text": "One Emerus is in a container at Vice City County Dockyard. You need the cut-off tool, and registering it costs $29,900. Another is in a Northwest Capri garage that the Snap Gun can open, with top-tier security."
+        },
+        {
+          "title": "The Standard Thrax Truffade",
+          "text": "Look for it on a trailer just outside Boone Raceway's entrance in Southwest Hamlet. It's loaded with security features, so you won't be able to keep it until the later stages of the game."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
+      "text_message_id": 552
+    },
+    "4f8b99b588": {
+      "id": "4f8b99b588",
+      "created": 1795615808.364672,
+      "headline": "Streamers report PS5 failures while playing GTA 6",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYTVNdjVJNk12QUEya2xNYkJWTndpRTAwNHFsT3B3REl0TjEwMWFpRW4zVWZfRTdlcVR5YVBkbnppdGZtSHlxYnF4WTVnOWdlbDAzbGU4Q2lGTG9TcW41UHdQUE1YdC1NQkVUN1JXeWR0Y2pnVXVlbHNEd1dRWUh5UWx1dHFoMXVGYUhuU2MtTFVmWmt1ZlhBX0lBUVIwZnpFRThmLWx4ak9TU19SVV9JalJkWXNTSmt2ZzE3enk5cVdEM2FtVWhaUW5BZzZtUktNQWdoNXJJZjg5WE5BMkdqWkdyVFFDV3VzMGRJdkRB?oc=5",
+      "source": "TechRadar",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615808/gta-bot/4f8b99b588-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795615808/gta-bot/4f8b99b588-0.jpg"
+      ],
+      "full_caption": "PS5 owners, keep an eye on your console. 🔥\n\nTechRadar reports that GTA 6 seems to be linked to some PS5 consoles smoking and suffering failed GPUs. Multiple streamers say they have been hit, and one says they now need a replacement console.\n\nThis is a media report based on streamer accounts, and the cause hasn't been established. We haven't seen a statement from Rockstar or Sony, so treat it as unconfirmed for now.\n\nHave you noticed your PS5 running unusually hot or loud during GTA 6? Tell us below.\n\nSource: TechRadar\n\n#GTA6 #GTAVI #GrandTheftAutoVI #PS5 #PlayStation5 #Rockstar #RockstarGames #GamingNews #LeonidaDaily",
+      "alt_text": "News graphic with the headline 'Streamers report PS5 failures while playing GTA 6' for The Leonida Daily.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
+      "text_message_id": 554
     }
   },
   "queue": [],
@@ -2730,8 +2811,6 @@
     }
   ],
   "drafts_sent": [
-    1795442996.390176,
-    1795443007.148312,
     1795446624.2943559,
     1795446645.783974,
     1795450235.8588793,
@@ -2758,13 +2837,13 @@
     1795604962.0031707,
     1795608596.3277438,
     1795612173.2500045,
-    1795612196.8330362
+    1795612196.8330362,
+    1795615787.5664134,
+    1795615810.2682195
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996662/Leonida_Keys_07.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996624/Vice_City_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Mount_Kalaga_National_Park_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
@@ -2792,6 +2871,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg"
   ]
 }
