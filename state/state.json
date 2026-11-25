@@ -2251,51 +2251,7 @@
       "text_message_id": 544
     }
   },
-  "queue": [
-    {
-      "id": "06b20d57e7",
-      "created": 1795608591.5203285,
-      "headline": "How to Use NOS in GTA 6 (and What It Costs)",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-nos-nitrous-boost/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608553/gta-bot/06b20d57e7-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608553/gta-bot/06b20d57e7-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608554/gta-bot/06b20d57e7-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608556/gta-bot/06b20d57e7-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608557/gta-bot/06b20d57e7-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795608558/gta-bot/06b20d57e7-4.jpg"
-      ],
-      "full_caption": "Want a little extra speed in GTA 6? Here's how to fire off your nitrous. 🏎️\n\nHold in the left stick (L3/LS) while fully pressing the accelerator (R2/RT). If you're not at full throttle, you'll just honk the horn. Your car needs Nitrous Boost installed, which a Mod Shop offers for $5,000.\n\nOne caveat: it feels faster than it really is, so don't count on it to win you a race.\n\nHave you fitted NOS to your ride yet?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAuto6 #GTAVI #GTA #RockstarGames #Leonida #GTA6Tips #GTA6Guide #NOS #StreetRacing",
-      "alt_text": "Graphic with the headline 'How to Use NOS in GTA 6' for a tips and guide post about the nitrous boost.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795608590/gta-bot/06b20d57e7-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "How to trigger the boost",
-          "text": "Hold in the left stick (L3/LS) while fully pressing the accelerator (R2/RT). If you press the stick at anything less than full throttle, your character just honks the horn."
-        },
-        {
-          "title": "Get Nitrous Boost installed",
-          "text": "Your car needs the upgrade. Any Mod Shop can fit it for $5,000 under Performance, then Boost. Depending on the car, it can also slightly raise speed and acceleration stats."
-        },
-        {
-          "title": "Spot it and manage it",
-          "text": "A blue ring icon next to the engine health and fuel gauges means NOS is fitted. It drains fast, so use short bursts. It refills on its own, so no refuelling needed."
-        },
-        {
-          "title": "Manage your expectations",
-          "text": "The writer found the extra speed fairly modest. Camera zoom and field-of-view changes make it feel quicker than it is. It helps in street races, but won't guarantee first place."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg",
-      "text_message_id": 534,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795610193.7768152
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -2763,6 +2719,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-nos-nitrous-boost/",
       "at": 1795610243.8006778,
       "media_id": "17932387599425134"
+    },
+    {
+      "id": "06b20d57e7",
+      "headline": "How to Use NOS in GTA 6 (and What It Costs)",
+      "kind": "reel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-nos-nitrous-boost/",
+      "at": 1795613956.636052,
+      "media_id": "17955025335051099"
     }
   ],
   "drafts_sent": [
