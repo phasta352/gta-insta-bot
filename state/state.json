@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593714,
+  "telegram_offset": 889593715,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795709358.068897,
@@ -2183,25 +2183,6 @@
     "6c7421420bef6900": 1795709367.329245
   },
   "drafts": {
-    "9199b24968": {
-      "id": "9199b24968",
-      "created": 1795623133.6047018,
-      "headline": "GTA 6 Gets Its First Post-Launch Patch",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX05KVVRXdGc4TXFDUldLaG5Va2ZkNFFPUTl4M2RSV2Y3WWdCY0l2cDZWRXphWWd5M3hLOUk5LUNNczFhN2NsNW1qUjRIQkNJY0JNME1UamQyMjRrOUw4am5UNGhoNnI1YThSMm1abjN6cFlJSHM4ZzgtTXlOMFQ2NXVVb3BlWjN3VlJrVXFjckc3UWtXdnJvWC1UZ0hJSmJzMmVYMzcwMGlhSVluWlV1TXRSQWNSQzRDXzVDX1BaSQ?oc=5",
-      "source": "GosuGamers",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795623133/gta-bot/9199b24968-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795623133/gta-bot/9199b24968-0.jpg"
-      ],
-      "full_caption": "GTA 6 has received its first post-launch patch. 🛠️\n\nAccording to GosuGamers, the update targets two problems: weather and autosave issues. Reliable saving and properly behaving weather are a big deal in a world as detailed as Leonida. We're waiting on the full patch notes before sharing anything else, such as other fixes, platforms or file size.\n\nHave you run into weather or autosave glitches in your game? Tell us below.\n\nSource: GosuGamers\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #PatchNotes #GameUpdate #GamingNews #ViceCity #GTANews",
-      "alt_text": "News graphic with the text 'GTA 6 Gets Its First Post-Launch Patch' and a PATCH NOTES label.",
-      "score": 9,
-      "reel_url": null,
-      "category": "PATCH NOTES",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
-      "text_message_id": 571
-    },
     "93abd9950a": {
       "id": "93abd9950a",
       "created": 1795678840.2375565,
@@ -2478,46 +2459,6 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
       "text_message_id": 642
     },
-    "965cfdb91a": {
-      "id": "965cfdb91a",
-      "created": 1795709417.194453,
-      "headline": "GTA 6 smashes livestream record with 420M hours watched",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709378/gta-bot/965cfdb91a-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709378/gta-bot/965cfdb91a-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709380/gta-bot/965cfdb91a-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709380/gta-bot/965cfdb91a-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709381/gta-bot/965cfdb91a-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709382/gta-bot/965cfdb91a-4.jpg"
-      ],
-      "full_caption": "GTA 6 is dominating livestreams too. 🎥\n\nStreams Charts reports more than 420M hours watched in the first seven days, nearly triple the previous record. That tops the combined first-week totals of Valorant, Elden Ring, Diablo 4 and Lost Ark.\n\nDid you watch any GTA 6 streams this week?\n\nSource: Eurogamer\n\n#GTA6 #GrandTheftAutoVI #RockstarGames #Leonida #Twitch #YouTubeGaming #Streaming #GamingNews #PS5 #XboxSeriesX",
-      "alt_text": "Graphic with the headline that GTA 6 set a livestreaming record of over 420 million hours watched in its first week.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795709415/gta-bot/965cfdb91a-reel.mp4",
-      "category": "RECORDS",
-      "slides": [
-        {
-          "title": "420M hours in week one",
-          "text": "According to Streams Charts, GTA 6 passed 420m hours watched in its first seven days. That is nearly three times the old record, set by Valorant's closed beta in April 2020."
-        },
-        {
-          "title": "More than four hits combined",
-          "text": "The 420m total beats the first-week watch time of Valorant, Elden Ring, Diablo 4 and Lost Ark added together."
-        },
-        {
-          "title": "Twitch and YouTube lead the way",
-          "text": "YouTube reportedly led in average audience over the first six hours. Twitch then took over in content volume, and its GTA 6 launch watch time was its highest for any game ever."
-        },
-        {
-          "title": "1,056 channels hit new peaks",
-          "text": "Streams Charts says 1,056 channels set new all-time peak viewership while streaming GTA 6, some multiplying their old records tenfold. IShowSpeed, IlloJuan and TheBurntPeanut were among the big names."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996719/Lucia_Caminos_09.jpg",
-      "text_message_id": 650
-    },
     "ca81206193": {
       "id": "ca81206193",
       "created": 1795709451.040918,
@@ -2581,6 +2522,92 @@
       "kind": "carousel",
       "post_now": false,
       "approved_at": 1795680818.3408446
+    },
+    {
+      "id": "965cfdb91a",
+      "created": 1795709417.194453,
+      "headline": "GTA 6 smashes livestream record with 420M hours watched",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709378/gta-bot/965cfdb91a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709378/gta-bot/965cfdb91a-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709380/gta-bot/965cfdb91a-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709380/gta-bot/965cfdb91a-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709381/gta-bot/965cfdb91a-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709382/gta-bot/965cfdb91a-4.jpg"
+      ],
+      "full_caption": "GTA 6 is dominating livestreams too. 🎥\n\nStreams Charts reports more than 420M hours watched in the first seven days, nearly triple the previous record. That tops the combined first-week totals of Valorant, Elden Ring, Diablo 4 and Lost Ark.\n\nDid you watch any GTA 6 streams this week?\n\nSource: Eurogamer\n\n#GTA6 #GrandTheftAutoVI #RockstarGames #Leonida #Twitch #YouTubeGaming #Streaming #GamingNews #PS5 #XboxSeriesX",
+      "alt_text": "Graphic with the headline that GTA 6 set a livestreaming record of over 420 million hours watched in its first week.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795709415/gta-bot/965cfdb91a-reel.mp4",
+      "category": "RECORDS",
+      "slides": [
+        {
+          "title": "420M hours in week one",
+          "text": "According to Streams Charts, GTA 6 passed 420m hours watched in its first seven days. That is nearly three times the old record, set by Valorant's closed beta in April 2020."
+        },
+        {
+          "title": "More than four hits combined",
+          "text": "The 420m total beats the first-week watch time of Valorant, Elden Ring, Diablo 4 and Lost Ark added together."
+        },
+        {
+          "title": "Twitch and YouTube lead the way",
+          "text": "YouTube reportedly led in average audience over the first six hours. Twitch then took over in content volume, and its GTA 6 launch watch time was its highest for any game ever."
+        },
+        {
+          "title": "1,056 channels hit new peaks",
+          "text": "Streams Charts says 1,056 channels set new all-time peak viewership while streaming GTA 6, some multiplying their old records tenfold. IShowSpeed, IlloJuan and TheBurntPeanut were among the big names."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996719/Lucia_Caminos_09.jpg",
+      "text_message_id": 650,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795710314.7015765
+    },
+    {
+      "id": "965cfdb91a",
+      "created": 1795709417.194453,
+      "headline": "GTA 6 smashes livestream record with 420M hours watched",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709378/gta-bot/965cfdb91a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709378/gta-bot/965cfdb91a-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709380/gta-bot/965cfdb91a-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709380/gta-bot/965cfdb91a-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709381/gta-bot/965cfdb91a-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709382/gta-bot/965cfdb91a-4.jpg"
+      ],
+      "full_caption": "GTA 6 is dominating livestreams too. 🎥\n\nStreams Charts reports more than 420M hours watched in the first seven days, nearly triple the previous record. That tops the combined first-week totals of Valorant, Elden Ring, Diablo 4 and Lost Ark.\n\nDid you watch any GTA 6 streams this week?\n\nSource: Eurogamer\n\n#GTA6 #GrandTheftAutoVI #RockstarGames #Leonida #Twitch #YouTubeGaming #Streaming #GamingNews #PS5 #XboxSeriesX",
+      "alt_text": "Graphic with the headline that GTA 6 set a livestreaming record of over 420 million hours watched in its first week.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795709415/gta-bot/965cfdb91a-reel.mp4",
+      "category": "RECORDS",
+      "slides": [
+        {
+          "title": "420M hours in week one",
+          "text": "According to Streams Charts, GTA 6 passed 420m hours watched in its first seven days. That is nearly three times the old record, set by Valorant's closed beta in April 2020."
+        },
+        {
+          "title": "More than four hits combined",
+          "text": "The 420m total beats the first-week watch time of Valorant, Elden Ring, Diablo 4 and Lost Ark added together."
+        },
+        {
+          "title": "Twitch and YouTube lead the way",
+          "text": "YouTube reportedly led in average audience over the first six hours. Twitch then took over in content volume, and its GTA 6 launch watch time was its highest for any game ever."
+        },
+        {
+          "title": "1,056 channels hit new peaks",
+          "text": "Streams Charts says 1,056 channels set new all-time peak viewership while streaming GTA 6, some multiplying their old records tenfold. IShowSpeed, IlloJuan and TheBurntPeanut were among the big names."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996719/Lucia_Caminos_09.jpg",
+      "text_message_id": 650,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795710314.701579
     }
   ],
   "published": [
