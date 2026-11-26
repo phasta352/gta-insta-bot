@@ -2,7 +2,7 @@
   "telegram_offset": 889593715,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795709358.068897,
+  "last_scout": 1795712941.3824806,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2180,7 +2180,32 @@
     "00cc87e728231651": 1795709367.329245,
     "344e423b3af56e1c": 1795709367.329245,
     "947a7001f579eff3": 1795709367.329245,
-    "6c7421420bef6900": 1795709367.329245
+    "6c7421420bef6900": 1795709367.329245,
+    "f22b8c0e1d1d6ab1": 1795712950.6347663,
+    "82e0ffe7b1ca1b23": 1795712950.6347663,
+    "863dec127b8be597": 1795712950.6347663,
+    "6cb9f12347aa0050": 1795712950.6347663,
+    "7f9689cf1ec691af": 1795712950.6347663,
+    "5123630a62bcffe8": 1795712950.6347663,
+    "28c80da18ee54cff": 1795712950.6347663,
+    "c31e2edc2d268a31": 1795712950.6347663,
+    "f9d666f09468b636": 1795712950.6347663,
+    "a34fa5f118e72787": 1795712950.6347663,
+    "73d9f7c3d5457d62": 1795712950.6347663,
+    "32363d4a9339e516": 1795712950.6347663,
+    "4a080119b5f259f5": 1795712950.6347663,
+    "05b0011f95f4ffeb": 1795712950.6347663,
+    "8221136f8d8ff20e": 1795712950.6347663,
+    "547ccc4426d8f86b": 1795712950.6347663,
+    "15d9d875cb4b32e5": 1795712950.6347663,
+    "01f288bd586f5efc": 1795712950.6347663,
+    "e10110c234b53cad": 1795712950.6347663,
+    "74970c8cfdc8e9d1": 1795712950.6347663,
+    "677a2ab253ab5b90": 1795712950.6347663,
+    "98ccf414b384d4b2": 1795712950.6347663,
+    "26504219dafbd25c": 1795712950.6347663,
+    "2968f37e3923a1f1": 1795712950.6347663,
+    "831e51b9bbff8dde": 1795712950.6347663
   },
   "drafts": {
     "93abd9950a": {
@@ -2498,31 +2523,49 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
       "text_message_id": 656
+    },
+    "ac7c4b7597": {
+      "id": "ac7c4b7597",
+      "created": 1795712990.7183075,
+      "headline": "GTA 6 hides two secret radio stations behind posters",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712962/gta-bot/ac7c4b7597-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712962/gta-bot/ac7c4b7597-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712963/gta-bot/ac7c4b7597-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712963/gta-bot/ac7c4b7597-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712965/gta-bot/ac7c4b7597-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712965/gta-bot/ac7c4b7597-4.jpg"
+      ],
+      "full_caption": "Two GTA 6 radio stations are easy to miss entirely. 📻\n\nThe Vault and The Sniper of LaPerle only unlock when you scan specific posters with the WAiNK app. The Vault plays club and dance music, while The Sniper of LaPerle is an on-demand playlist from Kodak Black. Swipe for where to find every poster.\n\nHave you unlocked both yet, or are you still hunting posters?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTATips #GTAGuide #KodakBlack #GamingNews",
+      "alt_text": "Graphic with the headline about two secret radio stations in GTA 6 and how to unlock them by scanning posters.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795712989/gta-bot/ac7c4b7597-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Two hidden radio stations",
+          "text": "GTA 6 has two secret stations you can easily miss: The Vault and The Sniper of LaPerle. Both unlock by scanning posters around the world with the WAiNK app."
+        },
+        {
+          "title": "Unlock The Vault",
+          "text": "Visit The Vault club in central Vice City, a block west of Nine1Nine. Go up the first flight of stairs and scan The Vault poster to unlock club and dance music in your car."
+        },
+        {
+          "title": "The Sniper of LaPerle",
+          "text": "This on-demand playlist comes from Kodak Black. You need to find and scan four posters. Three are in the LaPerle district: Drip Drops, Twa Ponya Tattoo and Aunt Zola's Soul Food."
+        },
+        {
+          "title": "Where to look for the posters",
+          "text": "Drip Drops: front desk. Twa Ponya Tattoo: small table right of the door. Aunt Zola's: left wall. The fourth is in the Jack of Hearts strip club and needs some story progress to reach."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
+      "text_message_id": 663
     }
   },
   "queue": [
-    {
-      "id": "ddd5074659",
-      "created": 1795678822.6581132,
-      "headline": "Rockstar Explains Why GTA 6 Missions Can't Be Replayed",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUMzUUhaaDItWC1LRXpuWUR1UzF3NExkM09IRzJPV056TFlvMFM2dVM2b2tvSDZxNHg3bk50SlFGSjYtT0ZYNVQ3QmdiMXI1QUhCbDF4ZWVKaTlMU3RzbEp5c3Y3dk9aRHNiODZhbDJKZ0dINFVQV2pfY181ekoxRFRjTU9CUkhlOTl2RWxVc1NycUY0UnNPZEE1QnpPZw?oc=5",
-      "source": "Kotaku",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678822/gta-bot/ddd5074659-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678822/gta-bot/ddd5074659-0.jpg"
-      ],
-      "full_caption": "Replaying story missions in GTA 6? Rockstar has addressed it. 🎮\n\nAccording to Kotaku, Rockstar has explained why you can't replay GTA 6 story missions. The headline answers the big question, but we're holding off on details until the full explanation is confirmed.\n\nMission replay is a feature many players expect from open-world games, so this one matters for how you plan your playthrough.\n\nWould you have wanted a mission replay option, or does its absence not bother you?\n\nSource: Kotaku\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #LeonidaDaily #Leonida #GTANews #Gaming #GamingNews #OpenWorld",
-      "alt_text": "News graphic with the headline 'Rockstar Explains Why GTA 6 Missions Can't Be Replayed' in The Leonida Daily style.",
-      "score": 7,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
-      "text_message_id": 598,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795680818.3408446
-    },
     {
       "id": "965cfdb91a",
       "created": 1795709417.194453,
@@ -3181,11 +3224,17 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-marbelle-hotel-location-and-safe-code-how-to-find-the-silent-hill-easter-egg/",
       "at": 1795709355.497812,
       "media_id": "17929135050204285"
+    },
+    {
+      "id": "ddd5074659",
+      "headline": "Rockstar Explains Why GTA 6 Missions Can't Be Replayed",
+      "kind": "carousel",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUMzUUhaaDItWC1LRXpuWUR1UzF3NExkM09IRzJPV056TFlvMFM2dVM2b2tvSDZxNHg3bk50SlFGSjYtT0ZYNVQ3QmdiMXI1QUhCbDF4ZWVKaTlMU3RzbEp5c3Y3dk9aRHNiODZhbDJKZ0dINFVQV2pfY181ekoxRFRjTU9CUkhlOTl2RWxVc1NycUY0UnNPZEE1QnpPZw?oc=5",
+      "at": 1795713010.6631658,
+      "media_id": "18023482055948567"
     }
   ],
   "drafts_sent": [
-    1795538437.1779044,
-    1795538456.2257462,
     1795541991.3369296,
     1795545565.7575383,
     1795549220.2266383,
@@ -3217,12 +3266,12 @@
     1795705772.9086232,
     1795705791.1478431,
     1795709421.8226151,
-    1795709453.35184
+    1795709453.35184,
+    1795712998.2120404
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_11.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
@@ -3251,6 +3300,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996719/Lucia_Caminos_09.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg"
   ]
 }
