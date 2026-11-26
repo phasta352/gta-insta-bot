@@ -2,7 +2,7 @@
   "telegram_offset": 889593711,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795626517.7620864,
+  "last_scout": 1795673411.7399065,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -1995,7 +1995,67 @@
     "3b89962b1b5b85ef": 1795626528.3270264,
     "1cc01b59deb37356": 1795626528.3270264,
     "7e263075211f7dc2": 1795626528.3270264,
-    "046cc98c817153a3": 1795626528.3270264
+    "046cc98c817153a3": 1795626528.3270264,
+    "411caeda9fdafdc7": 1795673422.0552917,
+    "bd2c75909129d836": 1795673422.0552917,
+    "b4af7efc06bb4b10": 1795673422.0552917,
+    "e455511fe483217f": 1795673422.0552917,
+    "55c175c211aa0c87": 1795673422.0552917,
+    "b651ea77543d3220": 1795673422.0552917,
+    "02d37ff8b9c5fe79": 1795673422.0552917,
+    "8a2fb8e2dc9e7353": 1795673422.0552917,
+    "1aea6f3523d882a8": 1795673422.0552917,
+    "1b434b9a40f05326": 1795673422.0552917,
+    "25faa2a54353914b": 1795673422.0552917,
+    "192e3b1be7b3418e": 1795673422.0552917,
+    "80226b1505efbbe0": 1795673422.0552917,
+    "ba955c4bc988d5db": 1795673422.0552917,
+    "3e8095a20e1f50d9": 1795673422.0552917,
+    "a51e437a51bd21f3": 1795673422.0552917,
+    "5014027da9344e5b": 1795673422.0552917,
+    "182e8c1524af5691": 1795673422.0552917,
+    "24cde2bc174d613d": 1795673422.0552917,
+    "f5f1589563457d5f": 1795673422.0552917,
+    "3a9a7e559aae96de": 1795673422.0552917,
+    "bb40f08b0df4cb3d": 1795673422.0552917,
+    "ad1cab7b912000ec": 1795673422.0552917,
+    "0104cb6753a83f1d": 1795673422.0552917,
+    "be38ad8058959ebd": 1795673422.0552917,
+    "c3f5f584ece73354": 1795673422.0552917,
+    "0df91355bafeaed4": 1795673422.0552917,
+    "fbb54b6219007073": 1795673422.0552917,
+    "a9f754d7fe7e8b45": 1795673422.0552917,
+    "ef26686df9b0ec45": 1795673422.0552917,
+    "508620a45b0750ac": 1795673422.0552917,
+    "8a987c3a0ad61efa": 1795673422.0552917,
+    "9a3d6c0f6dbf09ed": 1795673422.0552917,
+    "e7694e94c8b9adaa": 1795673422.0552917,
+    "2426051d1786f662": 1795673422.0552917,
+    "2e1002db51e7ccf4": 1795673422.0552917,
+    "19ac2651676b1d4e": 1795673422.0552917,
+    "e283626295368785": 1795673422.0552917,
+    "d3a6c5f47f5ca48a": 1795673422.0552917,
+    "e55d2f177d4e279b": 1795673422.0552917,
+    "d9e632d87c7c934c": 1795673422.0552917,
+    "10fc2faa98bf0fa5": 1795673422.0552917,
+    "4f295991e0ee3802": 1795673422.0552917,
+    "1d64d035021ab275": 1795673422.0552917,
+    "eb0f13a75f374d43": 1795673422.0552917,
+    "837e74b1dcc8f4c7": 1795673422.0552917,
+    "f55f093d484c4443": 1795673422.0552917,
+    "1fd2ca50d9e389c0": 1795673422.0552917,
+    "6ecd648705beda2d": 1795673422.0552917,
+    "76997577b6a91956": 1795673422.0552917,
+    "2a4db64ace4cf494": 1795673422.0552917,
+    "1c9980c4fd7a9918": 1795673422.0552917,
+    "f24d8e92bd915601": 1795673422.0552917,
+    "2f4c34351f7e3c8a": 1795673422.0552917,
+    "b6a44ae70d2c7c79": 1795673422.0552917,
+    "7eeea55dbeb3d772": 1795673422.0552917,
+    "f624a623b6e324ae": 1795673422.0552917,
+    "cbdbe70285662634": 1795673422.0552917,
+    "202df6d97c1b7e7b": 1795673422.0552917,
+    "0c3ff4750ca3e5ac": 1795673422.0552917
   },
   "drafts": {
     "da62a50139": {
@@ -2193,52 +2253,89 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
       "text_message_id": 571
-    }
-  },
-  "queue": [
-    {
-      "id": "685eb3fc07",
-      "created": 1795619439.7243366,
-      "headline": "How to Rip an ATM Out of the Wall in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
+    },
+    "e668bb75ea": {
+      "id": "e668bb75ea",
+      "created": 1795673467.905925,
+      "headline": "GTA 6 Bank Vaults: The Trick to Cracking Them Open",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
       "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619408/gta-bot/685eb3fc07-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619409/gta-bot/685eb3fc07-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619410/gta-bot/685eb3fc07-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619411/gta-bot/685eb3fc07-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673438/gta-bot/e668bb75ea-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673439/gta-bot/e668bb75ea-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673441/gta-bot/e668bb75ea-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673442/gta-bot/e668bb75ea-4.jpg"
       ],
-      "full_caption": "Want to pull an ATM out of the wall in GTA 6? Here's the setup. 🏧\n\nYou need a winched vehicle and a dye pack jammer, which stops marked bills from bursting pink all over your loot. Hook the ATM, floor it, then smash it around to spill the cash boxes. PC Gamer's tester made about 11k per ATM, so it's decent but probably not the top earner.\n\nWould you use a winch truck for cash runs, or is there a better money method? 💸\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #GTA6Guide #GTA6Tips #GTAMoney #GamingNews",
-      "alt_text": "Graphic with the headline 'How to Rip an ATM Out of the Wall in GTA 6', announcing a guide to stealing ATMs with a winched vehicle.",
+      "full_caption": "Want a $100,000+ score in GTA 6? Skip the drill and let the armored car driver do the work. 🏦\n\nVault doors can't be forced in open-world bank jobs. A guard from an armored car has to open one for you, so tail the truck, wait until he's deep inside, then make your move. Swipe for the full plan.\n\nWhat's your go-to getaway car after a big bank job? 🚗\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTA6Tips #GTA6Guide #BankHeist #JasonAndLucia",
+      "alt_text": "Graphic with the headline 'GTA 6 Bank Vaults: The Trick to Cracking Them Open' announcing a guide to big bank jobs in Vice City.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673466/gta-bot/e668bb75ea-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "The vault trick",
+          "text": "Vault doors can't be broken into during open-world bank robberies. Only an armored car driver can open one. Follow him in, wait until he's deep inside the bank, then start the robbery."
+        },
+        {
+          "title": "Finding an armored car",
+          "text": "Patrol near banks with vaults, or pay fence Yasmani $10,000 for a tip that marks two armored cars with pink map icons. The Robberies tab lists every big bank on your map."
+        },
+        {
+          "title": "Grab the bonus loot",
+          "text": "Shoot safe deposit boxes open, or blow them all at once with a grenade or sticky bomb. Also hit the cash drawers and safes. Stick a bomb on the armored car's rear door so it can't despawn."
+        },
+        {
+          "title": "Pro tips for the job",
+          "text": "Bring both Jason and Lucia to carry up to four bags. Use silenced weapons and shoot out the cloud cameras. An alarm means an instant four-star wanted level, so plan your escape first."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
+      "text_message_id": 588
+    },
+    "7d5ffc8151": {
+      "id": "7d5ffc8151",
+      "created": 1795673512.1595612,
+      "headline": "Marbelle Hotel: Silent Hill Easter Egg and Safe Code",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-marbelle-hotel-location-and-safe-code-how-to-find-the-silent-hill-easter-egg/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673485/gta-bot/7d5ffc8151-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673487/gta-bot/7d5ffc8151-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673488/gta-bot/7d5ffc8151-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673489/gta-bot/7d5ffc8151-4.jpg"
+      ],
+      "full_caption": "Vice City has a creepy secret, and it's hiding in an abandoned hotel. 🌫️\n\nThe Marbelle Hotel in southern Crosstown hides a Silent Hill-inspired Easter egg with flickering lights, strange symbols and fog over the city. Finish it and you can open a safe on the ground floor for a cash and watch reward.\n\nSwipe for the location, the trigger steps and the code.\n\nWill you brave the Marbelle Hotel solo or with a friend?\n\nSource: VGC\n\n#GTAVI #GTA6 #ViceCity #Leonida #RockstarGames #GTA6Guide #EasterEgg #SilentHill #GamingNews #GTAcommunity",
+      "alt_text": "Graphic about the Marbelle Hotel, an abandoned Vice City building hiding a Silent Hill-inspired Easter egg and a safe in GTA 6.",
       "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795619438/gta-bot/685eb3fc07-reel.mp4",
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673511/gta-bot/7d5ffc8151-reel.mp4",
       "category": "GUIDE",
       "slides": [
         {
-          "title": "What You Need",
-          "text": "Two things: a winched vehicle to haul the ATM out of the wall, and a dye pack jammer. The jammer stops marked bills from exploding pink all over your cash. The jammer is unlocked through story progress."
+          "title": "Where to find the Marbelle Hotel",
+          "text": "It's in southern Crosstown, Vice City, on NW 8th Street near the Nine1Nine nightclub, about a block east of Pawn & Gun. Look for boarded windows and a For Sale sign."
         },
         {
-          "title": "Getting a Winch Truck",
-          "text": "You can steal one at the crop duster landing strip in Frogswater, or add a winch to any truck at a mod shop. A unique truck can also be taken from a warehouse robbery in Port Gellhorn."
+          "title": "Getting inside",
+          "text": "The front door is locked, so go around to the back and use the accessible door. The safe you're after is on the ground floor."
         },
         {
-          "title": "How to Pull It Off",
-          "text": "Reverse into the ATM and lower the hook until it attaches. Drive off at full speed. The alarm will bring the cops. Swerve and smash the ATM to spill the cash boxes, then kick them open and grab the marked bills."
+          "title": "Triggering the Easter egg",
+          "text": "Head upstairs until a door opens by itself, then keep going towards the roof. Lights flicker out, red symbols appear and whispers play. Kick down the roof door to see Vice City covered in fog."
         },
         {
-          "title": "Is It Worth It?",
-          "text": "On tipped-off ATMs, which give three free targets with a 24-hour window, PC Gamer's tester got about 11k each. That's decent, but probably not the best earner unless you get efficient."
+          "title": "Safe code and rewards",
+          "text": "The Old Note on the roof has the six-digit code circled: 955214. The safe holds cash and a Crowex Ambassador 'Breakfast' watch."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
-      "text_message_id": 562,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795623040.311798
-    },
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
+      "text_message_id": 595
+    }
+  },
+  "queue": [
     {
       "id": "685eb3fc07",
       "created": 1795619439.7243366,
@@ -2876,6 +2973,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-fastest-cars/",
       "at": 1795633796.1243005,
       "media_id": "17941038747126266"
+    },
+    {
+      "id": "685eb3fc07",
+      "headline": "How to Rip an ATM Out of the Wall in GTA 6",
+      "kind": "carousel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
+      "at": 1795673409.630835,
+      "media_id": "18005697897009045"
     }
   ],
   "drafts_sent": [
@@ -2908,13 +3013,13 @@
     1795619443.7072985,
     1795619464.1097093,
     1795623135.4150064,
-    1795626580.060153
+    1795626580.060153,
+    1795673472.785448,
+    1795673516.726161
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996699/Boobie_Ike_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996748/Jason_and_Lucia_09.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996652/Grassrivers_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996686/Jason_Duval_02.jpg",
@@ -2942,6 +3047,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg"
   ]
 }
