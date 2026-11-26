@@ -2,7 +2,7 @@
   "telegram_offset": 889593711,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795673411.7399065,
+  "last_scout": 1795678787.7094564,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2055,68 +2055,21 @@
     "f624a623b6e324ae": 1795673422.0552917,
     "cbdbe70285662634": 1795673422.0552917,
     "202df6d97c1b7e7b": 1795673422.0552917,
-    "0c3ff4750ca3e5ac": 1795673422.0552917
+    "0c3ff4750ca3e5ac": 1795673422.0552917,
+    "8663f627c3c6d15b": 1795678796.2254696,
+    "f752d8937b32249e": 1795678796.2254696,
+    "1c20e49102a3947f": 1795678796.2254696,
+    "679b39a310c4eb0c": 1795678796.2254696,
+    "fa13b9fe521af4a2": 1795678796.2254696,
+    "6fc4acf64b8893cf": 1795678796.2254696,
+    "8ca4a9e9ef4692a4": 1795678796.2254696,
+    "2de3fb2d1bd333c8": 1795678796.2254696,
+    "87b9a09ebd7d34f9": 1795678796.2254696,
+    "daa9fa7695edac2a": 1795678796.2254696,
+    "fa05587771cc98c6": 1795678796.2254696,
+    "7311f46f45cd9521": 1795678796.2254696
   },
   "drafts": {
-    "da62a50139": {
-      "id": "da62a50139",
-      "created": 1795586992.1797917,
-      "headline": "GTA 6 Has Hidden Controls the Game Never Explains",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jVmlDSnRvT2FSTmNmcUtZQUE1U3Eta2pVNTRBR0RXVFRTOVN2eHdVZFJBMjJ2V1g1YTBNdU5LVDNlbWxURTk3NHlPZll3blNEcUFEOWU0cDdpQS1tdzRyWTZiUUVIT01ZRWc?oc=5",
-      "source": "IGN",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795586991/gta-bot/da62a50139-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795586991/gta-bot/da62a50139-0.jpg"
-      ],
-      "full_caption": "Some of GTA 6's best moves aren't in the tutorial. 🔍\n\nIGN has published a guide to controls the game doesn't spell out for you. It covers how to flip your car back over and how to give someone the finger, plus a few other lesser-known moves. Small tricks like these can save you in a pinch, and they make Leonida feel more alive.\n\nWhich hidden control do you wish you'd found sooner? Tell us below. 👇\n\nSource: IGN\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTATips #GamingTips #HiddenControls #GTAGuide #VideoGames",
-      "alt_text": "Graphic with the headline 'GTA 6 Has Hidden Controls the Game Never Explains' in the Tips & Tricks style of The Leonida Daily.",
-      "score": 8,
-      "reel_url": null,
-      "category": "TIPS & TRICKS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_11.jpg",
-      "text_message_id": 501
-    },
-    "396d1ce6ee": {
-      "id": "396d1ce6ee",
-      "created": 1795587021.0929701,
-      "headline": "Fastest Way to Clear the GTA 6 Map Fog: Take to the Sky",
-      "url": "https://www.polygon.com/gta-6-reveal-map-best-method-defog-tips/",
-      "source": "Polygon",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587017/gta-bot/396d1ce6ee-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587017/gta-bot/396d1ce6ee-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587017/gta-bot/396d1ce6ee-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587019/gta-bot/396d1ce6ee-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587019/gta-bot/396d1ce6ee-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795587020/gta-bot/396d1ce6ee-4.jpg"
-      ],
-      "full_caption": "Want to clear the fog off Leonida's huge map? Take to the air. ✈️\n\nPolygon's guide says a plane or helicopter is the quickest route. There's no traffic up there, and you can cross land and water in one go. Even so, expect it to take a couple of hours.\n\nSwipe for the best aircraft, the downsides and the no-fly zones to avoid.\n\nAre you a map-completionist, or do you leave the fog alone?\n\nSource: Polygon\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #ViceCity #RockstarGames #GTA6Tips #GTA6Guide #GTA #Gaming",
-      "alt_text": "Graphic with the headline about the fastest way to reveal the fogged map in GTA 6 by flying a plane or helicopter over Leonida.",
-      "score": 7,
-      "reel_url": null,
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Why fly?",
-          "text": "Aircraft need no key cloner and carry no trackers. Planes cross land and sea, the skies have no traffic, and there are plenty of planes and helicopters to swap into when fuel runs low."
-        },
-        {
-          "title": "Best ride: the Mammoth Dodo",
-          "text": "Polygon's pick is the Dodo seaplane. It's fast and fuel efficient, and it can land on flat ground or on water. Look for Dodos near hangars along the coast."
-        },
-        {
-          "title": "The downsides",
-          "text": "You can't use auto drive in aircraft, and at the time of writing you can't refuel them. When fuel is low, head to another aircraft. Helicopters often sit on tower roofs, so use the elevator."
-        },
-        {
-          "title": "Fly smart",
-          "text": "Crossing a fog border is enough to reveal the area. Avoid the yellow-tinted zones like Mile Zero Air Station and VCIA, where stealing aircraft brings a strong military response."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg",
-      "text_message_id": 507
-    },
     "8a64ef881b": {
       "id": "8a64ef881b",
       "created": 1795594154.3001873,
@@ -2333,52 +2286,68 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
       "text_message_id": 595
-    }
-  },
-  "queue": [
-    {
-      "id": "685eb3fc07",
-      "created": 1795619439.7243366,
-      "headline": "How to Rip an ATM Out of the Wall in GTA 6",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
+    },
+    "ddd5074659": {
+      "id": "ddd5074659",
+      "created": 1795678822.6581132,
+      "headline": "Rockstar Explains Why GTA 6 Missions Can't Be Replayed",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUMzUUhaaDItWC1LRXpuWUR1UzF3NExkM09IRzJPV056TFlvMFM2dVM2b2tvSDZxNHg3bk50SlFGSjYtT0ZYNVQ3QmdiMXI1QUhCbDF4ZWVKaTlMU3RzbEp5c3Y3dk9aRHNiODZhbDJKZ0dINFVQV2pfY181ekoxRFRjTU9CUkhlOTl2RWxVc1NycUY0UnNPZEE1QnpPZw?oc=5",
+      "source": "Kotaku",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678822/gta-bot/ddd5074659-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619407/gta-bot/685eb3fc07-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619408/gta-bot/685eb3fc07-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619409/gta-bot/685eb3fc07-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619410/gta-bot/685eb3fc07-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795619411/gta-bot/685eb3fc07-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678822/gta-bot/ddd5074659-0.jpg"
       ],
-      "full_caption": "Want to pull an ATM out of the wall in GTA 6? Here's the setup. 🏧\n\nYou need a winched vehicle and a dye pack jammer, which stops marked bills from bursting pink all over your loot. Hook the ATM, floor it, then smash it around to spill the cash boxes. PC Gamer's tester made about 11k per ATM, so it's decent but probably not the top earner.\n\nWould you use a winch truck for cash runs, or is there a better money method? 💸\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #GTA6Guide #GTA6Tips #GTAMoney #GamingNews",
-      "alt_text": "Graphic with the headline 'How to Rip an ATM Out of the Wall in GTA 6', announcing a guide to stealing ATMs with a winched vehicle.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795619438/gta-bot/685eb3fc07-reel.mp4",
+      "full_caption": "Replaying story missions in GTA 6? Rockstar has addressed it. 🎮\n\nAccording to Kotaku, Rockstar has explained why you can't replay GTA 6 story missions. The headline answers the big question, but we're holding off on details until the full explanation is confirmed.\n\nMission replay is a feature many players expect from open-world games, so this one matters for how you plan your playthrough.\n\nWould you have wanted a mission replay option, or does its absence not bother you?\n\nSource: Kotaku\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #LeonidaDaily #Leonida #GTANews #Gaming #GamingNews #OpenWorld",
+      "alt_text": "News graphic with the headline 'Rockstar Explains Why GTA 6 Missions Can't Be Replayed' in The Leonida Daily style.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
+      "text_message_id": 598
+    },
+    "93abd9950a": {
+      "id": "93abd9950a",
+      "created": 1795678840.2375565,
+      "headline": "GTA 6 guide: Free garage and pink Growler in LaPerle",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-aunties-place-location-laperle/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678836/gta-bot/93abd9950a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678836/gta-bot/93abd9950a-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678837/gta-bot/93abd9950a-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678838/gta-bot/93abd9950a-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678839/gta-bot/93abd9950a-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678839/gta-bot/93abd9950a-4.jpg"
+      ],
+      "full_caption": "A free garage and a hot pink supercar are waiting in LaPerle 🔑\n\nThe spot is Auntie's Place, a background restaurant that never shows on your map. Find the white building behind it, punch the code into the keypad by the garage door, and the Del Rio Boulevard Garage is yours, with a Pfister Growler inside. Keep the car, or sell it and use the garage for another ride.\n\nSwipe for the exact directions. Will you keep the pink Growler or sell it?\n\nSource: VGC\n\n#GTA6 #GrandTheftAuto6 #GTAVI #ViceCity #LaPerle #Leonida #GTA6Guide #GTA6Tips #RockstarGames #Gaming",
+      "alt_text": "Graphic with the headline about a free garage and hot pink Pfister Growler hidden in LaPerle, Vice City, in Grand Theft Auto 6.",
+      "score": 6,
+      "reel_url": null,
       "category": "GUIDE",
       "slides": [
         {
-          "title": "What You Need",
-          "text": "Two things: a winched vehicle to haul the ATM out of the wall, and a dye pack jammer. The jammer stops marked bills from exploding pink all over your cash. The jammer is unlocked through story progress."
+          "title": "Where is Auntie's Place?",
+          "text": "It's in LaPerle, a Vice City district, and it isn't marked on your map even once you've found it. Don't confuse it with Aunt Zola's Soul Food, which is a different restaurant."
         },
         {
-          "title": "Getting a Winch Truck",
-          "text": "You can steal one at the crop duster landing strip in Frogswater, or add a winch to any truck at a mod shop. A unique truck can also be taken from a warehouse robbery in Port Gellhorn."
+          "title": "How to spot it",
+          "text": "Auntie's Place is a background restaurant you can't enter. Look across the road, to the East, from Twa Ponya Tattoo and behind Aline's Thrift Store. It's a block West of Tyrone's place."
         },
         {
-          "title": "How to Pull It Off",
-          "text": "Reverse into the ATM and lower the hook until it attaches. Drive off at full speed. The alarm will bring the cops. Swerve and smash the ATM to spill the cash boxes, then kick them open and grab the marked bills."
+          "title": "The garage and the code",
+          "text": "Behind the restaurant is a white building with a locked garage door. Enter 92665 on the keypad next to it to unlock the Del Rio Boulevard Garage for free."
         },
         {
-          "title": "Is It Worth It?",
-          "text": "On tipped-off ATMs, which give three free targets with a 24-hour window, PC Gamer's tester got about 11k each. That's decent, but probably not the best earner unless you get efficient."
+          "title": "What you get",
+          "text": "Inside is a hot pink Pfister Growler. Keep it, or sell it and use the garage to store an extra vehicle."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
-      "text_message_id": 562,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795623040.3118005
-    },
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
+      "text_message_id": 604
+    }
+  },
+  "queue": [
     {
       "id": "982a0d79e0",
       "created": 1795626575.8939593,
@@ -2981,13 +2950,17 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
       "at": 1795673409.630835,
       "media_id": "18005697897009045"
+    },
+    {
+      "id": "685eb3fc07",
+      "headline": "How to Rip an ATM Out of the Wall in GTA 6",
+      "kind": "reel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
+      "at": 1795678785.8609385,
+      "media_id": "17930790267430578"
     }
   ],
   "drafts_sent": [
-    1795502370.92339,
-    1795502382.4516337,
-    1795505991.556393,
-    1795506010.5333176,
     1795520370.5190852,
     1795520392.0901902,
     1795523988.8631952,
@@ -3015,13 +2988,13 @@
     1795623135.4150064,
     1795626580.060153,
     1795673472.785448,
-    1795673516.726161
+    1795673516.726161,
+    1795678824.5775626,
+    1795678842.2972436
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996652/Grassrivers_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996686/Jason_Duval_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996665/Leonida_Keys_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
@@ -3049,6 +3022,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg"
   ]
 }
