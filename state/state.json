@@ -2,7 +2,7 @@
   "telegram_offset": 889593714,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795702118.035925,
+  "last_scout": 1795705714.2179286,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2142,7 +2142,25 @@
     "ba519dd564777a99": 1795702128.7743025,
     "ce19636e12e6853f": 1795702128.7743025,
     "f1093a0e6c18ea2b": 1795702128.7743025,
-    "1899c06201fa14fc": 1795702128.7743025
+    "1899c06201fa14fc": 1795702128.7743025,
+    "afb507b1239589c1": 1795705723.4584365,
+    "0de884b48bbb1def": 1795705723.4584365,
+    "dd6c76755f8c04de": 1795705723.4584365,
+    "992d4cfee59b3658": 1795705723.4584365,
+    "ab6fd09a88881f9a": 1795705723.4584365,
+    "3658c7467cb835c5": 1795705723.4584365,
+    "5b7a1482808b636e": 1795705723.4584365,
+    "8f3927263f496591": 1795705723.4584365,
+    "938c52fe5502a22e": 1795705723.4584365,
+    "8674032aa4d537df": 1795705723.4584365,
+    "380f8dcb71bb95a3": 1795705723.4584365,
+    "27382cf63bf49466": 1795705723.4584365,
+    "caa871c86ae4e4b7": 1795705723.4584365,
+    "bb6b230f743b6663": 1795705723.4584365,
+    "be4a8037e3412683": 1795705723.4584365,
+    "2a50b654d71d8936": 1795705723.4584365,
+    "e1c18fbf240164d8": 1795705723.4584365,
+    "bf14dbc267c8cd7a": 1795705723.4584365
   },
   "drafts": {
     "9199b24968": {
@@ -2359,6 +2377,86 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
       "text_message_id": 627
+    },
+    "43c4c7908b": {
+      "id": "43c4c7908b",
+      "created": 1795705769.430187,
+      "headline": "How to Steal Andrew Node's Supercharged Truffade Thrax",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705740/gta-bot/43c4c7908b-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705740/gta-bot/43c4c7908b-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705740/gta-bot/43c4c7908b-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705741/gta-bot/43c4c7908b-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705742/gta-bot/43c4c7908b-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705742/gta-bot/43c4c7908b-4.jpg"
+      ],
+      "full_caption": "Want the fastest car in GTA 6? 🚗 Andrew Node's supercharged Truffade Thrax is up for grabs, but you have to earn it. Scan ten No Flusher graffiti tags around Vice Beach, find a secret hideout, then raid a house on Starfish Island. Bring garage space and cash, because registering it isn't free. Have you grabbed it yet?\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #TruffadeThrax #GTA6Tips #GTA6Guide #RockstarGames #Gaming",
+      "alt_text": "Graphic with the headline about how to steal Andrew Node's supercharged Truffade Thrax in GTA 6.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795705768/gta-bot/43c4c7908b-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "Step 1: Scan the graffiti",
+          "text": "Find ten No Flusher tags, which look like little blue toilets, around Vice Beach in eastern Vice City. Scan each one with your WAiNK It app."
+        },
+        {
+          "title": "Step 2: Find the hideout",
+          "text": "Once all ten are scanned, Cal's chat goes dark and a new message reveals a hideout near the tenth tag at Oldby Island. The evidence inside points to Andrew Node's house on Starfish Island."
+        },
+        {
+          "title": "Step 3: Hit Starfish Island",
+          "text": "The island is a gated community with security, so go by boat. Dock at the jetty of the backwards-L-shaped house, then head round the left side to the white garage."
+        },
+        {
+          "title": "Step 4: Know the cost",
+          "text": "Drive the car off the island and register it with Randy for 70k. You could sell it for 20k instead, but it's a unique car. Make sure you have garage space and cash first."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
+      "text_message_id": 636
+    },
+    "ead92669f5": {
+      "id": "ead92669f5",
+      "created": 1795705789.6150181,
+      "headline": "GTA 6 Black Friday: No US Discount, UK Gets a Price Cut",
+      "url": "https://www.gamesradar.com/live/news/black-friday-gta-6-deals-live/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705786/gta-bot/ead92669f5-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705786/gta-bot/ead92669f5-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705787/gta-bot/ead92669f5-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705787/gta-bot/ead92669f5-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705788/gta-bot/ead92669f5-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705789/gta-bot/ead92669f5-4.jpg"
+      ],
+      "full_caption": "Hunting for a Black Friday price on GTA 6? Here's the reality check. 🛒\n\nGamesRadar+ found no US discount on the game itself. In the UK, Amazon has the boxed code at £64, and a PSN voucher at ShopTo is £10 off. Gear like controllers, headsets and chairs is seeing cuts, and the sales are expected to run through the weekend.\n\nDid you grab GTA 6 at full price, or are you waiting for a deal?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #Leonida #BlackFriday #GamingDeals #PS5 #Xbox #RockstarGames #CyberMonday #TheLeonidaDaily",
+      "alt_text": "Graphic with a Black Friday deals headline about GTA 6 pricing in the US and UK.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "No US discount on the game",
+          "text": "GamesRadar+ says GTA 6 isn't on offer at any big US retailer. Stock looks good except at Walmart and Target, and Xbox copies are available at the same price as PS5."
+        },
+        {
+          "title": "UK shoppers get a small break",
+          "text": "Amazon UK has the boxed code down to £64. ShopTo has a £70 PSN voucher reduced to £60, a cheaper route to the digital version."
+        },
+        {
+          "title": "Gear is where the deals are",
+          "text": "The writer flags discounts on the DualSense Edge in the UK and US, plus picks like the GameSir G7 Pro, Fractal Scape and Arctis Nova 7 Gen 2 headsets, and the Corsair TC500 Luxe chair."
+        },
+        {
+          "title": "How long will deals last?",
+          "text": "Discounts started a week or two before Black Friday and should last through the weekend into Cyber Monday. Stock may run out sooner given the renewed interest in gaming."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
+      "text_message_id": 642
     }
   },
   "queue": [
@@ -3023,13 +3121,13 @@
     1795691369.0845857,
     1795695002.4215596,
     1795698540.5569503,
-    1795698579.4066975
+    1795698579.4066975,
+    1795705772.9086232,
+    1795705791.1478431
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996670/Leonida_Keys_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996740/Jason_and_Lucia_12.jpg",
@@ -3057,6 +3155,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Vice_City_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg"
   ]
 }
