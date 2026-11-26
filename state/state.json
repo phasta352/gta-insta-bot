@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593711,
+  "telegram_offset": 889593714,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795678787.7094564,
@@ -2070,25 +2070,6 @@
     "7311f46f45cd9521": 1795678796.2254696
   },
   "drafts": {
-    "8a64ef881b": {
-      "id": "8a64ef881b",
-      "created": 1795594154.3001873,
-      "headline": "GTA 6 Hands Out Free $5,000 at Chapter 2 Start",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTmRyYm5oemdBbVJhUEl0dDlSamd3djNWLS1OeTJqU3VPZkw2SmVjeUFHUkhseXM0Vl9ocnZyQ3hhRkZiTXN2WDBUYTZMakxFR0dGZHBBcFZYNVY3OW9NbE9qZWxMODZ5b0hWUGJscW9nTGtaeWhSZGRsbl9NVEhXRkluWmlLN1k?oc=5",
-      "source": "IGN",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795594153/gta-bot/8a64ef881b-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795594153/gta-bot/8a64ef881b-0.jpg"
-      ],
-      "full_caption": "Free cash alert for Leonida! 💸\n\nAccording to IGN, GTA 6 players can pick up a free $5,000 as soon as Chapter 2 begins. It's an easy early boost for your wallet, so it's worth knowing about before you start spending.\n\nWe only have IGN's headline to go on, so check their full guide for the exact steps before you rely on it.\n\nWill you spend it right away or save it for something big?\n\nSource: IGN\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTATips #GamingNews #VideoGameTips #OpenWorld #GTAMoney",
-      "alt_text": "News graphic with the headline about a free $5,000 reward in GTA 6 when Chapter 2 begins.",
-      "score": 8,
-      "reel_url": null,
-      "category": "TIPS & TRICKS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
-      "text_message_id": 510
-    },
     "66b4458a3d": {
       "id": "66b4458a3d",
       "created": 1795601439.091578,
@@ -2206,105 +2187,6 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
       "text_message_id": 571
-    },
-    "e668bb75ea": {
-      "id": "e668bb75ea",
-      "created": 1795673467.905925,
-      "headline": "GTA 6 Bank Vaults: The Trick to Cracking Them Open",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673438/gta-bot/e668bb75ea-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673439/gta-bot/e668bb75ea-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673441/gta-bot/e668bb75ea-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673442/gta-bot/e668bb75ea-4.jpg"
-      ],
-      "full_caption": "Want a $100,000+ score in GTA 6? Skip the drill and let the armored car driver do the work. 🏦\n\nVault doors can't be forced in open-world bank jobs. A guard from an armored car has to open one for you, so tail the truck, wait until he's deep inside, then make your move. Swipe for the full plan.\n\nWhat's your go-to getaway car after a big bank job? 🚗\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTA6Tips #GTA6Guide #BankHeist #JasonAndLucia",
-      "alt_text": "Graphic with the headline 'GTA 6 Bank Vaults: The Trick to Cracking Them Open' announcing a guide to big bank jobs in Vice City.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673466/gta-bot/e668bb75ea-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "The vault trick",
-          "text": "Vault doors can't be broken into during open-world bank robberies. Only an armored car driver can open one. Follow him in, wait until he's deep inside the bank, then start the robbery."
-        },
-        {
-          "title": "Finding an armored car",
-          "text": "Patrol near banks with vaults, or pay fence Yasmani $10,000 for a tip that marks two armored cars with pink map icons. The Robberies tab lists every big bank on your map."
-        },
-        {
-          "title": "Grab the bonus loot",
-          "text": "Shoot safe deposit boxes open, or blow them all at once with a grenade or sticky bomb. Also hit the cash drawers and safes. Stick a bomb on the armored car's rear door so it can't despawn."
-        },
-        {
-          "title": "Pro tips for the job",
-          "text": "Bring both Jason and Lucia to carry up to four bags. Use silenced weapons and shoot out the cloud cameras. An alarm means an instant four-star wanted level, so plan your escape first."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
-      "text_message_id": 588
-    },
-    "7d5ffc8151": {
-      "id": "7d5ffc8151",
-      "created": 1795673512.1595612,
-      "headline": "Marbelle Hotel: Silent Hill Easter Egg and Safe Code",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-marbelle-hotel-location-and-safe-code-how-to-find-the-silent-hill-easter-egg/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673485/gta-bot/7d5ffc8151-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673487/gta-bot/7d5ffc8151-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673488/gta-bot/7d5ffc8151-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673489/gta-bot/7d5ffc8151-4.jpg"
-      ],
-      "full_caption": "Vice City has a creepy secret, and it's hiding in an abandoned hotel. 🌫️\n\nThe Marbelle Hotel in southern Crosstown hides a Silent Hill-inspired Easter egg with flickering lights, strange symbols and fog over the city. Finish it and you can open a safe on the ground floor for a cash and watch reward.\n\nSwipe for the location, the trigger steps and the code.\n\nWill you brave the Marbelle Hotel solo or with a friend?\n\nSource: VGC\n\n#GTAVI #GTA6 #ViceCity #Leonida #RockstarGames #GTA6Guide #EasterEgg #SilentHill #GamingNews #GTAcommunity",
-      "alt_text": "Graphic about the Marbelle Hotel, an abandoned Vice City building hiding a Silent Hill-inspired Easter egg and a safe in GTA 6.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673511/gta-bot/7d5ffc8151-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where to find the Marbelle Hotel",
-          "text": "It's in southern Crosstown, Vice City, on NW 8th Street near the Nine1Nine nightclub, about a block east of Pawn & Gun. Look for boarded windows and a For Sale sign."
-        },
-        {
-          "title": "Getting inside",
-          "text": "The front door is locked, so go around to the back and use the accessible door. The safe you're after is on the ground floor."
-        },
-        {
-          "title": "Triggering the Easter egg",
-          "text": "Head upstairs until a door opens by itself, then keep going towards the roof. Lights flicker out, red symbols appear and whispers play. Kick down the roof door to see Vice City covered in fog."
-        },
-        {
-          "title": "Safe code and rewards",
-          "text": "The Old Note on the roof has the six-digit code circled: 955214. The safe holds cash and a Crowex Ambassador 'Breakfast' watch."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
-      "text_message_id": 595
-    },
-    "ddd5074659": {
-      "id": "ddd5074659",
-      "created": 1795678822.6581132,
-      "headline": "Rockstar Explains Why GTA 6 Missions Can't Be Replayed",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUMzUUhaaDItWC1LRXpuWUR1UzF3NExkM09IRzJPV056TFlvMFM2dVM2b2tvSDZxNHg3bk50SlFGSjYtT0ZYNVQ3QmdiMXI1QUhCbDF4ZWVKaTlMU3RzbEp5c3Y3dk9aRHNiODZhbDJKZ0dINFVQV2pfY181ekoxRFRjTU9CUkhlOTl2RWxVc1NycUY0UnNPZEE1QnpPZw?oc=5",
-      "source": "Kotaku",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678822/gta-bot/ddd5074659-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678822/gta-bot/ddd5074659-0.jpg"
-      ],
-      "full_caption": "Replaying story missions in GTA 6? Rockstar has addressed it. 🎮\n\nAccording to Kotaku, Rockstar has explained why you can't replay GTA 6 story missions. The headline answers the big question, but we're holding off on details until the full explanation is confirmed.\n\nMission replay is a feature many players expect from open-world games, so this one matters for how you plan your playthrough.\n\nWould you have wanted a mission replay option, or does its absence not bother you?\n\nSource: Kotaku\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #LeonidaDaily #Leonida #GTANews #Gaming #GamingNews #OpenWorld",
-      "alt_text": "News graphic with the headline 'Rockstar Explains Why GTA 6 Missions Can't Be Replayed' in The Leonida Daily style.",
-      "score": 7,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
-      "text_message_id": 598
     },
     "93abd9950a": {
       "id": "93abd9950a",
@@ -2433,6 +2315,200 @@
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795632149.5787961
+    },
+    {
+      "id": "e668bb75ea",
+      "created": 1795673467.905925,
+      "headline": "GTA 6 Bank Vaults: The Trick to Cracking Them Open",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673438/gta-bot/e668bb75ea-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673439/gta-bot/e668bb75ea-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673441/gta-bot/e668bb75ea-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673442/gta-bot/e668bb75ea-4.jpg"
+      ],
+      "full_caption": "Want a $100,000+ score in GTA 6? Skip the drill and let the armored car driver do the work. 🏦\n\nVault doors can't be forced in open-world bank jobs. A guard from an armored car has to open one for you, so tail the truck, wait until he's deep inside, then make your move. Swipe for the full plan.\n\nWhat's your go-to getaway car after a big bank job? 🚗\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTA6Tips #GTA6Guide #BankHeist #JasonAndLucia",
+      "alt_text": "Graphic with the headline 'GTA 6 Bank Vaults: The Trick to Cracking Them Open' announcing a guide to big bank jobs in Vice City.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673466/gta-bot/e668bb75ea-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "The vault trick",
+          "text": "Vault doors can't be broken into during open-world bank robberies. Only an armored car driver can open one. Follow him in, wait until he's deep inside the bank, then start the robbery."
+        },
+        {
+          "title": "Finding an armored car",
+          "text": "Patrol near banks with vaults, or pay fence Yasmani $10,000 for a tip that marks two armored cars with pink map icons. The Robberies tab lists every big bank on your map."
+        },
+        {
+          "title": "Grab the bonus loot",
+          "text": "Shoot safe deposit boxes open, or blow them all at once with a grenade or sticky bomb. Also hit the cash drawers and safes. Stick a bomb on the armored car's rear door so it can't despawn."
+        },
+        {
+          "title": "Pro tips for the job",
+          "text": "Bring both Jason and Lucia to carry up to four bags. Use silenced weapons and shoot out the cloud cameras. An alarm means an instant four-star wanted level, so plan your escape first."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
+      "text_message_id": 588,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795680816.3983376
+    },
+    {
+      "id": "e668bb75ea",
+      "created": 1795673467.905925,
+      "headline": "GTA 6 Bank Vaults: The Trick to Cracking Them Open",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+      "source": "PC Gamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673438/gta-bot/e668bb75ea-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673439/gta-bot/e668bb75ea-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673441/gta-bot/e668bb75ea-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673442/gta-bot/e668bb75ea-4.jpg"
+      ],
+      "full_caption": "Want a $100,000+ score in GTA 6? Skip the drill and let the armored car driver do the work. 🏦\n\nVault doors can't be forced in open-world bank jobs. A guard from an armored car has to open one for you, so tail the truck, wait until he's deep inside, then make your move. Swipe for the full plan.\n\nWhat's your go-to getaway car after a big bank job? 🚗\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTA6Tips #GTA6Guide #BankHeist #JasonAndLucia",
+      "alt_text": "Graphic with the headline 'GTA 6 Bank Vaults: The Trick to Cracking Them Open' announcing a guide to big bank jobs in Vice City.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673466/gta-bot/e668bb75ea-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "The vault trick",
+          "text": "Vault doors can't be broken into during open-world bank robberies. Only an armored car driver can open one. Follow him in, wait until he's deep inside the bank, then start the robbery."
+        },
+        {
+          "title": "Finding an armored car",
+          "text": "Patrol near banks with vaults, or pay fence Yasmani $10,000 for a tip that marks two armored cars with pink map icons. The Robberies tab lists every big bank on your map."
+        },
+        {
+          "title": "Grab the bonus loot",
+          "text": "Shoot safe deposit boxes open, or blow them all at once with a grenade or sticky bomb. Also hit the cash drawers and safes. Stick a bomb on the armored car's rear door so it can't despawn."
+        },
+        {
+          "title": "Pro tips for the job",
+          "text": "Bring both Jason and Lucia to carry up to four bags. Use silenced weapons and shoot out the cloud cameras. An alarm means an instant four-star wanted level, so plan your escape first."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
+      "text_message_id": 588,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795680816.3983397
+    },
+    {
+      "id": "7d5ffc8151",
+      "created": 1795673512.1595612,
+      "headline": "Marbelle Hotel: Silent Hill Easter Egg and Safe Code",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-marbelle-hotel-location-and-safe-code-how-to-find-the-silent-hill-easter-egg/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673485/gta-bot/7d5ffc8151-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673487/gta-bot/7d5ffc8151-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673488/gta-bot/7d5ffc8151-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673489/gta-bot/7d5ffc8151-4.jpg"
+      ],
+      "full_caption": "Vice City has a creepy secret, and it's hiding in an abandoned hotel. 🌫️\n\nThe Marbelle Hotel in southern Crosstown hides a Silent Hill-inspired Easter egg with flickering lights, strange symbols and fog over the city. Finish it and you can open a safe on the ground floor for a cash and watch reward.\n\nSwipe for the location, the trigger steps and the code.\n\nWill you brave the Marbelle Hotel solo or with a friend?\n\nSource: VGC\n\n#GTAVI #GTA6 #ViceCity #Leonida #RockstarGames #GTA6Guide #EasterEgg #SilentHill #GamingNews #GTAcommunity",
+      "alt_text": "Graphic about the Marbelle Hotel, an abandoned Vice City building hiding a Silent Hill-inspired Easter egg and a safe in GTA 6.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673511/gta-bot/7d5ffc8151-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where to find the Marbelle Hotel",
+          "text": "It's in southern Crosstown, Vice City, on NW 8th Street near the Nine1Nine nightclub, about a block east of Pawn & Gun. Look for boarded windows and a For Sale sign."
+        },
+        {
+          "title": "Getting inside",
+          "text": "The front door is locked, so go around to the back and use the accessible door. The safe you're after is on the ground floor."
+        },
+        {
+          "title": "Triggering the Easter egg",
+          "text": "Head upstairs until a door opens by itself, then keep going towards the roof. Lights flicker out, red symbols appear and whispers play. Kick down the roof door to see Vice City covered in fog."
+        },
+        {
+          "title": "Safe code and rewards",
+          "text": "The Old Note on the roof has the six-digit code circled: 955214. The safe holds cash and a Crowex Ambassador 'Breakfast' watch."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
+      "text_message_id": 595,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795680817.366226
+    },
+    {
+      "id": "7d5ffc8151",
+      "created": 1795673512.1595612,
+      "headline": "Marbelle Hotel: Silent Hill Easter Egg and Safe Code",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-marbelle-hotel-location-and-safe-code-how-to-find-the-silent-hill-easter-egg/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673485/gta-bot/7d5ffc8151-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673487/gta-bot/7d5ffc8151-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673488/gta-bot/7d5ffc8151-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673489/gta-bot/7d5ffc8151-4.jpg"
+      ],
+      "full_caption": "Vice City has a creepy secret, and it's hiding in an abandoned hotel. 🌫️\n\nThe Marbelle Hotel in southern Crosstown hides a Silent Hill-inspired Easter egg with flickering lights, strange symbols and fog over the city. Finish it and you can open a safe on the ground floor for a cash and watch reward.\n\nSwipe for the location, the trigger steps and the code.\n\nWill you brave the Marbelle Hotel solo or with a friend?\n\nSource: VGC\n\n#GTAVI #GTA6 #ViceCity #Leonida #RockstarGames #GTA6Guide #EasterEgg #SilentHill #GamingNews #GTAcommunity",
+      "alt_text": "Graphic about the Marbelle Hotel, an abandoned Vice City building hiding a Silent Hill-inspired Easter egg and a safe in GTA 6.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673511/gta-bot/7d5ffc8151-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where to find the Marbelle Hotel",
+          "text": "It's in southern Crosstown, Vice City, on NW 8th Street near the Nine1Nine nightclub, about a block east of Pawn & Gun. Look for boarded windows and a For Sale sign."
+        },
+        {
+          "title": "Getting inside",
+          "text": "The front door is locked, so go around to the back and use the accessible door. The safe you're after is on the ground floor."
+        },
+        {
+          "title": "Triggering the Easter egg",
+          "text": "Head upstairs until a door opens by itself, then keep going towards the roof. Lights flicker out, red symbols appear and whispers play. Kick down the roof door to see Vice City covered in fog."
+        },
+        {
+          "title": "Safe code and rewards",
+          "text": "The Old Note on the roof has the six-digit code circled: 955214. The safe holds cash and a Crowex Ambassador 'Breakfast' watch."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
+      "text_message_id": 595,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795680817.36623
+    },
+    {
+      "id": "ddd5074659",
+      "created": 1795678822.6581132,
+      "headline": "Rockstar Explains Why GTA 6 Missions Can't Be Replayed",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUMzUUhaaDItWC1LRXpuWUR1UzF3NExkM09IRzJPV056TFlvMFM2dVM2b2tvSDZxNHg3bk50SlFGSjYtT0ZYNVQ3QmdiMXI1QUhCbDF4ZWVKaTlMU3RzbEp5c3Y3dk9aRHNiODZhbDJKZ0dINFVQV2pfY181ekoxRFRjTU9CUkhlOTl2RWxVc1NycUY0UnNPZEE1QnpPZw?oc=5",
+      "source": "Kotaku",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678822/gta-bot/ddd5074659-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678822/gta-bot/ddd5074659-0.jpg"
+      ],
+      "full_caption": "Replaying story missions in GTA 6? Rockstar has addressed it. 🎮\n\nAccording to Kotaku, Rockstar has explained why you can't replay GTA 6 story missions. The headline answers the big question, but we're holding off on details until the full explanation is confirmed.\n\nMission replay is a feature many players expect from open-world games, so this one matters for how you plan your playthrough.\n\nWould you have wanted a mission replay option, or does its absence not bother you?\n\nSource: Kotaku\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #LeonidaDaily #Leonida #GTANews #Gaming #GamingNews #OpenWorld",
+      "alt_text": "News graphic with the headline 'Rockstar Explains Why GTA 6 Missions Can't Be Replayed' in The Leonida Daily style.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
+      "text_message_id": 598,
+      "kind": "carousel",
+      "post_now": false,
+      "approved_at": 1795680818.3408446
     }
   ],
   "published": [
