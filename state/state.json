@@ -2,7 +2,7 @@
   "telegram_offset": 889593714,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795691322.163581,
+  "last_scout": 1795694967.574131,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2098,7 +2098,19 @@
     "d6ded6e276ae5f1b": 1795691330.7216005,
     "ed23bf9f60cacd70": 1795691330.7216005,
     "f35d76e529c37d2d": 1795691330.7216005,
-    "5b38c8fdf3e999cc": 1795691330.7216005
+    "5b38c8fdf3e999cc": 1795691330.7216005,
+    "ae76db3b06f484bc": 1795694976.3917856,
+    "1e0c839fec8b1dbe": 1795694976.3917856,
+    "269a5954b1070327": 1795694976.3917856,
+    "1d0972bf6af9c82d": 1795694976.3917856,
+    "d628719561819649": 1795694976.3917856,
+    "f05217fb2a14d6e9": 1795694976.3917856,
+    "9aa1b6838fcecab6": 1795694976.3917856,
+    "a429a3c3b6c2c383": 1795694976.3917856,
+    "02955eca761c853a": 1795694976.3917856,
+    "87539221435addba": 1795694976.3917856,
+    "91261bc2bd2353e8": 1795694976.3917856,
+    "4cbe69af05d83a23": 1795694976.3917856
   },
   "drafts": {
     "9199b24968": {
@@ -2237,52 +2249,28 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
       "text_message_id": 616
+    },
+    "66f96de3df": {
+      "id": "66f96de3df",
+      "created": 1795695001.2799783,
+      "headline": "GTA 6 bird-watching gets a nod from top US birders",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmI0cFlvaXBVSzdId2RNUThvS0N1Zy0zaW9zRWJQSGl1THB2YWdJbkFfcC0tRE9ZcjItb09IVElpS2hhcmFaLUxWUHh1eG4zQmJuUlc1ZDZ0T3FYZEFOVDdTNC1oNDNrRjhZamJGNG1GX0s3RC13NGduMGlJNXhxZnpHTnFZekhzYng3M2RtNHktTUNlODdxdkdn?oc=5",
+      "source": "Business Insider",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795695000/gta-bot/66f96de3df-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795695000/gta-bot/66f96de3df-0.jpg"
+      ],
+      "full_caption": "Leonida's wildlife just earned some serious expert attention. 🦩\n\nA Business Insider report says bird-watching in GTA 6 has the approval of some of America's top birders. Only the headline was available to us, so details on what the birders saw or how the activity works are still to be confirmed. It's still a fun sign that the game's nature side is catching eyes outside the usual gaming crowd.\n\nWould you spend time spotting birds in Leonida, or are you all about the chaos?\n\nSource: Business Insider\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Leonida #RockstarGames #GTA #GTANews #Birdwatching #Gaming #VideoGames",
+      "alt_text": "News graphic with the headline about GTA 6 bird-watching being approved by top American birders.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_06.jpg",
+      "text_message_id": 619
     }
   },
   "queue": [
-    {
-      "id": "e668bb75ea",
-      "created": 1795673467.905925,
-      "headline": "GTA 6 Bank Vaults: The Trick to Cracking Them Open",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673438/gta-bot/e668bb75ea-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673439/gta-bot/e668bb75ea-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673441/gta-bot/e668bb75ea-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673442/gta-bot/e668bb75ea-4.jpg"
-      ],
-      "full_caption": "Want a $100,000+ score in GTA 6? Skip the drill and let the armored car driver do the work. 🏦\n\nVault doors can't be forced in open-world bank jobs. A guard from an armored car has to open one for you, so tail the truck, wait until he's deep inside, then make your move. Swipe for the full plan.\n\nWhat's your go-to getaway car after a big bank job? 🚗\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTA6Tips #GTA6Guide #BankHeist #JasonAndLucia",
-      "alt_text": "Graphic with the headline 'GTA 6 Bank Vaults: The Trick to Cracking Them Open' announcing a guide to big bank jobs in Vice City.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673466/gta-bot/e668bb75ea-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "The vault trick",
-          "text": "Vault doors can't be broken into during open-world bank robberies. Only an armored car driver can open one. Follow him in, wait until he's deep inside the bank, then start the robbery."
-        },
-        {
-          "title": "Finding an armored car",
-          "text": "Patrol near banks with vaults, or pay fence Yasmani $10,000 for a tip that marks two armored cars with pink map icons. The Robberies tab lists every big bank on your map."
-        },
-        {
-          "title": "Grab the bonus loot",
-          "text": "Shoot safe deposit boxes open, or blow them all at once with a grenade or sticky bomb. Also hit the cash drawers and safes. Stick a bomb on the armored car's rear door so it can't despawn."
-        },
-        {
-          "title": "Pro tips for the job",
-          "text": "Bring both Jason and Lucia to carry up to four bags. Use silenced weapons and shoot out the cloud cameras. An alarm means an instant four-star wanted level, so plan your escape first."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
-      "text_message_id": 588,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795680816.3983376
-    },
     {
       "id": "e668bb75ea",
       "created": 1795673467.905925,
@@ -2974,11 +2962,17 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/",
       "at": 1795689589.9052196,
       "media_id": "18057409628593496"
+    },
+    {
+      "id": "e668bb75ea",
+      "headline": "GTA 6 Bank Vaults: The Trick to Cracking Them Open",
+      "kind": "carousel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+      "at": 1795694966.3000124,
+      "media_id": "18190260658418975"
     }
   ],
   "drafts_sent": [
-    1795520370.5190852,
-    1795520392.0901902,
     1795523988.8631952,
     1795524029.1495318,
     1795531152.4800353,
@@ -3009,12 +3003,12 @@
     1795678842.2972436,
     1795686381.2933478,
     1795691358.6597676,
-    1795691369.0845857
+    1795691369.0845857,
+    1795695002.4215596
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996642/Vice_City_27.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Boobie_Ike_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996670/Leonida_Keys_02.jpg",
@@ -3043,6 +3037,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_14.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_06.jpg"
   ]
 }
