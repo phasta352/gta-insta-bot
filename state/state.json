@@ -2,7 +2,7 @@
   "telegram_offset": 889593714,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795686344.6760771,
+  "last_scout": 1795691322.163581,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2082,7 +2082,23 @@
     "4cc53cdd60eed800": 1795686352.3012388,
     "cec4af951214cca9": 1795686352.3012388,
     "50a337a0fc50eed6": 1795686352.3012388,
-    "255f7ecf98dacc20": 1795686352.3012388
+    "255f7ecf98dacc20": 1795686352.3012388,
+    "0bbeef125698dd5b": 1795691330.7216005,
+    "96b078447aa2fd4c": 1795691330.7216005,
+    "eda1ed1d3d460bb7": 1795691330.7216005,
+    "787d5c684f9ce85e": 1795691330.7216005,
+    "8a4485eebc2943e9": 1795691330.7216005,
+    "df575ff336eb401e": 1795691330.7216005,
+    "5e60fd9ba76d5f08": 1795691330.7216005,
+    "d02c071049bd28cc": 1795691330.7216005,
+    "3a483a96c5159878": 1795691330.7216005,
+    "622174804aebcc33": 1795691330.7216005,
+    "f398ccc7f0fc6da2": 1795691330.7216005,
+    "f8d60c4579ffb888": 1795691330.7216005,
+    "d6ded6e276ae5f1b": 1795691330.7216005,
+    "ed23bf9f60cacd70": 1795691330.7216005,
+    "f35d76e529c37d2d": 1795691330.7216005,
+    "5b38c8fdf3e999cc": 1795691330.7216005
   },
   "drafts": {
     "eee0021317": {
@@ -2223,6 +2239,44 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg",
       "text_message_id": 611
+    },
+    "c1f6535b1a": {
+      "id": "c1f6535b1a",
+      "created": 1795691357.314159,
+      "headline": "The Guardian Picks 7 Beautiful Spots in GTA VI",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmJzd045cnY3N1B4dVY1YVYteFRraUc1VGZaRVFMUFl3VVBlUFZoVlRiUGs1bzY0UUdtSmVkUmN2bGpKYm1HdEVZLURla1NDVG8zcGJIeTRfYkFtOEYwOE5qcmdzMloteWZKQklOdDE4TnVkVTBjRUFoZVViZF92dHNTMzJJWi1yT2VZeXh5VWtYTUdISkotTDJELTNrUG1iakNNX05qMmszRnNLZXVST0VYZ0xXdDF3Q0pZZEtfdG5iWDQ3TnhLZmJLWWZQSmRaY0E?oc=5",
+      "source": "The Guardian",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795691356/gta-bot/c1f6535b1a-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795691356/gta-bot/c1f6535b1a-0.jpg"
+      ],
+      "full_caption": "Time to plan your Leonida sightseeing tour 🌴\n\nThe Guardian has put together a list of seven beautiful places to visit in GTA VI. According to its headline, the picks range from mountain trails to a relaxed afternoon at the zoo.\n\nIt's a nice reminder that the game is about more than chaos. Its world is also built to be explored and soaked in.\n\nWe only have the headline to go on, so we can't say which locations made the list. Check the full article for the details.\n\nWhere is the first place you want to visit in Leonida?\n\nSource: The Guardian\n\n#GTAVI #GTA6 #Leonida #RockstarGames #GrandTheftAutoVI #GTANews #ViceCity #Gaming #OpenWorld #VideoGames",
+      "alt_text": "News graphic with the headline 'The Guardian Picks 7 Beautiful Spots in GTA VI' for The Leonida Daily.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_14.jpg",
+      "text_message_id": 614
+    },
+    "bfb26c25ee": {
+      "id": "bfb26c25ee",
+      "created": 1795691367.835384,
+      "headline": "GTA VI reportedly features a Buc-ee's parody",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObS16MDdMbDZXNW82YnctMlZCVEVsdnkxUW0wekR0ckNfalJSa204RFB0RTdNNHRILVNwZ2lqQWVDWWMxUE11b2ZQOEV5TVN2Nm10eXNXdDdSUWhGQWdxYW9BaUg3akc0MkJMTWwxYjdTY21xSW84Y2hDOXJCdmprWVNKS2I?oc=5",
+      "source": "Chron",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795691367/gta-bot/bfb26c25ee-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795691367/gta-bot/bfb26c25ee-0.jpg"
+      ],
+      "full_caption": "Leonida's roadside stops might look a little familiar. 🛣️\n\nAccording to Chron, Grand Theft Auto VI includes a parody of Buc-ee's. Only the headline was available to us, so details on where it appears or what it's called are still to be confirmed. Rockstar is known for poking fun at real-world brands, so a spoof like this would fit the series.\n\nWould you stop for a snack run in Leonida?\n\nSource: Chron\n\n#GTAVI #GTA6 #GrandTheftAuto #RockstarGames #Leonida #ViceCity #GTANews #Gaming #GamingNews #BucEes",
+      "alt_text": "News graphic with the text 'GTA VI reportedly features a Buc-ee's parody' in the style of The Leonida Daily.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
+      "text_message_id": 616
     }
   },
   "queue": [
@@ -2993,13 +3047,13 @@
     1795673516.726161,
     1795678824.5775626,
     1795678842.2972436,
-    1795686381.2933478
+    1795686381.2933478,
+    1795691358.6597676,
+    1795691369.0845857
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996665/Leonida_Keys_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996642/Vice_City_27.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Boobie_Ike_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_06.jpg",
@@ -3027,6 +3081,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_14.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg"
   ]
 }
