@@ -2401,49 +2401,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
       "text_message_id": 595,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795680817.366226
-    },
-    {
-      "id": "7d5ffc8151",
-      "created": 1795673512.1595612,
-      "headline": "Marbelle Hotel: Silent Hill Easter Egg and Safe Code",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-marbelle-hotel-location-and-safe-code-how-to-find-the-silent-hill-easter-egg/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673484/gta-bot/7d5ffc8151-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673485/gta-bot/7d5ffc8151-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673487/gta-bot/7d5ffc8151-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673488/gta-bot/7d5ffc8151-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673489/gta-bot/7d5ffc8151-4.jpg"
-      ],
-      "full_caption": "Vice City has a creepy secret, and it's hiding in an abandoned hotel. 🌫️\n\nThe Marbelle Hotel in southern Crosstown hides a Silent Hill-inspired Easter egg with flickering lights, strange symbols and fog over the city. Finish it and you can open a safe on the ground floor for a cash and watch reward.\n\nSwipe for the location, the trigger steps and the code.\n\nWill you brave the Marbelle Hotel solo or with a friend?\n\nSource: VGC\n\n#GTAVI #GTA6 #ViceCity #Leonida #RockstarGames #GTA6Guide #EasterEgg #SilentHill #GamingNews #GTAcommunity",
-      "alt_text": "Graphic about the Marbelle Hotel, an abandoned Vice City building hiding a Silent Hill-inspired Easter egg and a safe in GTA 6.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673511/gta-bot/7d5ffc8151-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where to find the Marbelle Hotel",
-          "text": "It's in southern Crosstown, Vice City, on NW 8th Street near the Nine1Nine nightclub, about a block east of Pawn & Gun. Look for boarded windows and a For Sale sign."
-        },
-        {
-          "title": "Getting inside",
-          "text": "The front door is locked, so go around to the back and use the accessible door. The safe you're after is on the ground floor."
-        },
-        {
-          "title": "Triggering the Easter egg",
-          "text": "Head upstairs until a door opens by itself, then keep going towards the roof. Lights flicker out, red symbols appear and whispers play. Kick down the roof door to see Vice City covered in fog."
-        },
-        {
-          "title": "Safe code and rewards",
-          "text": "The Old Note on the roof has the six-digit code circled: 955214. The safe holds cash and a Crowex Ambassador 'Breakfast' watch."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
-      "text_message_id": 595,
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795680817.36623
@@ -3026,11 +2983,17 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
       "at": 1795698633.861417,
       "media_id": "18112468070243506"
+    },
+    {
+      "id": "7d5ffc8151",
+      "headline": "Marbelle Hotel: Silent Hill Easter Egg and Safe Code",
+      "kind": "carousel",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-marbelle-hotel-location-and-safe-code-how-to-find-the-silent-hill-easter-egg/",
+      "at": 1795703973.9443464,
+      "media_id": "18000476457106625"
     }
   ],
   "drafts_sent": [
-    1795531152.4800353,
-    1795531164.2051852,
     1795538437.1779044,
     1795538456.2257462,
     1795541991.3369296,
