@@ -2,7 +2,7 @@
   "telegram_offset": 889593714,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795694967.574131,
+  "last_scout": 1795698518.0168738,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2110,7 +2110,21 @@
     "02955eca761c853a": 1795694976.3917856,
     "87539221435addba": 1795694976.3917856,
     "91261bc2bd2353e8": 1795694976.3917856,
-    "4cbe69af05d83a23": 1795694976.3917856
+    "4cbe69af05d83a23": 1795694976.3917856,
+    "872b2a8770d098d2": 1795698528.2968764,
+    "eb4d06a3e8593c7b": 1795698528.2968764,
+    "47c130ebadde0b2a": 1795698528.2968764,
+    "0c85428e6b42aa0f": 1795698528.2968764,
+    "2aef1df950075e68": 1795698528.2968764,
+    "3e8d8b71b939c0e4": 1795698528.2968764,
+    "d9a6d0c006822b23": 1795698528.2968764,
+    "78fad4dd16604f74": 1795698528.2968764,
+    "137766152e67c02e": 1795698528.2968764,
+    "42f3b3fb0ac4e95d": 1795698528.2968764,
+    "4641a6e96f101cfd": 1795698528.2968764,
+    "f3d1aa567aa8fa01": 1795698528.2968764,
+    "5654f5c8ea10a703": 1795698528.2968764,
+    "cfcf44c0a483ea4c": 1795698528.2968764
   },
   "drafts": {
     "9199b24968": {
@@ -2268,52 +2282,68 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_06.jpg",
       "text_message_id": 619
+    },
+    "5af6f1f0f6": {
+      "id": "5af6f1f0f6",
+      "created": 1795698538.9818785,
+      "headline": "GTA 6 Sends UK Games Retail Revenue Up 99% to £142m",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDhHLWg2R1lPQUxhS0JoX1hGTlpySlRNZHc2RHZuRTltWFJZWUdUWERKTF96cFRLSG5NeGJzOVl0WGlDbUJjcUFQOWhIMFVveG1oajlXN2ZLY19kMXVBZk1xWlpOY29kTlF6NUdhQmMzc0J6dE1uSndHN3l6Z1Y5MTJIRUtiblJCS2YyZkctVkw3UW9ZdXphUlJld2NQMTVjbTJfLTkzRXc1LVA3UnFDdw?oc=5",
+      "source": "GamesIndustry.biz",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698538/gta-bot/5af6f1f0f6-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698538/gta-bot/5af6f1f0f6-0.jpg"
+      ],
+      "full_caption": "GTA 6 has made a big mark on UK game sales. 🇬🇧\n\nNielsenIQ reports that games retail revenue in the UK rose 99% to £142m during the launch period, and the headline credits GTA 6 for the jump. Revenue almost doubled, which shows how much pull a Leonida-sized release has on the high street.\n\nThe headline doesn't say exactly which dates or sales channels the figure covers, so we'll update when there's more detail.\n\nDid you pick up GTA 6 at launch, and did you buy it physical or digital?\n\nSource: GamesIndustry.biz\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GamingNews #NielsenIQ #UKGaming #VideoGameSales #GamesIndustry",
+      "alt_text": "News graphic announcing that GTA 6 helped lift UK games retail revenue by 99% to £142 million during its launch period, according to NielsenIQ.",
+      "score": 8,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Vice_City_01.jpg",
+      "text_message_id": 621
+    },
+    "94555fdf20": {
+      "id": "94555fdf20",
+      "created": 1795698577.1409824,
+      "headline": "Hidden Capri Mission Can Net You a Unique Shotgun",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698573/gta-bot/94555fdf20-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698573/gta-bot/94555fdf20-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698574/gta-bot/94555fdf20-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698575/gta-bot/94555fdf20-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698575/gta-bot/94555fdf20-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698576/gta-bot/94555fdf20-4.jpg"
+      ],
+      "full_caption": "Got an unusual run-in with the cops in Capri? 🚔 There's a hidden encounter most players will have missed. Get arrested in the right way and you're taken to a mysterious facility, where escaping can earn you the CPD Moreland 850 shotgun. Swipe for the steps. Mild spoiler warning for this side encounter! Have you found it yet?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #Capri #GTA6Guide #GTA6Tips #RockstarGames #Gaming #HiddenSecrets",
+      "alt_text": "Graphic with the headline about a hidden Capri mission in GTA 6 that rewards a unique shotgun.",
+      "score": 5,
+      "reel_url": null,
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where to start",
+          "text": "Head to Capri in Mariana County, on the western side of the map. Go to the central plaza and look for police officers. Any officers will do; if they aren't there, walk around until you find some."
+        },
+        {
+          "title": "How to trigger it",
+          "text": "Provoke an officer until they arrest you, cause a minor disturbance for a 1-2 star wanted level, or slap a cop while unarmed. Then surrender and don't break out of the arrest."
+        },
+        {
+          "title": "Escape the cage",
+          "text": "You'll skip the usual Busted screen and wake up in a holding facility north of Capri. Attack an officer through the bars for the keys, or kick the cage open. Free the other prisoners and fight your way out."
+        },
+        {
+          "title": "Claim the reward",
+          "text": "Before you leave, check the boot of the police vehicle outside. You'll find your confiscated gear and the CPD Moreland 850 shotgun, the main reward for this secret mission."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
+      "text_message_id": 627
     }
   },
   "queue": [
-    {
-      "id": "e668bb75ea",
-      "created": 1795673467.905925,
-      "headline": "GTA 6 Bank Vaults: The Trick to Cracking Them Open",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673437/gta-bot/e668bb75ea-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673438/gta-bot/e668bb75ea-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673439/gta-bot/e668bb75ea-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673441/gta-bot/e668bb75ea-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795673442/gta-bot/e668bb75ea-4.jpg"
-      ],
-      "full_caption": "Want a $100,000+ score in GTA 6? Skip the drill and let the armored car driver do the work. 🏦\n\nVault doors can't be forced in open-world bank jobs. A guard from an armored car has to open one for you, so tail the truck, wait until he's deep inside, then make your move. Swipe for the full plan.\n\nWhat's your go-to getaway car after a big bank job? 🚗\n\nSource: PC Gamer\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTA6Tips #GTA6Guide #BankHeist #JasonAndLucia",
-      "alt_text": "Graphic with the headline 'GTA 6 Bank Vaults: The Trick to Cracking Them Open' announcing a guide to big bank jobs in Vice City.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795673466/gta-bot/e668bb75ea-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "The vault trick",
-          "text": "Vault doors can't be broken into during open-world bank robberies. Only an armored car driver can open one. Follow him in, wait until he's deep inside the bank, then start the robbery."
-        },
-        {
-          "title": "Finding an armored car",
-          "text": "Patrol near banks with vaults, or pay fence Yasmani $10,000 for a tip that marks two armored cars with pink map icons. The Robberies tab lists every big bank on your map."
-        },
-        {
-          "title": "Grab the bonus loot",
-          "text": "Shoot safe deposit boxes open, or blow them all at once with a grenade or sticky bomb. Also hit the cash drawers and safes. Stick a bomb on the armored car's rear door so it can't despawn."
-        },
-        {
-          "title": "Pro tips for the job",
-          "text": "Bring both Jason and Lucia to carry up to four bags. Use silenced weapons and shoot out the cloud cameras. An alarm means an instant four-star wanted level, so plan your escape first."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
-      "text_message_id": 588,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795680816.3983397
-    },
     {
       "id": "7d5ffc8151",
       "created": 1795673512.1595612,
@@ -2970,11 +3000,17 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
       "at": 1795694966.3000124,
       "media_id": "18190260658418975"
+    },
+    {
+      "id": "e668bb75ea",
+      "headline": "GTA 6 Bank Vaults: The Trick to Cracking Them Open",
+      "kind": "reel",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-vault-how-to-open/",
+      "at": 1795698633.861417,
+      "media_id": "18112468070243506"
     }
   ],
   "drafts_sent": [
-    1795523988.8631952,
-    1795524029.1495318,
     1795531152.4800353,
     1795531164.2051852,
     1795538437.1779044,
@@ -3004,13 +3040,13 @@
     1795686381.2933478,
     1795691358.6597676,
     1795691369.0845857,
-    1795695002.4215596
+    1795695002.4215596,
+    1795698540.5569503,
+    1795698579.4066975
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996703/Boobie_Ike_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996675/Jason_Duval_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996670/Leonida_Keys_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_14.jpg",
@@ -3038,6 +3074,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_14.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_15.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_06.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_06.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Vice_City_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg"
   ]
 }
