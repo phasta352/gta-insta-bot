@@ -2276,49 +2276,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
       "text_message_id": 578,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795632149.578794
-    },
-    {
-      "id": "982a0d79e0",
-      "created": 1795626575.8939593,
-      "headline": "GTA 6 Sniper Scope Trick Turns Angry NPCs Into $2,000 Payouts",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626541/gta-bot/982a0d79e0-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626541/gta-bot/982a0d79e0-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626541/gta-bot/982a0d79e0-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626542/gta-bot/982a0d79e0-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626543/gta-bot/982a0d79e0-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795626544/gta-bot/982a0d79e0-4.jpg"
-      ],
-      "full_caption": "Scoping random pedestrians in GTA 6 can turn one of them into a very persistent problem, and a profitable one. 🎯\n\nKeep your sniper zoomed on an NPC and they may spot you from hundreds of meters away, make a throat-slash gesture and sprint straight at you. Guns reportedly stop working on them, but beating one earns $2,000. Streamer CausticCorro showed a fist fight doing the job.\n\nThe report expects Rockstar to patch it, so treat it as a find, not a permanent strategy.\n\nWould you take the fist fight or throw them off a wall?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Tips #GTA6Money #GamingNews #CausticCorro #GTACommunity",
-      "alt_text": "Graphic with the headline about a GTA 6 sniper scope trick that makes NPCs hunt the player and pay out $2,000 when beaten.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795626574/gta-bot/982a0d79e0-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "The sniper scope trigger",
-          "text": "Zoom in on ordinary NPCs with your sniper rifle in GTA 6 and some will notice, even from hundreds of meters away. They respond by drawing a thumb across their neck."
-        },
-        {
-          "title": "Then they come for you",
-          "text": "The NPC sprints straight at your position and keeps coming until it finds you. Once it arrives, it is described as practically invincible."
-        },
-        {
-          "title": "How players beat them",
-          "text": "In CausticCorro's clip, the NPC tracks them across Leonida at night and shrugs off gunfire. Only a fist fight finishes it. Another method is luring them up high and throwing them over a wall."
-        },
-        {
-          "title": "The payout, and a warning",
-          "text": "Each win earns $2,000. GamesRadar+ expects Rockstar to patch this quickly, so it may not last."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
-      "text_message_id": 578,
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795632149.5787961
@@ -3041,6 +2998,14 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-atm-winched-vehicle/",
       "at": 1795678785.8609385,
       "media_id": "17930790267430578"
+    },
+    {
+      "id": "982a0d79e0",
+      "headline": "GTA 6 Sniper Scope Trick Turns Angry NPCs Into $2,000 Payouts",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/the-latest-gta-6-money-farm-involves-winning-a-fist-fight-against-a-viral-npc-that-fans-once-thought-was-invincible/",
+      "at": 1795684183.8771057,
+      "media_id": "18488736748112870"
     }
   ],
   "drafts_sent": [
