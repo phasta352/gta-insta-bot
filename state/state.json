@@ -2,7 +2,7 @@
   "telegram_offset": 889593714,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795682311.6580262,
+  "last_scout": 1795686344.6760771,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2074,7 +2074,15 @@
     "c7854547de700cea": 1795682318.602638,
     "d13b8bada6de5de6": 1795682318.602638,
     "305be49125aef51d": 1795682318.602638,
-    "54482b0a3029580d": 1795682318.602638
+    "54482b0a3029580d": 1795682318.602638,
+    "a7ca54c0be90f3dc": 1795686352.3012388,
+    "bd41d10f3276b85d": 1795686352.3012388,
+    "25ad5f0dbb23a58a": 1795686352.3012388,
+    "f8867d45d0648b51": 1795686352.3012388,
+    "4cc53cdd60eed800": 1795686352.3012388,
+    "cec4af951214cca9": 1795686352.3012388,
+    "50a337a0fc50eed6": 1795686352.3012388,
+    "255f7ecf98dacc20": 1795686352.3012388
   },
   "drafts": {
     "66b4458a3d": {
@@ -2234,6 +2242,46 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
       "text_message_id": 604
+    },
+    "e3b1ae20e0": {
+      "id": "e3b1ae20e0",
+      "created": 1795686378.9428,
+      "headline": "GTA 6 Sends US Console Sales Soaring, Even at Higher Prices",
+      "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
+      "source": "Eurogamer",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686375/gta-bot/e3b1ae20e0-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686375/gta-bot/e3b1ae20e0-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686376/gta-bot/e3b1ae20e0-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686377/gta-bot/e3b1ae20e0-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686377/gta-bot/e3b1ae20e0-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686378/gta-bot/e3b1ae20e0-4.jpg"
+      ],
+      "full_caption": "GTA 6 hype is moving consoles, even at much higher prices. 🚀\n\nCircana data shows US PS5 unit sales in the week ending 14 November were 2.4x the same week last year, with Xbox at 2.3x. Players clearly wanted hardware in hand before launch day.\n\nAre you playing on a console you already owned, or did GTA 6 push you to upgrade?\n\nSource: Eurogamer\n\n#GTA6 #GrandTheftAutoVI #Rockstar #LeonidaDaily #PS5 #XboxSeriesX #XboxSeriesS #PS5Pro #GamingNews #Circana",
+      "alt_text": "Graphic with the headline that GTA 6 has boosted US PlayStation 5 and Xbox Series console sales despite higher prices.",
+      "score": 6,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [
+        {
+          "title": "Sales jump before launch",
+          "text": "In the week ending 14 November, US PS5 unit sales hit 2.4x the same week last year. Xbox reached 2.3x. The data comes from Circana analyst Mat Piscatella."
+        },
+        {
+          "title": "Prices are way up",
+          "text": "PS5 is $650 (was $550). PS5 Pro is $900 (was $750). Xbox Series X is $800 (was $650). Series S is $500 (was $400)."
+        },
+        {
+          "title": "PS5 Pro supply improves",
+          "text": "The PS5 Pro made up under 10% of PlayStation unit sales. Piscatella called that a lot better than recent weeks, seemingly thanks to increased supply."
+        },
+        {
+          "title": "Launch day numbers",
+          "text": "GTA 6 released on 19 November and sold over 32.5m copies in a day, earning Take-Two $3.79bn. Circana's full November US report is due in December."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg",
+      "text_message_id": 611
     }
   },
   "queue": [
@@ -3038,12 +3086,12 @@
     1795673472.785448,
     1795673516.726161,
     1795678824.5775626,
-    1795678842.2972436
+    1795678842.2972436,
+    1795686381.2933478
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996686/Jason_Duval_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996665/Leonida_Keys_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996642/Vice_City_27.jpg",
@@ -3072,6 +3120,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg"
   ]
 }
