@@ -2,7 +2,7 @@
   "telegram_offset": 889593716,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795770518.434231,
+  "last_scout": 1795774114.6081812,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2284,49 +2284,14 @@
     "3f4ddd3e4692bf60": 1795770526.3438387,
     "df2f14bdae143559": 1795770526.3438387,
     "968de8b827c2f670": 1795770526.3438387,
-    "763807fc42f0d46c": 1795770526.3438387
+    "763807fc42f0d46c": 1795770526.3438387,
+    "19c0f85ee752415d": 1795774123.063971,
+    "576b25fab2946022": 1795774123.063971,
+    "e37004dc28adc6b4": 1795774123.063971,
+    "cb9e58959d3a7bdc": 1795774123.063971,
+    "d9ebae94329f0c4c": 1795774123.063971
   },
   "drafts": {
-    "e3b1ae20e0": {
-      "id": "e3b1ae20e0",
-      "created": 1795686378.9428,
-      "headline": "GTA 6 Sends US Console Sales Soaring, Even at Higher Prices",
-      "url": "https://www.eurogamer.net/playstation-5-xbox-series-s-x-console-hardware-sales-gta-6",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686375/gta-bot/e3b1ae20e0-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686375/gta-bot/e3b1ae20e0-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686376/gta-bot/e3b1ae20e0-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686377/gta-bot/e3b1ae20e0-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686377/gta-bot/e3b1ae20e0-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795686378/gta-bot/e3b1ae20e0-4.jpg"
-      ],
-      "full_caption": "GTA 6 hype is moving consoles, even at much higher prices. 🚀\n\nCircana data shows US PS5 unit sales in the week ending 14 November were 2.4x the same week last year, with Xbox at 2.3x. Players clearly wanted hardware in hand before launch day.\n\nAre you playing on a console you already owned, or did GTA 6 push you to upgrade?\n\nSource: Eurogamer\n\n#GTA6 #GrandTheftAutoVI #Rockstar #LeonidaDaily #PS5 #XboxSeriesX #XboxSeriesS #PS5Pro #GamingNews #Circana",
-      "alt_text": "Graphic with the headline that GTA 6 has boosted US PlayStation 5 and Xbox Series console sales despite higher prices.",
-      "score": 6,
-      "reel_url": null,
-      "category": "RECORDS",
-      "slides": [
-        {
-          "title": "Sales jump before launch",
-          "text": "In the week ending 14 November, US PS5 unit sales hit 2.4x the same week last year. Xbox reached 2.3x. The data comes from Circana analyst Mat Piscatella."
-        },
-        {
-          "title": "Prices are way up",
-          "text": "PS5 is $650 (was $550). PS5 Pro is $900 (was $750). Xbox Series X is $800 (was $650). Series S is $500 (was $400)."
-        },
-        {
-          "title": "PS5 Pro supply improves",
-          "text": "The PS5 Pro made up under 10% of PlayStation unit sales. Piscatella called that a lot better than recent weeks, seemingly thanks to increased supply."
-        },
-        {
-          "title": "Launch day numbers",
-          "text": "GTA 6 released on 19 November and sold over 32.5m copies in a day, earning Take-Two $3.79bn. Circana's full November US report is due in December."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg",
-      "text_message_id": 611
-    },
     "c1f6535b1a": {
       "id": "c1f6535b1a",
       "created": 1795691357.314159,
