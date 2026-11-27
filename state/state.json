@@ -2888,49 +2888,6 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996697/Jason_Duval_17.jpg",
       "text_message_id": 720,
-      "kind": "carousel",
-      "post_now": false,
-      "approved_at": 1795806673.6160038
-    },
-    {
-      "id": "47aea460f2",
-      "created": 1795806561.4327457,
-      "headline": "GTA 6 tricks you probably missed in Leonida",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-things-you-missed/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806534/gta-bot/47aea460f2-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806534/gta-bot/47aea460f2-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806535/gta-bot/47aea460f2-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806536/gta-bot/47aea460f2-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806536/gta-bot/47aea460f2-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806537/gta-bot/47aea460f2-4.jpg"
-      ],
-      "full_caption": "Think you've seen everything in Leonida? Think again. 👀\n\nGamesRadar+ rounded up 25 easily missed GTA 6 details, from handy driving controls to loot spots and small NPC interactions. Swipe for a few of the most useful ones, and read the full list at the source for the rest.\n\nWhich of these did you already know, and what's the best hidden detail you've found yourself?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTATips #GTA6Tips #GamingTips #LuciaAndJason #GTACommunity",
-      "alt_text": "Graphic with the headline about GTA 6 tricks players probably missed, in The Leonida Daily's tips and tricks style.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795806559/gta-bot/47aea460f2-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "Keep the engine running",
-          "text": "Double-tap Triangle/Y to leave a vehicle with the engine still on, ready for a quick getaway. On a boat, the same move lets you walk the deck while it holds its course and speed."
-        },
-        {
-          "title": "Hide from cops, signal to others",
-          "text": "Hold Circle/B in a parked vehicle to duck out of sight, though cops still spot you if the vehicle has Heat. Tapping D-pad Left/Right sets a turn signal, so other drivers are more likely to let you through."
-        },
-        {
-          "title": "Make friends with pets",
-          "text": "Convenience store cashiers sell packs of 10 pet treats. Feed cats and dogs, or toss a treat to a dog from a distance, which can stop it barking and giving you away or attacking you."
-        },
-        {
-          "title": "Hunt for loot and unique gear",
-          "text": "Enterable buildings show as darker blue on the map and can hold cash, weapons and collectibles. Gold-icon weapons are unique and can be reclaimed from your weapon lockers. Yard sales offer cheap, unique outfits."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996697/Jason_Duval_17.jpg",
-      "text_message_id": 720,
       "kind": "reel",
       "post_now": false,
       "approved_at": 1795806673.6160061
@@ -3563,6 +3520,14 @@
       "url": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
       "at": 1795810150.8837616,
       "media_id": "18108258173636923"
+    },
+    {
+      "id": "47aea460f2",
+      "headline": "GTA 6 tricks you probably missed in Leonida",
+      "kind": "carousel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-things-you-missed/",
+      "at": 1795815598.9288254,
+      "media_id": "18135603322767273"
     }
   ],
   "drafts_sent": [
