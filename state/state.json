@@ -2,7 +2,7 @@
   "telegram_offset": 889593715,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795712941.3824806,
+  "last_scout": 1795759746.2839646,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2205,7 +2205,64 @@
     "98ccf414b384d4b2": 1795712950.6347663,
     "26504219dafbd25c": 1795712950.6347663,
     "2968f37e3923a1f1": 1795712950.6347663,
-    "831e51b9bbff8dde": 1795712950.6347663
+    "831e51b9bbff8dde": 1795712950.6347663,
+    "fa3c3e75c886ce7e": 1795759757.1138916,
+    "8d8975cee81dc4c7": 1795759757.1138916,
+    "35714111dd1abfdb": 1795759757.1138916,
+    "5cf08a278e964b36": 1795759757.1138916,
+    "bf88c400980b1b39": 1795759757.1138916,
+    "2cb622bc64078a7f": 1795759757.1138916,
+    "f273b05cb6d39a4f": 1795759757.1138916,
+    "1862c5091fa833cc": 1795759757.1138916,
+    "fe809cd1577cc678": 1795759757.1138916,
+    "0cc6c406e2ca41f0": 1795759757.1138916,
+    "705465876eaf57fd": 1795759757.1138916,
+    "fd64de5ec62c032c": 1795759757.1138916,
+    "2ab6741bccc1bbff": 1795759757.1138916,
+    "64329058c86e8e3a": 1795759757.1138916,
+    "e3fae3b401b73a98": 1795759757.1138916,
+    "57d3017db59a93ba": 1795759757.1138916,
+    "78a31063293f0298": 1795759757.1138916,
+    "8f673f2e920f7fec": 1795759757.1138916,
+    "60f2785b3738a7e0": 1795759757.1138916,
+    "03721ac1da7efa95": 1795759757.1138916,
+    "d2c02ae6af19c417": 1795759757.1138916,
+    "166948195958d6f0": 1795759757.1138916,
+    "3d1dcf2aae86294f": 1795759757.1138916,
+    "7c81a31d2c33f41d": 1795759757.1138916,
+    "be60ea4e7a3362e2": 1795759757.1138916,
+    "732266d36479f6f2": 1795759757.1138916,
+    "0b1680c38585bee0": 1795759757.1138916,
+    "d6d99cadf5f334fb": 1795759757.1138916,
+    "c62bbfaebba75876": 1795759757.1138916,
+    "f5f8ace4a7c8c720": 1795759757.1138916,
+    "593cc3d3a1a38f4d": 1795759757.1138916,
+    "06398212f15a8f6f": 1795759757.1138916,
+    "c45d1cf16a049bd1": 1795759757.1138916,
+    "9a33a95dee4ae223": 1795759757.1138916,
+    "a96b3fe684fc365e": 1795759757.1138916,
+    "1ad26727ab6a91ea": 1795759757.1138916,
+    "87381daf5dee7a59": 1795759757.1138916,
+    "f4a8f50c10a10e55": 1795759757.1138916,
+    "b5f2c7a37e9bedaf": 1795759757.1138916,
+    "4278fa45b26f11d7": 1795759757.1138916,
+    "47671a5579822a50": 1795759757.1138916,
+    "64b249404a45720c": 1795759757.1138916,
+    "8b4dea3e2d6dde86": 1795759757.1138916,
+    "8e043cc4883f0cb4": 1795759757.1138916,
+    "43d1e63a546ebe44": 1795759757.1138916,
+    "419ec1a676952daa": 1795759757.1138916,
+    "d9352a5e612ac453": 1795759757.1138916,
+    "13479b201d5e3b02": 1795759757.1138916,
+    "c7c8decf5b2e08ff": 1795759757.1138916,
+    "547a9e81e667e15b": 1795759757.1138916,
+    "89051b63b49e2b5f": 1795759757.1138916,
+    "b2c41511212b2614": 1795759757.1138916,
+    "8ccb2f3301103e70": 1795759757.1138916,
+    "5cb5cd0a7b6929fa": 1795759757.1138916,
+    "934310c1789ba135": 1795759757.1138916,
+    "d933ebc6404133c1": 1795759757.1138916,
+    "5c6322c0c98ceaef": 1795759757.1138916
   },
   "drafts": {
     "93abd9950a": {
@@ -2563,53 +2620,68 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
       "text_message_id": 663
-    }
-  },
-  "queue": [
-    {
-      "id": "965cfdb91a",
-      "created": 1795709417.194453,
-      "headline": "GTA 6 smashes livestream record with 420M hours watched",
-      "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
-      "source": "Eurogamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709378/gta-bot/965cfdb91a-0.jpg",
+    },
+    "28800f889e": {
+      "id": "28800f889e",
+      "created": 1795759772.5233648,
+      "headline": "GTA VI Reportedly Smashes Launch Records With 30M Players",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHAxLUQ1QWZTQ3hVZ0k0M3NiYUxnTURySDhnOG94aWJ0aF9ybEp5eDdoRVlxaS1xNzd1SXVhX2RxT1FJa0paUFhRdGd2anZhM2hyUFlWd2tKTDlCdDR5NHc2YzJrOUVwSzJvMWVNOWtZTGpIRWRDRkt6VFI2UEl5bE9MSXJONDh6aGVEMGdZQXI3ZlRmd1hnd0NXSU1BZ2JRa29tMXQwMEZqZVV3WlNWUGNrZG1WZThEbldHMF9iQlB4YVRIaDBWZWpjYkM0elpaU1dKTlBKbHhuTTJSQmp6TW9XUzhSV1ky?oc=5",
+      "source": "NewsCord",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759772/gta-bot/28800f889e-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709378/gta-bot/965cfdb91a-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709380/gta-bot/965cfdb91a-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709380/gta-bot/965cfdb91a-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709381/gta-bot/965cfdb91a-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795709382/gta-bot/965cfdb91a-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759772/gta-bot/28800f889e-0.jpg"
       ],
-      "full_caption": "GTA 6 is dominating livestreams too. 🎥\n\nStreams Charts reports more than 420M hours watched in the first seven days, nearly triple the previous record. That tops the combined first-week totals of Valorant, Elden Ring, Diablo 4 and Lost Ark.\n\nDid you watch any GTA 6 streams this week?\n\nSource: Eurogamer\n\n#GTA6 #GrandTheftAutoVI #RockstarGames #Leonida #Twitch #YouTubeGaming #Streaming #GamingNews #PS5 #XboxSeriesX",
-      "alt_text": "Graphic with the headline that GTA 6 set a livestreaming record of over 420 million hours watched in its first week.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795709415/gta-bot/965cfdb91a-reel.mp4",
+      "full_caption": "Record-breaking numbers are being reported for Grand Theft Auto VI. 🚨\n\nA NewsCord roundup of five outlets says the game has become the biggest launch ever, with 30 million players and $3.79 billion in sales. Only the headline figures are available so far, and we haven't seen an official statement or a breakdown of how they were counted. We'll update you once the numbers are confirmed.\n\nIf these figures hold up, they would set a new benchmark for the industry. What do you think: does GTA VI deserve the crown? 👑\n\nSource: NewsCord\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #ViceCity #GTAOnline #GamingNews #VideoGames #LaunchRecord",
+      "alt_text": "News graphic reading that Grand Theft Auto VI is reportedly the biggest launch ever, with 30 million players and $3.79 billion in sales.",
+      "score": 8,
+      "reel_url": null,
       "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_05.jpg",
+      "text_message_id": 668
+    },
+    "18fce6889f": {
+      "id": "18fce6889f",
+      "created": 1795759794.7570608,
+      "headline": "All 20 Kitty Litter Lab Locations in GTA 6, Plus the Balsero Code",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-kitty-litter-lab-locations/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759791/gta-bot/18fce6889f-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759791/gta-bot/18fce6889f-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759792/gta-bot/18fce6889f-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759792/gta-bot/18fce6889f-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759793/gta-bot/18fce6889f-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759794/gta-bot/18fce6889f-4.jpg"
+      ],
+      "full_caption": "Hunting every Kitty Litter lab in Vice City? Here's your cheat sheet 🔍\n\nVGC has mapped all 20 hidden drug labs and listed how to reach each entrance. The guide also gives the keypad code for the North Balsero Lockup and a quick method for destroying the equipment. Look for purple smoke, Spin On This laundry vans and purple cat graffiti to spot one.\n\nHow many labs have you found so far?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #GTA6Guide #GTA6Tips #KittyLitter #GamingNews",
+      "alt_text": "Graphic with the headline about all 20 Kitty Litter lab locations and the North Balsero code in GTA 6.",
+      "score": 7,
+      "reel_url": null,
+      "category": "GUIDE",
       "slides": [
         {
-          "title": "420M hours in week one",
-          "text": "According to Streams Charts, GTA 6 passed 420m hours watched in its first seven days. That is nearly three times the old record, set by Valorant's closed beta in April 2020."
+          "title": "How to unlock the labs",
+          "text": "The Kitty Litter activity opens up once you progress through Chapter 3 of the story. After that, you're tasked with tracking down the drug labs around Vice City."
         },
         {
-          "title": "More than four hits combined",
-          "text": "The 420m total beats the first-week watch time of Valorant, Elden Ring, Diablo 4 and Lost Ark added together."
+          "title": "How to spot a lab",
+          "text": "Watch for purple smoke coming from buildings, Spin On This laundry vans parked outside and purple cat graffiti. Any of these can mean a lab is close by."
         },
         {
-          "title": "Twitch and YouTube lead the way",
-          "text": "YouTube reportedly led in average audience over the first six hours. Twitch then took over in content volume, and its GTA 6 launch watch time was its highest for any game ever."
+          "title": "Where they are",
+          "text": "There are 20 mapped labs. Three sit outside Vice City, just right of the airport, and four are across the river to the west. The rest are spread across the city itself."
         },
         {
-          "title": "1,056 channels hit new peaks",
-          "text": "Streams Charts says 1,056 channels set new all-time peak viewership while streaming GTA 6, some multiplying their old records tenfold. IShowSpeed, IlloJuan and TheBurntPeanut were among the big names."
+          "title": "Code and how to destroy them",
+          "text": "The North Balsero Lockup keypad code is 1999. To clear a lab, deal with the guards, then shoot or blow up the drug-making equipment. A grenade or sticky bomb can speed things up."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996719/Lucia_Caminos_09.jpg",
-      "text_message_id": 650,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795710314.701579
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
+      "text_message_id": 674
     }
-  ],
+  },
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -3197,10 +3269,17 @@
       "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
       "at": 1795718369.6846578,
       "media_id": "18011161409785562"
+    },
+    {
+      "id": "965cfdb91a",
+      "headline": "GTA 6 smashes livestream record with 420M hours watched",
+      "kind": "reel",
+      "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
+      "at": 1795759744.5763896,
+      "media_id": "18141464479736220"
     }
   ],
   "drafts_sent": [
-    1795586993.8946316,
     1795587023.2191162,
     1795594155.6781394,
     1795601443.4675686,
@@ -3229,13 +3308,13 @@
     1795705791.1478431,
     1795709421.8226151,
     1795709453.35184,
-    1795712998.2120404
+    1795712998.2120404,
+    1795759773.769674,
+    1795759796.2218812
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996685/Jason_Duval_11.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996744/Jason_and_Lucia_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg",
@@ -3263,6 +3342,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996719/Lucia_Caminos_09.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_05.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg"
   ]
 }
