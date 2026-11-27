@@ -2,7 +2,7 @@
   "telegram_offset": 889593716,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795774114.6081812,
+  "last_scout": 1795777717.9451988,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2289,7 +2289,16 @@
     "576b25fab2946022": 1795774123.063971,
     "e37004dc28adc6b4": 1795774123.063971,
     "cb9e58959d3a7bdc": 1795774123.063971,
-    "d9ebae94329f0c4c": 1795774123.063971
+    "d9ebae94329f0c4c": 1795774123.063971,
+    "a07e39859ff7fd7b": 1795777726.0726109,
+    "b7d4cfe7ea01b8c7": 1795777726.0726109,
+    "8db57243e28ccdbb": 1795777726.0726109,
+    "4828c08f80c93f8e": 1795777726.0726109,
+    "79f4b215bfc5184c": 1795777726.0726109,
+    "ec1aa35b35a39fbc": 1795777726.0726109,
+    "07eb700d9eb3bd1d": 1795777726.0726109,
+    "b094a2af3e7e6a38": 1795777726.0726109,
+    "fa0e53b7027dfc75": 1795777726.0726109
   },
   "drafts": {
     "c1f6535b1a": {
@@ -2605,6 +2614,65 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
       "text_message_id": 676
+    },
+    "43847e1ca7": {
+      "id": "43847e1ca7",
+      "created": 1795777778.762877,
+      "headline": "GTA 6 Hidden Missions That Permanently Boost Your Stats",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-increase-stats-missions/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795777740/gta-bot/43847e1ca7-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795777740/gta-bot/43847e1ca7-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795777740/gta-bot/43847e1ca7-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795777741/gta-bot/43847e1ca7-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795777743/gta-bot/43847e1ca7-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795777744/gta-bot/43847e1ca7-4.jpg"
+      ],
+      "full_caption": "Want a bigger Health, Stamina or Focus bar in GTA 6? 💪 GamesRadar+ has tracked down six hidden missions that give permanent max stat boosts. Almost all of them give no hint until you finish, so exploring pays off. Swipe for where a few of them start, and no big spoilers here.\n\nWhich stat are you chasing first?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTA6Tips #GTA6Guide #GamingNews #OpenWorld #VideoGameGuides",
+      "alt_text": "Graphic with the headline about hidden GTA 6 missions that permanently boost Health, Stamina and Focus.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795777777/gta-bot/43847e1ca7-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Permanent boosts, no hints",
+          "text": "Some GTA 6 missions permanently raise your max Health, Stamina or Focus. You won't know there's a buff until you finish, and all but one are hidden, so you'll mostly find them by chance."
+        },
+        {
+          "title": "Where some Stamina boosts start",
+          "text": "Scan the QR code in the Corsair Key bathroom to start Final Flush. The crop dusting poster outside the motel reception in chapter 2 leads to McKittrick Farm. There's also a trippy obstacle course at Lake Tallaloko."
+        },
+        {
+          "title": "Focus and Health boosts",
+          "text": "Near the road construction site, a shooting challenge costs a $250 wager. Win it and you get $250 back plus a max Focus boost. For Health, check a Port Gellhorn garage around midnight when it's lit red."
+        },
+        {
+          "title": "Don't forget meditation",
+          "text": "Meditation spots also raise max Focus, but GamesRadar+ covers them separately. Some of these missions take several steps, and you may have to wait before you can continue."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
+      "text_message_id": 685
+    },
+    "bf937fc0c7": {
+      "id": "bf937fc0c7",
+      "created": 1795777791.2322986,
+      "headline": "Rockstar North Boss Addresses GTA 6 Criminal Profiles",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd3B2YzlWbTV2X2x0MHFTQktZSU1QSzBMZm5NN3E5Ql9fTExYd1FNU0lzZ19PVkQ0aWdPQlI0M1lRenZnTzg5a0pwNi1qSzJvOEhPRHVkN1JYclhHcWI5VUJhMWZZbzVSdEFHWW91Rkx3dnVKQjdfdjdpN2JVYjM4WnJ1LTZfTnplV2RBTUdITkV6b0czU0ZEbTV2Qk9GMWhYVTVvQWFzTUJhZ05lSmZsVUIteVpEZWRrdENzVjdyM3YzMTQzelUwSTd3YngzSjBjaXpocHB5RFJ3UUtPNUxsbEF5TU8?oc=5",
+      "source": "IGN Nordic",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795777790/gta-bot/bf937fc0c7-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795777790/gta-bot/bf937fc0c7-0.jpg"
+      ],
+      "full_caption": "Rockstar North has addressed the new GTA 6 systems some players might not like. 🎮\n\nAccording to IGN Nordic, the studio's boss knew some players would \"reject\" new additions like criminal profiles. The message is that the classic freedom is still there: you can still do what you did in earlier games.\n\nThe quote gives a first hint at how Rockstar sees the balance between new mechanics and the sandbox GTA fans know.\n\nAre new systems like criminal profiles a welcome change, or do you prefer the classic way of playing? Tell us below.\n\nSource: IGN Nordic\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Rockstar #RockstarGames #RockstarNorth #Leonida #GTANews #Gaming #GamingNews",
+      "alt_text": "News graphic with the headline about the Rockstar North boss discussing new GTA 6 systems such as criminal profiles.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996664/Leonida_Keys_05.jpg",
+      "text_message_id": 687
     }
   },
   "queue": [],
@@ -3222,7 +3290,6 @@
     }
   ],
   "drafts_sent": [
-    1795604962.0031707,
     1795608596.3277438,
     1795612173.2500045,
     1795612196.8330362,
@@ -3249,13 +3316,13 @@
     1795712998.2120404,
     1795759773.769674,
     1795759796.2218812,
-    1795763343.93318
+    1795763343.93318,
+    1795777782.371236,
+    1795777792.2870758
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
@@ -3283,6 +3350,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996664/Leonida_Keys_05.jpg"
   ]
 }
