@@ -2,7 +2,7 @@
   "telegram_offset": 889593716,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795792109.706553,
+  "last_scout": 1795795720.0966349,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2381,7 +2381,24 @@
     "5c7f53cfebc43adb": 1795792120.4488094,
     "18022f9412b63f3f": 1795792120.4488094,
     "a23a6d44500ef7d6": 1795792120.4488094,
-    "4215dc3459c42ced": 1795792120.4488094
+    "4215dc3459c42ced": 1795792120.4488094,
+    "9019df67ec0cd293": 1795795730.1434464,
+    "c2c7c6f888a17f30": 1795795730.1434464,
+    "1d62815639762453": 1795795730.1434464,
+    "939cac4387fd121b": 1795795730.1434464,
+    "86f2a4ba877f6a0b": 1795795730.1434464,
+    "5f8c8898882beae5": 1795795730.1434464,
+    "f49393a07e55e186": 1795795730.1434464,
+    "74d9d7dd4c6dda3e": 1795795730.1434464,
+    "a941ad21e767ddff": 1795795730.1434464,
+    "470f94f7f8499c14": 1795795730.1434464,
+    "4b9348b06093ede8": 1795795730.1434464,
+    "fb24e68c53f67c2c": 1795795730.1434464,
+    "2b677b1073f30c76": 1795795730.1434464,
+    "70042f19efba8869": 1795795730.1434464,
+    "4f61ee56ba0a3ead": 1795795730.1434464,
+    "33c8b4233d19e723": 1795795730.1434464,
+    "1fcc37aa846a0df8": 1795795730.1434464
   },
   "drafts": {
     "ca81206193": {
@@ -2598,6 +2615,46 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
       "text_message_id": 691
+    },
+    "c4643081cb": {
+      "id": "c4643081cb",
+      "created": 1795795762.6844552,
+      "headline": "Rockstar dev explains why he voted against the union deal",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-dev-defends-rockstar-after-landslide-vote-against-union-deal-says-its-the-best-place-ive-ever-worked-and-it-was-endlessly-frustrating-to-see-people-imply-otherwise/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795795759/gta-bot/c4643081cb-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795795759/gta-bot/c4643081cb-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795795760/gta-bot/c4643081cb-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795795760/gta-bot/c4643081cb-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795795761/gta-bot/c4643081cb-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795795762/gta-bot/c4643081cb-4.jpg"
+      ],
+      "full_caption": "A GTA VI developer is speaking out after Rockstar North staff voted against union recognition. 📣\n\nVehicle AI programmer Thomas March shared on LinkedIn why he voted no, calling Rockstar the best workplace he's had. He stressed these are his personal views, and other current and former devs have shared different perspectives.\n\nSwipe for the vote numbers and the context.\n\nWhat's your take on the vote?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Rockstar #RockstarGames #RockstarNorth #GamingNews #GameDev #LeonidaDaily #VideoGames",
+      "alt_text": "News graphic with the headline about a Rockstar developer explaining why he voted against a union recognition deal.",
+      "score": 5,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "The vote result",
+          "text": "Turnout was 93.2%. 1,163 Rockstar employees voted against the union recognition deal and 381 voted for it, a split of 75.3% to 24.7%. The ballot began in early November."
+        },
+        {
+          "title": "A dev explains his choice",
+          "text": "Associate principal vehicle AI programmer Thomas March posted on LinkedIn that he voted against recognition. He said these are his own views and called Rockstar the best place he's worked."
+        },
+        {
+          "title": "His reasons",
+          "text": "March said Rockstar rewards individual creativity and that a union would come between close working relationships. He also praised the trust, the benefits and the management, and said any overtime was his own choice."
+        },
+        {
+          "title": "Not the only voice",
+          "text": "Some former devs have taken a different view, and the IWGB has criticised the company's practices. One animation programmer said he worries about layoffs. March's view is one perspective among many."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg",
+      "text_message_id": 697
     }
   },
   "queue": [],
@@ -3238,12 +3295,12 @@
     1795777782.371236,
     1795777792.2870758,
     1795784958.8816707,
-    1795788556.753453
+    1795788556.753453,
+    1795795764.414591
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
@@ -3272,6 +3329,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996664/Leonida_Keys_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996681/Jason_Duval_10.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg"
   ]
 }
