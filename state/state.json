@@ -2,7 +2,7 @@
   "telegram_offset": 889593715,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795759746.2839646,
+  "last_scout": 1795763312.065187,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2262,7 +2262,15 @@
     "5cb5cd0a7b6929fa": 1795759757.1138916,
     "934310c1789ba135": 1795759757.1138916,
     "d933ebc6404133c1": 1795759757.1138916,
-    "5c6322c0c98ceaef": 1795759757.1138916
+    "5c6322c0c98ceaef": 1795759757.1138916,
+    "adad4afb7327f6ca": 1795763321.1937075,
+    "5ac09b5d4556ef84": 1795763321.1937075,
+    "0b54d9004c98e499": 1795763321.1937075,
+    "04a0b554481a9d08": 1795763321.1937075,
+    "849ca802110ec499": 1795763321.1937075,
+    "a579dc4cf1715937": 1795763321.1937075,
+    "f569a23dfe22026a": 1795763321.1937075,
+    "90d921c4c08fdc66": 1795763321.1937075
   },
   "drafts": {
     "93abd9950a": {
@@ -2679,6 +2687,25 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
       "text_message_id": 674
+    },
+    "643ea15ac0": {
+      "id": "643ea15ac0",
+      "created": 1795763342.9125662,
+      "headline": "GTA VI Soundtrack Races to No. 1 on the ARIA Chart",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWTdHQlNHS0hycWZ2RnlHZW8wY1hJbGMzSUFUc0tndUZMMkw5NExtQkVqcXJSeDdITnAtaG1PdWpZY3NXSUhvT3BOLXBvZWUzTUJ3YS12VzdOcDJfdDBVZUdKd0c4X3hpS0tIbE5aYnE4RnJhZVJPMVl0azh4SUFiVGhzUXp1V29wakRkVWhVMXNPQjBWbjRHNjZyX2c0QmJvOXZZ?oc=5",
+      "source": "Billboard",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795763342/gta-bot/643ea15ac0-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795763342/gta-bot/643ea15ac0-0.jpg"
+      ],
+      "full_caption": "The Leonida soundtrack just hit the top of a chart. 🎶\n\nBillboard reports that the Grand Theft Auto VI soundtrack has reached No. 1 on the ARIA chart. It's a big sign of how much the game's music is resonating beyond the game itself.\n\nWhich track are you hoping gets the most play on your in-game radio?\n\nSource: Billboard\n\n#GTAVI #GTA6 #GrandTheftAuto #GrandTheftAutoVI #RockstarGames #Leonida #ViceCity #GTASoundtrack #ARIACharts #GamingNews",
+      "alt_text": "Graphic announcing that the Grand Theft Auto VI soundtrack has reached No. 1 on the ARIA chart.",
+      "score": 6,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
+      "text_message_id": 676
     }
   },
   "queue": [],
@@ -3309,12 +3336,12 @@
     1795709453.35184,
     1795712998.2120404,
     1795759773.769674,
-    1795759796.2218812
+    1795759796.2218812,
+    1795763343.93318
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996739/Jason_and_Lucia_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996727/Lucia_Caminos_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
@@ -3343,6 +3370,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_05.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg"
   ]
 }
