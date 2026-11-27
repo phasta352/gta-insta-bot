@@ -2384,86 +2384,6 @@
     "4215dc3459c42ced": 1795792120.4488094
   },
   "drafts": {
-    "43c4c7908b": {
-      "id": "43c4c7908b",
-      "created": 1795705769.430187,
-      "headline": "How to Steal Andrew Node's Supercharged Truffade Thrax",
-      "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-truffade-thrax-andrew-node-no-flusher/",
-      "source": "PC Gamer",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705740/gta-bot/43c4c7908b-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705740/gta-bot/43c4c7908b-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705740/gta-bot/43c4c7908b-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705741/gta-bot/43c4c7908b-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705742/gta-bot/43c4c7908b-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705742/gta-bot/43c4c7908b-4.jpg"
-      ],
-      "full_caption": "Want the fastest car in GTA 6? 🚗 Andrew Node's supercharged Truffade Thrax is up for grabs, but you have to earn it. Scan ten No Flusher graffiti tags around Vice Beach, find a secret hideout, then raid a house on Starfish Island. Bring garage space and cash, because registering it isn't free. Have you grabbed it yet?\n\nSource: PC Gamer\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #TruffadeThrax #GTA6Tips #GTA6Guide #RockstarGames #Gaming",
-      "alt_text": "Graphic with the headline about how to steal Andrew Node's supercharged Truffade Thrax in GTA 6.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795705768/gta-bot/43c4c7908b-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "Step 1: Scan the graffiti",
-          "text": "Find ten No Flusher tags, which look like little blue toilets, around Vice Beach in eastern Vice City. Scan each one with your WAiNK It app."
-        },
-        {
-          "title": "Step 2: Find the hideout",
-          "text": "Once all ten are scanned, Cal's chat goes dark and a new message reveals a hideout near the tenth tag at Oldby Island. The evidence inside points to Andrew Node's house on Starfish Island."
-        },
-        {
-          "title": "Step 3: Hit Starfish Island",
-          "text": "The island is a gated community with security, so go by boat. Dock at the jetty of the backwards-L-shaped house, then head round the left side to the white garage."
-        },
-        {
-          "title": "Step 4: Know the cost",
-          "text": "Drive the car off the island and register it with Randy for 70k. You could sell it for 20k instead, but it's a unique car. Make sure you have garage space and cash first."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996658/Grassrivers_06.jpg",
-      "text_message_id": 636
-    },
-    "ead92669f5": {
-      "id": "ead92669f5",
-      "created": 1795705789.6150181,
-      "headline": "GTA 6 Black Friday: No US Discount, UK Gets a Price Cut",
-      "url": "https://www.gamesradar.com/live/news/black-friday-gta-6-deals-live/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705786/gta-bot/ead92669f5-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705786/gta-bot/ead92669f5-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705787/gta-bot/ead92669f5-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705787/gta-bot/ead92669f5-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705788/gta-bot/ead92669f5-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795705789/gta-bot/ead92669f5-4.jpg"
-      ],
-      "full_caption": "Hunting for a Black Friday price on GTA 6? Here's the reality check. 🛒\n\nGamesRadar+ found no US discount on the game itself. In the UK, Amazon has the boxed code at £64, and a PSN voucher at ShopTo is £10 off. Gear like controllers, headsets and chairs is seeing cuts, and the sales are expected to run through the weekend.\n\nDid you grab GTA 6 at full price, or are you waiting for a deal?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #Leonida #BlackFriday #GamingDeals #PS5 #Xbox #RockstarGames #CyberMonday #TheLeonidaDaily",
-      "alt_text": "Graphic with a Black Friday deals headline about GTA 6 pricing in the US and UK.",
-      "score": 7,
-      "reel_url": null,
-      "category": "NEWS",
-      "slides": [
-        {
-          "title": "No US discount on the game",
-          "text": "GamesRadar+ says GTA 6 isn't on offer at any big US retailer. Stock looks good except at Walmart and Target, and Xbox copies are available at the same price as PS5."
-        },
-        {
-          "title": "UK shoppers get a small break",
-          "text": "Amazon UK has the boxed code down to £64. ShopTo has a £70 PSN voucher reduced to £60, a cheaper route to the digital version."
-        },
-        {
-          "title": "Gear is where the deals are",
-          "text": "The writer flags discounts on the DualSense Edge in the UK and US, plus picks like the GameSir G7 Pro, Fractal Scape and Arctis Nova 7 Gen 2 headsets, and the Corsair TC500 Luxe chair."
-        },
-        {
-          "title": "How long will deals last?",
-          "text": "Discounts started a week or two before Black Friday and should last through the weekend into Cyber Monday. Stock may run out sooner given the renewed interest in gaming."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996692/Jason_Duval_15.jpg",
-      "text_message_id": 642
-    },
     "ca81206193": {
       "id": "ca81206193",
       "created": 1795709451.040918,
@@ -3295,8 +3215,6 @@
     }
   ],
   "drafts_sent": [
-    1795619443.7072985,
-    1795619464.1097093,
     1795623135.4150064,
     1795626580.060153,
     1795673472.785448,
