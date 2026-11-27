@@ -2,7 +2,7 @@
   "telegram_offset": 889593716,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795784912.980241,
+  "last_scout": 1795788512.0446053,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2334,7 +2334,28 @@
     "c8dc52f5bf32ad4d": 1795784922.7618396,
     "06e28555872e46e4": 1795784922.7618396,
     "5e17d5a172c100a2": 1795784922.7618396,
-    "c6a5e515a8c21da8": 1795784922.7618396
+    "c6a5e515a8c21da8": 1795784922.7618396,
+    "c56f5299822fedf6": 1795788522.6994374,
+    "3824c94a1bbcac8a": 1795788522.6994374,
+    "d18b2901e7856e97": 1795788522.6994374,
+    "e538ce27acef63d0": 1795788522.6994374,
+    "315e2a293a33a4b1": 1795788522.6994374,
+    "2260c2255bf1005d": 1795788522.6994374,
+    "5d00f2b882a6c20f": 1795788522.6994374,
+    "23b236f4f7be9417": 1795788522.6994374,
+    "d2d574c8eae27f79": 1795788522.6994374,
+    "b02330448400e885": 1795788522.6994374,
+    "8c372a97e0791caf": 1795788522.6994374,
+    "a7cb01e2abcee24e": 1795788522.6994374,
+    "fa2f26747aa94895": 1795788522.6994374,
+    "144948677195a32e": 1795788522.6994374,
+    "06cdff00a1702a00": 1795788522.6994374,
+    "250a4a40809f037d": 1795788522.6994374,
+    "fd9e1ff50b65724d": 1795788522.6994374,
+    "35a53fc1bac0ab74": 1795788522.6994374,
+    "2f1ad021ce65995c": 1795788522.6994374,
+    "142970c3b6e5cfc8": 1795788522.6994374,
+    "0d7fa9367ce95c4c": 1795788522.6994374
   },
   "drafts": {
     "43c4c7908b": {
@@ -2612,6 +2633,25 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996681/Jason_Duval_10.jpg",
       "text_message_id": 689
+    },
+    "f4a7e23a78": {
+      "id": "f4a7e23a78",
+      "created": 1795788555.6131277,
+      "headline": "GTA VI Reportedly Lifts Series Near 1 Trillion YouTube Views",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnNnRzZud2FXNFpPYUFBNTd2WjNKSHdIWWJWNGVSMDFCVmYxMXBtckpiX0Z0Y0Jad2MyWTdBYzQ5YkRTQVd2eW9xdkRPa01DMU5WSF95dC1rRXhnR2lmckFjUkRpaUFwS3hwWDQ4dUNuUmhLc0pkWXZPd3FoajJIRmlHeUMtelJpXzBSRDJ2Wm01aHFKY0o0STRYdy1vYjF2eU1FVV9yaVFRX3ZUaENn?oc=5",
+      "source": "RockstarINTEL",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795788555/gta-bot/f4a7e23a78-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795788555/gta-bot/f4a7e23a78-0.jpg"
+      ],
+      "full_caption": "Big numbers on YouTube for the Grand Theft Auto series. 📈\n\nAccording to RockstarINTEL, GTA VI's record-breaking launch has pushed the franchise to nearly 1 trillion views on YouTube. Only the headline was available to us, so we don't have a breakdown of where the views come from or how they were counted. It's a report from a fan news outlet, not an official Rockstar statement. Even so, it shows how much attention the series draws online.\n\nWhat's the first GTA video you remember watching on YouTube?\n\nSource: RockstarINTEL\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #GTA #Leonida #YouTube #GamingNews #VideoGames #GTAOnline",
+      "alt_text": "News graphic with the text 'GTA VI Reportedly Lifts Series Near 1 Trillion YouTube Views' in the style of The Leonida Daily.",
+      "score": 6,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
+      "text_message_id": 691
     }
   },
   "queue": [],
@@ -3255,12 +3295,12 @@
     1795763343.93318,
     1795777782.371236,
     1795777792.2870758,
-    1795784958.8816707
+    1795784958.8816707,
+    1795788556.753453
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
@@ -3289,6 +3329,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996664/Leonida_Keys_05.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996681/Jason_Duval_10.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996681/Jason_Duval_10.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg"
   ]
 }
