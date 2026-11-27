@@ -2,7 +2,7 @@
   "telegram_offset": 889593716,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795799312.7971148,
+  "last_scout": 1795802906.2901423,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2423,7 +2423,19 @@
     "233626fa79c5abd4": 1795799323.6247551,
     "6e02458e3ffec4ca": 1795799323.6247551,
     "3eef5b13a7ec1ab3": 1795799323.6247551,
-    "580654c5eedc4dde": 1795799323.6247551
+    "580654c5eedc4dde": 1795799323.6247551,
+    "d6bdd6dad6bd75ab": 1795802916.9492087,
+    "674d3e1806e73d25": 1795802916.9492087,
+    "2151195763246747": 1795802916.9492087,
+    "59fc3ed07d745dd0": 1795802916.9492087,
+    "cd1f22f96bdd744f": 1795802916.9492087,
+    "1632a7ebedd9d848": 1795802916.9492087,
+    "3270955dd6e0322d": 1795802916.9492087,
+    "9d64ca65dfef054b": 1795802916.9492087,
+    "ec949a1662533a9b": 1795802916.9492087,
+    "f5ec39d39a58a211": 1795802916.9492087,
+    "159b1843501058fc": 1795802916.9492087,
+    "a49def848420d0f3": 1795802916.9492087
   },
   "drafts": {
     "28800f889e": {
@@ -2699,6 +2711,46 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg",
       "text_message_id": 706
+    },
+    "8c0c69c29e": {
+      "id": "8c0c69c29e",
+      "created": 1795802942.3301263,
+      "headline": "Lucia actor Manni L. Perez thanks fans after near-decade on GTA 6",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-lucia-actor-dedicated-almost-a-decade-to-bringing-rockstars-new-protagonist-to-life-and-its-been-a-whirlwind-for-her-since-launch/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795802938/gta-bot/8c0c69c29e-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795802938/gta-bot/8c0c69c29e-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795802939/gta-bot/8c0c69c29e-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795802940/gta-bot/8c0c69c29e-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795802941/gta-bot/8c0c69c29e-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795802941/gta-bot/8c0c69c29e-4.jpg"
+      ],
+      "full_caption": "Almost a decade in Lucia's shoes. 🎬\n\nManni L. Perez, the actor behind co-protagonist Lucia, thanked fans on Instagram for the warm reception to the game and her character. She says she spent almost ten years bringing Lucia to life. GamesRadar+ also notes GTA 6 is the highest-rated game of all time, and Sony reports more than 39 million unique players on PS5 alone. Rockstar hasn't announced a PC version or Online yet.\n\nWhat do you want to see from Rockstar next?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAuto6 #GTAVI #Rockstar #RockstarGames #Lucia #ManniLPerez #Leonida #GTAOnline #Gaming",
+      "alt_text": "Graphic with the headline about Lucia's actor Manni L. Perez thanking GTA 6 fans after almost a decade working on the game.",
+      "score": 5,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "A heartfelt thank-you",
+          "text": "Manni L. Perez, who plays Lucia, posted on Instagram to thank new followers for their messages and the positive response to the game and her character."
+        },
+        {
+          "title": "Almost a decade as Lucia",
+          "text": "Perez says she has dedicated almost a decade to the role. That covers most of the 13 years since Rockstar's last Grand Theft Auto release."
+        },
+        {
+          "title": "Record-setting launch",
+          "text": "GamesRadar+ calls GTA 6 the highest-rated game of all time. Sony reports more than 39 million unique players on PS5, which it calls the biggest launch in PlayStation history."
+        },
+        {
+          "title": "What's still to come?",
+          "text": "Fans are still waiting on a PC version and the Online counterpart. Rockstar hasn't announced either yet. Jason's actor, Dylan Rourke, has also shared a thankful post."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
+      "text_message_id": 712
     }
   },
   "queue": [],
@@ -3340,12 +3392,12 @@
     1795788556.753453,
     1795795764.414591,
     1795799334.5124712,
-    1795799386.0007565
+    1795799386.0007565,
+    1795802944.3600543
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
@@ -3374,6 +3426,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg"
   ]
 }
