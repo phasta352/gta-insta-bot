@@ -1,8 +1,8 @@
 {
-  "telegram_offset": 889593716,
+  "telegram_offset": 889593717,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795802906.2901423,
+  "last_scout": 1795806512.1830893,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2435,7 +2435,29 @@
     "ec949a1662533a9b": 1795802916.9492087,
     "f5ec39d39a58a211": 1795802916.9492087,
     "159b1843501058fc": 1795802916.9492087,
-    "a49def848420d0f3": 1795802916.9492087
+    "a49def848420d0f3": 1795802916.9492087,
+    "b29c248023694245": 1795806522.5509412,
+    "68c89e623b9cf33c": 1795806522.5509412,
+    "5c4e1508e79c32b9": 1795806522.5509412,
+    "b3bb51ce08faf7e8": 1795806522.5509412,
+    "3d1cac63401afe00": 1795806522.5509412,
+    "fee0cc60d6ca2b83": 1795806522.5509412,
+    "bef03a2c18fa590b": 1795806522.5509412,
+    "a156c13524909a04": 1795806522.5509412,
+    "a7fc9e6bbb0ececa": 1795806522.5509412,
+    "37c2ededf8e64c48": 1795806522.5509412,
+    "a5da835f2fa4ae1d": 1795806522.5509412,
+    "ba30fa9fe7e24f5b": 1795806522.5509412,
+    "1d747f47fda3d7de": 1795806522.5509412,
+    "b98bd99080003c9f": 1795806522.5509412,
+    "3658408d87193a6b": 1795806522.5509412,
+    "04f3f1a225e61161": 1795806522.5509412,
+    "bac80323cf67f06c": 1795806522.5509412,
+    "26da46a6e57d529f": 1795806522.5509412,
+    "a79073eb782e7514": 1795806522.5509412,
+    "11e95ec3a76b46b2": 1795806522.5509412,
+    "ce59471be27eb263": 1795806522.5509412,
+    "821d8ac6d84836f8": 1795806522.5509412
   },
   "drafts": {
     "28800f889e": {
@@ -2672,46 +2694,6 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
       "text_message_id": 699
     },
-    "c07c7e1147": {
-      "id": "c07c7e1147",
-      "created": 1795799382.8622618,
-      "headline": "How to Trigger GTA 6's Night-Time UFO Encounter",
-      "url": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
-      "source": "Polygon",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799347/gta-bot/c07c7e1147-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799347/gta-bot/c07c7e1147-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799348/gta-bot/c07c7e1147-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799348/gta-bot/c07c7e1147-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799349/gta-bot/c07c7e1147-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799350/gta-bot/c07c7e1147-4.jpg"
-      ],
-      "full_caption": "Strange lights, a spooky roadside car and a very odd optional quest 👽\n\nPolygon has a walkthrough for the GTA 6 UFO encounter, which only happens at night. It starts with a red abandoned car and ends with a search across Leonida. Swipe for the safe-to-share basics, and discover the rest yourself.\n\nHave you found the abandoned car yet?\n\nSource: Polygon\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #Rockstar #RockstarGames #GTA6Guide #GTA6Tips #UFO #EasterEgg",
-      "alt_text": "Graphic with the headline about how to trigger the UFO encounter in GTA 6, with a glowing light in a night sky over a dark road.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795799381/gta-bot/c07c7e1147-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where and when to look",
-          "text": "The encounter only happens at night, after around 10 p.m. Polygon marks two locations, including one in Port Gellhorn. Online reports suggest there may be more around Kelly County."
-        },
-        {
-          "title": "Spot the abandoned car",
-          "text": "Look for a red car at the roadside with both front doors and the trunk open and its headlights flashing. Get out and investigate to find a trail of clothes leading away."
-        },
-        {
-          "title": "Follow the light",
-          "text": "Equip your flashlight, because it's dark out there. Follow the trail until you see a bright white light in the distance, then walk towards it to trigger a cutscene."
-        },
-        {
-          "title": "Sleep on it",
-          "text": "The next step comes when you go to sleep. You'll be shown a four-digit code, and it differs from player to player. Remember yours, because you'll need it later."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg",
-      "text_message_id": 706
-    },
     "8c0c69c29e": {
       "id": "8c0c69c29e",
       "created": 1795802942.3301263,
@@ -2751,9 +2733,133 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
       "text_message_id": 712
+    },
+    "47aea460f2": {
+      "id": "47aea460f2",
+      "created": 1795806561.4327457,
+      "headline": "GTA 6 tricks you probably missed in Leonida",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-things-you-missed/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806534/gta-bot/47aea460f2-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806534/gta-bot/47aea460f2-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806535/gta-bot/47aea460f2-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806536/gta-bot/47aea460f2-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806536/gta-bot/47aea460f2-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806537/gta-bot/47aea460f2-4.jpg"
+      ],
+      "full_caption": "Think you've seen everything in Leonida? Think again. 👀\n\nGamesRadar+ rounded up 25 easily missed GTA 6 details, from handy driving controls to loot spots and small NPC interactions. Swipe for a few of the most useful ones, and read the full list at the source for the rest.\n\nWhich of these did you already know, and what's the best hidden detail you've found yourself?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTATips #GTA6Tips #GamingTips #LuciaAndJason #GTACommunity",
+      "alt_text": "Graphic with the headline about GTA 6 tricks players probably missed, in The Leonida Daily's tips and tricks style.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795806559/gta-bot/47aea460f2-reel.mp4",
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "Keep the engine running",
+          "text": "Double-tap Triangle/Y to leave a vehicle with the engine still on, ready for a quick getaway. On a boat, the same move lets you walk the deck while it holds its course and speed."
+        },
+        {
+          "title": "Hide from cops, signal to others",
+          "text": "Hold Circle/B in a parked vehicle to duck out of sight, though cops still spot you if the vehicle has Heat. Tapping D-pad Left/Right sets a turn signal, so other drivers are more likely to let you through."
+        },
+        {
+          "title": "Make friends with pets",
+          "text": "Convenience store cashiers sell packs of 10 pet treats. Feed cats and dogs, or toss a treat to a dog from a distance, which can stop it barking and giving you away or attacking you."
+        },
+        {
+          "title": "Hunt for loot and unique gear",
+          "text": "Enterable buildings show as darker blue on the map and can hold cash, weapons and collectibles. Gold-icon weapons are unique and can be reclaimed from your weapon lockers. Yard sales offer cheap, unique outfits."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996697/Jason_Duval_17.jpg",
+      "text_message_id": 720
+    },
+    "dcffa44bc2": {
+      "id": "dcffa44bc2",
+      "created": 1795806589.6793993,
+      "headline": "GTA 6 Players Are Robbing Stores With Just a Six-Pack",
+      "url": "https://www.polygon.com/gta-6-bank-robbery-beer-weapon-how-to-facebook-youtube-videos/",
+      "source": "Polygon",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806586/gta-bot/dcffa44bc2-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806586/gta-bot/dcffa44bc2-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806587/gta-bot/dcffa44bc2-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806587/gta-bot/dcffa44bc2-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806588/gta-bot/dcffa44bc2-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806589/gta-bot/dcffa44bc2-4.jpg"
+      ],
+      "full_caption": "A six-pack of beer is the hottest heist tool in GTA 6 right now 🍺\n\nVideos are spreading of players strolling into jewelry stores and banks with a six-pack, often with no mask and no gun, and leaving with the loot. It looks easy, but Polygon's own attempt ended in a police chase. Swipe for the details.\n\nHave you tried the beer approach yet, or are you a full-on stealth planner?\n\nSource: Polygon\n\n#GTA6 #GrandTheftAutoVI #GTAVI #RockstarGames #LeonidaDaily #GTA6Tips #GTA6Heist #Jason #Lucia #GamingNews",
+      "alt_text": "Graphic with the headline about GTA 6 players robbing stores with only a six-pack of beer.",
+      "score": 6,
+      "reel_url": null,
+      "category": "TIPS & TRICKS",
+      "slides": [
+        {
+          "title": "The Six-Pack Heist Trend",
+          "text": "Social media is filling up with clips of GTA 6 players walking into jewelry stores holding a six-pack and leaving with every valuable. Many don't bother with a mask or a gun."
+        },
+        {
+          "title": "Calm Under Pressure",
+          "text": "In one Facebook clip, Jason eats an apple before smashing displays, then smokes a cigarette while leaving with full bags. In another, the alarm goes off but gets switched off within seconds."
+        },
+        {
+          "title": "Bank Run, Flip-Flops Edition",
+          "text": "YouTuber RandomWeirdThings 248 reportedly hit three banks shirtless and in flip-flops without triggering a police chase. They walked away with around $65,000 in cash."
+        },
+        {
+          "title": "Not As Easy As It Looks",
+          "text": "Some clips show planning, like knowing where a guard will appear. Polygon's writer tried the same jewelry store with Lucia, got under half the haul and ended up in a two-star chase."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
+      "text_message_id": 726
     }
   },
-  "queue": [],
+  "queue": [
+    {
+      "id": "c07c7e1147",
+      "created": 1795799382.8622618,
+      "headline": "How to Trigger GTA 6's Night-Time UFO Encounter",
+      "url": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
+      "source": "Polygon",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799347/gta-bot/c07c7e1147-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799347/gta-bot/c07c7e1147-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799348/gta-bot/c07c7e1147-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799348/gta-bot/c07c7e1147-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799349/gta-bot/c07c7e1147-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799350/gta-bot/c07c7e1147-4.jpg"
+      ],
+      "full_caption": "Strange lights, a spooky roadside car and a very odd optional quest 👽\n\nPolygon has a walkthrough for the GTA 6 UFO encounter, which only happens at night. It starts with a red abandoned car and ends with a search across Leonida. Swipe for the safe-to-share basics, and discover the rest yourself.\n\nHave you found the abandoned car yet?\n\nSource: Polygon\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #Rockstar #RockstarGames #GTA6Guide #GTA6Tips #UFO #EasterEgg",
+      "alt_text": "Graphic with the headline about how to trigger the UFO encounter in GTA 6, with a glowing light in a night sky over a dark road.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795799381/gta-bot/c07c7e1147-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where and when to look",
+          "text": "The encounter only happens at night, after around 10 p.m. Polygon marks two locations, including one in Port Gellhorn. Online reports suggest there may be more around Kelly County."
+        },
+        {
+          "title": "Spot the abandoned car",
+          "text": "Look for a red car at the roadside with both front doors and the trunk open and its headlights flashing. Get out and investigate to find a trail of clothes leading away."
+        },
+        {
+          "title": "Follow the light",
+          "text": "Equip your flashlight, because it's dark out there. Follow the trail until you see a bright white light in the distance, then walk towards it to trigger a cutscene."
+        },
+        {
+          "title": "Sleep on it",
+          "text": "The next step comes when you go to sleep. You'll be shown a four-digit code, and it differs from player to player. Remember yours, because you'll need it later."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg",
+      "text_message_id": 706,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795806456.8741264
+    }
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -3365,6 +3471,14 @@
       "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
       "at": 1795772353.4930463,
       "media_id": "18009449177793856"
+    },
+    {
+      "id": "c07c7e1147",
+      "headline": "How to Trigger GTA 6's Night-Time UFO Encounter",
+      "kind": "carousel",
+      "url": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
+      "at": 1795806510.680035,
+      "media_id": "18083443322386993"
     }
   ],
   "drafts_sent": [
@@ -3393,13 +3507,13 @@
     1795795764.414591,
     1795799334.5124712,
     1795799386.0007565,
-    1795802944.3600543
+    1795802944.3600543,
+    1795806565.4269645,
+    1795806591.4311683
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
@@ -3427,6 +3541,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996697/Jason_Duval_17.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg"
   ]
 }
