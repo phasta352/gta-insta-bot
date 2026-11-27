@@ -2,7 +2,7 @@
   "telegram_offset": 889593718,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795806512.1830893,
+  "last_scout": 1795810152.8727977,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2457,7 +2457,21 @@
     "a79073eb782e7514": 1795806522.5509412,
     "11e95ec3a76b46b2": 1795806522.5509412,
     "ce59471be27eb263": 1795806522.5509412,
-    "821d8ac6d84836f8": 1795806522.5509412
+    "821d8ac6d84836f8": 1795806522.5509412,
+    "d6573ae94510b126": 1795810163.6363862,
+    "5bf1b66c588b5b80": 1795810163.6363862,
+    "e8f45312e04dc3f9": 1795810163.6363862,
+    "be84d4b4ce609cd8": 1795810163.6363862,
+    "e158ba6ebad5543a": 1795810163.6363862,
+    "a30324b8ab7dd5fe": 1795810163.6363862,
+    "8229f9c091967a8e": 1795810163.6363862,
+    "dd346c2e31c0567f": 1795810163.6363862,
+    "3b220a4a6f9d628c": 1795810163.6363862,
+    "ba9555a644eca2a4": 1795810163.6363862,
+    "e40076418dafce8e": 1795810163.6363862,
+    "fa6214f1ab57276d": 1795810163.6363862,
+    "4448bb3296d2918b": 1795810163.6363862,
+    "3247ab874eaea2a4": 1795810163.6363862
   },
   "drafts": {
     "28800f889e": {
@@ -2773,52 +2787,68 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
       "text_message_id": 726
-    }
-  },
-  "queue": [
-    {
-      "id": "c07c7e1147",
-      "created": 1795799382.8622618,
-      "headline": "How to Trigger GTA 6's Night-Time UFO Encounter",
-      "url": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
-      "source": "Polygon",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799347/gta-bot/c07c7e1147-0.jpg",
+    },
+    "38c206405b": {
+      "id": "38c206405b",
+      "created": 1795810174.911667,
+      "headline": "GTA 6 Players Go Wild to Escape 6-Star Heat",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qeUdLOHlvbTAtQk83ZVZ2dy1nSWl2a1d3cXlwTnhQbGxGNkRzTm9BLUd5S0NBSEFkbnlweU1YRExnU3Y4M2gxSGdkMjVCOVlxOXY0TTltb18zTThfcWpadzYwcV8?oc=5",
+      "source": "IGN",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795810174/gta-bot/38c206405b-0.jpg",
       "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799347/gta-bot/c07c7e1147-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799348/gta-bot/c07c7e1147-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799348/gta-bot/c07c7e1147-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799349/gta-bot/c07c7e1147-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799350/gta-bot/c07c7e1147-4.jpg"
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795810174/gta-bot/38c206405b-0.jpg"
       ],
-      "full_caption": "Strange lights, a spooky roadside car and a very odd optional quest 👽\n\nPolygon has a walkthrough for the GTA 6 UFO encounter, which only happens at night. It starts with a red abandoned car and ends with a search across Leonida. Swipe for the safe-to-share basics, and discover the rest yourself.\n\nHave you found the abandoned car yet?\n\nSource: Polygon\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #Rockstar #RockstarGames #GTA6Guide #GTA6Tips #UFO #EasterEgg",
-      "alt_text": "Graphic with the headline about how to trigger the UFO encounter in GTA 6, with a glowing light in a night sky over a dark road.",
-      "score": 9,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795799381/gta-bot/c07c7e1147-reel.mp4",
+      "full_caption": "Losing a 6-star wanted level in GTA 6 is clearly not easy. 🚨\n\nAccording to IGN, players are going to extreme lengths to shake the heat. The report mentions interdimensional portals and hidden bunkers among the methods. We only have the headline so far, so the exact details are still to be confirmed.\n\nWhat's the wildest way you've ever escaped the cops in a GTA game?\n\nSource: IGN\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #WantedLevel #GTATips #GamingNews #CommunityFinds #VideoGames",
+      "alt_text": "Graphic with the headline 'GTA 6 Players Go Wild to Escape 6-Star Heat' on a GTA-style background.",
+      "score": 8,
+      "reel_url": null,
+      "category": "TIPS & TRICKS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996615/Mount_Kalaga_National_Park_04.jpg",
+      "text_message_id": 729
+    },
+    "4016e5fb4c": {
+      "id": "4016e5fb4c",
+      "created": 1795810206.4020534,
+      "headline": "GTA 6 Guide: Every Unique Animal Location for Bret",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-all-unique-snapmatic-animal-locations-bret/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795810202/gta-bot/4016e5fb4c-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795810202/gta-bot/4016e5fb4c-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795810203/gta-bot/4016e5fb4c-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795810204/gta-bot/4016e5fb4c-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795810205/gta-bot/4016e5fb4c-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795810205/gta-bot/4016e5fb4c-4.jpg"
+      ],
+      "full_caption": "Bret's hunting texts are vague and there are no map markers, so here's where to look. 🐊\n\nFrom a black bear south of Hamlet to a purple panther on Belpoint Island, Leonida's unique animals each have a favourite spot. Swipe for the locations and the quirks that make each one easier to find.\n\nWhich unique animal gave you the most trouble?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #GTA6Guide #GTA6Tips #RockstarGames #Gaming #GamingNews #OpenWorld",
+      "alt_text": "Graphic with the headline 'GTA 6 Guide: Every Unique Animal Location for Bret' announcing a hunting guide for Grand Theft Auto VI.",
+      "score": 6,
+      "reel_url": null,
       "category": "GUIDE",
       "slides": [
         {
-          "title": "Where and when to look",
-          "text": "The encounter only happens at night, after around 10 p.m. Polygon marks two locations, including one in Port Gellhorn. Online reports suggest there may be more around Kelly County."
+          "title": "How the hunt works",
+          "text": "Bret texts you hints about unique animals, but there are no map markers. You can't carry the big ones, so wait for Bret to collect before the next hunt. The last two are smaller and go to Jason."
         },
         {
-          "title": "Spot the abandoned car",
-          "text": "Look for a red car at the roadside with both front doors and the trunk open and its headlights flashing. Get out and investigate to find a trail of clothes leading away."
+          "title": "Swamp targets near Hamlet",
+          "text": "The Unique Black Bear roams south of Hamlet's Pay 'n' Spray. The all-black croc stays on an island west of Cottonmouth Lake. The weed-covered Swamp Alligator wanders islands south of Buckskin's Meditation Point."
         },
         {
-          "title": "Follow the light",
-          "text": "Equip your flashlight, because it's dark out there. Follow the trail until you see a bright white light in the distance, then walk towards it to trigger a cutscene."
+          "title": "Coast, golf course and island",
+          "text": "The Unique Buck is northeast of Grayson, near a river mouth. The striped Wild Boar sits north of the Wild Hog Point airfield. A white croc roams Leaf Links, and a purple panther prowls Belpoint Island."
         },
         {
-          "title": "Sleep on it",
-          "text": "The next step comes when you go to sleep. You'll be shown a four-digit code, and it differs from player to player. Remember yours, because you'll need it later."
+          "title": "The final two hunts",
+          "text": "The Unique Coyote only shows as 'Coyote' until you pick it up. The Unique White Fox is near two ponds on Emerald Springs' west edge. Returning it earns a Karin Rebel truck to register as yours."
         }
       ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg",
-      "text_message_id": 706,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795806456.8741264
-    },
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
+      "text_message_id": 735
+    }
+  },
+  "queue": [
     {
       "id": "47aea460f2",
       "created": 1795806561.4327457,
@@ -3525,6 +3555,14 @@
       "url": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
       "at": 1795806510.680035,
       "media_id": "18083443322386993"
+    },
+    {
+      "id": "c07c7e1147",
+      "headline": "How to Trigger GTA 6's Night-Time UFO Encounter",
+      "kind": "reel",
+      "url": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
+      "at": 1795810150.8837616,
+      "media_id": "18108258173636923"
     }
   ],
   "drafts_sent": [
@@ -3555,13 +3593,13 @@
     1795799386.0007565,
     1795802944.3600543,
     1795806565.4269645,
-    1795806591.4311683
+    1795806591.4311683,
+    1795810176.4847224,
+    1795810208.0821538
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996608/Port_Gellhorn_01.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_16.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
@@ -3589,6 +3627,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996633/Vice_City_09.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996697/Jason_Duval_17.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996615/Mount_Kalaga_National_Park_04.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg"
   ]
 }
