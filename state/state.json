@@ -2337,65 +2337,6 @@
     "c6a5e515a8c21da8": 1795784922.7618396
   },
   "drafts": {
-    "5af6f1f0f6": {
-      "id": "5af6f1f0f6",
-      "created": 1795698538.9818785,
-      "headline": "GTA 6 Sends UK Games Retail Revenue Up 99% to £142m",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUDhHLWg2R1lPQUxhS0JoX1hGTlpySlRNZHc2RHZuRTltWFJZWUdUWERKTF96cFRLSG5NeGJzOVl0WGlDbUJjcUFQOWhIMFVveG1oajlXN2ZLY19kMXVBZk1xWlpOY29kTlF6NUdhQmMzc0J6dE1uSndHN3l6Z1Y5MTJIRUtiblJCS2YyZkctVkw3UW9ZdXphUlJld2NQMTVjbTJfLTkzRXc1LVA3UnFDdw?oc=5",
-      "source": "GamesIndustry.biz",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698538/gta-bot/5af6f1f0f6-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698538/gta-bot/5af6f1f0f6-0.jpg"
-      ],
-      "full_caption": "GTA 6 has made a big mark on UK game sales. 🇬🇧\n\nNielsenIQ reports that games retail revenue in the UK rose 99% to £142m during the launch period, and the headline credits GTA 6 for the jump. Revenue almost doubled, which shows how much pull a Leonida-sized release has on the high street.\n\nThe headline doesn't say exactly which dates or sales channels the figure covers, so we'll update when there's more detail.\n\nDid you pick up GTA 6 at launch, and did you buy it physical or digital?\n\nSource: GamesIndustry.biz\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #GamingNews #NielsenIQ #UKGaming #VideoGameSales #GamesIndustry",
-      "alt_text": "News graphic announcing that GTA 6 helped lift UK games retail revenue by 99% to £142 million during its launch period, according to NielsenIQ.",
-      "score": 8,
-      "reel_url": null,
-      "category": "RECORDS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996616/Vice_City_01.jpg",
-      "text_message_id": 621
-    },
-    "94555fdf20": {
-      "id": "94555fdf20",
-      "created": 1795698577.1409824,
-      "headline": "Hidden Capri Mission Can Net You a Unique Shotgun",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698573/gta-bot/94555fdf20-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698573/gta-bot/94555fdf20-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698574/gta-bot/94555fdf20-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698575/gta-bot/94555fdf20-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698575/gta-bot/94555fdf20-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795698576/gta-bot/94555fdf20-4.jpg"
-      ],
-      "full_caption": "Got an unusual run-in with the cops in Capri? 🚔 There's a hidden encounter most players will have missed. Get arrested in the right way and you're taken to a mysterious facility, where escaping can earn you the CPD Moreland 850 shotgun. Swipe for the steps. Mild spoiler warning for this side encounter! Have you found it yet?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #Capri #GTA6Guide #GTA6Tips #RockstarGames #Gaming #HiddenSecrets",
-      "alt_text": "Graphic with the headline about a hidden Capri mission in GTA 6 that rewards a unique shotgun.",
-      "score": 5,
-      "reel_url": null,
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where to start",
-          "text": "Head to Capri in Mariana County, on the western side of the map. Go to the central plaza and look for police officers. Any officers will do; if they aren't there, walk around until you find some."
-        },
-        {
-          "title": "How to trigger it",
-          "text": "Provoke an officer until they arrest you, cause a minor disturbance for a 1-2 star wanted level, or slap a cop while unarmed. Then surrender and don't break out of the arrest."
-        },
-        {
-          "title": "Escape the cage",
-          "text": "You'll skip the usual Busted screen and wake up in a holding facility north of Capri. Attack an officer through the bars for the keys, or kick the cage open. Free the other prisoners and fight your way out."
-        },
-        {
-          "title": "Claim the reward",
-          "text": "Before you leave, check the boot of the police vehicle outside. You'll find your confiscated gear and the CPD Moreland 850 shotgun, the main reward for this secret mission."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996678/Jason_Duval_04.jpg",
-      "text_message_id": 627
-    },
     "43c4c7908b": {
       "id": "43c4c7908b",
       "created": 1795705769.430187,
@@ -3288,8 +3229,6 @@
     }
   ],
   "drafts_sent": [
-    1795612173.2500045,
-    1795612196.8330362,
     1795615787.5664134,
     1795615810.2682195,
     1795619443.7072985,
