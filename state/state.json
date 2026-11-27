@@ -2,7 +2,7 @@
   "telegram_offset": 889593716,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795795720.0966349,
+  "last_scout": 1795799312.7971148,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2398,7 +2398,32 @@
     "70042f19efba8869": 1795795730.1434464,
     "4f61ee56ba0a3ead": 1795795730.1434464,
     "33c8b4233d19e723": 1795795730.1434464,
-    "1fcc37aa846a0df8": 1795795730.1434464
+    "1fcc37aa846a0df8": 1795795730.1434464,
+    "1362ab0b4e47a7e8": 1795799323.6247551,
+    "b1eaf6bf23a1410e": 1795799323.6247551,
+    "8604e5c5a90cadd8": 1795799323.6247551,
+    "b0c5abcb5bf0406d": 1795799323.6247551,
+    "4af4bf6ec4b231bc": 1795799323.6247551,
+    "e3719b825cd15907": 1795799323.6247551,
+    "6114db0fe55cc423": 1795799323.6247551,
+    "63d056ebc8204faa": 1795799323.6247551,
+    "b91d53aee1966d03": 1795799323.6247551,
+    "e75a18d0133176ce": 1795799323.6247551,
+    "ae33c0ccf6a3675a": 1795799323.6247551,
+    "d8775c3baf43ac4d": 1795799323.6247551,
+    "cfa10d1cf4e7984f": 1795799323.6247551,
+    "9ced97f4b0308e8e": 1795799323.6247551,
+    "5f0575b1e4a44b0e": 1795799323.6247551,
+    "6df4e785d38edc7c": 1795799323.6247551,
+    "c8d21a7df72aabd9": 1795799323.6247551,
+    "a5baa69314d2a81e": 1795799323.6247551,
+    "02b915a78c4a5ee1": 1795799323.6247551,
+    "fe37bd29e100704d": 1795799323.6247551,
+    "395df17547048634": 1795799323.6247551,
+    "233626fa79c5abd4": 1795799323.6247551,
+    "6e02458e3ffec4ca": 1795799323.6247551,
+    "3eef5b13a7ec1ab3": 1795799323.6247551,
+    "580654c5eedc4dde": 1795799323.6247551
   },
   "drafts": {
     "28800f889e": {
@@ -2615,6 +2640,65 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg",
       "text_message_id": 697
+    },
+    "850d50c560": {
+      "id": "850d50c560",
+      "created": 1795799333.2845635,
+      "headline": "GTA VI Reportedly Sells 53 Million Copies in Week One",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEZMUEN1UGZkNlpSZ3ZjazlLdGFkSUZnZC1KeU1PNzZfdXF4Njh5VzJ4WUFmUmxlOVdwNW92aFBwd2FVMURQWlYzRjFFcFZ3aE96UE1EZUtMcEI1OVk1X3gtYU9nRmctaGdFVFg4d1JXQkJGSUJHOUtSVC0tTE1KOGdxYnk2OWhqcktRV2dmX2JWemJEMG4tTFRLUkxFOHdk?oc=5",
+      "source": "RockstarINTEL",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799332/gta-bot/850d50c560-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799332/gta-bot/850d50c560-0.jpg"
+      ],
+      "full_caption": "53 million copies in one week? That's the number making the rounds. 🚨\n\nAccording to RockstarINTEL, GTA VI hit 53 million copies sold in its first week, generating $4.7 billion. If that holds up, it would be a huge opening for the Leonida crime saga. We only have the headline so far, so treat the figures as reported until Rockstar or Take-Two confirm them.\n\nWhere do you think the launch numbers will land? 👀\n\nSource: RockstarINTEL\n\n#GTAVI #GTA6 #RockstarGames #Leonida #ViceCity #GTANews #TakeTwo #VideoGameSales #GamingNews #SalesRecord",
+      "alt_text": "News graphic reading 'GTA VI reportedly sells 53 million copies in week one' with the RECORDS label, in the style of The Leonida Daily.",
+      "score": 9,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
+      "text_message_id": 699
+    },
+    "c07c7e1147": {
+      "id": "c07c7e1147",
+      "created": 1795799382.8622618,
+      "headline": "How to Trigger GTA 6's Night-Time UFO Encounter",
+      "url": "https://www.polygon.com/gta-6-ufo-dream-house-location-where-to-find-grand-theft-auto/",
+      "source": "Polygon",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799347/gta-bot/c07c7e1147-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799347/gta-bot/c07c7e1147-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799348/gta-bot/c07c7e1147-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799348/gta-bot/c07c7e1147-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799349/gta-bot/c07c7e1147-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795799350/gta-bot/c07c7e1147-4.jpg"
+      ],
+      "full_caption": "Strange lights, a spooky roadside car and a very odd optional quest 👽\n\nPolygon has a walkthrough for the GTA 6 UFO encounter, which only happens at night. It starts with a red abandoned car and ends with a search across Leonida. Swipe for the safe-to-share basics, and discover the rest yourself.\n\nHave you found the abandoned car yet?\n\nSource: Polygon\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #Rockstar #RockstarGames #GTA6Guide #GTA6Tips #UFO #EasterEgg",
+      "alt_text": "Graphic with the headline about how to trigger the UFO encounter in GTA 6, with a glowing light in a night sky over a dark road.",
+      "score": 9,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795799381/gta-bot/c07c7e1147-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Where and when to look",
+          "text": "The encounter only happens at night, after around 10 p.m. Polygon marks two locations, including one in Port Gellhorn. Online reports suggest there may be more around Kelly County."
+        },
+        {
+          "title": "Spot the abandoned car",
+          "text": "Look for a red car at the roadside with both front doors and the trunk open and its headlights flashing. Get out and investigate to find a trail of clothes leading away."
+        },
+        {
+          "title": "Follow the light",
+          "text": "Equip your flashlight, because it's dark out there. Follow the trail until you see a bright white light in the distance, then walk towards it to trigger a cutscene."
+        },
+        {
+          "title": "Sleep on it",
+          "text": "The next step comes when you go to sleep. You'll be shown a four-digit code, and it differs from player to player. Remember yours, because you'll need it later."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg",
+      "text_message_id": 706
     }
   },
   "queue": [],
@@ -3232,7 +3316,6 @@
     }
   ],
   "drafts_sent": [
-    1795626580.060153,
     1795673472.785448,
     1795673516.726161,
     1795678824.5775626,
@@ -3255,13 +3338,13 @@
     1795777792.2870758,
     1795784958.8816707,
     1795788556.753453,
-    1795795764.414591
+    1795795764.414591,
+    1795799334.5124712,
+    1795799386.0007565
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996751/Jason_and_Lucia_08.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996707/Raul_Bautista_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996713/Brian_Heder_03.jpg",
@@ -3289,6 +3372,8 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996664/Leonida_Keys_05.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996681/Jason_Duval_10.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996711/DreQuan_Priest_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_05.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996618/Vice_City_15.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_08.jpg"
   ]
 }
