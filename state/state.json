@@ -2,7 +2,7 @@
   "telegram_offset": 889593716,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795781341.8711414,
+  "last_scout": 1795784912.980241,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2317,7 +2317,24 @@
     "fe703e860a415b85": 1795781352.325588,
     "b0221927c5592043": 1795781352.325588,
     "f564571310673b59": 1795781352.325588,
-    "de5f1892bbcde0bf": 1795781352.325588
+    "de5f1892bbcde0bf": 1795781352.325588,
+    "4f921ccf9d80edf4": 1795784922.7618396,
+    "47e4a55a5a72d792": 1795784922.7618396,
+    "8517892a2946132a": 1795784922.7618396,
+    "9b8d704f8ec0d218": 1795784922.7618396,
+    "8ebc2eed952988d6": 1795784922.7618396,
+    "dabca9fb69ea5cd5": 1795784922.7618396,
+    "7b9840e5ba0f1c57": 1795784922.7618396,
+    "ca1b11315f01dce5": 1795784922.7618396,
+    "c7ea1d2299f24622": 1795784922.7618396,
+    "3a2e97591e71ec66": 1795784922.7618396,
+    "2362796886958477": 1795784922.7618396,
+    "4546490f70fa80f4": 1795784922.7618396,
+    "d7158d2958e7c746": 1795784922.7618396,
+    "c8dc52f5bf32ad4d": 1795784922.7618396,
+    "06e28555872e46e4": 1795784922.7618396,
+    "5e17d5a172c100a2": 1795784922.7618396,
+    "c6a5e515a8c21da8": 1795784922.7618396
   },
   "drafts": {
     "5af6f1f0f6": {
@@ -2635,6 +2652,25 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996664/Leonida_Keys_05.jpg",
       "text_message_id": 687
+    },
+    "825b56acd0": {
+      "id": "825b56acd0",
+      "created": 1795784956.1947956,
+      "headline": "Ex-Gran Turismo Pro Reportedly Helped Tune GTA 6 Driving",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZlFEa3JxU2lXRE1seVRtXzh5NlVtX3ZZc242M3lsNDQ0RXcxQzl5b05qT3Fxa1h5SXlDTFJSNldtdXZmU0s0THliaUwyYVJqNHc5d2RBSTdNUGdIQTZhNXdxSTdwNFl2RVE5b0I2T29LVk1zS1Bxel9PcFJxS3BPcGdXWU9ST0RuSWNON254dTJhbkJWX1gyazh2RmZpSm44RHRrdFIxbXlLVzF2MHZib3F3b0NYMFc3R05RNUJtZG8tdm1LODFWSHdIaXV1RzQ?oc=5",
+      "source": "IGN Southeast Asia",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795784955/gta-bot/825b56acd0-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795784955/gta-bot/825b56acd0-0.jpg"
+      ],
+      "full_caption": "Driving fans, this one's for you 🏎️\n\nIGN Southeast Asia reports that a former Gran Turismo World Series competitor helped tune the car physics in GTA 6. Details on the exact role haven't been spelled out in what we've seen, so we're treating this as a report for now. Still, it's an interesting sign of the attention going into how vehicles feel behind the wheel.\n\nWould you rather have realistic handling or arcade-style fun in Leonida?\n\nSource: IGN Southeast Asia\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTANews #GranTurismo #CarPhysics #Gaming #GamingNews",
+      "alt_text": "News graphic with the headline that a former Gran Turismo World Series competitor reportedly helped tune GTA 6 car physics.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996681/Jason_Duval_10.jpg",
+      "text_message_id": 689
     }
   },
   "queue": [],
@@ -3279,12 +3315,12 @@
     1795759796.2218812,
     1795763343.93318,
     1795777782.371236,
-    1795777792.2870758
+    1795777792.2870758,
+    1795784958.8816707
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996690/Real_Dimez_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996743/Jason_and_Lucia_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996687/Jason_Duval_16.jpg",
@@ -3313,6 +3349,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996607/Port_Gellhorn_03.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996704/Cal_Hampton_03.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996664/Leonida_Keys_05.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996664/Leonida_Keys_05.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996681/Jason_Duval_10.jpg"
   ]
 }
