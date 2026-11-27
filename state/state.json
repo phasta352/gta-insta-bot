@@ -1,5 +1,5 @@
 {
-  "telegram_offset": 889593715,
+  "telegram_offset": 889593716,
   "paused": false,
   "force_scout": false,
   "last_scout": 1795766916.474968,
@@ -2555,46 +2555,6 @@
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996677/Jason_Duval_13.jpg",
       "text_message_id": 656
     },
-    "ac7c4b7597": {
-      "id": "ac7c4b7597",
-      "created": 1795712990.7183075,
-      "headline": "GTA 6 hides two secret radio stations behind posters",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712962/gta-bot/ac7c4b7597-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712962/gta-bot/ac7c4b7597-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712963/gta-bot/ac7c4b7597-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712963/gta-bot/ac7c4b7597-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712965/gta-bot/ac7c4b7597-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712965/gta-bot/ac7c4b7597-4.jpg"
-      ],
-      "full_caption": "Two GTA 6 radio stations are easy to miss entirely. 📻\n\nThe Vault and The Sniper of LaPerle only unlock when you scan specific posters with the WAiNK app. The Vault plays club and dance music, while The Sniper of LaPerle is an on-demand playlist from Kodak Black. Swipe for where to find every poster.\n\nHave you unlocked both yet, or are you still hunting posters?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTATips #GTAGuide #KodakBlack #GamingNews",
-      "alt_text": "Graphic with the headline about two secret radio stations in GTA 6 and how to unlock them by scanning posters.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795712989/gta-bot/ac7c4b7597-reel.mp4",
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Two hidden radio stations",
-          "text": "GTA 6 has two secret stations you can easily miss: The Vault and The Sniper of LaPerle. Both unlock by scanning posters around the world with the WAiNK app."
-        },
-        {
-          "title": "Unlock The Vault",
-          "text": "Visit The Vault club in central Vice City, a block west of Nine1Nine. Go up the first flight of stairs and scan The Vault poster to unlock club and dance music in your car."
-        },
-        {
-          "title": "The Sniper of LaPerle",
-          "text": "This on-demand playlist comes from Kodak Black. You need to find and scan four posters. Three are in the LaPerle district: Drip Drops, Twa Ponya Tattoo and Aunt Zola's Soul Food."
-        },
-        {
-          "title": "Where to look for the posters",
-          "text": "Drip Drops: front desk. Twa Ponya Tattoo: small table right of the door. Aunt Zola's: left wall. The fourth is in the Jack of Hearts strip club and needs some story progress to reach."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
-      "text_message_id": 663
-    },
     "28800f889e": {
       "id": "28800f889e",
       "created": 1795759772.5233648,
@@ -2674,7 +2634,51 @@
       "text_message_id": 676
     }
   },
-  "queue": [],
+  "queue": [
+    {
+      "id": "ac7c4b7597",
+      "created": 1795712990.7183075,
+      "headline": "GTA 6 hides two secret radio stations behind posters",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
+      "source": "VGC",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712962/gta-bot/ac7c4b7597-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712962/gta-bot/ac7c4b7597-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712963/gta-bot/ac7c4b7597-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712963/gta-bot/ac7c4b7597-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712965/gta-bot/ac7c4b7597-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795712965/gta-bot/ac7c4b7597-4.jpg"
+      ],
+      "full_caption": "Two GTA 6 radio stations are easy to miss entirely. 📻\n\nThe Vault and The Sniper of LaPerle only unlock when you scan specific posters with the WAiNK app. The Vault plays club and dance music, while The Sniper of LaPerle is an on-demand playlist from Kodak Black. Swipe for where to find every poster.\n\nHave you unlocked both yet, or are you still hunting posters?\n\nSource: VGC\n\n#GTA6 #GrandTheftAutoVI #GTAVI #ViceCity #Leonida #RockstarGames #GTATips #GTAGuide #KodakBlack #GamingNews",
+      "alt_text": "Graphic with the headline about two secret radio stations in GTA 6 and how to unlock them by scanning posters.",
+      "score": 8,
+      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795712989/gta-bot/ac7c4b7597-reel.mp4",
+      "category": "GUIDE",
+      "slides": [
+        {
+          "title": "Two hidden radio stations",
+          "text": "GTA 6 has two secret stations you can easily miss: The Vault and The Sniper of LaPerle. Both unlock by scanning posters around the world with the WAiNK app."
+        },
+        {
+          "title": "Unlock The Vault",
+          "text": "Visit The Vault club in central Vice City, a block west of Nine1Nine. Go up the first flight of stairs and scan The Vault poster to unlock club and dance music in your car."
+        },
+        {
+          "title": "The Sniper of LaPerle",
+          "text": "This on-demand playlist comes from Kodak Black. You need to find and scan four posters. Three are in the LaPerle district: Drip Drops, Twa Ponya Tattoo and Aunt Zola's Soul Food."
+        },
+        {
+          "title": "Where to look for the posters",
+          "text": "Drip Drops: front desk. Twa Ponya Tattoo: small table right of the door. Aunt Zola's: left wall. The fourth is in the Jack of Hearts strip club and needs some story progress to reach."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996623/Vice_City_06.jpg",
+      "text_message_id": 663,
+      "kind": "reel",
+      "post_now": false,
+      "approved_at": 1795767148.1697466
+    }
+  ],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -3270,10 +3274,17 @@
       "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record",
       "at": 1795759744.5763896,
       "media_id": "18141464479736220"
+    },
+    {
+      "id": "ac7c4b7597",
+      "headline": "GTA 6 hides two secret radio stations behind posters",
+      "kind": "carousel",
+      "url": "https://www.videogameschronicle.com/guide/gta-6-secret-radio-stations-unlock/",
+      "at": 1795767216.0660539,
+      "media_id": "17919413319539408"
     }
   ],
   "drafts_sent": [
-    1795594155.6781394,
     1795601443.4675686,
     1795601454.9033182,
     1795604962.0031707,
