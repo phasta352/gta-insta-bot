@@ -2,7 +2,7 @@
   "telegram_offset": 889593715,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795763312.065187,
+  "last_scout": 1795766916.474968,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2270,49 +2270,15 @@
     "849ca802110ec499": 1795763321.1937075,
     "a579dc4cf1715937": 1795763321.1937075,
     "f569a23dfe22026a": 1795763321.1937075,
-    "90d921c4c08fdc66": 1795763321.1937075
+    "90d921c4c08fdc66": 1795763321.1937075,
+    "d4a2b1bdecdcfc95": 1795766924.9886756,
+    "82ef5b7cc192c84f": 1795766924.9886756,
+    "3c99b86bb0f2b6f3": 1795766924.9886756,
+    "ee72c013cfba1522": 1795766924.9886756,
+    "f4bcf379b4654e1d": 1795766924.9886756,
+    "ce67681c8c60ee0f": 1795766924.9886756
   },
   "drafts": {
-    "93abd9950a": {
-      "id": "93abd9950a",
-      "created": 1795678840.2375565,
-      "headline": "GTA 6 guide: Free garage and pink Growler in LaPerle",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-aunties-place-location-laperle/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678836/gta-bot/93abd9950a-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678836/gta-bot/93abd9950a-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678837/gta-bot/93abd9950a-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678838/gta-bot/93abd9950a-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678839/gta-bot/93abd9950a-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795678839/gta-bot/93abd9950a-4.jpg"
-      ],
-      "full_caption": "A free garage and a hot pink supercar are waiting in LaPerle 🔑\n\nThe spot is Auntie's Place, a background restaurant that never shows on your map. Find the white building behind it, punch the code into the keypad by the garage door, and the Del Rio Boulevard Garage is yours, with a Pfister Growler inside. Keep the car, or sell it and use the garage for another ride.\n\nSwipe for the exact directions. Will you keep the pink Growler or sell it?\n\nSource: VGC\n\n#GTA6 #GrandTheftAuto6 #GTAVI #ViceCity #LaPerle #Leonida #GTA6Guide #GTA6Tips #RockstarGames #Gaming",
-      "alt_text": "Graphic with the headline about a free garage and hot pink Pfister Growler hidden in LaPerle, Vice City, in Grand Theft Auto 6.",
-      "score": 6,
-      "reel_url": null,
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "Where is Auntie's Place?",
-          "text": "It's in LaPerle, a Vice City district, and it isn't marked on your map even once you've found it. Don't confuse it with Aunt Zola's Soul Food, which is a different restaurant."
-        },
-        {
-          "title": "How to spot it",
-          "text": "Auntie's Place is a background restaurant you can't enter. Look across the road, to the East, from Twa Ponya Tattoo and behind Aline's Thrift Store. It's a block West of Tyrone's place."
-        },
-        {
-          "title": "The garage and the code",
-          "text": "Behind the restaurant is a white building with a locked garage door. Enter 92665 on the keypad next to it to unlock the Del Rio Boulevard Garage for free."
-        },
-        {
-          "title": "What you get",
-          "text": "Inside is a hot pink Pfister Growler. Keep it, or sell it and use the garage to store an extra vehicle."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
-      "text_message_id": 604
-    },
     "e3b1ae20e0": {
       "id": "e3b1ae20e0",
       "created": 1795686378.9428,
