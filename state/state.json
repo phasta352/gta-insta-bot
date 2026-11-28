@@ -2,7 +2,7 @@
   "telegram_offset": 889593718,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795810152.8727977,
+  "last_scout": 1795846146.2744088,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2471,7 +2471,43 @@
     "e40076418dafce8e": 1795810163.6363862,
     "fa6214f1ab57276d": 1795810163.6363862,
     "4448bb3296d2918b": 1795810163.6363862,
-    "3247ab874eaea2a4": 1795810163.6363862
+    "3247ab874eaea2a4": 1795810163.6363862,
+    "9db330819875a342": 1795846156.8840134,
+    "5139a76f963d9850": 1795846156.8840134,
+    "ca891576efc79df8": 1795846156.8840134,
+    "8d4bcce3ee0dfa8b": 1795846156.8840134,
+    "d0b32a03f5e020ab": 1795846156.8840134,
+    "461f1c5552e02a88": 1795846156.8840134,
+    "c3414883e0bcade0": 1795846156.8840134,
+    "4eefe270cf24802d": 1795846156.8840134,
+    "231116d985290578": 1795846156.8840134,
+    "454536cdd02c538a": 1795846156.8840134,
+    "28f14250131fe1d8": 1795846156.8840134,
+    "8d2099cbebcdeed9": 1795846156.8840134,
+    "51f3dc1a305ca7ce": 1795846156.8840134,
+    "12e98fffd88c5d04": 1795846156.8840134,
+    "a7c5f1912180463b": 1795846156.8840134,
+    "9dfb305044d83c18": 1795846156.8840134,
+    "72831e7ba0a74660": 1795846156.8840134,
+    "217adb8aed4a413b": 1795846156.8840134,
+    "57428a9a7fb32b4b": 1795846156.8840134,
+    "235109734b39e3d3": 1795846156.8840134,
+    "7cd13900728552a9": 1795846156.8840134,
+    "1b61b5ff271d9256": 1795846156.8840134,
+    "b8bbba8fb3f9778c": 1795846156.8840134,
+    "c06a497b9de939fb": 1795846156.8840134,
+    "d3136da911c167ae": 1795846156.8840134,
+    "3e5b108ae8d974c9": 1795846156.8840134,
+    "a1f463a208e98305": 1795846156.8840134,
+    "7a93b9f2ba7cfeed": 1795846156.8840134,
+    "3aaf0fb1ba4d3056": 1795846156.8840134,
+    "4b23ce645e84d716": 1795846156.8840134,
+    "ed0f83ba885e01ad": 1795846156.8840134,
+    "cbd0a9d655d00274": 1795846156.8840134,
+    "9520035a8de1b4f9": 1795846156.8840134,
+    "78a4dcd20caaac7a": 1795846156.8840134,
+    "5ef3721d4d31985a": 1795846156.8840134,
+    "e59221c51a623164": 1795846156.8840134
   },
   "drafts": {
     "28800f889e": {
@@ -2848,51 +2884,7 @@
       "text_message_id": 735
     }
   },
-  "queue": [
-    {
-      "id": "47aea460f2",
-      "created": 1795806561.4327457,
-      "headline": "GTA 6 tricks you probably missed in Leonida",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-things-you-missed/",
-      "source": "GamesRadar+",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806534/gta-bot/47aea460f2-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806534/gta-bot/47aea460f2-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806535/gta-bot/47aea460f2-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806536/gta-bot/47aea460f2-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806536/gta-bot/47aea460f2-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795806537/gta-bot/47aea460f2-4.jpg"
-      ],
-      "full_caption": "Think you've seen everything in Leonida? Think again. 👀\n\nGamesRadar+ rounded up 25 easily missed GTA 6 details, from handy driving controls to loot spots and small NPC interactions. Swipe for a few of the most useful ones, and read the full list at the source for the rest.\n\nWhich of these did you already know, and what's the best hidden detail you've found yourself?\n\nSource: GamesRadar+\n\n#GTA6 #GrandTheftAutoVI #GTAVI #Leonida #RockstarGames #GTATips #GTA6Tips #GamingTips #LuciaAndJason #GTACommunity",
-      "alt_text": "Graphic with the headline about GTA 6 tricks players probably missed, in The Leonida Daily's tips and tricks style.",
-      "score": 8,
-      "reel_url": "https://res.cloudinary.com/nnmxf7gb/video/upload/v1795806559/gta-bot/47aea460f2-reel.mp4",
-      "category": "TIPS & TRICKS",
-      "slides": [
-        {
-          "title": "Keep the engine running",
-          "text": "Double-tap Triangle/Y to leave a vehicle with the engine still on, ready for a quick getaway. On a boat, the same move lets you walk the deck while it holds its course and speed."
-        },
-        {
-          "title": "Hide from cops, signal to others",
-          "text": "Hold Circle/B in a parked vehicle to duck out of sight, though cops still spot you if the vehicle has Heat. Tapping D-pad Left/Right sets a turn signal, so other drivers are more likely to let you through."
-        },
-        {
-          "title": "Make friends with pets",
-          "text": "Convenience store cashiers sell packs of 10 pet treats. Feed cats and dogs, or toss a treat to a dog from a distance, which can stop it barking and giving you away or attacking you."
-        },
-        {
-          "title": "Hunt for loot and unique gear",
-          "text": "Enterable buildings show as darker blue on the map and can hold cash, weapons and collectibles. Gold-icon weapons are unique and can be reclaimed from your weapon lockers. Yard sales offer cheap, unique outfits."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996697/Jason_Duval_17.jpg",
-      "text_message_id": 720,
-      "kind": "reel",
-      "post_now": false,
-      "approved_at": 1795806673.6160061
-    }
-  ],
+  "queue": [],
   "published": [
     {
       "id": "cbc32ce4fc",
@@ -3528,6 +3520,14 @@
       "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-things-you-missed/",
       "at": 1795815598.9288254,
       "media_id": "18135603322767273"
+    },
+    {
+      "id": "47aea460f2",
+      "headline": "GTA 6 tricks you probably missed in Leonida",
+      "kind": "reel",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-things-you-missed/",
+      "at": 1795846144.3824873,
+      "media_id": "18128372081286411"
     }
   ],
   "drafts_sent": [
