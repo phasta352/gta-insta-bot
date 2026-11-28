@@ -2,7 +2,7 @@
   "telegram_offset": 889593718,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795864115.0936825,
+  "last_scout": 1795867738.2047102,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2536,7 +2536,12 @@
     "9fa83bbedabcfaf0": 1795864122.4779127,
     "d990ebed1672bb91": 1795864122.4779127,
     "ee44d064697331c8": 1795864122.4779127,
-    "c9b62cfce4727b66": 1795864122.4779127
+    "c9b62cfce4727b66": 1795864122.4779127,
+    "0ed0e19d5e1f7879": 1795867744.8903763,
+    "cff44295d8c9c9ae": 1795867744.8903763,
+    "c235063a27f8f1cd": 1795867744.8903763,
+    "1c37fa4ab5315ee7": 1795867744.8903763,
+    "c62eb771b00611ab": 1795867744.8903763
   },
   "drafts": {
     "825b56acd0": {
@@ -2812,6 +2817,46 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
       "text_message_id": 741
+    },
+    "4fb0bc88e0": {
+      "id": "4fb0bc88e0",
+      "created": 1795867767.7716758,
+      "headline": "Even Rockstar devs felt GTA 6 day would never come",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/even-gta-6-devs-felt-like-the-day-would-never-come-that-it-launches-rockstars-rob-nelson-says-it-feels-surreal/",
+      "source": "GamesRadar+",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795867764/gta-bot/4fb0bc88e0-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795867764/gta-bot/4fb0bc88e0-0.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795867765/gta-bot/4fb0bc88e0-1.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795867766/gta-bot/4fb0bc88e0-2.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795867766/gta-bot/4fb0bc88e0-3.jpg",
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795867767/gta-bot/4fb0bc88e0-4.jpg"
+      ],
+      "full_caption": "Even the people building GTA 6 weren't sure launch day would ever arrive. 🎮 Rockstar co-studio head Rob Nelson told GamesRadar+ that seeing the game roll out feels surreal, and that many on the team felt the day \"would never come.\" He also admitted to nerves and a bit of disbelief. Take-Two says the game sold 32.5 million copies before launch. How did the wait feel for you?\n\nSource: GamesRadar+\n\n#GTA6 #GTAVI #GrandTheftAutoVI #Rockstar #RockstarGames #RobNelson #TakeTwo #Leonida #GamingNews #VideoGames",
+      "alt_text": "News graphic with the headline about Rockstar developers saying GTA 6 launch day felt like it would never come.",
+      "score": 6,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [
+        {
+          "title": "Rockstar felt the wait too",
+          "text": "Co-studio head and lead developer Rob Nelson says many at Rockstar felt launch day \"would never come.\" He calls seeing the game roll out worldwide surreal."
+        },
+        {
+          "title": "Relief, nerves and disbelief",
+          "text": "Nelson describes the feeling as a relief, but also a nervous one. The team is in some disbelief and hopes it feels real once people are playing and talking about the game."
+        },
+        {
+          "title": "A very long gap",
+          "text": "It's been 13 years since GTA 5 and eight since Red Dead Redemption 2. Nelson says it's been a while since the team shipped a game, and this one took a good chunk of time to figure out."
+        },
+        {
+          "title": "The launch numbers",
+          "text": "Take-Two announced 32.5 million copies sold before launch and almost $4 billion earned by the end of day one. Updated figures haven't been revealed yet."
+        }
+      ],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996653/Vice_City_26.jpg",
+      "text_message_id": 747
     }
   },
   "queue": [],
@@ -3485,12 +3530,12 @@
     1795810176.4847224,
     1795810208.0821538,
     1795856941.9207914,
-    1795864142.0383506
+    1795864142.0383506,
+    1795867769.4864771
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996733/Jason_and_Lucia_14.jpg",
@@ -3519,6 +3564,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996615/Mount_Kalaga_National_Park_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996653/Vice_City_26.jpg"
   ]
 }
