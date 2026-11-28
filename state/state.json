@@ -2,7 +2,7 @@
   "telegram_offset": 889593718,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795860537.115861,
+  "last_scout": 1795864115.0936825,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2530,7 +2530,13 @@
     "628d423e2cfdf5bf": 1795856921.7897873,
     "8876b663a7eb8134": 1795856921.7897873,
     "6fa5000b8b66c65d": 1795856921.7897873,
-    "b9e6c69f50e9ba34": 1795856921.7897873
+    "b9e6c69f50e9ba34": 1795856921.7897873,
+    "0180d11e01bb97e0": 1795864122.4779127,
+    "ec03d39a920da9cd": 1795864122.4779127,
+    "9fa83bbedabcfaf0": 1795864122.4779127,
+    "d990ebed1672bb91": 1795864122.4779127,
+    "ee44d064697331c8": 1795864122.4779127,
+    "c9b62cfce4727b66": 1795864122.4779127
   },
   "drafts": {
     "43847e1ca7": {
@@ -2846,6 +2852,25 @@
       "slides": [],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
       "text_message_id": 739
+    },
+    "87cfa5b185": {
+      "id": "87cfa5b185",
+      "created": 1795864140.8957243,
+      "headline": "Players Are Finding an Unexpected Pastime in GTA VI: Birdwatching",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSG9NWWE2U2VnbGM4NlhWV1gzeFpneEQ2U2tEVmJFX1RtNG10X1ZxUHF0UklHMVgxajhwb2hNQ3gzUngxZUstczVnYm5wVlhCSWl0M0xhb09WcVpLaHpIM3QwLUxGVHFvcXJjVC0tVTJ6RERCWFF2VFBWOEhwamZxaWtHV3FZYThDV1lOZGhjRW5QMS1FRDkwY09iM1RGNjhySEZDbjZJZnN2Q1d2WXhLLVhTZ9IBxwFBVV95cUxQRHlLX1NpOGdhaUZfbDFwN2N0Y1JORnFiR2FBSlg4eTZhekpnSzNEeXJoRncwOXBhai1NcUtZQmQ1Q0o2Z0VGT0R2R1pnR0lnRmFJNmJLM2k4bVV4bFc4LWptTUpGMGdMcTdUMmQzWVpEX1Zab1BySXhOMHZoLWE2b3hzVGZWTzhjZ1hDWFlwUVBQdWtOOS1nMTR4U2VGWHdCVlBLUkNYclktV0FPanFZWEFNRzVZMlc1YjdhYUJmQkdkR3dYLTJJ?oc=5",
+      "source": "Cleveland.com",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795864140/gta-bot/87cfa5b185-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795864140/gta-bot/87cfa5b185-0.jpg"
+      ],
+      "full_caption": "Forget the heists for a minute, because some players are kicking back with birdwatching in GTA VI. 🐦\n\nAccording to a Cleveland.com report, it's an unexpected pastime that players are discovering in the game. It's a good reminder that Leonida's world has plenty to see beyond the chaos, and the community is finding its own ways to enjoy it.\n\nHave you spotted any wildlife worth stopping for? Tell us where in the comments!\n\nSource: Cleveland.com\n\n#GTAVI #GTA6 #GrandTheftAutoVI #RockstarGames #Leonida #GTACommunity #Birdwatching #GamingNews #OpenWorld #HiddenGems",
+      "alt_text": "News graphic with the headline about players discovering birdwatching as an unexpected pastime in GTA VI.",
+      "score": 7,
+      "reel_url": null,
+      "category": "NEWS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg",
+      "text_message_id": 741
     }
   },
   "queue": [],
@@ -3520,18 +3545,12 @@
     1795806591.4311683,
     1795810176.4847224,
     1795810208.0821538,
-    1795856941.9207914
+    1795856941.9207914,
+    1795864142.0383506
   ],
-  "feed_errors": {
-    "Google News: GTA 6": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GTA+6+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-    "Google News: Grand Theft Auto VI": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Grand+Theft+Auto+VI+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-    "Google News: GTA 6 update OR patch": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GTA+6+update+OR+patch+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-    "Google News: GTA 6 tips OR guide OR how to": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GTA+6+tips+OR+guide+OR+how+to+when%3A1d&hl=en-US&gl=US&ceid=US:en",
-    "Google News: GTA Online Rockstar": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GTA+Online+Rockstar+when%3A1d&hl=en-US&gl=US&ceid=US:en"
-  },
+  "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996725/Lucia_Caminos_13.jpg",
@@ -3560,6 +3579,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996615/Mount_Kalaga_National_Park_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996636/Vice_City_20.jpg"
   ]
 }
