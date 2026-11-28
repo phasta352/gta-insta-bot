@@ -2510,65 +2510,6 @@
     "e59221c51a623164": 1795846156.8840134
   },
   "drafts": {
-    "28800f889e": {
-      "id": "28800f889e",
-      "created": 1795759772.5233648,
-      "headline": "GTA VI Reportedly Smashes Launch Records With 30M Players",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeHAxLUQ1QWZTQ3hVZ0k0M3NiYUxnTURySDhnOG94aWJ0aF9ybEp5eDdoRVlxaS1xNzd1SXVhX2RxT1FJa0paUFhRdGd2anZhM2hyUFlWd2tKTDlCdDR5NHc2YzJrOUVwSzJvMWVNOWtZTGpIRWRDRkt6VFI2UEl5bE9MSXJONDh6aGVEMGdZQXI3ZlRmd1hnd0NXSU1BZ2JRa29tMXQwMEZqZVV3WlNWUGNrZG1WZThEbldHMF9iQlB4YVRIaDBWZWpjYkM0elpaU1dKTlBKbHhuTTJSQmp6TW9XUzhSV1ky?oc=5",
-      "source": "NewsCord",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759772/gta-bot/28800f889e-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759772/gta-bot/28800f889e-0.jpg"
-      ],
-      "full_caption": "Record-breaking numbers are being reported for Grand Theft Auto VI. 🚨\n\nA NewsCord roundup of five outlets says the game has become the biggest launch ever, with 30 million players and $3.79 billion in sales. Only the headline figures are available so far, and we haven't seen an official statement or a breakdown of how they were counted. We'll update you once the numbers are confirmed.\n\nIf these figures hold up, they would set a new benchmark for the industry. What do you think: does GTA VI deserve the crown? 👑\n\nSource: NewsCord\n\n#GTA6 #GTAVI #GrandTheftAutoVI #RockstarGames #Leonida #ViceCity #GTAOnline #GamingNews #VideoGames #LaunchRecord",
-      "alt_text": "News graphic reading that Grand Theft Auto VI is reportedly the biggest launch ever, with 30 million players and $3.79 billion in sales.",
-      "score": 8,
-      "reel_url": null,
-      "category": "RECORDS",
-      "slides": [],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996612/Mount_Kalaga_National_Park_05.jpg",
-      "text_message_id": 668
-    },
-    "18fce6889f": {
-      "id": "18fce6889f",
-      "created": 1795759794.7570608,
-      "headline": "All 20 Kitty Litter Lab Locations in GTA 6, Plus the Balsero Code",
-      "url": "https://www.videogameschronicle.com/guide/gta-6-kitty-litter-lab-locations/",
-      "source": "VGC",
-      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759791/gta-bot/18fce6889f-0.jpg",
-      "image_urls": [
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759791/gta-bot/18fce6889f-0.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759792/gta-bot/18fce6889f-1.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759792/gta-bot/18fce6889f-2.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759793/gta-bot/18fce6889f-3.jpg",
-        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795759794/gta-bot/18fce6889f-4.jpg"
-      ],
-      "full_caption": "Hunting every Kitty Litter lab in Vice City? Here's your cheat sheet 🔍\n\nVGC has mapped all 20 hidden drug labs and listed how to reach each entrance. The guide also gives the keypad code for the North Balsero Lockup and a quick method for destroying the equipment. Look for purple smoke, Spin On This laundry vans and purple cat graffiti to spot one.\n\nHow many labs have you found so far?\n\nSource: VGC\n\n#GTA6 #GTAVI #GrandTheftAutoVI #ViceCity #Leonida #RockstarGames #GTA6Guide #GTA6Tips #KittyLitter #GamingNews",
-      "alt_text": "Graphic with the headline about all 20 Kitty Litter lab locations and the North Balsero code in GTA 6.",
-      "score": 7,
-      "reel_url": null,
-      "category": "GUIDE",
-      "slides": [
-        {
-          "title": "How to unlock the labs",
-          "text": "The Kitty Litter activity opens up once you progress through Chapter 3 of the story. After that, you're tasked with tracking down the drug labs around Vice City."
-        },
-        {
-          "title": "How to spot a lab",
-          "text": "Watch for purple smoke coming from buildings, Spin On This laundry vans parked outside and purple cat graffiti. Any of these can mean a lab is close by."
-        },
-        {
-          "title": "Where they are",
-          "text": "There are 20 mapped labs. Three sit outside Vice City, just right of the airport, and four are across the river to the west. The rest are spread across the city itself."
-        },
-        {
-          "title": "Code and how to destroy them",
-          "text": "The North Balsero Lockup keypad code is 1999. To clear a lab, deal with the guards, then shoot or blow up the drug-making equipment. A grenade or sticky bomb can speed things up."
-        }
-      ],
-      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996601/Ambrosia_06.jpg",
-      "text_message_id": 674
-    },
     "643ea15ac0": {
       "id": "643ea15ac0",
       "created": 1795763342.9125662,
@@ -3531,8 +3472,6 @@
     }
   ],
   "drafts_sent": [
-    1795673472.785448,
-    1795673516.726161,
     1795678824.5775626,
     1795678842.2972436,
     1795686381.2933478,
