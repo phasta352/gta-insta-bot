@@ -2,7 +2,7 @@
   "telegram_offset": 889593718,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795853317.6337576,
+  "last_scout": 1795856913.6228683,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -2522,7 +2522,15 @@
     "462a2e1f268cc576": 1795853327.1911461,
     "084f2877aa93147c": 1795853327.1911461,
     "a2904bb0515fea5a": 1795853327.1911461,
-    "b843854e43d6ba3b": 1795853327.1911461
+    "b843854e43d6ba3b": 1795853327.1911461,
+    "5023bb56f3c9ae84": 1795856921.7897873,
+    "6d97caa97ff18ed0": 1795856921.7897873,
+    "b53459ebaf7ce83c": 1795856921.7897873,
+    "371eb79e1b8c40f7": 1795856921.7897873,
+    "628d423e2cfdf5bf": 1795856921.7897873,
+    "8876b663a7eb8134": 1795856921.7897873,
+    "6fa5000b8b66c65d": 1795856921.7897873,
+    "b9e6c69f50e9ba34": 1795856921.7897873
   },
   "drafts": {
     "43847e1ca7": {
@@ -2819,6 +2827,25 @@
       ],
       "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
       "text_message_id": 735
+    },
+    "0363a0aa56": {
+      "id": "0363a0aa56",
+      "created": 1795856940.2975729,
+      "headline": "GTA VI Soundtrack Debuts at No. 1 in Australia",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWldWaXNORGpTa0ZvMFMtcHNWdlpvcWJKSnBoZHVoTXRwYnlsTEtMZ3M0RUxSekNpVUMyU3NIQmpDelFFeXRBSEJaUnM4U1VmNXJldURxYWVZT2YyaVQ2Z2g2QVE5eG9jTV9EMjBEYVZNYTRra1FQMUcwLVdMZUYtMDBCdVRfLXJoekpUOXVxa1NDdW9WbHc3cjdnN2RSa2xlVDlaRFVHaFE2YVNaTWdlaVBILTh5Zmx1UEJrYnl6NGxBSV82ellxWkRHYldOcUJaMUJsUDR3?oc=5",
+      "source": "Vermilion County First",
+      "image_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795856939/gta-bot/0363a0aa56-0.jpg",
+      "image_urls": [
+        "https://res.cloudinary.com/nnmxf7gb/image/upload/v1795856939/gta-bot/0363a0aa56-0.jpg"
+      ],
+      "full_caption": "Leonida is making noise Down Under. 🎶\n\nThe Grand Theft Auto VI soundtrack has debuted at No. 1 in Australia, according to Vermilion County First. \"Flower In A Hurricane\" has also reached the Top 5.\n\nIt's a strong chart start for the music of the new game, and it shows how much attention GTA VI is getting beyond gaming.\n\nHave you added the soundtrack to your playlist yet? Tell us your favourite track below.\n\nSource: Vermilion County First\n\n#GTAVI #GTA6 #GrandTheftAuto #RockstarGames #Leonida #ViceCity #GTASoundtrack #FlowerInAHurricane #MusicCharts #GamingNews",
+      "alt_text": "News graphic announcing that the Grand Theft Auto VI soundtrack debuted at number one in Australia, with Flower In A Hurricane in the Top 5.",
+      "score": 6,
+      "reel_url": null,
+      "category": "RECORDS",
+      "slides": [],
+      "background_url": "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg",
+      "text_message_id": 739
     }
   },
   "queue": [],
@@ -3493,12 +3520,12 @@
     1795806565.4269645,
     1795806591.4311683,
     1795810176.4847224,
-    1795810208.0821538
+    1795810208.0821538,
+    1795856941.9207914
   ],
   "feed_errors": {},
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996752/Jason_and_Lucia_19.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996706/Raul_Bautista_01.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996718/Lucia_Caminos_01.jpg",
@@ -3527,6 +3554,7 @@
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996697/Jason_Duval_17.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996606/Port_Gellhorn_04.jpg",
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996615/Mount_Kalaga_National_Park_04.jpg",
-    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg"
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996629/Vice_City_11.jpg",
+    "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996720/Lucia_Caminos_02.jpg"
   ]
 }
