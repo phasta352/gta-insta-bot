@@ -2,7 +2,7 @@
   "telegram_offset": 889593718,
   "paused": false,
   "force_scout": false,
-  "last_scout": 1795856913.6228683,
+  "last_scout": 1795860537.115861,
   "seen": {
     "de8718c3852290ff": 1795001886.2277713,
     "2dab85f8b8703739": 1795001886.2277713,
@@ -3495,7 +3495,6 @@
     }
   ],
   "drafts_sent": [
-    1795686381.2933478,
     1795691358.6597676,
     1795691369.0845857,
     1795695002.4215596,
@@ -3523,7 +3522,13 @@
     1795810208.0821538,
     1795856941.9207914
   ],
-  "feed_errors": {},
+  "feed_errors": {
+    "Google News: GTA 6": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GTA+6+when%3A1d&hl=en-US&gl=US&ceid=US:en",
+    "Google News: Grand Theft Auto VI": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Grand+Theft+Auto+VI+when%3A1d&hl=en-US&gl=US&ceid=US:en",
+    "Google News: GTA 6 update OR patch": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GTA+6+update+OR+patch+when%3A1d&hl=en-US&gl=US&ceid=US:en",
+    "Google News: GTA 6 tips OR guide OR how to": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GTA+6+tips+OR+guide+OR+how+to+when%3A1d&hl=en-US&gl=US&ceid=US:en",
+    "Google News: GTA Online Rockstar": "503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=GTA+Online+Rockstar+when%3A1d&hl=en-US&gl=US&ceid=US:en"
+  },
   "ig_handle": "@the.leonida.daily",
   "recent_backgrounds": [
     "https://res.cloudinary.com/nnmxf7gb/image/upload/v1794996734/Jason_and_Lucia_01.jpg",
